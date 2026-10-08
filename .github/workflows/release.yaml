@@ -52,7 +52,7 @@ jobs:
       # Сертификаты выпускаются только для проверки и в релиз не попадают: якорь пользователь выпускает сам.
       - name: Issue the certificates
         if: steps.cut.outputs.due == 'true'
-        run: go run ./cmd/mz -c config.release.yaml issue
+        run: go run ./cmd/mz -c config.release.yaml issue -insecure
 
       - name: Check them against live hosts
         if: steps.cut.outputs.due == 'true'

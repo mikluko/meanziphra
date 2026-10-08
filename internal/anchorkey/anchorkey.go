@@ -48,9 +48,16 @@ func (s Source) Persistent() bool {
 	return s.Scheme != ""
 }
 
+// ErrDiskKey — ключ в файле запрошен без разрешения держать ключ на диске.
+var ErrDiskKey = errors.New("anchor key file refused: the key would be on disk; pass -insecure to allow it")
+
 // Load возвращает ключ и признак того, что он только что создан. Относительный путь отсчитывается от dir.
+// Ключ в файле, созданный или существующий, загружается только при allowDisk, иначе ErrDiskKey.
 // Отсутствующий файл создаётся с правами 0600; отсутствующая запись op:// — ошибка.
-func Load(s Source, dir string) (crypto.Signer, bool, error) {
+func Load(s Source, dir string, allowDisk bool) (crypto.Signer, bool, error) {
+	if s.Scheme == "file" && !allowDisk {
+		return nil, false, ErrDiskKey
+	}
 	switch s.Scheme {
 	case "":
 		k, err := Generate()

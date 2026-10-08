@@ -35,7 +35,7 @@ jobs:
           go run ./cmd/mz -c config.release.yaml update | tee "$RUNNER_TEMP/update.log"
 
       - name: Issue the certificates as a smoke test
-        run: go run ./cmd/mz -c config.release.yaml issue
+        run: go run ./cmd/mz -c config.release.yaml issue -insecure
 
       - name: Describe the change
         run: |

@@ -2,6 +2,7 @@ package command
 
 import (
 	"crypto/x509"
+	"errors"
 	"fmt"
 	"io"
 	"os"
@@ -9,6 +10,7 @@ import (
 	"slices"
 	"testing"
 
+	"github.com/mikluko/meanziphra/internal/anchorkey"
 	"github.com/mikluko/meanziphra/internal/config"
 	"github.com/mikluko/meanziphra/internal/pki"
 	"github.com/mikluko/meanziphra/internal/pkitest"
@@ -25,6 +27,7 @@ func issueConfig(t *testing.T, key string) *config.Config {
 		Dir:        dir,
 		Out:        "build",
 		Anchor:     config.Anchor{Name: "a", Key: key},
+		Insecure:   true,
 		Roots:      []config.Root{{Name: "r", Cert: "root.pem", SHA256: pki.Fingerprint(ca.Root)}},
 		Categories: []config.Category{{Name: "banks", Root: "r", Permit: []string{"bank.test"}}},
 	}
@@ -203,5 +206,13 @@ func TestIssue_ChunksLargeCategories(t *testing.T) {
 	}
 	if !slices.Equal(got, permit) {
 		t.Error("chunks do not add up to the category")
+	}
+}
+
+func TestIssue_FileKeyNeedsInsecure(t *testing.T) {
+	c := issueConfig(t, "anchor.key")
+	c.Insecure = false
+	if err := Issue(c, io.Discard); !errors.Is(err, anchorkey.ErrDiskKey) {
+		t.Errorf("err = %v, want anchorkey.ErrDiskKey", err)
 	}
 }

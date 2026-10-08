@@ -30,6 +30,8 @@ type Config struct {
 	Dir string `yaml:"-"`
 	// FS — откуда читаются входные файлы конфига: корни, permit_file, шаблоны.
 	FS fs.FS `yaml:"-"`
+	// Insecure разрешает держать ключ якоря в файле.
+	Insecure bool `yaml:"-"`
 }
 
 type Anchor struct {

@@ -2,6 +2,7 @@ package anchorkey
 
 import (
 	"crypto/ecdsa"
+	"errors"
 	"os"
 	"path/filepath"
 	"testing"
@@ -34,7 +35,7 @@ func TestParseSource(t *testing.T) {
 func TestLoad_FileGeneratedThenReused(t *testing.T) {
 	dir := t.TempDir()
 	src := Source{Scheme: "file", Ref: "anchor.key"}
-	k1, created, err := Load(src, dir)
+	k1, created, err := Load(src, dir, true)
 	if err != nil || !created {
 		t.Fatalf("first load: created = %v, err = %v", created, err)
 	}
@@ -45,7 +46,7 @@ func TestLoad_FileGeneratedThenReused(t *testing.T) {
 	if fi.Mode().Perm() != 0o600 {
 		t.Errorf("mode = %v, want 0600", fi.Mode().Perm())
 	}
-	k2, created, err := Load(src, dir)
+	k2, created, err := Load(src, dir, true)
 	if err != nil || created {
 		t.Fatalf("second load: created = %v, err = %v", created, err)
 	}
@@ -55,15 +56,26 @@ func TestLoad_FileGeneratedThenReused(t *testing.T) {
 }
 
 func TestLoad_EphemeralDiffersEachTime(t *testing.T) {
-	k1, _, err := Load(Source{}, "")
+	k1, _, err := Load(Source{}, "", false)
 	if err != nil {
 		t.Fatal(err)
 	}
-	k2, _, err := Load(Source{}, "")
+	k2, _, err := Load(Source{}, "", false)
 	if err != nil {
 		t.Fatal(err)
 	}
 	if k1.Public().(*ecdsa.PublicKey).Equal(k2.Public()) {
 		t.Error("ephemeral keys repeat")
+	}
+}
+
+func TestLoad_FileNeedsAllowDisk(t *testing.T) {
+	dir := t.TempDir()
+	_, _, err := Load(Source{Scheme: "file", Ref: "anchor.key"}, dir, false)
+	if !errors.Is(err, ErrDiskKey) {
+		t.Fatalf("err = %v, want ErrDiskKey", err)
+	}
+	if _, err := os.Stat(filepath.Join(dir, "anchor.key")); !os.IsNotExist(err) {
+		t.Errorf("key file written although disk was refused: %v", err)
 	}
 }

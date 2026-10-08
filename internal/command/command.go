@@ -34,7 +34,7 @@ func Issue(c *config.Config, w io.Writer) error {
 	if err != nil {
 		return err
 	}
-	key, created, err := anchorkey.Load(src, c.Dir)
+	key, created, err := anchorkey.Load(src, c.Dir, c.Insecure)
 	if err != nil {
 		return err
 	}

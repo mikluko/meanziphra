@@ -16,14 +16,15 @@ import (
 	"github.com/mikluko/meanziphra/internal/command"
 	"github.com/mikluko/meanziphra/internal/config"
 	"github.com/mikluko/meanziphra/internal/keychain"
+	"github.com/mikluko/meanziphra/internal/memguard"
 )
 
 const usage = `usage: mz [-c config] command [flags] [args]
 
 commands for users:
-  install [-key ref] [-keychain path] <category>... | all
+  install [-key ref] [-insecure] [-keychain path] <category>... | all
              issue the anchor and crosses on this computer and put them into the keychain
-  bundle  [-key ref] -o dir <category>... | all
+  bundle  [-key ref] [-insecure] -o dir <category>... | all
              issue into dir with install.sh and uninstall.sh to carry to another Mac
   uninstall [-keychain path]
              remove every certificate of this anchor from the keychain
@@ -31,13 +32,15 @@ commands for users:
 commands for maintainers (need -c config.release.yaml):
   fetch      download each root from its url and write it to cert if it matches sha256
   update     read the roots' CT logs, classify new owners (TYPESAFE_API_KEY) and rewrite category permit_files
-  issue      write the anchor and constrained cross-certificates to the out directory
+  issue [-insecure]
+             write the anchor and constrained cross-certificates to the out directory
   check      verify configured hosts are allowed or denied by what issue wrote
   render -tag tag
              write install.sh and uninstall.sh for a release of the binaries in the out directory
 
-Without -c, mz uses the release configuration built into it. -key takes a key file path or an op:// reference;
-without it the anchor key is ephemeral and lives only in memory.
+Without -c, mz uses the release configuration built into it. -key takes an op:// reference, or a key file path
+with -insecure; without it the anchor key is ephemeral and lives only in memory. install, bundle and issue
+refuse to run unless swap is encrypted; -insecure skips that check too.
 
 global flags:
 `
@@ -66,6 +69,7 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 	kc := fl.String("keychain", string(keychain.Default()), "keychain for install and uninstall")
 	out := fl.String("o", "", "bundle output directory")
 	tag := fl.String("tag", "", "release tag written into the scripts by render")
+	insecure := fl.Bool("insecure", false, "allow an anchor key file and skip the swap encryption check")
 	if err := fl.Parse(args); err != nil {
 		return err
 	}
@@ -78,6 +82,15 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 		c.Anchor.Key = *key
 		if err := c.Validate(); err != nil {
 			return err
+		}
+	}
+	c.Insecure = *insecure
+	if err := memguard.NoCoreDumps(); err != nil {
+		return fmt.Errorf("disable core dumps: %w", err)
+	}
+	if handlesKey[cmd] && !*insecure {
+		if err := memguard.CheckSwap(); err != nil {
+			return fmt.Errorf("%w; the anchor key could reach the disk through swap, pass -insecure to run anyway", err)
 		}
 	}
 	ctx := context.Background()
@@ -118,6 +131,9 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 	}
 	return fmt.Errorf("unknown command %q", cmd)
 }
+
+// handlesKey — команды, которые создают или загружают ключ якоря.
+var handlesKey = map[string]bool{"install": true, "bundle": true, "issue": true}
 
 // load читает конфиг из cfgPath, а при пустом — встроенный конфиг релиза.
 func load(cfgPath string) (*config.Config, error) {
