@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-10-08
+
 ### Added
 
 - Релиз снова публикует готовые бандлы со всеми категориями: `meanziphra-macos.zip`, `meanziphra-linux.zip` и `meanziphra.mobileconfig`.
@@ -81,7 +83,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Релиз публикует `anchor.crt` и `cat-<категория>.crt`, выпущенные с эфемерным ключом, с аттестацией сборки.
 - `config.example.yaml` описывает все поля конфига.
 
-[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.4.0...HEAD
+[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.5.0...HEAD
+[0.5.0]: https://github.com/mikluko/meanziphra/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/mikluko/meanziphra/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/mikluko/meanziphra/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/mikluko/meanziphra/compare/v0.2.0%2B20261008...v0.2.1
