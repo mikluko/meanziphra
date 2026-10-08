@@ -3,5 +3,13 @@
   "extends": ["config:recommended"],
   "labels": ["bot"],
   "automerge": false,
-  "postUpdateOptions": ["gomodTidy"]
+  "postUpdateOptions": ["gomodTidy"],
+  "osvVulnerabilityAlerts": true,
+  "packageRules": [
+    {
+      "matchManagers": ["gomod"],
+      "matchDepTypes": ["indirect"],
+      "enabled": true
+    }
+  ]
 }
