@@ -1,8 +1,7 @@
 name: Release
 
-# Релиз режется, когда у новейшей версии в CHANGELOG.md ещё нет тега. Тег — vA.B.C+YYYYMMDD: версия
-# из CHANGELOG.md и дата, на которую выпущены списки доменов. action-changelog сравнивает версии без build
-# metadata, поэтому v0.1.0+20261009 считается выпуском 0.1.0.
+# Релиз режется, когда у новейшей версии в CHANGELOG.md ещё нет тега vA.B.C. Изменение входных данных — тоже
+# изменение кода: агент релизов поднимает на нём patch-версию.
 # Тег и релиз создаются в одном workflow, потому что тег, запушенный с GITHUB_TOKEN, не запускает другие workflow.
 on:
   push:
@@ -41,18 +40,10 @@ jobs:
             echo "nothing to cut: valid=$VALID already-tagged=$TAGGED prerelease=$PRERELEASE version=${VERSION:-none}"
             exit 0
           fi
-          day=$(date -u +%Y-%m-%d)
-          date=$(echo "$day" | tr -d -)
-          tag="v$VERSION+$date"
-          n=1
-          while git rev-parse -q --verify "refs/tags/$tag" >/dev/null; do
-            n=$((n + 1))
-            tag="v$VERSION+$date.$n"
-          done
           {
             echo "due=true"
-            echo "tag=$tag"
-            echo "date=$day"
+            echo "tag=v$VERSION"
+            echo "date=$(date -u +%Y-%m-%d)"
           } >>"$GITHUB_OUTPUT"
 
       - if: steps.cut.outputs.due == 'true'
