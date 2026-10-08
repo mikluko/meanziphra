@@ -22,6 +22,9 @@ jobs:
       - uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
+      # mz отказывается работать с ключом при нешифрованной подкачке, а у раннера она — /swapfile на ext4.
+      - name: Turn swap off
+        run: sudo swapoff -a
 
       - name: Read the changelog
         id: changelog
@@ -52,7 +55,7 @@ jobs:
       # Сертификаты здесь выпускаются только для проверки.
       - name: Issue the certificates
         if: steps.cut.outputs.due == 'true'
-        run: go run ./cmd/mz -c config.release.yaml issue -insecure
+        run: go run ./cmd/mz -c config.release.yaml issue
 
       - name: Check them against live hosts
         if: steps.cut.outputs.due == 'true'
@@ -75,14 +78,13 @@ jobs:
           TAG: ${{ steps.cut.outputs.tag }}
         run: go run ./cmd/mz -c config.release.yaml render -tag "$TAG"
 
-      # Готовые бандлы выпускаются эфемерным ключом раннера: -key не задан, а -insecure только снимает
-      # проверку подкачки, которую на Linux-раннере выполнить нечем. У каждого бандла свой якорь.
+      # Готовые бандлы выпускаются эфемерным ключом раннера: -key не задан. У каждого бандла свой якорь.
       - name: Build the prebuilt bundles
         if: steps.cut.outputs.due == 'true'
         run: |
-          go run ./cmd/mz bundle -insecure -target macos -o build/meanziphra-macos all
-          go run ./cmd/mz bundle -insecure -target linux -o build/meanziphra-linux all
-          go run ./cmd/mz bundle -insecure -target ios -o build/meanziphra-ios all
+          go run ./cmd/mz bundle -target macos -o build/meanziphra-macos all
+          go run ./cmd/mz bundle -target linux -o build/meanziphra-linux all
+          go run ./cmd/mz bundle -target ios -o build/meanziphra-ios all
           cd build
           zip -qr meanziphra-macos.zip meanziphra-macos
           zip -qr meanziphra-linux.zip meanziphra-linux

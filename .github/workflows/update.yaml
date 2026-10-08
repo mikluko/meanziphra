@@ -27,6 +27,9 @@ jobs:
       - uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
+      # mz отказывается работать с ключом при нешифрованной подкачке, а у раннера она — /swapfile на ext4.
+      - name: Turn swap off
+        run: sudo swapoff -a
 
       - name: Update the domain lists
         env:
@@ -35,7 +38,7 @@ jobs:
           go run ./cmd/mz -c config.release.yaml update | tee "$RUNNER_TEMP/update.log"
 
       - name: Issue the certificates as a smoke test
-        run: go run ./cmd/mz -c config.release.yaml issue -insecure
+        run: go run ./cmd/mz -c config.release.yaml issue
 
       - name: Describe the change
         run: |

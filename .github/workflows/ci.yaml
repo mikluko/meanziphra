@@ -16,13 +16,16 @@ jobs:
       - uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
+      # mz отказывается работать с ключом при нешифрованной подкачке, а у раннера она — /swapfile на ext4.
+      - name: Turn swap off
+        run: sudo swapoff -a
       - run: go vet ./...
       - run: go test ./...
-      - run: go run ./cmd/mz -c config.release.yaml issue -insecure
+      - run: go run ./cmd/mz -c config.release.yaml issue
       - run: make binaries
       - run: go run ./cmd/mz -c config.release.yaml render -tag v0.0.0
-      - run: go run ./cmd/mz bundle -insecure -o build/bundle banks
-      - run: go run ./cmd/mz bundle -insecure -target linux -o build/bundle-linux banks
+      - run: go run ./cmd/mz bundle -o build/bundle banks
+      - run: go run ./cmd/mz bundle -target linux -o build/bundle-linux banks
       - run: shellcheck -s bash build/*.sh build/bundle/*.sh build/bundle-linux/*.sh
       - uses: golangci/golangci-lint-action@v9
 

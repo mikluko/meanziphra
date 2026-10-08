@@ -35,6 +35,9 @@ jobs:
       - uses: actions/setup-go@v7
         with:
           go-version-file: go.mod
+      # mz отказывается работать с ключом при нешифрованной подкачке, а у раннера она — /swapfile на ext4.
+      - name: Turn swap off
+        run: sudo swapoff -a
       - name: Identify as the app
         env:
           GH_TOKEN: ${{ steps.app.outputs.token }}
