@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-10-08
+
 ### Added
 
 - Команды `fetch`, `update`, `issue`, `check`, `install` и `uninstall`.
@@ -18,5 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Ключ якоря задаётся в `anchor.key` путём к файлу, ссылкой `file://` или `op://`; без `anchor.key` ключ эфемерный.
 - Релиз публикует `anchor.crt` и `cat-<категория>.crt`, выпущенные с эфемерным ключом, с аттестацией сборки.
 - `config.example.yaml` описывает все поля конфига.
+- Список `banks` пополнен 1 доменом по данным журналов Certificate Transparency; остальные категории без изменений.
 
-[Unreleased]: https://github.com/mikluko/meanziphra/commits/main
+[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.1.0+20261008...HEAD
+[0.1.0]: https://github.com/mikluko/meanziphra/commits/v0.1.0+20261008
