@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-10-08
+
+### Security
+
+- Обновлён модуль `golang.org/x/crypto` до v0.56.0, закрывающий уязвимости CVE-2026-46597 и CVE-2026-39828.
+
 ## [0.1.0] - 2026-10-08
 
 ### Changed
@@ -26,4 +32,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `config.example.yaml` описывает все поля конфига.
 
 [Unreleased]: https://github.com/mikluko/meanziphra/commits/main
+[0.1.1]: https://github.com/mikluko/meanziphra/releases/tag/v0.1.1+20261008
 [0.1.0]: https://github.com/mikluko/meanziphra/releases/tag/v0.1.0+20261008
