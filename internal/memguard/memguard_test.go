@@ -26,14 +26,20 @@ func TestSwapEncrypted(t *testing.T) {
 	}
 }
 
-// На macOS подкачка шифруется всегда; на других ОС CheckSwap обязан отказать.
+// На macOS подкачка шифруется всегда; в Linux ответ зависит от машины; на прочих ОС CheckSwap обязан отказать.
 func TestCheckSwap(t *testing.T) {
 	err := CheckSwap()
-	if runtime.GOOS == "darwin" && err != nil {
-		t.Errorf("CheckSwap on darwin: %v", err)
-	}
-	if runtime.GOOS != "darwin" && err == nil {
-		t.Error("CheckSwap passed where it cannot verify anything")
+	switch runtime.GOOS {
+	case "darwin":
+		if err != nil {
+			t.Errorf("CheckSwap on darwin: %v", err)
+		}
+	case "linux":
+		t.Logf("CheckSwap on this linux host: %v", err)
+	default:
+		if err == nil {
+			t.Error("CheckSwap passed where it cannot verify anything")
+		}
 	}
 }
 

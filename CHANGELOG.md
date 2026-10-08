@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Security
 
-- `mz install`, `mz bundle` и `mz issue` не запускаются, если подкачка не шифруется, и запрещают дамп памяти при падении.
+- `mz install`, `mz bundle` и `mz issue` не запускаются, если подкачка не шифруется, и запрещают дамп памяти при падении: в macOS по `vm.swapusage`, в Linux — если каждая подкачка лежит в zram или на dm-crypt.
 - **Breaking:** ключ якоря в файле (`-key <путь>` или `anchor.key`) принимается только с флагом `-insecure`, который также отключает проверку подкачки; `op://` разрешён как прежде.
 
 ### Fixed
