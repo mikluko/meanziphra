@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11041,
+    "https://27.ctlog.digital.gov.ru/2027/": 11043,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 11539
+    "https://ctlog2027.mail.ru/nca2027/": 11543
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -934,7 +934,7 @@
       "not_after": "2027-06-22"
     },
     "58.rospotrebnadzor.ru": {
-      "not_after": "2026-12-08"
+      "not_after": "2027-01-06"
     },
     "58zan.ru": {
       "not_after": "2027-01-28",
@@ -58478,6 +58478,12 @@
       "org": "АО Тандер",
       "inn": "2310031475",
       "ogrn": "1022301598549"
+    },
+    "preprod-mobile.brokerkf.ru": {
+      "not_after": "2027-10-08",
+      "org": "КИТ Финанс (АО)",
+      "inn": "7840060671",
+      "ogrn": "1167847466742"
     },
     "preprod-time-mobile.magnit.ru": {
       "not_after": "2027-07-02",
