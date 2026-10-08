@@ -52,10 +52,11 @@ jobs:
           GH_TOKEN: ${{ steps.app.outputs.token }}
           DRY_RUN: ${{ inputs.dry_run || false }}
           GOOSE_PROVIDER: moonshot
-          GOOSE_MODEL: kimi-k3
+          GOOSE_MODEL: k3
+          # Ключ Kimi Code. Провайдер moonshot говорит по OpenAI-совместимому протоколу, который Kimi Code отдаёт
+          # под /coding; без MOONSHOT_BASE_URL он ходит на api.moonshot.cn.
           MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
-          # Провайдер moonshot по умолчанию ходит на api.moonshot.cn, а ключ выдан международной платформой.
-          MOONSHOT_BASE_URL: https://api.moonshot.ai
+          MOONSHOT_BASE_URL: https://api.kimi.ai/coding
           GOOSE_MODE: auto
           GOOSE_DISABLE_KEYRING: "1"
           GOOSE_TELEMETRY_ENABLED: "false"
