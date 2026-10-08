@@ -19,6 +19,8 @@ jobs:
       - run: go vet ./...
       - run: go test ./...
       - run: go run . issue
+      - run: go run . -tag v0.0.0+ci render
+      - run: shellcheck -s bash build/install.sh build/uninstall.sh
       - uses: golangci/golangci-lint-action@v9
 
   changelog:

@@ -48,20 +48,37 @@ go run . -only banks,gov install
 > уничтожен, вы не можете. Если можете собрать сами, собирайте.
 
 Релизы помечены тегом `vA.B.C+YYYYMMDD`: версия кода и дата, на которую составлены списки доменов.
-[Последний релиз](https://github.com/mikluko/meanziphra/releases/latest) содержит `anchor.crt` и по
-файлу `cat-<категория>.crt` на категорию. Нужен якорь и кросс-сертификаты тех категорий, которые вы
-ставите.
+[Последний релиз](https://github.com/mikluko/meanziphra/releases/latest) содержит `anchor.crt`, по
+файлу `cat-<категория>.crt` на категорию и скрипты `install.sh` и `uninstall.sh`.
 
-Из командной строки, например для банков:
+Установка одной командой, например банков и госсектора:
 
 ```sh
-curl -fLO https://github.com/mikluko/meanziphra/releases/latest/download/anchor.crt
-curl -fLO https://github.com/mikluko/meanziphra/releases/latest/download/cat-banks.crt
-gh attestation verify anchor.crt --repo mikluko/meanziphra
-gh attestation verify cat-banks.crt --repo mikluko/meanziphra
-security add-trusted-cert -r trustRoot -k ~/Library/Keychains/login.keychain-db anchor.crt
-security add-certificates -k ~/Library/Keychains/login.keychain-db cat-banks.crt
+curl -fsSL https://github.com/mikluko/meanziphra/releases/latest/download/install.sh | bash -s -- banks gov
 ```
+
+`install.sh` скачивает файлы своего релиза и сверяет их SHA-256, вписанные в сам скрипт; если
+установлен `gh`, ещё и аттестацию каждого файла. Затем он удаляет прежние сертификаты якоря, ставит
+новый якорь в доверенные (macOS спросит пароль) и добавляет кросс-сертификаты выбранных категорий.
+`all` ставит все категории, запуск без аргументов печатает их список. Конкретный релиз ставится
+скриптом по его тегу: `https://github.com/mikluko/meanziphra/releases/download/<тег>/install.sh`.
+
+Удаление всех сертификатов якоря:
+
+```sh
+curl -fsSL https://github.com/mikluko/meanziphra/releases/latest/download/uninstall.sh | bash
+```
+
+Проверка релиза: скачать его целиком и сверить аттестацию каждого файла.
+
+```sh
+tag=$(gh release view -R mikluko/meanziphra --json tagName --jq .tagName)
+gh release download "$tag" -R mikluko/meanziphra -D "meanziphra-$tag"
+for f in "meanziphra-$tag"/*; do gh attestation verify "$f" -R mikluko/meanziphra; done
+```
+
+Чтобы не запускать непроверенный скрипт, проверьте его тем же способом и запустите из скачанного
+каталога: `bash "meanziphra-$tag/install.sh" banks gov`.
 
 Через Связку ключей:
 
@@ -77,8 +94,8 @@ security add-certificates -k ~/Library/Keychains/login.keychain-db cat-banks.crt
 
 `gh attestation verify` проверяет, что файлы выпустил workflow этого репозитория, и называет коммит.
 По исходникам этого коммита видно, что ключ якоря нигде не сохраняется. Скомпрометированный раннер
-GitHub аттестация не исключает. Перед установкой нового релиза удалите сертификаты прежнего: каждый
-релиз выпускает новый якорь.
+GitHub аттестация не исключает. При ручной установке нового релиза сначала удалите сертификаты
+прежнего: каждый релиз выпускает новый якорь. `install.sh` делает это сам.
 
 ## Проблема
 

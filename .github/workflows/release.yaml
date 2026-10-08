@@ -67,11 +67,19 @@ jobs:
         if: steps.cut.outputs.due == 'true'
         run: go run . check
 
-      - name: Attest the certificates
+      - name: Render the install scripts
+        if: steps.cut.outputs.due == 'true'
+        env:
+          TAG: ${{ steps.cut.outputs.tag }}
+        run: go run . -tag "$TAG" render
+
+      - name: Attest the release files
         if: steps.cut.outputs.due == 'true'
         uses: actions/attest-build-provenance@v4
         with:
-          subject-path: build/*.crt
+          subject-path: |
+            build/*.crt
+            build/*.sh
 
       - name: Cut the tag
         if: steps.cut.outputs.due == 'true'
@@ -93,4 +101,4 @@ jobs:
             printf 'Список доменов на %s.\n\n' "$DATE"
             printf '%s\n' "$NOTES"
           } >"$RUNNER_TEMP/notes.md"
-          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/*.crt
+          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/*.crt build/*.sh
