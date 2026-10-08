@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-08
+
 ### Added
 
 - Релиз публикует `install.sh` и `uninstall.sh`: установка категорий одной командой `curl … | bash -s -- <категория>…` и удаление всех сертификатов якоря.
@@ -36,5 +38,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `config.example.yaml` описывает все поля конфига.
 
 [Unreleased]: https://github.com/mikluko/meanziphra/commits/main
+[0.2.0]: https://github.com/mikluko/meanziphra/releases/tag/v0.2.0+20261008
 [0.1.1]: https://github.com/mikluko/meanziphra/releases/tag/v0.1.1+20261008
 [0.1.0]: https://github.com/mikluko/meanziphra/releases/tag/v0.1.0+20261008
