@@ -3,10 +3,12 @@
 package memguard
 
 import (
-	"fmt"
+	"errors"
 	"runtime"
 )
 
+var errSwapUnverifiable = errors.New("swap encryption cannot be verified on " + runtime.GOOS)
+
 func checkSwap() error {
-	return fmt.Errorf("swap encryption cannot be verified on %s", runtime.GOOS)
+	return errSwapUnverifiable
 }
