@@ -32,6 +32,8 @@ type Config struct {
 	FS fs.FS `yaml:"-"`
 	// Insecure разрешает держать ключ якоря в файле.
 	Insecure bool `yaml:"-"`
+	// Target — для какой системы выпускаются кросс-сертификаты: TargetMacOS или TargetLinux.
+	Target string `yaml:"-"`
 }
 
 type Anchor struct {
@@ -277,10 +279,22 @@ func (c *Config) Path(p string) string {
 	return filepath.Join(c.Dir, p)
 }
 
+const (
+	// TargetMacOS — кросс-сертификаты по категориям: macOS сам выбирает из нескольких на один корень.
+	TargetMacOS = "macos"
+	// TargetLinux — один кросс-сертификат на корень: OpenSSL из нескольких берёт первый и других не пробует.
+	TargetLinux = "linux"
+)
+
 func (c *Config) AnchorPath() string {
 	return filepath.Join(c.Path(c.Out), "anchor.crt")
 }
 
 func (c *Config) CrossPath(cat Category) string {
 	return filepath.Join(c.Path(c.Out), "cat-"+cat.Name+".crt")
+}
+
+// RootCrossPath — файл единственного кросс-сертификата корня r для TargetLinux.
+func (c *Config) RootCrossPath(r Root) string {
+	return filepath.Join(c.Path(c.Out), "cross-"+r.Name+".crt")
 }

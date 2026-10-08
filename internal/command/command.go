@@ -3,6 +3,7 @@ package command
 
 import (
 	"context"
+	"crypto"
 	"crypto/x509"
 	"errors"
 	"fmt"
@@ -20,6 +21,33 @@ import (
 	"github.com/mikluko/meanziphra/internal/pki"
 	"github.com/mikluko/meanziphra/internal/probe"
 )
+
+// issueRootCrosses выпускает на каждый корень один кросс-сертификат с доменами всех его непустых категорий,
+// без деления на части.
+func issueRootCrosses(c *config.Config, anchor *x509.Certificate, key crypto.Signer, roots map[string]*x509.Certificate, w io.Writer) error {
+	for _, r := range c.Roots {
+		if roots[r.Name] == nil {
+			continue
+		}
+		var permit []string
+		for _, cat := range c.Categories {
+			if cat.Root == r.Name {
+				permit = append(permit, cat.Permit...)
+			}
+		}
+		slices.Sort(permit)
+		permit = slices.Compact(permit)
+		cross, err := pki.CrossSign(anchor, key, roots[r.Name], permit)
+		if err != nil {
+			return fmt.Errorf("root %s: %w", r.Name, err)
+		}
+		if err := pki.WriteCert(c.RootCrossPath(r), cross); err != nil {
+			return err
+		}
+		_, _ = fmt.Fprintf(w, "%s: %d domains in one certificate\n", r.Name, len(permit))
+	}
+	return nil
+}
 
 // maxConstraints — сколько доменов несёт один кросс-сертификат. macOS отвергает сертификат,
 // в name constraints которого больше 1023 записей.
@@ -85,6 +113,9 @@ func Issue(c *config.Config, w io.Writer) error {
 	}
 	if err := pki.WriteCert(c.AnchorPath(), anchor); err != nil {
 		return err
+	}
+	if c.Target == config.TargetLinux {
+		return issueRootCrosses(c, anchor, key, roots, w)
 	}
 	for _, cat := range c.Categories {
 		path := c.CrossPath(cat)

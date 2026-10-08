@@ -115,3 +115,23 @@ func TestSelect(t *testing.T) {
 		t.Error("unknown category accepted")
 	}
 }
+
+func TestBundle_Linux(t *testing.T) {
+	c := issueConfig(t, "")
+	c.Target = config.TargetLinux
+	scripts := fstest.MapFS{
+		"install-bundle-linux.sh.tpl": {Data: []byte("#!/usr/bin/env bash\necho {{range .Crosses}}{{.}} {{end}}\ncat <<'S'\n{{range .Sums}}{{.}}\n{{end -}}\nS\n")},
+		"uninstall-linux.sh.tpl":      {Data: []byte("#!/usr/bin/env bash\n")},
+	}
+	out := t.TempDir()
+	if err := Bundle(c, out, scripts, io.Discard); err != nil {
+		t.Fatal(err)
+	}
+	lines := runScript(t, filepath.Join(out, "install.sh"))
+	if lines[0] != "cross-r.crt" {
+		t.Errorf("crosses = %q", lines[0])
+	}
+	if len(lines) != 3 || !strings.HasSuffix(lines[1], "  anchor.crt") || !strings.HasSuffix(lines[2], "  cross-r.crt") {
+		t.Errorf("sums = %q", lines[1:])
+	}
+}

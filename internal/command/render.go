@@ -19,6 +19,8 @@ type Script struct {
 	Tag        string
 	AnchorName string
 	Categories []string
+	// Crosses — файлы кросс-сертификатов бандла для TargetLinux, по одному на корень.
+	Crosses []string
 	// Sums — SHA-256 файлов, которые ставит скрипт, в формате shasum: «<hex>  <имя>».
 	Sums []string
 }
@@ -31,6 +33,7 @@ type Template struct {
 var (
 	ReleaseScripts = []Template{{"install-release.sh.tpl", "install.sh"}, {"uninstall.sh.tpl", "uninstall.sh"}}
 	BundleScripts  = []Template{{"install-bundle.sh.tpl", "install.sh"}, {"uninstall.sh.tpl", "uninstall.sh"}}
+	LinuxScripts   = []Template{{"install-bundle-linux.sh.tpl", "install.sh"}, {"uninstall-linux.sh.tpl", "uninstall.sh"}}
 )
 
 // Sums возвращает строки shasum для files из dir.
@@ -82,7 +85,7 @@ func shQuote(s string) string {
 }
 
 // Binaries — бинарники mz, которые публикует релиз и ставит install.sh из ReleaseScripts.
-var Binaries = []string{"mz-darwin-arm64", "mz-darwin-amd64"}
+var Binaries = []string{"mz-darwin-arm64", "mz-darwin-amd64", "mz-linux-arm64", "mz-linux-amd64"}
 
 // RenderRelease пишет в out скрипты ReleaseScripts для релиза tag с SHA-256 бинарников Binaries,
 // которые к этому моменту уже лежат в out.

@@ -2,10 +2,13 @@
 GOFLAGS_BUILD := -trimpath -ldflags='-s -w -buildid='
 
 .PHONY: binaries
-binaries: build/mz-darwin-arm64 build/mz-darwin-amd64
+binaries: build/mz-darwin-arm64 build/mz-darwin-amd64 build/mz-linux-arm64 build/mz-linux-amd64
 
 build/mz-darwin-%: FORCE
 	CGO_ENABLED=0 GOOS=darwin GOARCH=$* go build $(GOFLAGS_BUILD) -o $@ ./cmd/mz
+
+build/mz-linux-%: FORCE
+	CGO_ENABLED=0 GOOS=linux GOARCH=$* go build $(GOFLAGS_BUILD) -o $@ ./cmd/mz
 
 .PHONY: FORCE
 FORCE:

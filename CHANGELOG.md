@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Поддержка Linux: `mz install` ставит якорь и кросс-сертификат в системное хранилище (`update-ca-certificates` или `update-ca-trust`) и в базу NSS `~/.pki/nssdb`, `mz uninstall` удаляет их.
+- `mz bundle -target linux` собирает бандл для Linux с одним кросс-сертификатом на все выбранные категории.
+- Релиз публикует `mz-linux-arm64` и `mz-linux-amd64`, а `install.sh` выбирает бинарник по системе.
+
 ### Security
 
 - `mz install`, `mz bundle` и `mz issue` не запускаются, если подкачка не шифруется, и запрещают дамп памяти при падении: в macOS по `vm.swapusage`, в Linux — если каждая подкачка лежит в zram или на dm-crypt.

@@ -30,7 +30,7 @@ func TestInputsCarryTheReleaseConfig(t *testing.T) {
 }
 
 func TestScriptsCarryEveryTemplate(t *testing.T) {
-	for _, set := range [][]command.Template{command.ReleaseScripts, command.BundleScripts} {
+	for _, set := range [][]command.Template{command.ReleaseScripts, command.BundleScripts, command.LinuxScripts} {
 		for _, tpl := range set {
 			if _, err := fs.Stat(Scripts(), tpl.Src); err != nil {
 				t.Errorf("%s: %v", tpl.Src, err)

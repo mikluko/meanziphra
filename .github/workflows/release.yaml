@@ -80,7 +80,7 @@ jobs:
         uses: actions/attest-build-provenance@v4
         with:
           subject-path: |
-            build/mz-darwin-*
+            build/mz-*
             build/*.sh
 
       - name: Push the tag
@@ -101,4 +101,4 @@ jobs:
             printf 'Список доменов на %s.\n\n' "$DATE"
             printf '%s\n' "$NOTES"
           } >"$RUNNER_TEMP/notes.md"
-          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/mz-darwin-* build/*.sh
+          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/mz-* build/*.sh

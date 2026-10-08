@@ -1,5 +1,5 @@
 // Команда mz ограничивает корень Минцифры доменами по категориям: выпускает на этом компьютере якорь
-// и кросс-сертификаты с X.509 name constraints и ставит их в связку ключей macOS или собирает в бандл.
+// и кросс-сертификаты с X.509 name constraints и ставит их в macOS или Linux или собирает в бандл.
 package main
 
 import (
@@ -9,6 +9,7 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"runtime"
 	"time"
 
 	"github.com/mikluko/meanziphra"
@@ -23,9 +24,10 @@ const usage = `usage: mz [-c config] command [flags] [args]
 
 commands for users:
   install [-key ref] [-insecure] [-keychain path] <category>... | all
-             issue the anchor and crosses on this computer and put them into the keychain
-  bundle  [-key ref] [-insecure] -o dir <category>... | all
-             issue into dir with install.sh and uninstall.sh to carry to another Mac
+             issue the anchor and crosses on this computer and install them: into the keychain on macOS,
+             into the system trust store and ~/.pki/nssdb on Linux
+  bundle  [-key ref] [-insecure] [-target macos|linux] -o dir <category>... | all
+             issue into dir with install.sh and uninstall.sh to carry to another computer
   uninstall [-keychain path]
              remove every certificate of this anchor from the keychain
 
@@ -70,6 +72,7 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 	out := fl.String("o", "", "bundle output directory")
 	tag := fl.String("tag", "", "release tag written into the scripts by render")
 	insecure := fl.Bool("insecure", false, "allow an anchor key file and skip the swap encryption check")
+	target := fl.String("target", config.TargetMacOS, "bundle target system: macos or linux")
 	if err := fl.Parse(args); err != nil {
 		return err
 	}
@@ -100,16 +103,26 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 		if err := command.Select(c, fl.Args()); err != nil {
 			return err
 		}
+		if runtime.GOOS == "linux" {
+			return command.InstallLinux(c, meanziphra.Scripts(), w)
+		}
 		return command.InstallLocal(c, keychain.Keychain(*kc), w)
 	case "bundle":
 		if *out == "" {
 			return fmt.Errorf("bundle needs -o dir")
 		}
+		if *target != config.TargetMacOS && *target != config.TargetLinux {
+			return fmt.Errorf("unknown -target %q: want macos or linux", *target)
+		}
 		if err := command.Select(c, fl.Args()); err != nil {
 			return err
 		}
+		c.Target = *target
 		return command.Bundle(c, *out, meanziphra.Scripts(), w)
 	case "uninstall":
+		if runtime.GOOS == "linux" {
+			return command.UninstallLinux(c, meanziphra.Scripts(), w)
+		}
 		return command.Uninstall(c, keychain.Keychain(*kc), w)
 	case "fetch":
 		return command.Fetch(ctx, c, http.DefaultClient, w)

@@ -216,3 +216,25 @@ func TestIssue_FileKeyNeedsInsecure(t *testing.T) {
 		t.Errorf("err = %v, want anchorkey.ErrDiskKey", err)
 	}
 }
+
+func TestIssue_LinuxTargetOneCrossPerRoot(t *testing.T) {
+	c := issueConfig(t, "")
+	c.Categories = append(c.Categories, config.Category{Name: "gov", Root: "r", Permit: []string{"gov.test", "bank.test"}})
+	c.Target = config.TargetLinux
+	if err := Issue(c, io.Discard); err != nil {
+		t.Fatal(err)
+	}
+	crosses, err := pki.ReadCerts(c.RootCrossPath(c.Roots[0]))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(crosses) != 1 {
+		t.Fatalf("%d crosses, want 1", len(crosses))
+	}
+	if got, want := crosses[0].PermittedDNSDomains, []string{"bank.test", "gov.test"}; !slices.Equal(got, want) {
+		t.Errorf("permitted = %v, want %v", got, want)
+	}
+	if _, err := os.Stat(c.CrossPath(c.Categories[0])); !os.IsNotExist(err) {
+		t.Errorf("per-category cross written for linux: %v", err)
+	}
+}
