@@ -22,12 +22,25 @@ import (
 
 // LoadRoot читает сертификат в PEM или DER и возвращает ошибку, если его SHA-256 не совпадает с pin.
 func LoadRoot(path, pin string) (*x509.Certificate, error) {
-	cert, err := ReadCert(path)
+	b, err := os.ReadFile(path)
+	if err != nil {
+		return nil, err
+	}
+	cert, err := ParseRoot(b, pin)
+	if err != nil {
+		return nil, fmt.Errorf("%s: %w", path, err)
+	}
+	return cert, nil
+}
+
+// ParseRoot разбирает сертификат в PEM или DER и возвращает ошибку, если его SHA-256 не совпадает с pin.
+func ParseRoot(b []byte, pin string) (*x509.Certificate, error) {
+	cert, err := ParseCert(b)
 	if err != nil {
 		return nil, err
 	}
 	if err := CheckPin(cert, pin); err != nil {
-		return nil, fmt.Errorf("%s: %w", path, err)
+		return nil, err
 	}
 	return cert, nil
 }

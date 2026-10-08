@@ -1,5 +1,5 @@
 # Полный пример конфигурации meanziphra. Относительные пути отсчитываются от каталога этого файла.
-# Использование: go run . -c config.example.yaml issue
+# Использование: go run ./cmd/mz -c config.example.yaml issue
 
 anchor:
   # CN якоря. По нему install и uninstall находят свои сертификаты в связке ключей.

@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Программа `mz`: `mz install <категория>…` выпускает якорь и кросс-сертификаты на вашем Mac и ставит их, `mz uninstall` удаляет.
+- `mz bundle -o <каталог> <категория>…` собирает бандл с `install.sh` и `uninstall.sh`, который ставится на другом Mac без сети.
+- Флаг `-key` хранит ключ якоря в файле или в 1Password, чтобы обновлять категории без нового доверия; по умолчанию ключ эфемерный.
+- Сборка `mz` воспроизводима: `make binaries` на том же коммите даёт побайтно тот же бинарник, что в релизе.
+
+### Changed
+
+- **Breaking:** релиз публикует `mz-darwin-arm64`, `mz-darwin-amd64`, `install.sh` и `uninstall.sh` вместо готовых `anchor.crt` и `cat-<категория>.crt`; `install.sh` скачивает `mz` и запускает `mz install`.
+- **Breaking:** `install -only banks,gov` заменён на `mz install banks gov`; команды сопровождения запускаются как `go run ./cmd/mz -c config.release.yaml <команда>`.
+
 ## [0.2.1] - 2026-10-08
 
 ### Changed

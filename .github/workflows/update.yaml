@@ -32,10 +32,10 @@ jobs:
         env:
           TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
         run: |
-          go run . update | tee "$RUNNER_TEMP/update.log"
+          go run ./cmd/mz -c config.release.yaml update | tee "$RUNNER_TEMP/update.log"
 
       - name: Issue the certificates as a smoke test
-        run: go run . issue
+        run: go run ./cmd/mz -c config.release.yaml issue
 
       - name: Describe the change
         run: |

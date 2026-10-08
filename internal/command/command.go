@@ -54,7 +54,7 @@ func Issue(c *config.Config, w io.Writer) error {
 			continue
 		}
 		r := c.Root(cat.Root)
-		cert, err := pki.LoadRoot(c.Path(r.Cert), r.SHA256)
+		cert, err := loadRoot(c, r)
 		if err != nil {
 			return fmt.Errorf("root %s: %w", r.Name, err)
 		}
@@ -228,4 +228,17 @@ func Uninstall(c *config.Config, k keychain.Keychain, w io.Writer) error {
 
 func report(w io.Writer, verb string, cert *x509.Certificate) {
 	_, _ = fmt.Fprintf(w, "%s %s (issuer %s)\n", verb, cert.Subject.CommonName, strings.TrimSpace(cert.Issuer.CommonName))
+}
+
+// loadRoot читает сертификат корня r из входных файлов c и сверяет его с закреплённым SHA-256.
+func loadRoot(c *config.Config, r config.Root) (*x509.Certificate, error) {
+	b, err := c.ReadFile(r.Cert)
+	if err != nil {
+		return nil, err
+	}
+	cert, err := pki.ParseRoot(b, r.SHA256)
+	if err != nil {
+		return nil, fmt.Errorf("%s: %w", r.Cert, err)
+	}
+	return cert, nil
 }

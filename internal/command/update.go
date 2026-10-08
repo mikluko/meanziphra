@@ -138,6 +138,10 @@ func Update(ctx context.Context, c *config.Config, hc *http.Client, cl classify.
 		return err
 	}
 
+	tpl, err := c.ReadFile(c.Classify.Template)
+	if err != nil {
+		return err
+	}
 	for _, cat := range c.Categories {
 		if cat.Description == "" {
 			continue
@@ -154,7 +158,7 @@ func Update(ctx context.Context, c *config.Config, hc *http.Client, cl classify.
 			}
 		}
 		list = domains.Minimize(list)
-		if err := config.WriteDomains(c.Path(cat.PermitFile), c.Path(c.Classify.Template), cat.Name, list); err != nil {
+		if err := config.WriteDomains(c.Path(cat.PermitFile), string(tpl), cat.Name, list); err != nil {
 			return fmt.Errorf("category %s: %w", cat.Name, err)
 		}
 		_, _ = fmt.Fprintf(w, "%s: %d domains, %d owners to review\n", cat.Name, len(list), review)
@@ -163,7 +167,7 @@ func Update(ctx context.Context, c *config.Config, hc *http.Client, cl classify.
 }
 
 func readRoot(ctx context.Context, c *config.Config, r config.Root, hc *http.Client, now time.Time, w io.Writer) (*ctstate.State, error) {
-	root, err := pki.LoadRoot(c.Path(r.Cert), r.SHA256)
+	root, err := loadRoot(c, r)
 	if err != nil {
 		return nil, err
 	}

@@ -61,7 +61,7 @@
       [Unreleased]: https://github.com/mikluko/meanziphra/compare/v<новая>...HEAD
       [<новая>]: https://github.com/mikluko/meanziphra/compare/<тег предыдущей>...v<новая>
 
-Выполни `go test ./...` и `go run . issue`. Если что-то упало, остановись без пуша и заведи issue
+Выполни `go test ./...` и `go run ./cmd/mz -c config.release.yaml issue`. Если что-то упало, остановись без пуша и заведи issue
 с текстом ошибки.
 
 Закоммить изменения в ветке релиза с сообщением `chore(release): <версия>`.

@@ -49,27 +49,31 @@ jobs:
       - if: steps.cut.outputs.due == 'true'
         run: go test ./...
 
-      # Ключ якоря не покидает раннер: в config.release.yaml нет anchor.key, и issue держит ключ только в памяти.
+      # Сертификаты выпускаются только для проверки и в релиз не попадают: якорь пользователь выпускает сам.
       - name: Issue the certificates
         if: steps.cut.outputs.due == 'true'
-        run: go run . issue
+        run: go run ./cmd/mz -c config.release.yaml issue
 
       - name: Check them against live hosts
         if: steps.cut.outputs.due == 'true'
-        run: go run . check
+        run: go run ./cmd/mz -c config.release.yaml check
+
+      - name: Build the binaries
+        if: steps.cut.outputs.due == 'true'
+        run: make binaries
 
       - name: Render the install scripts
         if: steps.cut.outputs.due == 'true'
         env:
           TAG: ${{ steps.cut.outputs.tag }}
-        run: go run . -tag "$TAG" render
+        run: go run ./cmd/mz -c config.release.yaml render -tag "$TAG"
 
       - name: Attest the release files
         if: steps.cut.outputs.due == 'true'
         uses: actions/attest-build-provenance@v4
         with:
           subject-path: |
-            build/*.crt
+            build/mz-darwin-*
             build/*.sh
 
       - name: Cut the tag
@@ -92,4 +96,4 @@ jobs:
             printf 'Список доменов на %s.\n\n' "$DATE"
             printf '%s\n' "$NOTES"
           } >"$RUNNER_TEMP/notes.md"
-          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/*.crt build/*.sh
+          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/mz-darwin-* build/*.sh

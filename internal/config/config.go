@@ -26,8 +26,10 @@ type Config struct {
 	// Classify — как update раскладывает имена из CT по категориям.
 	Classify *Classify `yaml:"classify"`
 
-	// Dir — каталог, от которого отсчитываются относительные пути.
+	// Dir — каталог, от которого отсчитываются относительные пути для записи.
 	Dir string `yaml:"-"`
+	// FS — откуда читаются входные файлы конфига: корни, permit_file, шаблоны.
+	FS fs.FS `yaml:"-"`
 }
 
 type Anchor struct {
@@ -87,10 +89,18 @@ type Classify struct {
 	MinConfidence float64 `yaml:"min_confidence"`
 }
 
-// Load читает path и отвергает неизвестные поля. Dir становится каталогом path.
-// Домены из permit_file дописываются в Permit, повторы удаляются; отсутствующий permit_file пуст.
+// Load читает конфиг из файла path; входные файлы читаются из его каталога, туда же пишется вывод.
 func Load(path string) (*Config, error) {
-	b, err := os.ReadFile(path)
+	dir := filepath.Dir(path)
+	return LoadFS(os.DirFS(dir), filepath.Base(path), dir)
+}
+
+// LoadFS читает конфиг name из fsys и отвергает неизвестные поля. Входные файлы читаются из fsys,
+// а относительные пути для записи отсчитываются от dir. Домены из permit_file дописываются в Permit,
+// повторы удаляются; отсутствующий permit_file пуст.
+func LoadFS(fsys fs.FS, name, dir string) (*Config, error) {
+	path := filepath.Join(dir, name)
+	b, err := fs.ReadFile(fsys, name)
 	if err != nil {
 		return nil, err
 	}
@@ -100,7 +110,8 @@ func Load(path string) (*Config, error) {
 	if err := dec.Decode(&c); err != nil {
 		return nil, fmt.Errorf("%s: %w", path, err)
 	}
-	c.Dir = filepath.Dir(path)
+	c.Dir = dir
+	c.FS = fsys
 	if c.Anchor.Name == "" {
 		c.Anchor.Name = "meanziphra"
 	}
@@ -112,8 +123,15 @@ func Load(path string) (*Config, error) {
 		if cat.PermitFile == "" {
 			continue
 		}
-		domains, err := ReadDomains(c.Path(cat.PermitFile))
-		if err != nil && !errors.Is(err, fs.ErrNotExist) {
+		b, err := c.ReadFile(cat.PermitFile)
+		if errors.Is(err, fs.ErrNotExist) {
+			continue
+		}
+		if err != nil {
+			return nil, fmt.Errorf("category %s: %w", cat.Name, err)
+		}
+		domains, err := ParseDomains(cat.PermitFile, b)
+		if err != nil {
 			return nil, fmt.Errorf("category %s: %w", cat.Name, err)
 		}
 		cat.Permit = append(cat.Permit, domains...)
@@ -186,15 +204,29 @@ func (c *Config) Root(name string) Root {
 	return Root{}
 }
 
-// ReadDomains читает домены по одному в строке. Пустые строки и строки, начинающиеся с #, пропускаются.
+// ReadFile читает входной файл p: абсолютный путь — с диска, относительный — из FS, а без FS — от Dir.
+func (c *Config) ReadFile(p string) ([]byte, error) {
+	if filepath.IsAbs(p) || c.FS == nil {
+		return os.ReadFile(c.Path(p))
+	}
+	return fs.ReadFile(c.FS, filepath.ToSlash(filepath.Clean(p)))
+}
+
+// ReadDomains читает домены из файла path, как ParseDomains.
 func ReadDomains(path string) ([]string, error) {
-	f, err := os.Open(path)
+	b, err := os.ReadFile(path)
 	if err != nil {
 		return nil, err
 	}
-	defer func() { _ = f.Close() }()
+	return ParseDomains(path, b)
+}
+
+// ParseDomains разбирает домены по одному в строке; name нужен для сообщений об ошибках.
+// Пустые строки и строки, начинающиеся с #, пропускаются.
+func ParseDomains(name string, b []byte) ([]string, error) {
 	var domains []string
-	sc := bufio.NewScanner(f)
+	path := name
+	sc := bufio.NewScanner(bytes.NewReader(b))
 	for n := 1; sc.Scan(); n++ {
 		line := strings.TrimSpace(sc.Text())
 		if line == "" || strings.HasPrefix(line, "#") {
@@ -208,10 +240,10 @@ func ReadDomains(path string) ([]string, error) {
 	return domains, sc.Err()
 }
 
-// WriteDomains пишет в path шаблон tplPath (text/template), передавая category в .Category, а domains
+// WriteDomains пишет в path шаблон tplText (text/template), передавая category в .Category, а domains
 // в .Domains в нижнем регистре, по алфавиту и без повторов: один и тот же набор всегда даёт один и тот же файл.
-func WriteDomains(path, tplPath, category string, domains []string) error {
-	tpl, err := template.ParseFiles(tplPath)
+func WriteDomains(path, tplText, category string, domains []string) error {
+	tpl, err := template.New(filepath.Base(path)).Parse(tplText)
 	if err != nil {
 		return err
 	}

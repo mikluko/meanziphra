@@ -5,6 +5,7 @@ import (
 	"path/filepath"
 	"slices"
 	"testing"
+	"testing/fstest"
 )
 
 const root = "roots:\n  - {name: r, cert: r.pem, sha256: AA}\n"
@@ -78,7 +79,7 @@ func TestReadDomains_RejectsGarbage(t *testing.T) {
 
 func TestWriteDomains_StableAndReadable(t *testing.T) {
 	dir := t.TempDir()
-	tpl := write(t, dir, "d.tpl", "# {{.Category}}\n{{range .Domains}}{{.}}\n{{end -}}\n")
+	tpl := "# {{.Category}}\n{{range .Domains}}{{.}}\n{{end -}}\n"
 	a, b := filepath.Join(dir, "a", "a.txt"), filepath.Join(dir, "b.txt")
 	if err := WriteDomains(a, tpl, "banks", []string{"tbank.ru", "Sberbank.ru", "alfabank.ru", "tbank.ru"}); err != nil {
 		t.Fatal(err)
@@ -103,9 +104,25 @@ func TestWriteDomains_StableAndReadable(t *testing.T) {
 	}
 }
 
-func TestWriteDomains_NeedsTemplate(t *testing.T) {
-	dir := t.TempDir()
-	if err := WriteDomains(filepath.Join(dir, "d.txt"), filepath.Join(dir, "none.tpl"), "c", []string{"a.ru"}); err == nil {
-		t.Error("wrote without a template")
+func TestWriteDomains_BadTemplate(t *testing.T) {
+	if err := WriteDomains(filepath.Join(t.TempDir(), "d.txt"), "{{", "c", []string{"a.ru"}); err == nil {
+		t.Error("wrote with a broken template")
+	}
+}
+
+func TestLoadFS(t *testing.T) {
+	fsys := fstest.MapFS{
+		"c.yaml":       {Data: []byte(root + "categories:\n  - {name: banks, root: r, permit_file: in/banks.txt}\n")},
+		"in/banks.txt": {Data: []byte("tbank.ru\n")},
+	}
+	c, err := LoadFS(fsys, "c.yaml", "")
+	if err != nil {
+		t.Fatal(err)
+	}
+	if !slices.Equal(c.Categories[0].Permit, []string{"tbank.ru"}) {
+		t.Errorf("Permit = %v", c.Categories[0].Permit)
+	}
+	if _, err := c.ReadFile("in/banks.txt"); err != nil {
+		t.Errorf("ReadFile from FS: %v", err)
 	}
 }
