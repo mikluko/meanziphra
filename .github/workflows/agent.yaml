@@ -1,6 +1,6 @@
 name: Release agent
 
-# Раз в день собирает открытые PR с меткой bot в ветку релиза, пишет CHANGELOG и вливает её в main.
+# Раз в день собирает открытые PR с меткой bot в стек, кладёт сверху ветку релиза с CHANGELOG и сливает стек в main.
 # Агент — goose на Kimi K3; порядок его действий — в .github/release-agent.md.
 on:
   schedule:
@@ -43,6 +43,10 @@ jobs:
           id=$(gh api "/users/${SLUG}%5Bbot%5D" --jq .id)
           git config user.name "${SLUG}[bot]"
           git config user.email "${id}+${SLUG}[bot]@users.noreply.github.com"
+      - name: Install gh stack
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+        run: gh extension install github/gh-stack --pin v0.1.1
       # Ставит релиз aaif-goose/goose, сверив его аттестацию; сторонняя Action закреплена по коммиту v1.0.10.
       - uses: clouatre-labs/setup-goose-action@017d90271b50e0130dd915840135fed34aa7de36
         with:
