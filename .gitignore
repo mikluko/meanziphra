@@ -1,0 +1,6 @@
+/build/
+*.key
+*.local.yaml
+.envrc
+!/.github/
+!/.gitignore

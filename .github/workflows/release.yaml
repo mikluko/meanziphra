@@ -1,0 +1,96 @@
+name: Release
+
+# Релиз режется, когда у новейшей версии в CHANGELOG.md ещё нет тега. Тег — vA.B.C+YYYYMMDD: версия
+# из CHANGELOG.md и дата, на которую выпущены списки доменов. action-changelog сравнивает версии без build
+# metadata, поэтому v0.1.0+20261009 считается выпуском 0.1.0.
+# Тег и релиз создаются в одном workflow, потому что тег, запушенный с GITHUB_TOKEN, не запускает другие workflow.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  id-token: write
+  attestations: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+
+      - name: Read the changelog
+        id: changelog
+        uses: mikluko/action-changelog@v1
+
+      - name: Whether a release is due
+        id: cut
+        env:
+          VALID: ${{ steps.changelog.outputs.valid }}
+          VERSION: ${{ steps.changelog.outputs.version }}
+          TAGGED: ${{ steps.changelog.outputs.already-tagged }}
+          PRERELEASE: ${{ steps.changelog.outputs.prerelease }}
+        run: |
+          if [ "$VALID" != true ] || [ "$TAGGED" != false ] || [ "$PRERELEASE" != false ] || [ -z "$VERSION" ]; then
+            echo "due=false" >>"$GITHUB_OUTPUT"
+            echo "nothing to cut: valid=$VALID already-tagged=$TAGGED prerelease=$PRERELEASE version=${VERSION:-none}"
+            exit 0
+          fi
+          day=$(date -u +%Y-%m-%d)
+          date=$(echo "$day" | tr -d -)
+          tag="v$VERSION+$date"
+          n=1
+          while git rev-parse -q --verify "refs/tags/$tag" >/dev/null; do
+            n=$((n + 1))
+            tag="v$VERSION+$date.$n"
+          done
+          {
+            echo "due=true"
+            echo "tag=$tag"
+            echo "date=$day"
+          } >>"$GITHUB_OUTPUT"
+
+      - if: steps.cut.outputs.due == 'true'
+        run: go test ./...
+
+      # Ключ якоря не покидает раннер: в config.release.yaml нет anchor.key, и issue держит ключ только в памяти.
+      - name: Issue the certificates
+        if: steps.cut.outputs.due == 'true'
+        run: go run . issue
+
+      - name: Check them against live hosts
+        if: steps.cut.outputs.due == 'true'
+        run: go run . check
+
+      - name: Attest the certificates
+        if: steps.cut.outputs.due == 'true'
+        uses: actions/attest-build-provenance@v4
+        with:
+          subject-path: build/*.crt
+
+      - name: Cut the tag
+        if: steps.cut.outputs.due == 'true'
+        env:
+          TAG: ${{ steps.cut.outputs.tag }}
+        run: |
+          git tag "$TAG"
+          git push origin "refs/tags/$TAG"
+
+      - name: Publish the release
+        if: steps.cut.outputs.due == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ steps.cut.outputs.tag }}
+          DATE: ${{ steps.cut.outputs.date }}
+          NOTES: ${{ steps.changelog.outputs.notes }}
+        run: |
+          {
+            printf 'Список доменов на %s.\n\n' "$DATE"
+            printf '%s\n' "$NOTES"
+          } >"$RUNNER_TEMP/notes.md"
+          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/*.crt

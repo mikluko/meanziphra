@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+      - run: go vet ./...
+      - run: go test ./...
+      - run: go run . issue
+      - uses: golangci/golangci-lint-action@v9
+
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      # Проверкам по тегам нужна вся история, а checkout по умолчанию неглубокий и без тегов.
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: mikluko/action-changelog@v1

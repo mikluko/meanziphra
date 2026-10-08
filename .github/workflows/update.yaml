@@ -1,0 +1,63 @@
+name: Update
+
+# Раз в день дочитывает журналы CT, размечает новых владельцев и ведёт один PR с изменившимися inputs/.
+# PR открывается токеном GitHub App: PR, открытый GITHUB_TOKEN, не запускает CI.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      - uses: actions/checkout@v7
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+
+      - name: Update the domain lists
+        env:
+          TYPESAFE_API_KEY: ${{ secrets.TYPESAFE_API_KEY }}
+        run: |
+          go run . update | tee "$RUNNER_TEMP/update.log"
+
+      - name: Issue the certificates as a smoke test
+        run: go run . issue
+
+      - name: Describe the change
+        run: |
+          {
+            echo 'Обновление списков доменов из журналов CT.'
+            echo
+            echo '```'
+            cat "$RUNNER_TEMP/update.log"
+            echo '```'
+            echo
+            echo 'Изменения по категориям:'
+            echo
+            git diff --numstat -- inputs/categories | awk '{printf "- %s: +%s −%s\n", $3, $1, $2}'
+          } >"$RUNNER_TEMP/body.md"
+
+      - uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ steps.app.outputs.token }}
+          branch: bot/update-ct
+          delete-branch: true
+          add-paths: inputs
+          commit-message: "chore(inputs): update domain lists from CT"
+          title: "chore(inputs): update domain lists from CT"
+          body-path: ${{ runner.temp }}/body.md
+          labels: bot

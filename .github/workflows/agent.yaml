@@ -1,0 +1,63 @@
+name: Release agent
+
+# Раз в день собирает открытые PR с меткой bot в ветку релиза, пишет CHANGELOG и вливает её в main.
+# Агент — goose на Kimi K3; порядок его действий — в .github/release-agent.md.
+on:
+  schedule:
+    - cron: "37 5 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Открыть PR релиза, но не сливать
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-agent
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      - uses: actions/checkout@v7
+        with:
+          token: ${{ steps.app.outputs.token }}
+          fetch-depth: 0
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+      - name: Identify as the app
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+          SLUG: ${{ steps.app.outputs.app-slug }}
+        run: |
+          id=$(gh api "/users/${SLUG}%5Bbot%5D" --jq .id)
+          git config user.name "${SLUG}[bot]"
+          git config user.email "${id}+${SLUG}[bot]@users.noreply.github.com"
+      # Ставит релиз aaif-goose/goose, сверив его аттестацию; сторонняя Action закреплена по коммиту v1.0.10.
+      - uses: clouatre-labs/setup-goose-action@017d90271b50e0130dd915840135fed34aa7de36
+        with:
+          version: 1.53.0
+      - name: Run the agent
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+          DRY_RUN: ${{ inputs.dry_run || false }}
+          GOOSE_PROVIDER: moonshot
+          GOOSE_MODEL: kimi-k3
+          MOONSHOT_API_KEY: ${{ secrets.MOONSHOT_API_KEY }}
+          # Провайдер moonshot по умолчанию ходит на api.moonshot.cn, а ключ выдан международной платформой.
+          MOONSHOT_BASE_URL: https://api.moonshot.ai
+          GOOSE_MODE: auto
+          GOOSE_DISABLE_KEYRING: "1"
+          GOOSE_TELEMETRY_ENABLED: "false"
+          GOOSE_MAX_TURNS: "200"
+        run: goose run --no-session -i .github/release-agent.md
