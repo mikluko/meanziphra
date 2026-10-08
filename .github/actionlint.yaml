@@ -1,0 +1,7 @@
+# В данных actionlint об actions/create-github-app-token@v3 нет входа client-id, а app-id обязателен;
+# в action.yml тега v3 client-id есть, а app-id необязателен и устарел.
+paths:
+  .github/workflows/**/*.yaml:
+    ignore:
+      - 'input "client-id" is not defined in action "actions/create-github-app-token@v3"'
+      - 'missing input "app-id" which is required by action "actions/create-github-app-token@v3"'
