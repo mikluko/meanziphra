@@ -12,6 +12,11 @@ permissions:
   id-token: write
   attestations: write
 
+# Выпуски идут по одному: следующий запуск видит тег предыдущего и не режет ту же версию второй раз.
+concurrency:
+  group: release
+  cancel-in-progress: false
+
 jobs:
   release:
     runs-on: ubuntu-latest
