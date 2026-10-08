@@ -1298,11 +1298,6 @@
       "confidence": 0.35,
       "review": true
     },
-    "name:connect.novikom.ru": {
-      "category": "other",
-      "confidence": 0.53,
-      "review": true
-    },
     "name:connector.b2b.ocs.ru": {
       "category": "other",
       "confidence": 0.5,

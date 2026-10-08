@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11043,
+    "https://27.ctlog.digital.gov.ru/2027/": 11051,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 11543
+    "https://ctlog2027.mail.ru/nca2027/": 11552
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -16690,7 +16690,10 @@
       "ogrn": "1027739850962"
     },
     "connect.novikom.ru": {
-      "not_after": "2026-10-29"
+      "not_after": "2027-10-08",
+      "org": "JSCB NOVIKOMBANK",
+      "inn": "7706196340",
+      "ogrn": "1027739075891"
     },
     "connect.orb.ru": {
       "not_after": "2027-06-26",
@@ -36324,6 +36327,12 @@
       "inn": "1832090230",
       "ogrn": "1111832003018"
     },
+    "kalashnikovgroup.ru": {
+      "not_after": "2027-10-08",
+      "org": "АО Концерн Калашников",
+      "inn": "1832090230",
+      "ogrn": "1111832003018"
+    },
     "kaliningrad.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -52058,7 +52067,7 @@
       "ogrn": "1025500746523"
     },
     "omskrts.ru": {
-      "not_after": "2027-10-07",
+      "not_after": "2027-10-08",
       "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОМСКИЕРАСПРЕДЕЛИТЕЛЬНЫЕ ТЕПЛОВЫЕСЕТИ\"",
       "inn": "5503249258",
       "ogrn": "1145543013868"
@@ -56479,6 +56488,18 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "pd51-rplat-web-04.gis.mng.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "pd51-s3-05.gis.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "pda.mil.ru": {
       "not_after": "2027-07-01",
       "org": "Минобороны России",
@@ -56972,6 +56993,12 @@
       "org": "ООО НИИ Транснефть",
       "inn": "7736607502",
       "ogrn": "1097746556710"
+    },
+    "pipeline.devtools.mng.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "pir.paritet.ru": {
       "not_after": "2027-08-05",
@@ -57795,6 +57822,12 @@
       "inn": "7709006125",
       "ogrn": "1037700067327"
     },
+    "portal.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "portal.cp.transneft.ru": {
       "not_after": "2027-04-01",
       "org": "Transneft",
@@ -57845,6 +57878,12 @@
       "org": "ООО «Интернет Решения»",
       "inn": "7704217370",
       "ogrn": "1027739244741"
+    },
+    "portal.gos.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "portal.grand-tm.ru": {
       "not_after": "2027-07-01",
