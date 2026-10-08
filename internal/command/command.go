@@ -111,38 +111,65 @@ func Issue(c *config.Config, w io.Writer) error {
 	return nil
 }
 
-// Check получает цепочку каждого хоста из check и проверяет, что выпущенные сертификаты пропускают или отвергают её, как задано.
+// Check получает цепочку каждого хоста из check и проверяет, что выпущенные сертификаты пропускают или отвергают
+// её, как задано.
 func Check(ctx context.Context, c *config.Config, w io.Writer) error {
+	return check(ctx, c, probe.FetchChain, w)
+}
+
+// Fetcher возвращает цепочку, которую отдаёт host.
+type Fetcher func(ctx context.Context, host string) ([]*x509.Certificate, error)
+
+type outcome int
+
+const (
+	matched outcome = iota
+	mismatched
+	unreachable
+)
+
+// check падает, если хоть один хост получил не тот вердикт или в категории с хостами не ответил ни один.
+// Недоступный хост сам по себе только предупреждение: он ничего не говорит о выпущенных сертификатах.
+func check(ctx context.Context, c *config.Config, fetch Fetcher, w io.Writer) error {
 	anchor, crosses, err := loadIssued(c, nil)
 	if err != nil {
 		return err
 	}
-	failed := 0
+	var problems []string
 	for _, cat := range c.Categories {
+		hosts, reached := 0, 0
 		for _, want := range []struct {
 			hosts []string
 			allow bool
 		}{{cat.Check.Allow, true}, {cat.Check.Deny, false}} {
 			for _, host := range want.hosts {
-				if !checkHost(ctx, w, anchor, crosses, host, want.allow) {
-					failed++
+				hosts++
+				switch checkHost(ctx, w, fetch, anchor, crosses, host, want.allow) {
+				case mismatched:
+					reached++
+					problems = append(problems, host)
+				case matched:
+					reached++
 				}
 			}
 		}
+		if hosts > 0 && reached == 0 {
+			problems = append(problems, "no host of "+cat.Name+" reachable")
+		}
 	}
-	if failed > 0 {
-		return fmt.Errorf("%d check(s) failed", failed)
+	if len(problems) > 0 {
+		return fmt.Errorf("check failed: %s", strings.Join(problems, ", "))
 	}
 	return nil
 }
 
-func checkHost(ctx context.Context, w io.Writer, anchor *x509.Certificate, crosses []*x509.Certificate, host string, wantAllow bool) bool {
+func checkHost(ctx context.Context, w io.Writer, fetch Fetcher, anchor *x509.Certificate, crosses []*x509.Certificate, host string, wantAllow bool) outcome {
 	ctx, cancel := context.WithTimeout(ctx, 15*time.Second)
 	defer cancel()
-	chain, err := probe.FetchChain(ctx, host)
+	chain, err := fetch(ctx, host)
 	if err != nil {
-		_, _ = fmt.Fprintf(w, "%s: %v\n", host, err)
-		return false
+		_, _ = fmt.Fprintf(w, "%s: unreachable, skipped (%v)\n", host, err)
+		return unreachable
 	}
 	verr := probe.Verify(anchor, crosses, chain, host)
 	allowed := verr == nil
@@ -156,7 +183,10 @@ func checkHost(ctx context.Context, w io.Writer, anchor *x509.Certificate, cross
 	default:
 		_, _ = fmt.Fprintf(w, "%s: denied, want allowed (%v)\n", host, verr)
 	}
-	return allowed == wantAllow
+	if allowed != wantAllow {
+		return mismatched
+	}
+	return matched
 }
 
 // loadIssued читает якорь и кросс-сертификаты непустых категорий, а при непустом only — только перечисленных.
