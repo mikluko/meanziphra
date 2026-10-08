@@ -58,6 +58,13 @@ jobs:
         if: steps.cut.outputs.due == 'true'
         run: go run ./cmd/mz -c config.release.yaml check
 
+      # Тег ставится до сборки: Go вшивает версию модуля из git, и сборка с тега должна дать тот же бинарник.
+      - name: Tag locally
+        if: steps.cut.outputs.due == 'true'
+        env:
+          TAG: ${{ steps.cut.outputs.tag }}
+        run: git tag "$TAG"
+
       - name: Build the binaries
         if: steps.cut.outputs.due == 'true'
         run: make binaries
@@ -76,13 +83,11 @@ jobs:
             build/mz-darwin-*
             build/*.sh
 
-      - name: Cut the tag
+      - name: Push the tag
         if: steps.cut.outputs.due == 'true'
         env:
           TAG: ${{ steps.cut.outputs.tag }}
-        run: |
-          git tag "$TAG"
-          git push origin "refs/tags/$TAG"
+        run: git push origin "refs/tags/$TAG"
 
       - name: Publish the release
         if: steps.cut.outputs.due == 'true'

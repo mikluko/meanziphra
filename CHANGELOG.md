@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+
+- Сборка `make binaries` с тега релиза совпадает с бинарником релиза: релиз собирается после того, как поставлен тег, и вшивает ту же версию модуля.
+
 ## [0.3.0] - 2026-10-08
 
 ### Added
