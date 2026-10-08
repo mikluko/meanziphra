@@ -39,11 +39,13 @@ curl -fsSL https://github.com/mikluko/meanziphra/releases/latest/download/instal
   базу в каждом профиле; в него импортируйте файлы из [бандла](#бандл-для-другого-компьютера) в
   **Настройки > Приватность и защита > Сертификаты**.
 
-Удаление всех сертификатов якоря:
+Удаление всех сертификатов якоря на Mac:
 
 ```sh
 curl -fsSL https://github.com/mikluko/meanziphra/releases/latest/download/uninstall.sh | bash
 ```
+
+На Linux удаляет `mz uninstall` или `uninstall.sh` из бандла.
 
 ### Программой mz
 
