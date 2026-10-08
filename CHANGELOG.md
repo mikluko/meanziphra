@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-10-08
+
+### Changed
+
+- В категорию `banks` добавлен 1 домен, удалённых доменов нет.
+
 ### Added
 
 - Команды `fetch`, `update`, `issue`, `check`, `install` и `uninstall`.
@@ -20,3 +26,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `config.example.yaml` описывает все поля конфига.
 
 [Unreleased]: https://github.com/mikluko/meanziphra/commits/main
+[0.1.0]: https://github.com/mikluko/meanziphra/releases/tag/v0.1.0+20261008
