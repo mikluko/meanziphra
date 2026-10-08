@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0] - 2026-10-08
+
 ### Added
 
 - Программа `mz`: `mz install <категория>…` выпускает якорь и кросс-сертификаты на вашем Mac и ставит их, `mz uninstall` удаляет.
@@ -57,7 +59,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Релиз публикует `anchor.crt` и `cat-<категория>.crt`, выпущенные с эфемерным ключом, с аттестацией сборки.
 - `config.example.yaml` описывает все поля конфига.
 
-[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.3.0...HEAD
+[0.3.0]: https://github.com/mikluko/meanziphra/compare/v0.2.1...v0.3.0
 [0.2.1]: https://github.com/mikluko/meanziphra/compare/v0.2.0%2B20261008...v0.2.1
 [0.2.0]: https://github.com/mikluko/meanziphra/compare/v0.1.1%2B20261008...v0.2.0%2B20261008
 [0.1.1]: https://github.com/mikluko/meanziphra/compare/v0.1.0%2B20261008...v0.1.1%2B20261008
