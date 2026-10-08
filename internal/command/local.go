@@ -8,9 +8,11 @@ import (
 	"os/exec"
 	"path/filepath"
 	"slices"
+	"strings"
 
 	"github.com/mikluko/meanziphra/internal/config"
 	"github.com/mikluko/meanziphra/internal/keychain"
+	"github.com/mikluko/meanziphra/internal/mobileconfig"
 )
 
 // Select оставляет в c только категории names. Пустой names — ошибка со списком категорий,
@@ -40,10 +42,14 @@ func Select(c *config.Config, names []string) error {
 
 // Bundle выпускает в out якорь и кросс-сертификаты категорий c для c.Target и кладёт рядом install.sh
 // и uninstall.sh, которые ставят и удаляют их без сети: BundleScripts для macOS, LinuxScripts для Linux.
+// Для iOS вместо скриптов пишется профиль ProfileName.
 func Bundle(c *config.Config, out string, scripts fs.FS, w io.Writer) error {
 	c.Out = out
 	if err := Issue(c, w); err != nil {
 		return err
+	}
+	if c.Target == config.TargetIOS {
+		return writeProfile(c, w)
 	}
 	s := Script{AnchorName: c.Anchor.Name}
 	files := []string{filepath.Base(c.AnchorPath())}
@@ -120,4 +126,35 @@ func InstallLocal(c *config.Config, k keychain.Keychain, w io.Writer) error {
 		return err
 	}
 	return Install(c, k, nil, w)
+}
+
+// ProfileName — имя профиля конфигурации в бандле для iOS.
+const ProfileName = "meanziphra.mobileconfig"
+
+func writeProfile(c *config.Config, w io.Writer) error {
+	anchor, crosses, err := loadIssued(c, nil)
+	if err != nil {
+		return err
+	}
+	var names []string
+	for _, cat := range c.Categories {
+		if len(cat.Permit) > 0 {
+			names = append(names, cat.Name)
+		}
+	}
+	b, err := mobileconfig.Build(
+		"meanziphra: "+strings.Join(names, ", "),
+		"Якорь meanziphra и кросс-сертификаты корня Минцифры, ограниченные доменами категорий "+
+			strings.Join(names, ", ")+". После установки включите полное доверие якорю: Основные > "+
+			"Об этом устройстве > Доверие сертификатам.",
+		anchor, crosses)
+	if err != nil {
+		return err
+	}
+	path := filepath.Join(c.Path(c.Out), ProfileName)
+	if err := os.WriteFile(path, b, 0o644); err != nil {
+		return err
+	}
+	_, _ = fmt.Fprintf(w, "wrote %s\n", path)
+	return nil
 }

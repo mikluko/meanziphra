@@ -32,7 +32,7 @@ type Config struct {
 	FS fs.FS `yaml:"-"`
 	// Insecure разрешает держать ключ якоря в файле.
 	Insecure bool `yaml:"-"`
-	// Target — для какой системы выпускаются кросс-сертификаты: TargetMacOS или TargetLinux.
+	// Target — для какой системы выпускаются кросс-сертификаты: TargetMacOS, TargetLinux или TargetIOS.
 	Target string `yaml:"-"`
 }
 
@@ -284,6 +284,8 @@ const (
 	TargetMacOS = "macos"
 	// TargetLinux — один кросс-сертификат на корень: OpenSSL из нескольких берёт первый и других не пробует.
 	TargetLinux = "linux"
+	// TargetIOS — кросс-сертификаты как для macOS, упакованные в профиль конфигурации.
+	TargetIOS = "ios"
 )
 
 func (c *Config) AnchorPath() string {

@@ -26,8 +26,9 @@ commands for users:
   install [-key ref] [-insecure] [-keychain path] <category>... | all
              issue the anchor and crosses on this computer and install them: into the keychain on macOS,
              into the system trust store and ~/.pki/nssdb on Linux
-  bundle  [-key ref] [-insecure] [-target macos|linux] -o dir <category>... | all
-             issue into dir with install.sh and uninstall.sh to carry to another computer
+  bundle  [-key ref] [-insecure] [-target macos|linux|ios] -o dir <category>... | all
+             issue into dir with install.sh and uninstall.sh to carry to another computer,
+             or with meanziphra.mobileconfig for iOS
   uninstall [-keychain path]
              remove every certificate of this anchor from the keychain
 
@@ -72,7 +73,7 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 	out := fl.String("o", "", "bundle output directory")
 	tag := fl.String("tag", "", "release tag written into the scripts by render")
 	insecure := fl.Bool("insecure", false, "allow an anchor key file and skip the swap encryption check")
-	target := fl.String("target", config.TargetMacOS, "bundle target system: macos or linux")
+	target := fl.String("target", config.TargetMacOS, "bundle target system: macos, linux or ios")
 	if err := fl.Parse(args); err != nil {
 		return err
 	}
@@ -111,8 +112,10 @@ func run(cmd string, args []string, cfgPath string, w io.Writer) error {
 		if *out == "" {
 			return fmt.Errorf("bundle needs -o dir")
 		}
-		if *target != config.TargetMacOS && *target != config.TargetLinux {
-			return fmt.Errorf("unknown -target %q: want macos or linux", *target)
+		switch *target {
+		case config.TargetMacOS, config.TargetLinux, config.TargetIOS:
+		default:
+			return fmt.Errorf("unknown -target %q: want macos, linux or ios", *target)
 		}
 		if err := command.Select(c, fl.Args()); err != nil {
 			return err

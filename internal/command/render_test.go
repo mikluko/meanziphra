@@ -135,3 +135,24 @@ func TestBundle_Linux(t *testing.T) {
 		t.Errorf("sums = %q", lines[1:])
 	}
 }
+
+func TestBundle_IOS(t *testing.T) {
+	c := issueConfig(t, "")
+	c.Target = config.TargetIOS
+	out := t.TempDir()
+	if err := Bundle(c, out, fstest.MapFS{}, io.Discard); err != nil {
+		t.Fatal(err)
+	}
+	b, err := os.ReadFile(filepath.Join(out, ProfileName))
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, want := range []string{"com.apple.security.root", "com.apple.security.pkcs1", "meanziphra: banks"} {
+		if !strings.Contains(string(b), want) {
+			t.Errorf("profile lacks %q", want)
+		}
+	}
+	if _, err := os.Stat(filepath.Join(out, "install.sh")); !os.IsNotExist(err) {
+		t.Errorf("ios bundle got install.sh: %v", err)
+	}
+}
