@@ -101,8 +101,10 @@ Renovate (зависимости).
 **Стек** (stack, `gh stack`). Цепочка PR, где каждый основан на предыдущем. Сливается атомарно: либо
 все PR, либо ни один.
 
-**Релиз** (release, тег `vA.B.C`). Бинарники `mz` для macOS и Linux и скрипты `install.sh` и
-`uninstall.sh`. Готовых сертификатов в релизе нет: якорь пользователь выпускает самостоятельно.
+**Релиз** (release, тег `vA.B.C`). Бинарники `mz` для macOS и Linux, скрипты `install.sh` и
+`uninstall.sh` и готовые бандлы `meanziphra-macos.zip`, `meanziphra-linux.zip` и
+`meanziphra.mobileconfig` со всеми категориями. Через `install.sh` и `mz` якорь пользователь выпускает
+самостоятельно; в готовом бандле якорь выпущен в GitHub Actions.
 
 **Аттестация** (attestation). Подпись GitHub, которая связывает файл релиза с коммитом и workflow,
 собравшими его. Проверяется `gh attestation verify`.

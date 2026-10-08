@@ -49,7 +49,7 @@ jobs:
       - if: steps.cut.outputs.due == 'true'
         run: go test ./...
 
-      # Сертификаты выпускаются только для проверки и в релиз не попадают: якорь пользователь выпускает сам.
+      # Сертификаты здесь выпускаются только для проверки.
       - name: Issue the certificates
         if: steps.cut.outputs.due == 'true'
         run: go run ./cmd/mz -c config.release.yaml issue -insecure
@@ -75,6 +75,19 @@ jobs:
           TAG: ${{ steps.cut.outputs.tag }}
         run: go run ./cmd/mz -c config.release.yaml render -tag "$TAG"
 
+      # Готовые бандлы выпускаются эфемерным ключом раннера: -key не задан, а -insecure только снимает
+      # проверку подкачки, которую на Linux-раннере выполнить нечем. У каждого бандла свой якорь.
+      - name: Build the prebuilt bundles
+        if: steps.cut.outputs.due == 'true'
+        run: |
+          go run ./cmd/mz bundle -insecure -target macos -o build/meanziphra-macos all
+          go run ./cmd/mz bundle -insecure -target linux -o build/meanziphra-linux all
+          go run ./cmd/mz bundle -insecure -target ios -o build/meanziphra-ios all
+          cd build
+          zip -qr meanziphra-macos.zip meanziphra-macos
+          zip -qr meanziphra-linux.zip meanziphra-linux
+          cp meanziphra-ios/meanziphra.mobileconfig .
+
       - name: Attest the release files
         if: steps.cut.outputs.due == 'true'
         uses: actions/attest-build-provenance@v4
@@ -82,6 +95,8 @@ jobs:
           subject-path: |
             build/mz-*
             build/*.sh
+            build/meanziphra-*.zip
+            build/meanziphra.mobileconfig
 
       - name: Push the tag
         if: steps.cut.outputs.due == 'true'
@@ -101,4 +116,4 @@ jobs:
             printf 'Список доменов на %s.\n\n' "$DATE"
             printf '%s\n' "$NOTES"
           } >"$RUNNER_TEMP/notes.md"
-          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/mz-* build/*.sh
+          gh release create "$TAG" --title "$TAG" --notes-file "$RUNNER_TEMP/notes.md" build/mz-* build/*.sh build/meanziphra-*.zip build/meanziphra.mobileconfig

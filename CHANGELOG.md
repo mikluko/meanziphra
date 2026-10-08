@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Релиз снова публикует готовые бандлы со всеми категориями: `meanziphra-macos.zip`, `meanziphra-linux.zip` и `meanziphra.mobileconfig`.
 - `mz bundle -target ios` собирает профиль конфигурации `meanziphra.mobileconfig` для iPhone и iPad.
 
 ## [0.4.0] - 2026-10-08
