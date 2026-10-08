@@ -1,0 +1,31 @@
+name: Renovate
+
+# Раз в день ищет обновления зависимостей и открывает PR с меткой bot от имени GitHub App.
+on:
+  schedule:
+    - cron: "47 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: renovate
+  cancel-in-progress: false
+
+jobs:
+  renovate:
+    runs-on: ubuntu-latest
+    steps:
+      - id: app
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ vars.APP_CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      - uses: renovatebot/github-action@v46.3.7
+        env:
+          RENOVATE_REPOSITORIES: ${{ github.repository }}
+          RENOVATE_ONBOARDING: "false"
+          RENOVATE_PLATFORM_COMMIT: enabled
+        with:
+          token: ${{ steps.app.outputs.token }}
