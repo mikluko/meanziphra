@@ -8,6 +8,6 @@ require (
 )
 
 require (
-	golang.org/x/crypto v0.48.0 // indirect
+	golang.org/x/crypto v0.56.0 // indirect
 	google.golang.org/protobuf v1.36.12 // indirect
 )
