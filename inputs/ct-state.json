@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11051,
+    "https://27.ctlog.digital.gov.ru/2027/": 11209,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 11552
+    "https://ctlog2027.mail.ru/nca2027/": 11713
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -2169,6 +2169,12 @@
       "inn": "7744000912",
       "ogrn": "1027739019142"
     },
+    "admin.mdm.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "admin.message-relay.ru": {
       "not_after": "2027-01-03"
     },
@@ -2423,6 +2429,9 @@
       "org": "ООО РИХ",
       "inn": "7725243282",
       "ogrn": "1037725059800"
+    },
+    "adygea.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "adygea.megafon.ru": {
       "not_after": "2026-12-28"
@@ -3175,11 +3184,14 @@
       "inn": "7719165935",
       "ogrn": "1027739490415"
     },
+    "alania.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "alania.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
     "alania.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-06"
     },
     "alania.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -3634,6 +3646,9 @@
     "altastroy-nn.ru": {
       "not_after": "2027-08-24"
     },
+    "altay.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "altay.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -3643,11 +3658,14 @@
     "altay.staging.megafon.ru": {
       "not_after": "2026-12-10"
     },
+    "altrep.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "altrep.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
     "altrep.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-06"
     },
     "altrep.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -3732,6 +3750,9 @@
       "org": "Администрация Мясниковского района",
       "inn": "6122003673",
       "ogrn": "1026101312852"
+    },
+    "amur.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "amur.drsk.ru": {
       "not_after": "2027-04-24",
@@ -3921,9 +3942,6 @@
       "org": "ООО «АНСАП»",
       "inn": "9722096629",
       "ogrn": "1257700174456"
-    },
-    "antonenkov-art.ru": {
-      "not_after": "2026-10-08"
     },
     "antonylexar.ru": {
       "not_after": "2026-10-29"
@@ -4217,8 +4235,8 @@
       "ogrn": "1147746831352"
     },
     "api-sberpass.privetmir.ru": {
-      "not_after": "2026-10-20",
-      "org": "JSC NSPK",
+      "not_after": "2027-10-08",
+      "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
@@ -5917,6 +5935,9 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "arhangelsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "arhangelsk.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -6294,6 +6315,9 @@
       "org": "Astrakhovanie JSC",
       "inn": "9725190316",
       "ogrn": "1257700354350"
+    },
+    "astrakhan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "astrakhan.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -7168,12 +7192,6 @@
       "inn": "5247051889",
       "ogrn": "1135247000184"
     },
-    "autodiscover.api.hightracker.pro": {
-      "not_after": "2026-10-08",
-      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ХАЙ ТРЕКЕР",
-      "inn": "3900027191",
-      "ogrn": "1243900007317"
-    },
     "autodiscover.api.mobilecheck.pro": {
       "not_after": "2027-06-25",
       "org": "LLC MOBILE CHECK",
@@ -7827,12 +7845,6 @@
       "org": "ПАО СОЛЛЕРС",
       "inn": "3528079131",
       "ogrn": "1023501244524"
-    },
-    "autodiscover.kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
     },
     "autodiscover.kzn-vpn01.sovcombank.group": {
       "not_after": "2026-11-07",
@@ -9757,6 +9769,9 @@
       "inn": "7725088527",
       "ogrn": "1027700076051"
     },
+    "balashiha.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "balashiha.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -10102,6 +10117,9 @@
       "inn": "0275038496",
       "ogrn": "1020202770642"
     },
+    "bashkortostan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "bashkortostan.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -10396,6 +10414,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "bel.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "bel.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -10416,6 +10437,9 @@
     },
     "belon.ru": {
       "not_after": "2026-10-29"
+    },
+    "beloyarsky.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "beloyarsky.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -11481,9 +11505,6 @@
       "inn": "2222838654",
       "ogrn": "1152223011335"
     },
-    "bitdv.ru": {
-      "not_after": "2026-10-08"
-    },
     "bitools.sovcombank.ru": {
       "not_after": "2027-06-12",
       "org": "PJSC SOVCOMBANK",
@@ -12108,6 +12129,9 @@
       "inn": "7727718421",
       "ogrn": "1107746390949"
     },
+    "brn.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "brn.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -12453,6 +12477,9 @@
       "inn": "0326010276",
       "ogrn": "1020300982129"
     },
+    "buryatia.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "buryatia.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -12680,12 +12707,6 @@
       "org": "АО НПП АЛМАЗ",
       "inn": "6453119615",
       "ogrn": "1116453009155"
-    },
-    "bx24.kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
     },
     "bxapi.sberdevices.ru": {
       "not_after": "2027-10-02",
@@ -15087,6 +15108,9 @@
       "inn": "9102019769",
       "ogrn": "1149102030186"
     },
+    "cheb.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "cheb.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -15095,6 +15119,9 @@
       "org": "ADMINISTRACIYA CHEBARKULSKOGO GORODSKOGO OKRUGA",
       "inn": "7420001828",
       "ogrn": "1027401141360"
+    },
+    "chechnya.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "chechnya.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -15216,6 +15243,9 @@
       "inn": "7453019764",
       "ogrn": "1027403857568,"
     },
+    "chel.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "chel.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -15293,6 +15323,9 @@
       "org": "АО ЧИП и ДИП",
       "inn": "7729108750",
       "ogrn": "1027700271807"
+    },
+    "chita.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "chita.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -15919,7 +15952,7 @@
       "ogrn": "1077847632818"
     },
     "cloud.inforion.ru": {
-      "not_after": "2026-10-14"
+      "not_after": "2027-01-06"
     },
     "cloud.ipfran.ru": {
       "not_after": "2027-07-15",
@@ -15932,12 +15965,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "cloud.kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
     },
     "cloud.leslenobl.ru": {
       "not_after": "2027-09-15",
@@ -18754,6 +18781,9 @@
       "inn": "7707049388",
       "ogrn": "1027700198767"
     },
+    "dagestan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "dagestan.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -19897,6 +19927,12 @@
       "inn": "7706810730",
       "ogrn": "1147746683468"
     },
+    "dev.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "dev.cnp.mosreg.ru": {
       "not_after": "2027-09-01",
       "org": "GKU MO CIB MO",
@@ -20073,6 +20109,9 @@
       "org": "GKU MO CIB MO",
       "inn": "5024203640",
       "ogrn": "1205000024316"
+    },
+    "dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "dev.int.fine.sberdevices.ru": {
       "not_after": "2027-07-03",
@@ -21706,6 +21745,9 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
+    "dmitrov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "dmitrov.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -22753,6 +22795,9 @@
       "inn": "7705136973",
       "ogrn": "1027700339666"
     },
+    "dubna.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "dubna.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -23021,6 +23066,9 @@
       "inn": "7710878000",
       "ogrn": "1107746943347"
     },
+    "eao.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "eao.drsk.ru": {
       "not_after": "2027-04-24",
       "org": "АО ДРСК",
@@ -23137,6 +23185,9 @@
       "org": "АО \"ЦБТ\"",
       "inn": "9705169387",
       "ogrn": "1227700243748"
+    },
+    "eburg.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "eburg.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -24067,9 +24118,6 @@
       "org": "ФГБУ НМИЦ АГП ИМ. В.И.КУЛАКОВА МИНЗДРАВА РОССИИ",
       "inn": "7728094832",
       "ogrn": "1027700510672"
-    },
-    "ekonomych.ru": {
-      "not_after": "2026-10-08"
     },
     "ekvant.baltinvest.com": {
       "not_after": "2027-04-24",
@@ -27109,12 +27157,6 @@
       "inn": "6147025090",
       "ogrn": "1066147003658"
     },
-    "fkr26.ru": {
-      "not_after": "2026-10-08",
-      "org": "26 Ставропольский край СК ФОНД КАПИТАЛЬНОГО РЕМОНТА",
-      "inn": "2636808125",
-      "ogrn": "1132651033140"
-    },
     "fkr38.ru": {
       "not_after": "2026-12-17",
       "org": "ФКР МКД ИРКУТСКОЙ ОБЛАСТИ",
@@ -27255,6 +27297,9 @@
       "org": "ФГБУ Центр Агроаналитики",
       "inn": "7703052492",
       "ogrn": "1027739313788"
+    },
+    "fokino.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "fokino.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -30068,6 +30113,9 @@
       "inn": "7451310939",
       "ogrn": "1107451016860"
     },
+    "gubkin.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "gubkin.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -30189,7 +30237,7 @@
       "ogrn": "1117746533926"
     },
     "gw-portal-ext.megafon.ru": {
-      "not_after": "2026-11-29"
+      "not_after": "2027-01-06"
     },
     "gw-portal-ext.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -30446,6 +30494,9 @@
     },
     "hair-boutique.ru": {
       "not_after": "2027-09-03"
+    },
+    "hakas.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "hakas.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -32218,7 +32269,7 @@
       "ogrn": "1027809183995"
     },
     "ibmobile.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "ibr.delo.ru": {
       "not_after": "2027-07-09",
@@ -33979,7 +34030,7 @@
       "not_after": "2026-10-14"
     },
     "inf-mtm.inforion.ru": {
-      "not_after": "2026-10-14"
+      "not_after": "2027-01-06"
     },
     "inf-wekan.inforion.ru": {
       "not_after": "2027-01-04"
@@ -34214,6 +34265,9 @@
       "org": "Страховое публичное акционерное общество «Ингосстрах»",
       "inn": "7705042179",
       "ogrn": "1027739362474"
+    },
+    "ingushetia.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "ingushetia.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -35143,7 +35197,7 @@
       "ogrn": "1027739609391"
     },
     "ips.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "ipsle.openapi.rosbank.ru": {
       "not_after": "2027-06-18",
@@ -35152,7 +35206,7 @@
       "ogrn": "1027739642281"
     },
     "ipsmp.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "ipsnok.ru": {
       "not_after": "2027-08-07"
@@ -35279,6 +35333,9 @@
       "org": "ПАО ЯКОВЛЕВ",
       "inn": "3807002509",
       "ogrn": "1023801428111"
+    },
+    "irkutsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "irkutsk.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -35661,6 +35718,9 @@
       "inn": "6501021443",
       "ogrn": "1026500002286"
     },
+    "iv.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "iv.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -35762,6 +35822,9 @@
       "org": "School-21",
       "inn": "1831198633",
       "ogrn": "1201800010565"
+    },
+    "izobilniy.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "izobilniy.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -36333,6 +36396,9 @@
       "inn": "1832090230",
       "ogrn": "1111832003018"
     },
+    "kaliningrad.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kaliningrad.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -36348,6 +36414,9 @@
       "inn": "6142005365",
       "ogrn": "1026101887228"
     },
+    "kalitva.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kalitva.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -36362,6 +36431,9 @@
       "org": "Минстрой Республики Калмыкия",
       "inn": "0814166710",
       "ogrn": "1050866796133"
+    },
+    "kalmykia.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "kalmykia.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -36396,6 +36468,9 @@
       "inn": "1650032058",
       "ogrn": "1021602013971"
     },
+    "kamchatka.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kamchatka.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -36422,6 +36497,9 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
+    },
+    "kanash.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "kanash.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -36459,6 +36537,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "karelia.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "karelia.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -36467,9 +36548,6 @@
     },
     "karelia.staging.megafon.ru": {
       "not_after": "2026-12-10"
-    },
-    "karkasdvor.ru": {
-      "not_after": "2026-10-08"
     },
     "karma.gazprombank.investments": {
       "not_after": "2027-06-25",
@@ -36699,6 +36777,9 @@
       "inn": "7105514574",
       "ogrn": "1117154036911"
     },
+    "kbr.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kbr.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -36755,6 +36836,9 @@
       "org": "VEB",
       "inn": "7750004150",
       "ogrn": "1077711000102"
+    },
+    "kchr.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "kchr.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -36833,6 +36917,9 @@
       "org": "Public Joint-Stock Company Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "kem.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "kem.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -37083,8 +37170,14 @@
       "inn": "1901121940",
       "ogrn": "1141901005278"
     },
+    "khanty-mansiysk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "khanty-mansiysk.home.megafon.ru": {
       "not_after": "2027-01-02"
+    },
+    "khb.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "khb.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -37254,6 +37347,9 @@
       "inn": "7707179242",
       "ogrn": "1027700003924"
     },
+    "kirov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kirov.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -37323,6 +37419,9 @@
       "inn": "4029043149",
       "ogrn": "1104029000976"
     },
+    "klg.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "klg.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -37331,6 +37430,9 @@
     },
     "klg.staging.megafon.ru": {
       "not_after": "2026-12-10"
+    },
+    "klin.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "klin.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -37464,6 +37566,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "kogalym.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kogalym.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -37493,6 +37598,9 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
+    },
+    "komi.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "komi.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -37650,6 +37758,9 @@
     "koriphey.sberclass.ru": {
       "not_after": "2026-11-08"
     },
+    "korolev.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "korolev.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -37742,6 +37853,9 @@
       "org": "Public Joint-Stock Company Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "kras.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "kras.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -37878,6 +37992,9 @@
       "inn": "7534010150",
       "ogrn": "1047550000695"
     },
+    "ks.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "ks.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -37977,6 +38094,9 @@
       "inn": "5038111252",
       "ogrn": "1155038000765"
     },
+    "kstr.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kstr.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -38012,12 +38132,6 @@
     },
     "kuban.rspp.ru": {
       "not_after": "2026-12-31"
-    },
-    "kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
     },
     "kubank.ru": {
       "not_after": "2026-12-01",
@@ -38094,8 +38208,14 @@
       "inn": "7017098420",
       "ogrn": "1047000162330"
     },
+    "kurchatov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "kurchatov.home.megafon.ru": {
       "not_after": "2027-01-02"
+    },
+    "kurgan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "kurgan.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -38409,6 +38529,9 @@
       "inn": "6608003052",
       "ogrn": "1026600000460"
     },
+    "langepas.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "langepas.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -38465,6 +38588,15 @@
       "org": "АО АВИАКОМПАНИЯ СИБИРЬ",
       "inn": "5448100656",
       "ogrn": "1025405624430"
+    },
+    "lbsoft.ru": {
+      "not_after": "2027-10-08",
+      "org": "ООО ЛБСОФТ",
+      "inn": "7707460326",
+      "ogrn": "1217700616803"
+    },
+    "lc.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "lc.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -40011,6 +40143,9 @@
       "inn": "2310031475",
       "ogrn": "1022301598549"
     },
+    "lobnya.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "lobnya.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -40108,7 +40243,7 @@
       "not_after": "2026-10-20"
     },
     "login.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "login.cs7777.vk.com": {
       "not_after": "2027-07-15",
@@ -40752,6 +40887,9 @@
     "lynx-texts.ru": {
       "not_after": "2026-10-20"
     },
+    "lyubercy.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "lyubercy.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -41133,6 +41271,9 @@
       "inn": "9713033887",
       "ogrn": "1267700057558"
     },
+    "magadan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "magadan.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -41405,12 +41546,6 @@
       "org": "АО «Концерн ВКО «Алмаз – Антей»",
       "inn": "7731084175",
       "ogrn": "1027739001993"
-    },
-    "mail.api.hightracker.pro": {
-      "not_after": "2026-10-08",
-      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ХАЙ ТРЕКЕР",
-      "inn": "3900027191",
-      "ogrn": "1243900007317"
     },
     "mail.api.mobilecheck.pro": {
       "not_after": "2027-06-25",
@@ -42308,12 +42443,6 @@
       "org": "KGKU KTU",
       "inn": "2464124761",
       "ogrn": "1162468052284"
-    },
-    "mail.kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
     },
     "mail.kuizo.ru": {
       "not_after": "2027-01-20",
@@ -44148,6 +44277,9 @@
       "inn": "1215165815",
       "ogrn": "1121215005636"
     },
+    "mariel.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "mariel.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -44234,6 +44366,12 @@
       "org": "Joint Stock Company «Housing Finance Bank»",
       "inn": "7709056550",
       "ogrn": "1027739098639"
+    },
+    "marketplace.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "marketplace.dar-cert.di-space.ru": {
       "not_after": "2027-10-07",
@@ -44542,7 +44680,7 @@
       "ogrn": "1027700067328"
     },
     "mbf.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "mbint.alfabank.ru": {
       "not_after": "2027-04-29",
@@ -44856,6 +44994,18 @@
     "mdm-dev.megafon.ru": {
       "not_after": "2026-12-10"
     },
+    "mdm.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "mdm.dev.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "mdm.ocs.ru": {
       "not_after": "2026-10-28"
     },
@@ -45142,8 +45292,8 @@
       "ogrn": "1028600599807"
     },
     "meet.cloud.ru": {
-      "not_after": "2027-07-29",
-      "org": "ООО Облачные технологии",
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
@@ -46008,6 +46158,12 @@
       "inn": "9705169387",
       "ogrn": "1227700243748"
     },
+    "migration.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "migration.mcs-cloud.ru": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -46398,6 +46554,12 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "mk8s.api.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "mkb-am.ru": {
       "not_after": "2027-08-03",
       "org": "Management company MKB Investments Limited",
@@ -46540,8 +46702,14 @@
       "ogrn": "1116453009155"
     },
     "mm.cloud.ru": {
-      "not_after": "2027-07-29",
-      "org": "ООО Облачные технологии",
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "mm.dev.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
@@ -46593,8 +46761,20 @@
     "mmm.preprod-cdn.edgecenter.online": {
       "not_after": "2026-12-31"
     },
+    "mmpatest-bjwks.nspk.ru": {
+      "not_after": "2027-10-08",
+      "org": "АО НСПК",
+      "inn": "7706812159",
+      "ogrn": "1147746831352"
+    },
     "mmpatest-bnk.nspk.ru": {
-      "not_after": "2027-06-12",
+      "not_after": "2027-10-08",
+      "org": "АО НСПК",
+      "inn": "7706812159",
+      "ogrn": "1147746831352"
+    },
+    "mmpatest-btnc.nspk.ru": {
+      "not_after": "2027-10-08",
       "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
@@ -46605,8 +46785,14 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "mmpatest-testing.nspk.ru": {
+      "not_after": "2027-10-08",
+      "org": "АО НСПК",
+      "inn": "7706812159",
+      "ogrn": "1147746831352"
+    },
     "mmpatest-tsp.nspk.ru": {
-      "not_after": "2027-06-12",
+      "not_after": "2027-10-08",
       "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
@@ -46808,12 +46994,6 @@
       "org": "PJSC MegaFon",
       "inn": "7812014560",
       "ogrn": "1027809169585"
-    },
-    "mobidgtw-t.rt.ru": {
-      "not_after": "2026-10-08",
-      "org": "PJSC Rostelecom",
-      "inn": "7707049388",
-      "ogrn": "1027700198767"
     },
     "mobifitness.ru": {
       "not_after": "2027-06-24",
@@ -47325,6 +47505,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "mordovia.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "mordovia.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -47378,6 +47561,9 @@
       "org": "Moskomsviyz",
       "inn": "7717599630",
       "ogrn": "1077760297548"
+    },
+    "moscow.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "moscow.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -48243,12 +48429,6 @@
       "inn": "4025000218",
       "ogrn": "1024000952744"
     },
-    "mt-dev.psbank.ru": {
-      "not_after": "2026-10-08",
-      "org": "Bank PSB PJSC",
-      "inn": "7744000912",
-      "ogrn": "1027739019142"
-    },
     "mt-plan.ru": {
       "not_after": "2026-10-20"
     },
@@ -48351,6 +48531,9 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
+    "mtsensk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "mtsensk.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -48449,6 +48632,9 @@
       "org": "Murmansk Regional Puppet Theater",
       "inn": "5191500265",
       "ogrn": "1035100156937"
+    },
+    "murmansk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "murmansk.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -49477,6 +49663,9 @@
       "inn": "7717719144",
       "ogrn": "1127746123966"
     },
+    "n-urengoy.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "n-urengoy.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -49563,6 +49752,9 @@
       "org": "Общество с ограниченной ответственностью Энроллми.ру",
       "inn": "9731001454",
       "ogrn": "1187746457249"
+    },
+    "naryshkino.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "naryshkino.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -49756,6 +49948,9 @@
       "inn": "9714053621",
       "ogrn": "1247700471919"
     },
+    "nefteyugansk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "nefteyugansk.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -49926,6 +50121,9 @@
       "org": "Renaissance Broker LLC",
       "inn": "7709258228",
       "ogrn": "1027739121981"
+    },
+    "newcheb.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "newcheb.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -50374,6 +50572,9 @@
       "inn": "5260495347",
       "ogrn": "1245200014872"
     },
+    "nn.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "nn.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -50634,6 +50835,9 @@
       "org": "ООО НОВАТЭК-Кострома",
       "inn": "4401017834",
       "ogrn": "1024400511794"
+    },
+    "novgorod.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "novgorod.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -50922,6 +51126,9 @@
       "org": "Mobile TeleSystems Public Joint Stock Company",
       "inn": "7740000076",
       "ogrn": "1027700149124"
+    },
+    "nsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "nsk.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -51216,6 +51423,9 @@
     },
     "nya.edgecenter.online": {
       "not_after": "2026-11-30"
+    },
+    "nyagan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "nyagan.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -52047,6 +52257,9 @@
       "org": "School-21",
       "inn": "5507281703",
       "ogrn": "1215500000870"
+    },
+    "omsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "omsk.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -53053,6 +53266,9 @@
       "inn": "5610151539",
       "ogrn": "1135658002567"
     },
+    "orenburg.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "orenburg.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -53230,6 +53446,9 @@
       "inn": "9704113582",
       "ogrn": "1227700018996"
     },
+    "orl.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "orl.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -53349,6 +53568,9 @@
       "org": "ООО \"ОСГ Рекордз Менеджмент Центр\"",
       "inn": "7713635976",
       "ogrn": "1077761966413"
+    },
+    "osk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "osk.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -53610,12 +53832,6 @@
       "org": "AlfaStrakhovanie PLC",
       "inn": "7713056834",
       "ogrn": "1027739431730"
-    },
-    "owa.api.hightracker.pro": {
-      "not_after": "2026-10-08",
-      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ХАЙ ТРЕКЕР",
-      "inn": "3900027191",
-      "ogrn": "1243900007317"
     },
     "owa.api.mobilecheck.pro": {
       "not_after": "2027-06-25",
@@ -54153,12 +54369,6 @@
       "org": "Kept Limited Liability Company",
       "inn": "7703816719",
       "ogrn": "1147746973637"
-    },
-    "owa.kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
     },
     "owa.kzn-vpn01.sovcombank.group": {
       "not_after": "2026-11-07",
@@ -55678,6 +55888,12 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "partners.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "partners.cyberprotect.ru": {
       "not_after": "2027-07-15",
       "org": "ООО Киберпротект",
@@ -55925,7 +56141,7 @@
       "ogrn": "1027700067328"
     },
     "pay.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "pay.creditural.ru": {
       "not_after": "2027-06-23",
@@ -56488,6 +56704,30 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "pd01-vcd-01.dev.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "pd51-08-iam.gis.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "pd51-08-portal.gis.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "pd51-rplat-web-04.gis.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "pd51-rplat-web-04.gis.mng.cloud.ru": {
       "not_after": "2027-10-08",
       "org": "Cloud.ru LLC",
@@ -56565,6 +56805,9 @@
       "org": "Center-invest Bank",
       "inn": "6163011391",
       "ogrn": "1026100001949"
+    },
+    "penza.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "penza.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -56661,6 +56904,9 @@
       "org": "School-21",
       "inn": "5902071305",
       "ogrn": "1255900005261"
+    },
+    "perm.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "perm.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -57603,6 +57849,9 @@
     "poisk.megafon.ru": {
       "not_after": "2026-12-28"
     },
+    "pokachi.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "pokachi.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -58188,6 +58437,9 @@
       "inn": "5406121446",
       "ogrn": "1025402459334"
     },
+    "poykovsky.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "poykovsky.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -58664,6 +58916,9 @@
       "org": "КГКУ ИТЦ Приморского края",
       "inn": "2540202566",
       "ogrn": "1142540004640"
+    },
+    "prim.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "prim.drsk.ru": {
       "not_after": "2027-04-24",
@@ -59985,6 +60240,9 @@
       "inn": "2539013067",
       "ogrn": "1022500001061"
     },
+    "pskov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "pskov.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -60832,7 +61090,7 @@
       "ogrn": "1022301598549"
     },
     "qr.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "qr.bilet.nspk.ru": {
       "not_after": "2027-06-12",
@@ -62046,6 +62304,9 @@
     "rame0.ru": {
       "not_after": "2026-12-25"
     },
+    "ramensk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "ramensk.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -62862,17 +63123,11 @@
       "inn": "2543111589",
       "ogrn": "1172536015508"
     },
-    "remicity.ru": {
-      "not_after": "2026-10-08"
-    },
     "remind.ru": {
       "not_after": "2027-08-07",
       "org": "АО СТРАХОВОЙ БРОКЕР РЕМАЙНД",
       "inn": "7714106679",
       "ogrn": "1027700012933"
-    },
-    "remipromo.ru": {
-      "not_after": "2026-10-08"
     },
     "remote-config.rustore.ru": {
       "not_after": "2027-07-15",
@@ -63223,7 +63478,7 @@
       "ogrn": "1097746264186"
     },
     "rev.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "rev2.avangard.ru": {
       "not_after": "2026-11-09"
@@ -64017,6 +64272,9 @@
       "inn": "3528007105",
       "ogrn": "1023501237330"
     },
+    "rostov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "rostov.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -64652,7 +64910,7 @@
       "not_after": "2026-11-08"
     },
     "rus.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "rus.zakupki44fz.ru": {
       "not_after": "2026-12-15",
@@ -65034,6 +65292,9 @@
       "org": "ANO Obrazovanie 62",
       "inn": "6200011770",
       "ogrn": "1256200001001"
+    },
+    "rzn.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "rzn.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -65593,6 +65854,9 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
+    "sakha.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "sakha.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -65686,6 +65950,9 @@
       "inn": "7708274185",
       "ogrn": "5157746100716"
     },
+    "salsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "salsk.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -65730,6 +65997,9 @@
       "org": "АО СМЗ",
       "inn": "6310000160",
       "ogrn": "1026300763389"
+    },
+    "samara.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "samara.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -65910,6 +66180,9 @@
       "org": "ООО ИК «СИБИНТЕК»",
       "inn": "7708119944",
       "ogrn": "1027700251314"
+    },
+    "saratov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "saratov.gov.ru": {
       "not_after": "2026-11-01",
@@ -66668,8 +66941,8 @@
       "ogrn": "1027700132195"
     },
     "sberpass.privetmir.ru": {
-      "not_after": "2026-10-20",
-      "org": "JSC NSPK",
+      "not_after": "2027-10-08",
+      "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
@@ -67171,12 +67444,6 @@
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
-    "sc-int.digital.gov.ru": {
-      "not_after": "2026-10-08",
-      "org": "The Ministry of Digital Development and Communications",
-      "inn": "7710474375",
-      "ogrn": "1047702026701"
-    },
     "sc-omni-sberapi-st.spasibosb.ru": {
       "not_after": "2026-12-02",
       "org": "JSC Centre of Loyalty Programs",
@@ -67194,12 +67461,6 @@
       "org": "Министерство цифрового развития Республики Алтай",
       "inn": "0411139376",
       "ogrn": "1080411004410"
-    },
-    "sc.digital.gov.ru": {
-      "not_after": "2026-10-08",
-      "org": "The Ministry of Digital Development and Communications",
-      "inn": "7710474375",
-      "ogrn": "1047702026701"
     },
     "sc.mari-el.gov.ru": {
       "not_after": "2027-02-25",
@@ -68416,6 +68677,9 @@
       "inn": "9715292478",
       "ogrn": "1177746132563"
     },
+    "serpuhov.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "serpuhov.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -68450,7 +68714,7 @@
       "not_after": "2027-08-28"
     },
     "service.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "service.gazprombank.ru": {
       "not_after": "2027-06-18",
@@ -68996,7 +69260,7 @@
       "ogrn": "1026101931833"
     },
     "shop.avangard.ru": {
-      "not_after": "2026-10-15"
+      "not_after": "2027-01-06"
     },
     "shop.fc-zenit.ru": {
       "not_after": "2027-07-31",
@@ -69042,6 +69306,9 @@
       "org": "OMK",
       "inn": "5247051889",
       "ogrn": "1135247000184"
+    },
+    "shumerlya.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "shumerlya.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -69682,6 +69949,9 @@
       "inn": "7705513090",
       "ogrn": "1047705036939"
     },
+    "skh.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "skh.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -70170,6 +70440,9 @@
       "org": "ФГУП ГлавНИВЦ УДП РФ",
       "inn": "7704030780",
       "ogrn": "1027739667614"
+    },
+    "sml.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "sml.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -70714,6 +70987,9 @@
       "inn": "7734737129",
       "ogrn": "5147746337470"
     },
+    "sochi.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "sochi.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -70887,6 +71163,9 @@
       "org": "ООО СОЛЛЕРС АЛАБУГА",
       "inn": "1674002165",
       "ogrn": "1221600050638"
+    },
+    "solnechnogorsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "solnechnogorsk.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -71260,6 +71539,9 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
+    "sovetsky.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "sovetsky.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -71613,6 +71895,9 @@
       "org": "Mobile TeleSystems Public Joint Stock Company",
       "inn": "7740000076",
       "ogrn": "1027700149124"
+    },
+    "spb.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "spb.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -72335,7 +72620,7 @@
       "not_after": "2027-01-06"
     },
     "srvchat.uspekh.ru": {
-      "not_after": "2026-10-21"
+      "not_after": "2027-01-07"
     },
     "ss.svm.psb.services": {
       "not_after": "2027-06-25",
@@ -74125,6 +74410,9 @@
       "inn": "2634011856",
       "ogrn": "1022601978607"
     },
+    "stavropol.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "stavropol.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -74983,6 +75271,9 @@
       "inn": "8602307587",
       "ogrn": "1228600007976"
     },
+    "surgut.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "surgut.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -75117,12 +75408,6 @@
       "org": "АО \"Протон\"",
       "inn": "5753018359",
       "ogrn": "1025700827283"
-    },
-    "svetlogorsk39.ru": {
-      "not_after": "2026-10-08",
-      "org": "АДМИНИСТРАЦИЯ МО СВЕТЛОГОРСКИЙ ГОРОДСКОЙ ОКРУГ",
-      "inn": "3912002917",
-      "ogrn": "1023902054967"
     },
     "svetofor.proton-orel.ru": {
       "not_after": "2027-09-29",
@@ -75288,6 +75573,9 @@
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
+    },
+    "svr.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "svr.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -75975,6 +76263,9 @@
       "org": "ГКУ Центр цифровой трансформации Республики Татарстан",
       "inn": "1655427395",
       "ogrn": "1191690093649"
+    },
+    "tatarstan.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "tatarstan.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -78177,6 +78468,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "tikhvin.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "tikhvin.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -78486,11 +78780,14 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "tmb.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "tmb.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
     "tmb.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-06"
     },
     "tmb.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -78572,6 +78869,18 @@
     },
     "tochka.com": {
       "not_after": "2027-07-30",
+      "org": "Joint-Stock Company Tochka",
+      "inn": "9705120864",
+      "ogrn": "1187746637143"
+    },
+    "tochkapre.ru": {
+      "not_after": "2027-10-08",
+      "org": "Joint-Stock Company Tochka",
+      "inn": "9705120864",
+      "ogrn": "1187746637143"
+    },
+    "tochkastage.ru": {
+      "not_after": "2027-10-08",
       "org": "Joint-Stock Company Tochka",
       "inn": "9705120864",
       "ogrn": "1187746637143"
@@ -78671,6 +78980,9 @@
     },
     "tolokonnikov.ru": {
       "not_after": "2027-07-20"
+    },
+    "tom.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "tom.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -79431,6 +79743,9 @@
       "inn": "0274036104",
       "ogrn": "1030204613999"
     },
+    "tula.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "tula.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -79635,6 +79950,9 @@
       "inn": "7717091519",
       "ogrn": "1027739048281"
     },
+    "tver.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "tver.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -79809,6 +80127,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "tyumen.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "tyumen.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -79823,6 +80144,9 @@
       "org": "Severstal-infocom JSC",
       "inn": "3528007105",
       "ogrn": "1023501237330"
+    },
+    "tyva.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "tyva.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -80160,6 +80484,9 @@
       "inn": "7744002652",
       "ogrn": "1027700047715"
     },
+    "udm.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "udm.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -80426,6 +80753,9 @@
       "org": "BrokerCreditService Ltd",
       "inn": "5406121446",
       "ogrn": "1025402459334"
+    },
+    "ulyanovsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "ulyanovsk.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -83037,6 +83367,9 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "vl.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "vl.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
@@ -83097,6 +83430,9 @@
       "inn": "7812014560",
       "ogrn": "1027809169585"
     },
+    "vlg.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "vlg.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -83105,6 +83441,9 @@
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
+    },
+    "vlslavyanka.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "vlslavyanka.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -83421,6 +83760,9 @@
       "inn": "3444145099",
       "ogrn": "1073444004600"
     },
+    "volgodonsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "volgodonsk.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -83429,6 +83771,9 @@
       "org": "Волгоградская областная Дума",
       "inn": "3444060984",
       "ogrn": "1023403444910"
+    },
+    "volgograd.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "volgograd.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -83474,6 +83819,9 @@
       "org": "Администрация Города Вологды",
       "inn": "3525064930",
       "ogrn": "1033500051683"
+    },
+    "vologda.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "vologda.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -83978,6 +84326,9 @@
       "org": "ER Telecom Holding",
       "inn": "5902202276",
       "ogrn": "1065902028620"
+    },
+    "vrn.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "vrn.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -87246,12 +87597,6 @@
       "inn": "7715228310",
       "ogrn": "1027739301050"
     },
-    "www.api.hightracker.pro": {
-      "not_after": "2026-10-08",
-      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ХАЙ ТРЕКЕР",
-      "inn": "3900027191",
-      "ogrn": "1243900007317"
-    },
     "www.api.lk.digital.uralsib.ru": {
       "not_after": "2027-07-30",
       "org": "ПАО БАНК УРАЛСИБ",
@@ -89997,12 +90342,6 @@
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
-    "www.fkr26.ru": {
-      "not_after": "2026-10-08",
-      "org": "26 Ставропольский край СК ФОНД КАПИТАЛЬНОГО РЕМОНТА",
-      "inn": "2636808125",
-      "ogrn": "1132651033140"
-    },
     "www.fl-shop.ru": {
       "not_after": "2027-07-02"
     },
@@ -91716,12 +92055,6 @@
       "inn": "7710169501",
       "ogrn": "1027739768396"
     },
-    "www.kubanfarm.ru": {
-      "not_after": "2026-10-08",
-      "org": "ГУП КК Кубаньфармация",
-      "inn": "2310067376",
-      "ogrn": "1022301619339"
-    },
     "www.kubank.ru": {
       "not_after": "2026-12-01",
       "org": "Credit Bank of Moscow PJSC",
@@ -91889,6 +92222,12 @@
       "org": "ООО СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА ЛАЗУРЬ",
       "inn": "3444073630",
       "ogrn": "1023403434735"
+    },
+    "www.lbsoft.ru": {
+      "not_after": "2027-10-08",
+      "org": "ООО ЛБСОФТ",
+      "inn": "7707460326",
+      "ogrn": "1217700616803"
     },
     "www.lec.team": {
       "not_after": "2027-02-02",
@@ -92690,6 +93029,12 @@
       "org": "ГБУЗ ЧОМИАЦ",
       "inn": "7453141034",
       "ogrn": "1057424502673"
+    },
+    "www.migration.cloud.ru": {
+      "not_after": "2027-10-08",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "www.mili-rest.ru": {
       "not_after": "2026-12-15",
@@ -98661,12 +99006,6 @@
       "inn": "3808233587",
       "ogrn": "1143850002394"
     },
-    "xn--39-dlcej5afybuehh.xn--p1ai": {
-      "not_after": "2026-10-08",
-      "org": "АДМИНИСТРАЦИЯ МО СВЕТЛОГОРСКИЙ ГОРОДСКОЙ ОКРУГ",
-      "inn": "3912002917",
-      "ogrn": "1023902054967"
-    },
     "xn--40-6kclk1btailw.xn--p1ai": {
       "not_after": "2027-06-11",
       "org": "ГБУ КО Калугаинформтех",
@@ -100020,11 +100359,14 @@
       "inn": "7604390980",
       "ogrn": "1227600021440"
     },
+    "yar.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "yar.home.megafon.ru": {
       "not_after": "2026-12-28"
     },
     "yar.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-06"
     },
     "yar.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -100376,6 +100718,9 @@
       "org": "ООО ИК «СИБИНТЕК»",
       "inn": "7708119944",
       "ogrn": "1027700251314"
+    },
+    "yugorsk.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "yugorsk.home.megafon.ru": {
       "not_after": "2027-01-02"
@@ -100752,6 +101097,9 @@
       "inn": "9719081573",
       "ogrn": "1257700355131"
     },
+    "zelenograd.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "zelenograd.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -100842,6 +101190,9 @@
       "inn": "7715710393",
       "ogrn": "1087746876029"
     },
+    "zheldor.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
+    },
     "zheldor.home.megafon.ru": {
       "not_after": "2027-01-02"
     },
@@ -100871,6 +101222,9 @@
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПУЛЬСАР ЦЕНТР\"",
       "inn": "9715405227",
       "ogrn": "1217700396385"
+    },
+    "znamenka.dev.home.megafon.ru": {
+      "not_after": "2027-01-06"
     },
     "znamenka.home.megafon.ru": {
       "not_after": "2027-01-02"

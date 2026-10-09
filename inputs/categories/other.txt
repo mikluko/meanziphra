@@ -40,7 +40,6 @@ andoc.ru
 anketa.ocs.ru
 ano-orbita.ru
 ansap.ru
-antonenkov-art.ru
 antonylexar.ru
 ao-trend.ru
 aobron.ru
@@ -90,7 +89,6 @@ belon.ru
 betcity.ru
 bfmsk-test-files.brain-flow.ru
 bfmsk-test.brain-flow.ru
-bitdv.ru
 bitrix.rusprof.ru
 bkfortuna.ru
 bkz.ru
@@ -180,7 +178,6 @@ edu-assist.ru
 eens.ru
 efis-nco.ru
 eifmanballet.ru
-ekonomych.ru
 electricpastuh.ru
 elisov.ru
 endowments.ru
@@ -283,7 +280,6 @@ jssm.vkteam.ru
 kairosstrategy.ru
 kanzburo.ru
 kapmed.ru
-karkasdvor.ru
 karo-film.ru
 karofilm.ru
 kemcdo.ru
@@ -553,8 +549,6 @@ regard.ru
 regionsoft.le-dv.ru
 register.rspp.ru
 regmed.ru
-remicity.ru
-remipromo.ru
 remotica.ru
 repair-calculator.ru
 reports.speechxplore.ru
