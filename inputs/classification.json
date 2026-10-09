@@ -190,6 +190,10 @@
       "category": "other",
       "confidence": 0.61
     },
+    "name:adygea.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.99
+    },
     "name:adygea.megafon.ru": {
       "category": "telecom",
       "confidence": 1
@@ -263,6 +267,10 @@
       "confidence": 0.33,
       "review": true
     },
+    "name:alania.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:alania.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -313,6 +321,10 @@
       "category": "other",
       "confidence": 0.6
     },
+    "name:altay.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
+    },
     "name:altay.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -324,6 +336,10 @@
     "name:altay.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:altrep.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:altrep.home.megafon.ru": {
       "category": "telecom",
@@ -340,6 +356,10 @@
     "name:alzoro.ru": {
       "category": "other",
       "confidence": 0.91
+    },
+    "name:amur.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:amur.home.megafon.ru": {
       "category": "telecom",
@@ -370,10 +390,6 @@
       "category": "other",
       "confidence": 0.45,
       "review": true
-    },
-    "name:antonenkov-art.ru": {
-      "category": "other",
-      "confidence": 0.99
     },
     "name:antonylexar.ru": {
       "category": "other",
@@ -485,6 +501,10 @@
       "confidence": 0.52,
       "review": true
     },
+    "name:arhangelsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:arhangelsk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -537,6 +557,10 @@
     },
     "name:asterx23.ru": {
       "category": "other",
+      "confidence": 0.95
+    },
+    "name:astrakhan.dev.home.megafon.ru": {
+      "category": "telecom",
       "confidence": 0.95
     },
     "name:astrakhan.home.megafon.ru": {
@@ -736,6 +760,10 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:balashiha.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:balashiha.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -757,6 +785,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:bashkortostan.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:bashkortostan.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -777,6 +809,10 @@
       "category": "other",
       "confidence": 0.76
     },
+    "name:bel.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:bel.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -796,6 +832,10 @@
     "name:belon.ru": {
       "category": "other",
       "confidence": 0.85
+    },
+    "name:beloyarsky.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.86
     },
     "name:beloyarsky.home.megafon.ru": {
       "category": "telecom",
@@ -834,10 +874,6 @@
     "name:bio.crediteurope.ru": {
       "category": "banks",
       "confidence": 0.92
-    },
-    "name:bitdv.ru": {
-      "category": "other",
-      "confidence": 0.77
     },
     "name:bitrix.rusprof.ru": {
       "category": "other",
@@ -900,6 +936,10 @@
       "confidence": 0.49,
       "review": true
     },
+    "name:brn.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:brn.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.89
@@ -916,6 +956,10 @@
       "category": "other",
       "confidence": 0.33,
       "review": true
+    },
+    "name:buryatia.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:buryatia.home.megafon.ru": {
       "category": "telecom",
@@ -1124,9 +1168,17 @@
       "category": "telecom",
       "confidence": 0.61
     },
+    "name:cheb.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
+    },
     "name:cheb.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
+    },
+    "name:chechnya.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:chechnya.home.megafon.ru": {
       "category": "telecom",
@@ -1149,6 +1201,10 @@
       "confidence": 0.32,
       "review": true
     },
+    "name:chel.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:chel.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -1164,6 +1220,10 @@
     "name:chicago.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:chita.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:chita.home.megafon.ru": {
       "category": "telecom",
@@ -1519,6 +1579,10 @@
       "confidence": 0.49,
       "review": true
     },
+    "name:dagestan.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
+    },
     "name:dagestan.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -1694,6 +1758,10 @@
       "confidence": 0.44,
       "review": true
     },
+    "name:dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
+    },
     "name:dev.lk.astra-team.ru": {
       "category": "other",
       "confidence": 0.5,
@@ -1759,6 +1827,10 @@
     "name:distant-college.ru": {
       "category": "other",
       "confidence": 0.81
+    },
+    "name:dmitrov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:dmitrov.home.megafon.ru": {
       "category": "telecom",
@@ -1837,6 +1909,10 @@
       "category": "industry",
       "confidence": 0.97
     },
+    "name:dubna.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:dubna.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -1857,6 +1933,10 @@
       "category": "gov",
       "confidence": 1,
       "org": "The Ministry of Digital Development of Russia"
+    },
+    "name:eao.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:eao.home.megafon.ru": {
       "category": "telecom",
@@ -1883,6 +1963,10 @@
     "name:ebs-integration-test.megafon.ru": {
       "category": "telecom",
       "confidence": 0.92
+    },
+    "name:eburg.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:eburg.home.megafon.ru": {
       "category": "telecom",
@@ -2008,10 +2092,6 @@
     "name:eifmanballet.ru": {
       "category": "other",
       "confidence": 0.92
-    },
-    "name:ekonomych.ru": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:elasticsearch.dev.lk.astra-team.ru": {
       "category": "internet",
@@ -2237,6 +2317,10 @@
     "name:fmny.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
+    },
+    "name:fokino.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:fokino.home.megafon.ru": {
       "category": "telecom",
@@ -2484,6 +2568,10 @@
       "category": "other",
       "confidence": 0.86
     },
+    "name:gubkin.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:gubkin.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.78
@@ -2546,6 +2634,10 @@
     "name:hair-boutique.ru": {
       "category": "other",
       "confidence": 0.87
+    },
+    "name:hakas.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:hakas.home.megafon.ru": {
       "category": "telecom",
@@ -2851,6 +2943,10 @@
       "category": "other",
       "confidence": 0.9
     },
+    "name:ingushetia.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.99
+    },
     "name:ingushetia.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -2947,6 +3043,10 @@
       "category": "other",
       "confidence": 0.81
     },
+    "name:irkutsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:irkutsk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -2999,6 +3099,10 @@
       "confidence": 0.51,
       "review": true
     },
+    "name:iv.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:iv.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -3019,6 +3123,10 @@
       "category": "other",
       "confidence": 0.44,
       "review": true
+    },
+    "name:izobilniy.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:izobilniy.home.megafon.ru": {
       "category": "telecom",
@@ -3086,6 +3194,10 @@
       "category": "other",
       "confidence": 0.94
     },
+    "name:kaliningrad.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:kaliningrad.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -3098,9 +3210,17 @@
       "category": "telecom",
       "confidence": 1
     },
+    "name:kalitva.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:kalitva.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.92
+    },
+    "name:kalmykia.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:kalmykia.home.megafon.ru": {
       "category": "telecom",
@@ -3114,6 +3234,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:kamchatka.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
+    },
     "name:kamchatka.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -3126,6 +3250,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:kanash.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:kanash.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -3133,6 +3261,10 @@
     "name:kandinsky3d.demo.sberdevices.ru": {
       "category": "internet",
       "confidence": 0.6
+    },
+    "name:karelia.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
     },
     "name:karelia.home.megafon.ru": {
       "category": "telecom",
@@ -3145,10 +3277,6 @@
     "name:karelia.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:karkasdvor.ru": {
-      "category": "other",
-      "confidence": 0.81
     },
     "name:kassa.moneta.ru": {
       "category": "banks",
@@ -3166,6 +3294,10 @@
       "category": "telecom",
       "confidence": 0.94
     },
+    "name:kbr.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:kbr.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.9
@@ -3177,6 +3309,10 @@
     "name:kbr.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.83
+    },
+    "name:kchr.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
     },
     "name:kchr.home.megafon.ru": {
       "category": "telecom",
@@ -3193,6 +3329,10 @@
     "name:kedo.bank-hlynov.ru": {
       "category": "banks",
       "confidence": 0.97
+    },
+    "name:kem.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:kem.home.megafon.ru": {
       "category": "telecom",
@@ -3214,9 +3354,17 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:khanty-mansiysk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:khanty-mansiysk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
+    },
+    "name:khb.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
     },
     "name:khb.home.megafon.ru": {
       "category": "telecom",
@@ -3243,6 +3391,10 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:kirov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
+    },
     "name:kirov.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -3259,6 +3411,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:klg.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:klg.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -3271,6 +3427,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:klin.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
+    },
     "name:klin.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -3280,6 +3440,10 @@
       "confidence": 0.39,
       "review": true
     },
+    "name:kogalym.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
+    },
     "name:kogalym.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -3288,6 +3452,10 @@
       "category": "other",
       "confidence": 0.55,
       "review": true
+    },
+    "name:komi.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:komi.home.megafon.ru": {
       "category": "telecom",
@@ -3313,6 +3481,10 @@
       "category": "banks",
       "confidence": 0.93
     },
+    "name:korolev.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.91
+    },
     "name:korolev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.87
@@ -3332,6 +3504,10 @@
     "name:kpl32.ru": {
       "category": "other",
       "confidence": 0.84
+    },
+    "name:kras.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:kras.home.megafon.ru": {
       "category": "telecom",
@@ -3379,6 +3555,10 @@
       "category": "other",
       "confidence": 0.69
     },
+    "name:ks.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:ks.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
@@ -3390,6 +3570,10 @@
     "name:ks.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
+    },
+    "name:kstr.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:kstr.home.megafon.ru": {
       "category": "telecom",
@@ -3412,9 +3596,17 @@
       "category": "other",
       "confidence": 0.84
     },
+    "name:kurchatov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.82
+    },
     "name:kurchatov.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.65
+    },
+    "name:kurgan.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:kurgan.home.megafon.ru": {
       "category": "telecom",
@@ -3461,7 +3653,15 @@
       "category": "other",
       "confidence": 0.86
     },
+    "name:langepas.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
+    },
     "name:langepas.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
+    "name:lc.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
     },
@@ -3608,6 +3808,10 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:lobnya.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
+    },
     "name:lobnya.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.91
@@ -3637,6 +3841,10 @@
     "name:lynx-texts.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:lyubercy.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:lyubercy.home.megafon.ru": {
       "category": "telecom",
@@ -3671,6 +3879,10 @@
     "name:madhome.ru": {
       "category": "other",
       "confidence": 0.87
+    },
+    "name:magadan.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:magadan.home.megafon.ru": {
       "category": "telecom",
@@ -3853,6 +4065,10 @@
     "name:manuals.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:mariel.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:mariel.home.megafon.ru": {
       "category": "telecom",
@@ -4197,6 +4413,10 @@
       "category": "other",
       "confidence": 0.98
     },
+    "name:mordovia.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:mordovia.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -4208,6 +4428,10 @@
     "name:mordovia.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:moscow.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:moscow.home.megafon.ru": {
       "category": "telecom",
@@ -4288,6 +4512,10 @@
       "confidence": 0.46,
       "review": true
     },
+    "name:mtsensk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
+    },
     "name:mtsensk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -4295,6 +4523,10 @@
     "name:murashow.ru": {
       "category": "other",
       "confidence": 0.78
+    },
+    "name:murmansk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:murmansk.home.megafon.ru": {
       "category": "telecom",
@@ -4399,6 +4631,10 @@
       "category": "banks",
       "confidence": 0.87
     },
+    "name:n-urengoy.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.83
+    },
     "name:n-urengoy.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.89
@@ -4419,6 +4655,10 @@
       "category": "other",
       "confidence": 0.98
     },
+    "name:naryshkino.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
+    },
     "name:naryshkino.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -4430,6 +4670,10 @@
     "name:nc.kszn34.ru": {
       "category": "other",
       "confidence": 0.77
+    },
+    "name:nefteyugansk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
     },
     "name:nefteyugansk.home.megafon.ru": {
       "category": "telecom",
@@ -4468,6 +4712,10 @@
     "name:new-online.econombank.ru": {
       "category": "banks",
       "confidence": 0.98
+    },
+    "name:newcheb.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:newcheb.home.megafon.ru": {
       "category": "telecom",
@@ -4535,6 +4783,10 @@
       "category": "other",
       "confidence": 0.85
     },
+    "name:nn.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:nn.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -4554,6 +4806,10 @@
     "name:novatek.asugo.ru": {
       "category": "industry",
       "confidence": 0.6
+    },
+    "name:novgorod.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:novgorod.home.megafon.ru": {
       "category": "telecom",
@@ -4582,6 +4838,10 @@
     "name:nsg.slavneft.ru": {
       "category": "industry",
       "confidence": 0.99
+    },
+    "name:nsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:nsk.home.megafon.ru": {
       "category": "telecom",
@@ -4645,6 +4905,10 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:nyagan.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
+    },
     "name:nyagan.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
@@ -4694,6 +4958,10 @@
       "category": "other",
       "confidence": 0.52,
       "review": true
+    },
+    "name:omsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:omsk.home.megafon.ru": {
       "category": "telecom",
@@ -4773,6 +5041,10 @@
       "confidence": 0.47,
       "review": true
     },
+    "name:orenburg.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:orenburg.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -4784,6 +5056,10 @@
     "name:orenburg.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:orl.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:orl.home.megafon.ru": {
       "category": "telecom",
@@ -4809,6 +5085,10 @@
     "name:osetia.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:osk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:osk.home.megafon.ru": {
       "category": "telecom",
@@ -5029,6 +5309,10 @@
       "confidence": 0.53,
       "review": true
     },
+    "name:penza.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:penza.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -5045,6 +5329,10 @@
       "category": "other",
       "confidence": 0.46,
       "review": true
+    },
+    "name:perm.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:perm.home.megafon.ru": {
       "category": "telecom",
@@ -5190,6 +5478,10 @@
       "category": "telecom",
       "confidence": 0.92
     },
+    "name:pokachi.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:pokachi.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -5216,6 +5508,10 @@
       "category": "other",
       "confidence": 0.41,
       "review": true
+    },
+    "name:poykovsky.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:poykovsky.home.megafon.ru": {
       "category": "telecom",
@@ -5263,6 +5559,10 @@
     "name:prestol-agent-gateway.t-bank-app.ru": {
       "category": "banks",
       "confidence": 0.99
+    },
+    "name:prim.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:prim.home.megafon.ru": {
       "category": "telecom",
@@ -5362,6 +5662,10 @@
     "name:prrr.ru": {
       "category": "other",
       "confidence": 0.89
+    },
+    "name:pskov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
     },
     "name:pskov.home.megafon.ru": {
       "category": "telecom",
@@ -5470,6 +5774,10 @@
       "category": "other",
       "confidence": 0.92
     },
+    "name:ramensk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:ramensk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -5547,14 +5855,6 @@
     "name:regmed.ru": {
       "category": "other",
       "confidence": 0.79
-    },
-    "name:remicity.ru": {
-      "category": "other",
-      "confidence": 0.89
-    },
-    "name:remipromo.ru": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:remotica.ru": {
       "category": "other",
@@ -5668,6 +5968,10 @@
       "confidence": 0.49,
       "review": true
     },
+    "name:rostov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:rostov.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -5748,6 +6052,10 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:rzn.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:rzn.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -5797,6 +6105,10 @@
       "confidence": 0.55,
       "review": true
     },
+    "name:sakha.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:sakha.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -5809,7 +6121,15 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:salsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.91
+    },
     "name:salsk.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
+    },
+    "name:samara.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
     },
@@ -5824,6 +6144,10 @@
     "name:samara.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:saratov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
     },
     "name:saratov.home.megafon.ru": {
       "category": "telecom",
@@ -5979,6 +6303,10 @@
       "category": "other",
       "confidence": 0.84
     },
+    "name:serpuhov.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:serpuhov.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.9
@@ -6067,6 +6395,10 @@
       "category": "other",
       "confidence": 0.92
     },
+    "name:shumerlya.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.86
+    },
     "name:shumerlya.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.86
@@ -6095,6 +6427,10 @@
     },
     "name:sitnikovpravo.ru": {
       "category": "other",
+      "confidence": 0.95
+    },
+    "name:skh.dev.home.megafon.ru": {
+      "category": "telecom",
       "confidence": 0.95
     },
     "name:skh.home.megafon.ru": {
@@ -6142,6 +6478,10 @@
       "category": "telecom",
       "confidence": 0.89
     },
+    "name:sml.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:sml.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -6188,6 +6528,10 @@
       "category": "other",
       "confidence": 0.6
     },
+    "name:sochi.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:sochi.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -6206,6 +6550,10 @@
       "confidence": 0.31,
       "review": true
     },
+    "name:solnechnogorsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:solnechnogorsk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -6223,6 +6571,10 @@
       "category": "other",
       "confidence": 0.92
     },
+    "name:sovetsky.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:sovetsky.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.96
@@ -6239,6 +6591,10 @@
     "name:spark-resp.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
+    },
+    "name:spb.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:spb.home.megafon.ru": {
       "category": "telecom",
@@ -6446,6 +6802,10 @@
       "confidence": 0.27,
       "review": true
     },
+    "name:stavropol.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:stavropol.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -6516,6 +6876,10 @@
       "confidence": 0.45,
       "review": true
     },
+    "name:surgut.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.89
+    },
     "name:surgut.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -6532,6 +6896,10 @@
       "category": "other",
       "confidence": 0.55,
       "review": true
+    },
+    "name:svr.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:svr.home.megafon.ru": {
       "category": "telecom",
@@ -6587,6 +6955,10 @@
       "category": "telecom",
       "confidence": 0.27,
       "review": true
+    },
+    "name:tatarstan.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
     },
     "name:tatarstan.home.megafon.ru": {
       "category": "telecom",
@@ -6846,6 +7218,10 @@
       "category": "other",
       "confidence": 0.74
     },
+    "name:tikhvin.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.91
+    },
     "name:tikhvin.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -6853,6 +7229,10 @@
     "name:time2.tbank.ru": {
       "category": "banks",
       "confidence": 0.99
+    },
+    "name:tmb.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:tmb.home.megafon.ru": {
       "category": "telecom",
@@ -6873,6 +7253,10 @@
     "name:tolokonnikov.ru": {
       "category": "other",
       "confidence": 0.93
+    },
+    "name:tom.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
     },
     "name:tom.home.megafon.ru": {
       "category": "telecom",
@@ -6936,6 +7320,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:tula.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:tula.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -6956,6 +7344,10 @@
       "category": "other",
       "confidence": 0.17,
       "review": true
+    },
+    "name:tver.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
     },
     "name:tver.home.megafon.ru": {
       "category": "telecom",
@@ -6983,6 +7375,10 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:tyumen.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:tyumen.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -6994,6 +7390,10 @@
     "name:tyumen.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:tyva.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
     },
     "name:tyva.home.megafon.ru": {
       "category": "telecom",
@@ -7023,6 +7423,10 @@
       "category": "banks",
       "confidence": 0.91
     },
+    "name:udm.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:udm.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -7047,6 +7451,10 @@
       "category": "gov",
       "confidence": 0.45,
       "review": true
+    },
+    "name:ulyanovsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.91
     },
     "name:ulyanovsk.home.megafon.ru": {
       "category": "telecom",
@@ -7225,6 +7633,10 @@
       "confidence": 0.43,
       "review": true
     },
+    "name:vl.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
+    },
     "name:vl.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -7249,9 +7661,17 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:vlg.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:vlg.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
+    },
+    "name:vlslavyanka.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.94
     },
     "name:vlslavyanka.home.megafon.ru": {
       "category": "telecom",
@@ -7279,9 +7699,17 @@
       "category": "internet",
       "confidence": 0.98
     },
+    "name:volgodonsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
+    },
     "name:volgodonsk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
+    },
+    "name:volgograd.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
     },
     "name:volgograd.home.megafon.ru": {
       "category": "telecom",
@@ -7302,6 +7730,10 @@
     "name:volnu.ru": {
       "category": "other",
       "confidence": 0.73
+    },
+    "name:vologda.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
     },
     "name:vologda.home.megafon.ru": {
       "category": "telecom",
@@ -7374,6 +7806,10 @@
       "category": "other",
       "confidence": 0.37,
       "review": true
+    },
+    "name:vrn.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:vrn.home.megafon.ru": {
       "category": "telecom",
@@ -7982,6 +8418,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:yar.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:yar.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -8001,6 +8441,10 @@
     "name:ytprof.ru": {
       "category": "other",
       "confidence": 0.7
+    },
+    "name:yugorsk.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.92
     },
     "name:yugorsk.home.megafon.ru": {
       "category": "telecom",
@@ -8048,6 +8492,10 @@
       "category": "other",
       "confidence": 0.79
     },
+    "name:zelenograd.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.97
+    },
     "name:zelenograd.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -8064,6 +8512,10 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:zheldor.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.95
+    },
     "name:zheldor.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -8071,6 +8523,10 @@
     "name:zm-solutions.ru": {
       "category": "other",
       "confidence": 0.81
+    },
+    "name:znamenka.dev.home.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.93
     },
     "name:znamenka.home.megafon.ru": {
       "category": "telecom",
@@ -8511,11 +8967,6 @@
       "category": "internet",
       "confidence": 0.76,
       "org": "ООО ТЕХИНФОРМ"
-    },
-    "ogrn:1022301619339": {
-      "category": "marketplaces",
-      "confidence": 0.78,
-      "org": "ГУП КК Кубаньфармация"
     },
     "ogrn:1022302380638": {
       "category": "transport",
@@ -15432,11 +15883,6 @@
       "confidence": 1,
       "org": "КГАУ МФЦ Приморского края"
     },
-    "ogrn:1132651033140": {
-      "category": "gov",
-      "confidence": 0.92,
-      "org": "26 Ставропольский край СК ФОНД КАПИТАЛЬНОГО РЕМОНТА"
-    },
     "ogrn:1133702026457": {
       "category": "internet",
       "confidence": 0.98,
@@ -16822,6 +17268,12 @@
       "review": true,
       "org": "ООО АВС"
     },
+    "ogrn:1187746637143": {
+      "category": "banks",
+      "confidence": 0.49,
+      "review": true,
+      "org": "Joint-Stock Company Tochka"
+    },
     "ogrn:1187746642929": {
       "category": "other",
       "confidence": 0.93,
@@ -17472,6 +17924,11 @@
       "confidence": 0.54,
       "review": true,
       "org": "ООО ТД ПЛАТФОРМА"
+    },
+    "ogrn:1217700616803": {
+      "category": "internet",
+      "confidence": 0.93,
+      "org": "ООО ЛБСОФТ"
     },
     "ogrn:1217700629783": {
       "category": "internet",

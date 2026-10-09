@@ -149,6 +149,7 @@ dev-panel.addy.su
 dev-sso.dev.lk.astra-team.ru
 dev-vkplay.ru
 dev.ad-tech.ru
+dev.cloud.ru
 dev.onecld.ru
 developer.sber.ru
 developer.sberbank.ru
@@ -303,6 +304,7 @@ korusconsulting.ru
 kpbs.ru
 krtech.ru
 lab-company.ru
+lbsoft.ru
 lenta.ru
 letidor.ru
 lifetechx.ru
@@ -332,12 +334,14 @@ mailking.ru
 mailrugroup.ru
 mailserver.ru
 markdowntableeditor.ru
+marketplace.cloud.ru
 markirovka.ru
 master-zak.ru
 masterchain.ru
 max.ru
 maximum.ru
 mdigital.ru
+mdm.cloud.ru
 meet.cloud.ru
 megaplan.ru
 metadata.eye.salute.ru
@@ -345,11 +349,13 @@ metrics.eye.salute.ru
 mgred0mail.onprem.ru
 mgred0st.onprem.ru
 mgsa.onecld.ru
+migration.cloud.ru
 migration.mcs-cloud.ru
 mini-mail.ru
 miranda-media.ru
 mirdomovyat.ru
 mixplat.ru
+mk8s.api.cloud.ru
 mkbs.rfaces.ru
 mlg.ru
 mm.cloud.ru
@@ -416,8 +422,12 @@ oviont.ru
 ozn-exchange.onecld.ru
 paas.local.onecld.ru
 partnerplatform.ru
+partners.cloud.ru
 passion.ru
 pbprog.ru
+pd51-08-iam.gis.cloud.ru
+pd51-08-portal.gis.cloud.ru
+pd51-rplat-web-04.gis.cloud.ru
 pd51-rplat-web-04.gis.mng.cloud.ru
 pd51-s3-05.gis.cloud.ru
 phoenix.eye.salute.ru
@@ -513,7 +523,6 @@ sbis.ru
 sca.ad-tech.ru
 scloud.ru
 sd.cloud.ru
-sd.dev.cloud.ru
 sdisk.ru
 sdrok.salute.ru
 secondvps.ru

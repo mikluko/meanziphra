@@ -251,7 +251,6 @@ finance.ivanovoobl.ru
 finasb.ru
 fingram26.ru
 fips.ru
-fkr26.ru
 fmbansk.ru
 fntp-mcx.ru
 foms74.ru
@@ -760,7 +759,6 @@ susdm42.ru
 sutvdonsk.ru
 suvc.ru
 suz72.ru
-svetlogorsk39.ru
 svetsrcn.stv.socinfo.ru
 svistuhinskiy-centr.stv.socinfo.ru
 szavoz.gov.ru
@@ -863,7 +861,6 @@ xn---74-5cdkaux2a5aemsld2n.xn--p1ai
 xn--11-jlcep3d.xn--p1ai
 xn--19-6kch3bybw5a.xn--p1ai
 xn--24-8kcm.xn--p1ai
-xn--39-dlcej5afybuehh.xn--p1ai
 xn--40-6kclk1btailw.xn--p1ai
 xn--40-6kcmpkc3e.xn--p1ai
 xn--42-6kcadhwnl3cfdx.xn--p1ai
@@ -901,6 +898,7 @@ xn--80aegbkvxddlre.xn--p1ai
 xn--80aeylecpi.xn--p1ai
 xn--80agfbmd3ajetfm6gxd.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
+xn--80ajj9a.xn--39-dlcej5afybuehh.xn--p1ai
 xn--80akjac6amacoe3n.xn--p1ai
 xn--80aphfga3a3b.xn--p1ai
 xn--90aenc5bq.xn--p1ai
