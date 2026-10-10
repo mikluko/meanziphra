@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11209,
+    "https://27.ctlog.digital.gov.ru/2027/": 11300,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 11713
+    "https://ctlog2027.mail.ru/nca2027/": 11812
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -894,6 +894,9 @@
       "inn": "7729355614",
       "ogrn": "1027700262270"
     },
+    "50.rospotrebnadzor.ru": {
+      "not_after": "2027-01-07"
+    },
     "500.magnit.ru": {
       "not_after": "2027-07-16",
       "org": "АО Тандер",
@@ -1130,6 +1133,9 @@
       "org": "Публичное акционерное общество Банк ПСБ",
       "inn": "7744000912",
       "ogrn": "1027739019142"
+    },
+    "a2048.ivi-mc.ru": {
+      "not_after": "2027-01-07"
     },
     "a2p-voice-int.megafon.ru": {
       "not_after": "2026-12-10"
@@ -1917,9 +1923,6 @@
       "inn": "3232005484",
       "ogrn": "1023200000010"
     },
-    "adfs.rosatom.com": {
-      "not_after": "2026-10-09"
-    },
     "adfs.toyotafs.ru": {
       "not_after": "2027-06-29",
       "org": "АО ТОЙОТА БАНК",
@@ -2175,6 +2178,12 @@
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
+    "admin.mdm.sbercloud.tech": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "admin.message-relay.ru": {
       "not_after": "2027-01-03"
     },
@@ -2193,6 +2202,9 @@
     "admin.org.ru": {
       "not_after": "2027-06-10"
     },
+    "admin.premiya.rspp.ru": {
+      "not_after": "2027-01-07"
+    },
     "admin.psi.dropapp.sbertransport.ru": {
       "not_after": "2026-12-05",
       "org": "Public Joint-Stock Company Sberbank of Russia",
@@ -2204,6 +2216,12 @@
       "org": "Public Joint-Stock Company Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "admin.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "admin.r7.corp.znanierussia.ru": {
       "not_after": "2026-11-15"
@@ -2973,6 +2991,12 @@
     },
     "airflow.gca.eye.salute.ru": {
       "not_after": "2027-10-02",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "airflow.gca.salute.ru": {
+      "not_after": "2027-10-09",
       "org": "ООО Салютдевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -3898,6 +3922,12 @@
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
+    "anketa.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "anketa.ocs.ru": {
       "not_after": "2026-10-28"
     },
@@ -4118,7 +4148,7 @@
       "ogrn": "1027739053704"
     },
     "api-ext.yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "api-gmp.spasibosb.ru": {
       "not_after": "2026-12-02",
@@ -4367,7 +4397,7 @@
       "ogrn": "1027700067328"
     },
     "api.auth.2gis.com": {
-      "not_after": "2026-10-13"
+      "not_after": "2027-01-07"
     },
     "api.awardme.ru": {
       "not_after": "2027-10-05",
@@ -5237,7 +5267,7 @@
       "ogrn": "1027809169585"
     },
     "api.yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "api1.fes.nspk.ru": {
       "not_after": "2027-02-25",
@@ -5577,6 +5607,9 @@
     },
     "applyform.ru": {
       "not_after": "2026-10-18"
+    },
+    "apprt.rspp.ru": {
+      "not_after": "2027-01-07"
     },
     "apps.k8s-dev.lan.ubrr.ru": {
       "not_after": "2027-08-25",
@@ -7402,6 +7435,12 @@
       "inn": "7704314221",
       "ogrn": "1157746368999"
     },
+    "autodiscover.cloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "autodiscover.crm.noosferabank.ru": {
       "not_after": "2027-04-24",
       "org": "AKB NOOSFERA (AO)",
@@ -8350,18 +8389,6 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
-    "autodiscover.sber.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "autodiscover.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "autodiscover.sberentertainment.ru": {
       "not_after": "2027-07-14",
       "org": "ООО РИХ",
@@ -8643,12 +8670,6 @@
       "org": "АО ТОЙОТА БАНК",
       "inn": "7750004136",
       "ogrn": "1077711000058"
-    },
-    "autodiscover.tribastion.ru": {
-      "not_after": "2026-10-09",
-      "org": "ООО ТРИ КРЕПОСТИ",
-      "inn": "4400017983",
-      "ogrn": "1244400000118"
     },
     "autodiscover.trubodetal.ru": {
       "not_after": "2027-04-24",
@@ -12477,6 +12498,9 @@
       "inn": "0326010276",
       "ogrn": "1020300982129"
     },
+    "burya.rspp.ru": {
+      "not_after": "2027-01-07"
+    },
     "buryatia.dev.home.megafon.ru": {
       "not_after": "2027-01-06"
     },
@@ -12959,6 +12983,12 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
+    },
+    "calendar.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "calendar.r7.ncsp.ru": {
       "not_after": "2026-10-16",
@@ -13748,6 +13778,12 @@
       "org": "OOO CDEK Finans",
       "inn": "5406810975",
       "ogrn": "1215400003433"
+    },
+    "cdmail.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "cdmail.r7.ncsp.ru": {
       "not_after": "2026-10-16",
@@ -15366,6 +15402,9 @@
     "chukotka.staging.megafon.ru": {
       "not_after": "2026-12-10"
     },
+    "chuv.rspp.ru": {
+      "not_after": "2027-01-07"
+    },
     "chuvashia.megafon.ru": {
       "not_after": "2026-11-26"
     },
@@ -15747,8 +15786,20 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "clickhouse-bi.gca.salute.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
     "clickhouse-bi.se.eye.salute.ru": {
       "not_after": "2027-10-02",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "clickhouse-bi.se.salute.ru": {
+      "not_after": "2027-10-09",
       "org": "ООО Салютдевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -15759,8 +15810,20 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "clickhouse-sandbox.gca.salute.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
     "clickhouse-sandbox.se.eye.salute.ru": {
       "not_after": "2027-10-02",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "clickhouse-sandbox.se.salute.ru": {
+      "not_after": "2027-10-09",
       "org": "ООО Салютдевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -16266,6 +16329,12 @@
       "inn": "2464036561",
       "ogrn": "1022402296465"
     },
+    "cms.stv.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
     "cmse.bspb.ru": {
       "not_after": "2027-06-25",
       "org": "Bank Saint-Petersburg Public Joint-Stock Company",
@@ -16468,7 +16537,7 @@
       "ogrn": "1027700132195"
     },
     "collab-edge.slavneft-kng.ru": {
-      "not_after": "2027-10-07",
+      "not_after": "2027-10-09",
       "org": "Славнефть-Красноярскнефтегаз",
       "inn": "2464036561",
       "ogrn": "1022402296465"
@@ -16832,6 +16901,12 @@
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
+    },
+    "contacts.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "contacts.r7.ncsp.ru": {
       "not_after": "2026-10-16",
@@ -19171,6 +19246,12 @@
       "inn": "7750004136",
       "ogrn": "1077711000058"
     },
+    "dc01-mail-02.corp.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "dc2-vpn2.bspb.ru": {
       "not_after": "2027-02-06",
       "org": "Bank Saint Petersburg Public Joint Stock Company",
@@ -19639,6 +19720,12 @@
       "inn": "7730323695",
       "ogrn": "1247700386845"
     },
+    "denied.ug.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
     "depagro32.ru": {
       "not_after": "2027-06-30",
       "org": "Departament selskogo hozyajstva Bryanskoj oblasti",
@@ -19749,6 +19836,12 @@
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
+    },
+    "dev-gtw.sberdevices.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО СалютДевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
     },
     "dev-gw.platichastyami.ru": {
       "not_after": "2027-06-30",
@@ -21631,6 +21724,12 @@
       "inn": "2624800805",
       "ogrn": "1112651036948"
     },
+    "dl-owa.corp.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "dl.armgs.team": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -22444,6 +22543,18 @@
       "inn": "6608003052",
       "ogrn": "1026600000460"
     },
+    "dp-policy.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
+    },
+    "dp-policy2.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
+    },
     "dp-release.bcslife.ru": {
       "not_after": "2027-09-08",
       "org": "IC BCS Life Insurance LLC",
@@ -22647,6 +22758,12 @@
       "org": "Министерство цифрового развития и связи Оренбургской области",
       "inn": "5610151539",
       "ogrn": "1135658002567"
+    },
+    "ds.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "ds.r7.corp.znanierussia.ru": {
       "not_after": "2026-12-01"
@@ -23096,12 +23213,6 @@
     "eas.pzhv.ru": {
       "not_after": "2026-10-18"
     },
-    "eas.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "eas.startups.su": {
       "not_after": "2027-07-28",
       "org": "LLC MDS",
@@ -23538,7 +23649,7 @@
       "not_after": "2026-10-29"
     },
     "edge.slavneft-kng.ru": {
-      "not_after": "2027-10-07",
+      "not_after": "2027-10-09",
       "org": "Славнефть-Красноярскнефтегаз",
       "inn": "2464036561",
       "ogrn": "1022402296465"
@@ -23556,7 +23667,7 @@
       "ogrn": "1021602013971"
     },
     "edge1.slavneft-kng.ru": {
-      "not_after": "2027-10-07",
+      "not_after": "2027-10-09",
       "org": "Славнефть-Красноярскнефтегаз",
       "inn": "2464036561",
       "ogrn": "1022402296465"
@@ -23568,7 +23679,7 @@
       "ogrn": "1021602013971"
     },
     "edge2.slavneft-kng.ru": {
-      "not_after": "2027-10-07",
+      "not_after": "2027-10-09",
       "org": "Славнефть-Красноярскнефтегаз",
       "inn": "2464036561",
       "ogrn": "1022402296465"
@@ -23829,7 +23940,10 @@
       "ogrn": "1227700700633"
     },
     "eens.ru": {
-      "not_after": "2027-01-05"
+      "not_after": "2027-10-09",
+      "org": "АО ЕЭНС",
+      "inn": "6671250899",
+      "ogrn": "1086658002617"
     },
     "efadevelopment.ru": {
       "not_after": "2027-04-29",
@@ -25519,18 +25633,6 @@
       "inn": "2310031475",
       "ogrn": "1022301598549"
     },
-    "ews.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "ewscert.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "ewschool.sberclass.ru": {
       "not_after": "2026-11-08"
     },
@@ -26629,12 +26731,6 @@
       "inn": "7728021954",
       "ogrn": "1027700443319"
     },
-    "fgbu-yalta.ru": {
-      "not_after": "2026-10-09",
-      "org": "ФГБУ ВОЕННЫЙ САНАТОРИЙ «ЯЛТА» МИНОБОРОНЫ РОССИИ",
-      "inn": "9103065486",
-      "ogrn": "1159102038523"
-    },
     "fgbuusz.ru": {
       "not_after": "2027-06-25",
       "org": "ФГБУ \"УСЗ\" ПРИ МИНСЕЛЬХОЗЕ РОССИИ",
@@ -27372,6 +27468,12 @@
     },
     "formoplast.spb.ru": {
       "not_after": "2027-08-11"
+    },
+    "forms.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "forms2.tch.ru": {
       "not_after": "2027-07-28",
@@ -28461,6 +28563,12 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "gca.salute.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО \"Салютдевайсы\"",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
     "gcgie.ru": {
       "not_after": "2027-03-06",
       "org": "ФГБУЗ ГЦГ и Э ФМБА России",
@@ -28550,6 +28658,12 @@
     },
     "geniobot.ru": {
       "not_after": "2026-10-13"
+    },
+    "gens.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "geo-demo.test-middle.megafon.ru": {
       "not_after": "2026-12-16"
@@ -30002,6 +30116,18 @@
     },
     "gtw-common.sberdevices.ru": {
       "not_after": "2027-10-02",
+      "org": "ООО СалютДевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "gtw-gc.dev.sberdevices.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО СалютДевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "gtw-sc.dev.sberdevices.ru": {
+      "not_after": "2027-10-09",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -32676,6 +32802,12 @@
     "id.bi.zone": {
       "not_after": "2026-12-06"
     },
+    "id.cloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "id.cs7777.vk.com": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -32895,6 +33027,12 @@
       "inn": "3528218586",
       "ogrn": "1143528009712"
     },
+    "identity.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
     "identitystatic.mts.ru": {
       "not_after": "2027-10-07",
       "org": "Mobile TeleSystems Public Joint Stock Company",
@@ -32996,6 +33134,12 @@
       "org": "ООО \"ИЦР\"",
       "inn": "6154168741",
       "ogrn": "1246100032738"
+    },
+    "idscan.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
     },
     "idstat.app-assistent.open.ru": {
       "not_after": "2027-06-19",
@@ -33780,12 +33924,6 @@
       "inn": "7725243282",
       "ogrn": "1037725059800"
     },
-    "imap.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "imap.sdisk.ru": {
       "not_after": "2027-07-14",
       "org": "ООО РИХ",
@@ -34316,6 +34454,18 @@
       "org": "ООО РИХ",
       "inn": "7725243282",
       "ogrn": "1037725059800"
+    },
+    "inn.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
+    },
+    "inn2.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
     },
     "inner-hub.middle.megafon.ru": {
       "not_after": "2026-12-14"
@@ -35952,6 +36102,12 @@
       "inn": "5406121446",
       "ogrn": "1025402459334"
     },
+    "jira.cloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "jira.ocs.ru": {
       "not_after": "2026-10-28"
     },
@@ -35981,6 +36137,12 @@
       "org": "BrokerCreditService Ltd",
       "inn": "5406121446",
       "ogrn": "1025402459334"
+    },
+    "jirasm.cloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "jitsi-02.speechpro.com": {
       "not_after": "2026-10-27"
@@ -36071,6 +36233,12 @@
       "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО БАНК СИНАРА",
       "inn": "6608003052",
       "ogrn": "1026600000460"
+    },
+    "job.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "job.megafon.ru": {
       "not_after": "2026-11-29"
@@ -36272,6 +36440,12 @@
       "org": "LLC Sberlegal",
       "inn": "9705124940",
       "ogrn": "1187746905004"
+    },
+    "k2.cloud": {
+      "not_after": "2027-10-09",
+      "org": "K2 Integration JSC",
+      "inn": "7701829110",
+      "ogrn": "1097746072797"
     },
     "k2.tech": {
       "not_after": "2027-09-15",
@@ -36938,6 +37112,9 @@
     },
     "kemcdo.ru": {
       "not_after": "2026-11-03"
+    },
+    "kemoblast.rspp.ru": {
+      "not_after": "2027-01-07"
     },
     "kept.by": {
       "not_after": "2027-06-19",
@@ -38275,7 +38452,7 @@
       "ogrn": "1027700067328"
     },
     "kursglonass.ru": {
-      "not_after": "2027-10-08",
+      "not_after": "2027-10-09",
       "org": "АО Институт навигации",
       "inn": "7735147066",
       "ogrn": "1157746879025"
@@ -38534,6 +38711,12 @@
     },
     "langepas.home.megafon.ru": {
       "not_after": "2027-01-02"
+    },
+    "lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "lanta.ru": {
       "not_after": "2027-08-04",
@@ -39555,6 +39738,12 @@
       "inn": "2312016641",
       "ogrn": "1022300003703"
     },
+    "lk.kursglonass.ru": {
+      "not_after": "2027-10-09",
+      "org": "АО Институт навигации",
+      "inn": "7735147066",
+      "ogrn": "1157746879025"
+    },
     "lk.kvartplata.info": {
       "not_after": "2027-07-22",
       "org": "АО \"ЕИРЦ СПб\"",
@@ -39627,11 +39816,23 @@
       "inn": "7716227728",
       "ogrn": "1037716006360"
     },
+    "lk.nsk-main.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
     "lk.ogk2.ru": {
       "not_after": "2027-08-13",
       "org": "ПАО «ОГК-2»",
       "inn": "2607018122",
       "ogrn": "1052600002180"
+    },
+    "lk.omsk-main.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
     },
     "lk.open-broker.ru": {
       "not_after": "2027-06-19",
@@ -39647,6 +39848,9 @@
       "org": "ООО МКК ОТП ФИНАНС",
       "inn": "7713390236",
       "ogrn": "1157746064300"
+    },
+    "lk.premiya.rspp.ru": {
+      "not_after": "2027-01-07"
     },
     "lk.privetmir.ru": {
       "not_after": "2027-09-29",
@@ -39735,6 +39939,18 @@
       "inn": "6608003052",
       "ogrn": "1026600000460"
     },
+    "lk.spb.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
+    "lk.stv.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
     "lk.sveza.com": {
       "not_after": "2027-09-02",
       "org": "Severstal-infocom JSC",
@@ -39765,6 +39981,12 @@
       "inn": "7017351521",
       "ogrn": "1145543013880"
     },
+    "lk.ug.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
+    },
     "lk.ukpi.ru": {
       "not_after": "2027-08-20",
       "org": "ООО \"УК ПОРТФЕЛЬНЫЕ ИНВЕСТИЦИИ\"",
@@ -39791,6 +40013,12 @@
     },
     "lk.voicebot.megafon.ru": {
       "not_after": "2026-11-15"
+    },
+    "lk.vologda.mts.ru": {
+      "not_after": "2027-10-09",
+      "org": "Mobile TeleSystems Public Joint Stock Company",
+      "inn": "7740000076",
+      "ogrn": "1027700149124"
     },
     "lk.vzavod.ru": {
       "not_after": "2027-03-25",
@@ -41152,7 +41380,7 @@
       "ogrn": "1027739850962"
     },
     "m.yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "m1-test.broker.ru": {
       "not_after": "2027-09-10",
@@ -43146,12 +43374,6 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
-    "mail.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "mail.sberins.ru": {
       "not_after": "2027-09-09",
       "org": "Insurance company Sberbank Insurance LLC",
@@ -43508,12 +43730,6 @@
       "org": "АО ТОЙОТА БАНК",
       "inn": "7750004136",
       "ogrn": "1077711000058"
-    },
-    "mail.tribastion.ru": {
-      "not_after": "2026-10-09",
-      "org": "ООО ТРИ КРЕПОСТИ",
-      "inn": "4400017983",
-      "ogrn": "1244400000118"
     },
     "mail.tulamash.ru": {
       "not_after": "2026-12-01"
@@ -43981,7 +44197,7 @@
       "ogrn": "1027739019142"
     },
     "main-site.yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "main.dev.sso.s7corp.ru": {
       "not_after": "2027-07-02",
@@ -45033,6 +45249,12 @@
       "inn": "7736663049",
       "ogrn": "1137746703709"
     },
+    "mdm.sbercloud.tech": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "mdm.sberins.ru": {
       "not_after": "2027-07-14",
       "org": "Insurance company Sberbank Insurance LLC",
@@ -45734,12 +45956,6 @@
       "org": "Акционерное общество ОТП Банк",
       "inn": "7708001614",
       "ogrn": "1027739176563"
-    },
-    "mf55.ru": {
-      "not_after": "2026-10-09",
-      "org": "Ministerstvo finansov Omskoj oblasti",
-      "inn": "5503078620",
-      "ogrn": "1045504005414"
     },
     "mfa.almaz-rpe.ru": {
       "not_after": "2027-09-10",
@@ -47964,6 +48180,9 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
+    "mr.rspp.ru": {
+      "not_after": "2027-01-07"
+    },
     "mra.gazprombank.ru": {
       "not_after": "2027-03-02",
       "org": "Gazprombank Joint Stock Company",
@@ -48047,24 +48266,6 @@
       "org": "Общество с ограниченной ответственностью МРИЯ",
       "inn": "9103007830",
       "ogrn": "1149102066740"
-    },
-    "mrm.iktport.ru": {
-      "not_after": "2026-10-09",
-      "org": "АО Международный Аэропорт Иркутск",
-      "inn": "3811146038",
-      "ogrn": "1113850006676"
-    },
-    "mrm1.iktport.ru": {
-      "not_after": "2026-10-09",
-      "org": "АО Международный Аэропорт Иркутск",
-      "inn": "3811146038",
-      "ogrn": "1113850006676"
-    },
-    "mrm2.iktport.ru": {
-      "not_after": "2026-10-09",
-      "org": "АО Международный Аэропорт Иркутск",
-      "inn": "3811146038",
-      "ogrn": "1113850006676"
     },
     "mrs.kion.ru": {
       "not_after": "2027-08-11",
@@ -48443,6 +48644,12 @@
       "org": "Bank PSB PJSC",
       "inn": "7744000912",
       "ogrn": "1027739019142"
+    },
+    "mta.corp.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "mta.expmed.ru": {
       "not_after": "2026-10-25"
@@ -49304,6 +49511,12 @@
       "org": "BrokerCreditService Ltd",
       "inn": "5406121446",
       "ogrn": "1025402459334"
+    },
+    "myacademy.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "myalpha6.appsmail.ru": {
       "not_after": "2027-09-10",
@@ -51001,6 +51214,9 @@
       "inn": "7712095220",
       "ogrn": "1027700192651"
     },
+    "nps.rspp.ru": {
+      "not_after": "2027-01-07"
+    },
     "nr-repo.roskazna.ru": {
       "not_after": "2027-06-26",
       "org": "Федеральное казначейство",
@@ -51217,6 +51433,12 @@
       "inn": "9715437571",
       "ogrn": "1227700917663"
     },
+    "ntc-zarya.ru": {
+      "not_after": "2027-10-09",
+      "org": "ФГУП НТЦЗАРЯ",
+      "inn": "7710030179",
+      "ogrn": "1027700446840"
+    },
     "ntctest.curator.pro": {
       "not_after": "2026-12-17"
     },
@@ -51227,7 +51449,7 @@
       "ogrn": "1157746622109"
     },
     "ntechlab.ru": {
-      "not_after": "2027-06-16",
+      "not_after": "2027-10-09",
       "org": "Ntech Lab",
       "inn": "7710499161",
       "ogrn": "1157746622109"
@@ -51694,11 +51916,29 @@
       "inn": "7701537808",
       "ogrn": "1047796344111"
     },
+    "obs-website.ru-moscow-1.hc.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "obs.hc.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "obs.mts.ru": {
       "not_after": "2027-09-11",
       "org": "Mobile TeleSystems Public Joint Stock Company",
       "inn": "7740000076",
       "ogrn": "1027700149124"
+    },
+    "obs.ru-moscow-1.hc.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "observability.vk.team": {
       "not_after": "2026-12-31"
@@ -52057,12 +52297,6 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
-    "ol.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "olabank.ru": {
       "not_after": "2027-08-11",
       "org": "Bank Yoshkar-Ola",
@@ -52331,7 +52565,7 @@
       "not_after": "2026-11-01"
     },
     "omv.megafon.ru": {
-      "not_after": "2026-11-30"
+      "not_after": "2027-01-07"
     },
     "on-media.ru": {
       "not_after": "2027-08-17",
@@ -52533,6 +52767,12 @@
       "org": "Bank Stavr PJSC",
       "inn": "2634028786",
       "ogrn": "1022600000092"
+    },
+    "online.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
     },
     "online.bnpparibasbank.ru": {
       "not_after": "2027-08-13",
@@ -52775,7 +53015,7 @@
       "ogrn": "1027700132195"
     },
     "online.sberbank.ru": {
-      "not_after": "2026-11-10",
+      "not_after": "2027-10-09",
       "org": "Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
@@ -52851,6 +53091,12 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
+    },
+    "online2.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
     },
     "online2.eatpbank.ru": {
       "not_after": "2027-04-01",
@@ -52935,12 +53181,6 @@
       "org": "ПАО МТС-Банк",
       "inn": "7702045051",
       "ogrn": "1027739053704"
-    },
-    "oos.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "oossp.magnit.ru": {
       "not_after": "2027-07-14",
@@ -53259,6 +53499,9 @@
     },
     "oren-sms.ru": {
       "not_after": "2026-12-17"
+    },
+    "oren.rspp.ru": {
+      "not_after": "2027-01-07"
     },
     "orenburg-gov.ru": {
       "not_after": "2027-06-29",
@@ -53683,6 +53926,12 @@
       "inn": "5405276278",
       "ogrn": "1045401929847"
     },
+    "otisa.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО Эйч Би Информационные Системы",
+      "inn": "7017478662",
+      "ogrn": "1207000011239"
+    },
     "otp.sberbank.ru": {
       "not_after": "2027-09-22",
       "org": "Sberbank of Russia",
@@ -53751,12 +54000,6 @@
       "org": "КБ Кубань Кредит ООО",
       "inn": "2312016641",
       "ogrn": "1022300003703"
-    },
-    "outlook.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "ov.deadtroll.ru": {
       "not_after": "2027-07-01"
@@ -54018,6 +54261,12 @@
       "org": "ООО «Новые транспортные системы»",
       "inn": "7704314221",
       "ogrn": "1157746368999"
+    },
+    "owa.corp.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "owa.crm.noosferabank.ru": {
       "not_after": "2027-04-24",
@@ -54922,12 +55171,6 @@
       "inn": "7840389730",
       "ogrn": "1089847188903"
     },
-    "owa.tribastion.ru": {
-      "not_after": "2026-10-09",
-      "org": "ООО ТРИ КРЕПОСТИ",
-      "inn": "4400017983",
-      "ogrn": "1244400000118"
-    },
     "owa.tvpn01.sovcombank.group": {
       "not_after": "2027-06-12",
       "org": "PJSC SOVCOMBANK",
@@ -55125,12 +55368,6 @@
       "org": "Страховое публичное акционерное общество «Ингосстрах»",
       "inn": "7705042179",
       "ogrn": "1027739362474"
-    },
-    "owapp.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "owapps.sberins.ru": {
       "not_after": "2027-09-09",
@@ -55653,6 +55890,12 @@
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
+    },
+    "pages.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "pages.sca.ad-tech.ru": {
       "not_after": "2027-07-14",
@@ -56710,6 +56953,12 @@
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
+    "pd10-mail-03.corp.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "pd51-08-iam.gis.cloud.ru": {
       "not_after": "2027-10-08",
       "org": "Cloud.ru LLC",
@@ -57358,8 +57607,8 @@
       "ogrn": "1214100003204"
     },
     "pkg.sbercloud.tech": {
-      "not_after": "2027-07-30",
-      "org": "ООО Облачные технологии",
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
@@ -58407,12 +58656,6 @@
       "inn": "7728094832",
       "ogrn": "1027700510672"
     },
-    "post.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "posters.public.crms-media.mts.ru": {
       "not_after": "2027-08-11",
       "org": "ПАО МТС",
@@ -59373,6 +59616,12 @@
       "inn": "6163011391",
       "ogrn": "1026100001949"
     },
+    "products.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "prof-consultant.ru": {
       "not_after": "2027-07-09",
       "org": "ООО \"Профессиональный консультант\"",
@@ -59492,6 +59741,12 @@
       "org": "Акционерное общество «Банк ДОМ.РФ»",
       "inn": "7725038124",
       "ogrn": "1037739527077"
+    },
+    "projects.r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "projects.r7.ncsp.ru": {
       "not_after": "2026-10-16",
@@ -61884,8 +62139,20 @@
       "inn": "6901067121",
       "ogrn": "1046900099828"
     },
+    "r7.corp.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
+    },
     "r7.corp.znanierussia.ru": {
       "not_after": "2026-11-15"
+    },
+    "r7.ncsp.com": {
+      "not_after": "2027-10-09",
+      "org": "PJSC Novorossiysk Commercial Sea Port",
+      "inn": "2315004404",
+      "ogrn": "1022302380638"
     },
     "r7.ncsp.ru": {
       "not_after": "2026-10-16",
@@ -62592,6 +62859,9 @@
       "inn": "9705082619",
       "ogrn": "5167746407054"
     },
+    "rcbiz.ru": {
+      "not_after": "2027-01-07"
+    },
     "rcebf.com": {
       "not_after": "2027-06-22",
       "org": "ООО ИК «СИБИНТЕК»",
@@ -62708,6 +62978,12 @@
       "org": "Акционерное общество ОТП Банк",
       "inn": "7708001614",
       "ogrn": "1027739176563"
+    },
+    "read.email.mtsbank.ru": {
+      "not_after": "2027-10-09",
+      "org": "ПАО МТС-Банк",
+      "inn": "7702045051",
+      "ogrn": "1027739053704"
     },
     "realistbank.ru": {
       "not_after": "2027-08-07",
@@ -63656,6 +63932,12 @@
       "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
+    },
+    "rkc-pk.ru": {
+      "not_after": "2027-10-09",
+      "org": "МАУ РКЦ",
+      "inn": "4100005458",
+      "ogrn": "1024101039291"
     },
     "rkc.vbrr.ru": {
       "not_after": "2027-08-13",
@@ -65341,6 +65623,12 @@
     "s.assistant.moneta.ru": {
       "not_after": "2026-11-16"
     },
+    "s.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
+    },
     "s.cards.demo.moneta.ru": {
       "not_after": "2026-11-08"
     },
@@ -65449,6 +65737,12 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
+    "s2.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
+    },
     "s2.online.if.vtb.ru": {
       "not_after": "2027-08-03",
       "org": "VTB Bank (PJSC)",
@@ -65474,10 +65768,7 @@
       "ogrn": "1027739642281"
     },
     "s3-test.mtsbank.ru": {
-      "not_after": "2027-07-24",
-      "org": "ПАО МТС-Банк",
-      "inn": "7702045051",
-      "ogrn": "1027739053704"
+      "not_after": "2027-10-09"
     },
     "s3-website-msk.tinkoff.ru": {
       "not_after": "2027-06-13",
@@ -65492,20 +65783,26 @@
       "ogrn": "1027739642281"
     },
     "s3.api.demo1.hycl.ru": {
-      "not_after": "2027-10-05",
-      "org": "ООО Облачные технологии",
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
     "s3.api.demo2.hycl.ru": {
-      "not_after": "2027-10-07",
-      "org": "ООО Облачные технологии",
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
     "s3.api.demo3.hycl.ru": {
-      "not_after": "2027-10-05",
-      "org": "ООО Облачные технологии",
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
+    "s3.api.speechpro.hycl.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
@@ -65553,6 +65850,12 @@
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
+    },
+    "s3.k2.cloud": {
+      "not_after": "2027-10-09",
+      "org": "K2 Integration JSC",
+      "inn": "7701829110",
+      "ogrn": "1097746072797"
     },
     "s3.kamp-ext-if.vtb.ru": {
       "not_after": "2026-12-10",
@@ -67462,6 +67765,12 @@
       "inn": "0411139376",
       "ogrn": "1080411004410"
     },
+    "sc.link": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "sc.mari-el.gov.ru": {
       "not_after": "2027-02-25",
       "org": "ANO Situation Center of the Mari El Republic",
@@ -67999,6 +68308,12 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "se.salute.ru": {
+      "not_after": "2027-10-09",
+      "org": "ООО \"Салютдевайсы\"",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
     "seaf.sberbank.ru": {
       "not_after": "2027-06-18",
       "org": "Sberbank of Russia",
@@ -68091,6 +68406,12 @@
       "org": "ООО «Интернет Решения»",
       "inn": "7704217370",
       "ogrn": "1027739244741"
+    },
+    "secrets.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "secrets.o3t.ru": {
       "not_after": "2027-06-19",
@@ -68643,6 +68964,12 @@
     },
     "sentry.midep.ru": {
       "not_after": "2026-12-29"
+    },
+    "sentry.sbercloud.tech": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "seosan.io": {
       "not_after": "2027-07-15",
@@ -69285,6 +69612,18 @@
       "org": "ООО Сбер Бизнес Софт",
       "inn": "7730269550",
       "ogrn": "1217700484814"
+    },
+    "short.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
+    },
+    "short2.bcs.ru": {
+      "not_after": "2027-10-09",
+      "org": "BrokerCreditService Ltd",
+      "inn": "5406121446",
+      "ogrn": "1025402459334"
     },
     "shprapp.ru": {
       "not_after": "2027-08-31",
@@ -70678,17 +71017,17 @@
       "inn": "7725243282",
       "ogrn": "1037725059800"
     },
-    "smtp.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "smtp.sbercity.ru": {
       "not_after": "2027-08-03",
       "org": "АО СберСити",
       "inn": "5024093941",
       "ogrn": "1085024000698"
+    },
+    "smtp.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
     },
     "smtp.sberins.ru": {
       "not_after": "2027-09-09",
@@ -72037,6 +72376,12 @@
       "inn": "7704252261",
       "ogrn": "1037700255284"
     },
+    "special.sbercloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "specialist-psy.edu.ru": {
       "not_after": "2026-10-28",
       "org": "ФГАНУ «ФИЦТО»",
@@ -72310,12 +72655,6 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
-    "spost.sberbank.ru": {
-      "not_after": "2026-10-09",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "spp.alfabank.ru": {
       "not_after": "2027-06-26",
       "org": "AO Alfa-Bank",
@@ -72330,6 +72669,12 @@
     },
     "sppchel.rspp.ru": {
       "not_after": "2027-01-03"
+    },
+    "sppkk.rspp.ru": {
+      "not_after": "2027-01-07"
+    },
+    "sppno.rspp.ru": {
+      "not_after": "2027-01-07"
     },
     "sppt.alfabank.ru": {
       "not_after": "2027-06-26",
@@ -72878,7 +73223,7 @@
       "ogrn": "1027739053704"
     },
     "sso.yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "ssoauth-test.mtsbank.ru": {
       "not_after": "2027-08-03",
@@ -74243,7 +74588,7 @@
       "ogrn": "1027700132195"
     },
     "static.yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "static0.megafon.ru": {
       "not_after": "2026-12-10"
@@ -74999,10 +75344,10 @@
       "not_after": "2026-11-08"
     },
     "studio.sberdevices.ru": {
-      "not_after": "2026-11-17",
-      "org": "SaluteDevices",
-      "inn": "7730253720",
-      "ogrn": "1197746592394"
+      "not_after": "2027-10-09",
+      "org": "Sberbank of Russia, Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
     },
     "studio.vk.com": {
       "not_after": "2026-10-14"
@@ -75696,12 +76041,6 @@
       "org": "Минвостокразвития России",
       "inn": "2721194275",
       "ogrn": "1122721008200"
-    },
-    "szfk.ru": {
-      "not_after": "2026-10-09",
-      "org": "ПАО Акрон",
-      "inn": "5321029508",
-      "ogrn": "1025300786610"
     },
     "szn.prostobank.online": {
       "not_after": "2027-06-22",
@@ -79368,6 +79707,12 @@
       "inn": "7730261382",
       "ogrn": "1207700504626"
     },
+    "transport.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "transport.mironline.ru": {
       "not_after": "2027-06-12",
       "org": "АО НСПК",
@@ -79511,12 +79856,6 @@
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
-    },
-    "tribastion.ru": {
-      "not_after": "2026-10-09",
-      "org": "ООО ТРИ КРЕПОСТИ",
-      "inn": "4400017983",
-      "ogrn": "1244400000118"
     },
     "tricolor.ru": {
       "not_after": "2027-08-06",
@@ -80262,6 +80601,12 @@
       "inn": "7708619320",
       "ogrn": "1067759884598"
     },
+    "uags.mdm.cloud.ru": {
+      "not_after": "2027-10-09",
+      "org": "Cloud.ru LLC",
+      "inn": "7736279160",
+      "ogrn": "5167746080057"
+    },
     "uat-mesh.ad-tech.ru": {
       "not_after": "2027-07-14",
       "org": "ООО РАМБЛЕР ДС",
@@ -80685,6 +81030,9 @@
       "inn": "1655449328",
       "ogrn": "1201600087150"
     },
+    "uk-profit-capital.ru": {
+      "not_after": "2027-01-07"
+    },
     "uk.sbercity.ru": {
       "not_after": "2027-08-03",
       "org": "АО СберСити",
@@ -80783,6 +81131,12 @@
       "org": "Joint-Stock Company «Coalmetbank»",
       "inn": "4214005204",
       "ogrn": "1024200006434"
+    },
+    "umcso.ru": {
+      "not_after": "2027-10-09",
+      "org": "УМЦ ГОЧС Свердловской области",
+      "inn": "6671172023",
+      "ogrn": "1056604059489"
     },
     "umcusp.ru": {
       "not_after": "2026-11-02"
@@ -81372,6 +81726,9 @@
       "inn": "7740000020",
       "ogrn": "1027739411457"
     },
+    "utz.ru": {
+      "not_after": "2027-01-07"
+    },
     "uud.21-school.ru": {
       "not_after": "2027-10-02",
       "org": "FGBOU VO BGU",
@@ -81403,7 +81760,7 @@
       "ogrn": "1026605766560"
     },
     "uzagsrk.ru": {
-      "not_after": "2026-10-09",
+      "not_after": "2027-10-09",
       "org": "УПРАВЛЕНИЕ ЗАГС РЕСПУБЛИКИ КАЛМЫКИЯ",
       "inn": "0814161896",
       "ogrn": "1040866720927"
@@ -86548,10 +86905,16 @@
       "ogrn": "1027739244741"
     },
     "ws.api-vozi.ozon.ru": {
-      "not_after": "2026-10-27"
+      "not_after": "2027-10-09",
+      "org": "ООО «Интернет Решения»",
+      "inn": "7704217370",
+      "ogrn": "1027739244741"
     },
     "ws.api-vozi.stg.ozonru.me": {
-      "not_after": "2026-10-27"
+      "not_after": "2027-10-09",
+      "org": "ООО «Интернет Решения»",
+      "inn": "7704217370",
+      "ogrn": "1027739244741"
     },
     "ws.api.lk-b2b.mts.ru": {
       "not_after": "2027-01-28",
@@ -87554,6 +87917,12 @@
       "org": "КУ РА ЭЛ ТЕЛКОМ",
       "inn": "0411115216",
       "ogrn": "1030400772038"
+    },
+    "www.anketa.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "www.ao-star.ru": {
       "not_after": "2027-07-09",
@@ -88766,18 +89135,6 @@
       "org": "Акционерное общество ОТП Банк",
       "inn": "7708001614",
       "ogrn": "1027739176563"
-    },
-    "www.chat4.vtb.ru": {
-      "not_after": "2026-10-09",
-      "org": "VTB Bank (PJSC)",
-      "inn": "7702070139",
-      "ogrn": "1027739609391"
-    },
-    "www.chat7.vtb.ru": {
-      "not_after": "2026-10-09",
-      "org": "VTB Bank (PJSC)",
-      "inn": "7702070139",
-      "ogrn": "1027739609391"
     },
     "www.chattest.otpbank.ru": {
       "not_after": "2027-08-24",
@@ -90246,12 +90603,6 @@
       "inn": "7728021954",
       "ogrn": "1027700443319"
     },
-    "www.fgbu-yalta.ru": {
-      "not_after": "2026-10-09",
-      "org": "ФГБУ ВОЕННЫЙ САНАТОРИЙ «ЯЛТА» МИНОБОРОНЫ РОССИИ",
-      "inn": "9103065486",
-      "ogrn": "1159102038523"
-    },
     "www.fgup-ohrana.ru": {
       "not_after": "2027-08-17",
       "org": "ФГУП Охрана Росгвардии",
@@ -90572,6 +90923,12 @@
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
+    },
+    "www.gens.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "www.geocartography.ru": {
       "not_after": "2027-08-19",
@@ -91719,6 +92076,12 @@
       "inn": "6608003052",
       "ogrn": "1026600000460"
     },
+    "www.job.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "www.job.veb.ru": {
       "not_after": "2027-06-18",
       "org": "VEB",
@@ -92103,6 +92466,12 @@
       "inn": "4501090309",
       "ogrn": "1024500513905"
     },
+    "www.kursglonass.ru": {
+      "not_after": "2027-10-09",
+      "org": "АО Институт навигации",
+      "inn": "7735147066",
+      "ogrn": "1157746879025"
+    },
     "www.kurskduma.ru": {
       "not_after": "2026-12-08",
       "org": "Курская областная Дума",
@@ -92201,6 +92570,12 @@
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "www.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "www.lanta.ru": {
       "not_after": "2027-09-02",
@@ -93366,6 +93741,12 @@
       "inn": "3232005484",
       "ogrn": "1023200000010"
     },
+    "www.myacademy.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "www.mydss.gazprombank.ru": {
       "not_after": "2027-06-18",
       "org": "Gazprombank Joint Stock Company",
@@ -93758,6 +94139,18 @@
       "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
+    },
+    "www.ntc-zarya.ru": {
+      "not_after": "2027-10-09",
+      "org": "ФГУП НТЦЗАРЯ",
+      "inn": "7710030179",
+      "ogrn": "1027700446840"
+    },
+    "www.ntechlab.ru": {
+      "not_after": "2027-10-09",
+      "org": "Ntech Lab",
+      "inn": "7710499161",
+      "ogrn": "1157746622109"
     },
     "www.nti.work": {
       "not_after": "2027-07-09",
@@ -94650,6 +95043,12 @@
       "inn": "7726759760",
       "ogrn": "5147746290269"
     },
+    "www.products.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "www.profile.sveza.ru": {
       "not_after": "2027-09-02",
       "org": "Severstal-infocom JSC",
@@ -95252,6 +95651,12 @@
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "www.rkc-pk.ru": {
+      "not_after": "2027-10-09",
+      "org": "МАУ РКЦ",
+      "inn": "4100005458",
+      "ogrn": "1024101039291"
     },
     "www.rl0.ru": {
       "not_after": "2027-07-14",
@@ -95966,6 +96371,12 @@
       "org": "ООО СИМ",
       "inn": "7707375342",
       "ogrn": "5167746322497"
+    },
+    "www.secrets.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
     },
     "www.secure.api.sinara.ru": {
       "not_after": "2027-02-03",
@@ -97356,6 +97767,12 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
+    "www.transport.lanit.ru": {
+      "not_after": "2027-10-09",
+      "org": "AO LANIT",
+      "inn": "7727004113",
+      "ogrn": "1027739031572"
+    },
     "www.transstroybank.ru": {
       "not_after": "2027-07-17",
       "org": "Joint Stock Commercial Bank Transstroibank JSC",
@@ -97376,12 +97793,6 @@
       "org": "АО БАНК «СНГБ»",
       "inn": "8602190258",
       "ogrn": "1028600001792"
-    },
-    "www.tribastion.ru": {
-      "not_after": "2026-10-09",
-      "org": "ООО ТРИ КРЕПОСТИ",
-      "inn": "4400017983",
-      "ogrn": "1244400000118"
     },
     "www.tricolor.ru": {
       "not_after": "2027-08-06",
@@ -98622,12 +99033,6 @@
       "inn": "7708729065",
       "ogrn": "1107746876896"
     },
-    "www.zapadmorf.ru": {
-      "not_after": "2026-10-09",
-      "org": "ФГКУ «Санаторно-курортный комплекс «Западный» МО РФ",
-      "inn": "7821007739",
-      "ogrn": "1027812407050"
-    },
     "www.zdrav74.ru": {
       "not_after": "2027-09-15",
       "org": "Министерство здравоохранения Челябинской области",
@@ -99576,12 +99981,6 @@
       "inn": "7729355614",
       "ogrn": "1027700262270"
     },
-    "xn--80ajj9a.xn--39-dlcej5afybuehh.xn--p1ai": {
-      "not_after": "2026-10-09",
-      "org": "АДМИНИСТРАЦИЯ МО СВЕТЛОГОРСКИЙ ГОРОДСКОЙ ОКРУГ",
-      "inn": "3912002917",
-      "ogrn": "1023902054967"
-    },
     "xn--80ajjcnbcfefyhq1p.xn--p1ai": {
       "not_after": "2027-09-23",
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЯСНОЙ ТЕРМИНАЛ\"",
@@ -100049,6 +100448,12 @@
       "org": "Публичное акционерное общество «ДОМ.РФ»",
       "inn": "7729355614",
       "ogrn": "1027700262270"
+    },
+    "xn--e1ahdbdflckekkc.xn--p1ai": {
+      "not_after": "2027-10-09",
+      "org": "ФАУ РосКапСтрой",
+      "inn": "7718193111",
+      "ogrn": "1027700221559"
     },
     "xn--e1ajpfcj5e.xn--d1aqf.xn--p1ai": {
       "not_after": "2027-08-04",
@@ -100594,7 +100999,7 @@
       "ogrn": "1027739850962"
     },
     "yourfintech.online": {
-      "not_after": "2026-11-01"
+      "not_after": "2027-01-07"
     },
     "yourkey.tech": {
       "not_after": "2027-06-04",
@@ -101260,7 +101665,7 @@
       "ogrn": "1027700067328"
     },
     "zrk.rk.gov.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-09",
       "org": "ГКУ РК Региональный центр по организации закупок",
       "inn": "9102277840",
       "ogrn": "1219100017080"

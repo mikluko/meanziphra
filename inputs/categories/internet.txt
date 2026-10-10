@@ -37,7 +37,6 @@ airflow-yt.eye.salute.ru
 airflow.ai-assistant.eye.salute.ru
 airflow.gca.eye.salute.ru
 airflow.giga.salute.ru
-airflow.se.salute.ru
 akontech.ru
 aladdin-rd.ru
 aladdin.ru
@@ -68,6 +67,7 @@ atol.ru
 attachmail.ru
 aurora-music.ru
 auth.eye.salute.ru
+autodiscover.cloud.ru
 autodiscover.entertainment-ads.ru
 autodiscover.index20.ru
 autodiscover.lenta-co.ru
@@ -137,6 +137,7 @@ cyberprotect.ru
 d-technologies.ru
 data-studio.ru
 datacloudmail.ru
+dc01-mail-02.corp.sbercloud.ru
 dcode.su
 demo.bitrix24.payanyway.ru
 demo1.hycl.ru
@@ -164,6 +165,7 @@ digitalcryptography.ru
 digitalrenaissance.ru
 diongo.ru
 disp.local.onecld.ru
+dl-owa.corp.sbercloud.ru
 doc.eye.salute.ru
 docushka.ru
 don-cloud.ru
@@ -205,7 +207,9 @@ fx-games.ru
 gasuibs.ru
 gate.rfaces.ru
 gazeta.ru
+gca.salute.ru
 gcmtech.ru
+gens.ru
 getcourse.ru
 gigaadmin.gigacollector.eye.salute.ru
 gigaadmin.ift.gigacollector.eye.salute.ru
@@ -245,6 +249,7 @@ huggingfacemeta-api.eye.salute.ru
 i-dgtl.ru
 ibs.ru
 ibstech.ru
+id.cloud.ru
 ids-llc.ru
 ids-llc.su
 ift-mesh.ad-tech.ru
@@ -280,6 +285,8 @@ ivi-mc.ru
 ivi.ru
 ivk.ru
 jena-fuseki.giga.salute.ru
+jira.cloud.ru
+jirasm.cloud.ru
 jivo.ru
 juicyscore.ru
 jupyter.giga.salute.ru
@@ -304,6 +311,7 @@ korusconsulting.ru
 kpbs.ru
 krtech.ru
 lab-company.ru
+lanit.ru
 lbsoft.ru
 lenta.ru
 letidor.ru
@@ -373,6 +381,7 @@ mrgcdn.ru
 ms-web.ru
 msch.eye.salute.ru
 msk-ix.ru
+mta.corp.sbercloud.ru
 mtsmedia.ru
 music-transfer.ru
 musickion.ru
@@ -400,6 +409,9 @@ nuc-test-anything.yandex-net.ru
 nvg.ru
 oaosu.ru
 oblteh.ru
+obs-website.ru-moscow-1.hc.sbercloud.ru
+obs.hc.sbercloud.ru
+obs.ru-moscow-1.hc.sbercloud.ru
 odkl.ru
 odnoklassniki.ru
 ofd-initpro.ru
@@ -418,13 +430,16 @@ orionsoft.ru
 ortv.ru
 otais.ru
 otello.ru
+otisa.ru
 oviont.ru
+owa.corp.sbercloud.ru
 ozn-exchange.onecld.ru
 paas.local.onecld.ru
 partnerplatform.ru
 partners.cloud.ru
 passion.ru
 pbprog.ru
+pd10-mail-03.corp.sbercloud.ru
 pd51-08-iam.gis.cloud.ru
 pd51-08-portal.gis.cloud.ru
 pd51-rplat-web-04.gis.cloud.ru
@@ -499,6 +514,7 @@ ru-robot.ru
 rusprofile.ru
 rusradio.ru
 rustore.ru
+s3.api.speechpro.hycl.ru
 s3.gos.cloud.ru
 s3r.gos.cloud.ru
 s3vk.ru
@@ -525,6 +541,7 @@ scloud.ru
 sd.cloud.ru
 sdisk.ru
 sdrok.salute.ru
+se.salute.ru
 secondvps.ru
 secretmag.ru
 securitycode.ru
@@ -549,6 +566,7 @@ smartmarket.sber.ru
 smartproektsystems.ru
 smsgold.ru
 smtp.interfax.ru
+smtp.sbercloud.ru
 soft-start.ru
 softline.ru
 softvideo.ru
@@ -557,6 +575,7 @@ souzmult.ru
 souzmultpark.ru
 space.cloud.ru
 spark.giga.salute.ru
+special.sbercloud.ru
 spectrumdata.ru
 spectrumscoring.ru
 sport1tv.ru

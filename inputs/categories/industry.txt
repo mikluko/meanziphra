@@ -100,6 +100,7 @@ edc-electronics.ru
 edge.slavneft-kng.ru
 edge1.slavneft-kng.ru
 edge2.slavneft-kng.ru
+eens.ru
 eic.ru
 eirc-to.ru
 eirc.spb.ru
@@ -241,6 +242,7 @@ npk.ru
 npo-saturn.ru
 npoa.ru
 npovk.ru
+ntc-zarya.ru
 oaovoentorg.ru
 ocxo.ru
 ogk2.ru
@@ -351,7 +353,6 @@ study.severstal.ru
 surgutneftegas.ru
 surgutneftegas39.ru
 sveza.ru
-szfk.ru
 talisman-so.ru
 tatenergo.ru
 tatenergosbyt.ru

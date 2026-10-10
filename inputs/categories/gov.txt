@@ -93,6 +93,7 @@ bukep.ru
 burdc.ru
 burmed.ru
 burmiac.ru
+burya.rspp.ru
 burzakup.ru
 bus.gov.ru
 capella-spb.ru
@@ -238,7 +239,6 @@ ffoms.gov.ru
 ffoms.ru
 fgau.ru
 fgbu-atk.ru
-fgbu-yalta.ru
 fgbuusz.ru
 fgis-saturn.ru
 fgislk-test.gov.ru
@@ -453,7 +453,6 @@ med-to.ru
 medkhv.ru
 meet.admsurgut.ru
 meteo.ru
-mf55.ru
 mfc-25.ru
 mfc-kursk.ru
 mfc-nso.ru
@@ -494,6 +493,7 @@ mostotrest-spb.ru
 moydvorec.ru
 mpr26.ru
 mpu-spb.ru
+mr.rspp.ru
 mshsk.ru
 msko-bud.stv.muzkult.ru
 mskobr.ru
@@ -627,6 +627,7 @@ rgis.spb.ru
 rgvarchive.ru
 rheumatolog.su
 ris61edu.ru
+rkc-pk.ru
 rkcdv.ru
 rkomi.ru
 rlp.minzdrav.gov.ru
@@ -802,6 +803,7 @@ uir-ovpn.acti.ru
 uits.spb.ru
 ukshmao.ru
 uloblkazna.ru
+umcso.ru
 umfc42.ru
 umfc48.ru
 untar.ru
@@ -898,7 +900,6 @@ xn--80aegbkvxddlre.xn--p1ai
 xn--80aeylecpi.xn--p1ai
 xn--80agfbmd3ajetfm6gxd.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
-xn--80ajj9a.xn--39-dlcej5afybuehh.xn--p1ai
 xn--80akjac6amacoe3n.xn--p1ai
 xn--80aphfga3a3b.xn--p1ai
 xn--90aenc5bq.xn--p1ai
@@ -913,6 +914,7 @@ xn--b1afqbrascj.xn--p1ai
 xn--b1agmh1ai8d.xn--p1ai
 xn--c1akasedrm0a.xn--p1ai
 xn--d1aie4av.xn--p1ai
+xn--e1ahdbdflckekkc.xn--p1ai
 xn--h1acdfggnhdg.xn--p1ai
 xn--h1adghi.xn--p1ai
 xn--j1adu7b.xn--p1ai
