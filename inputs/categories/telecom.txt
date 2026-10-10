@@ -15,6 +15,7 @@ beeline.ru
 by.mgo.su
 ca.tch.ru
 cbrs.tch.ru
+chuv.rspp.ru
 comcor.ru
 corpmobile.avangard.ru
 crl.tch.ru

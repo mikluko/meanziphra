@@ -720,6 +720,7 @@ npfpens.ru
 npfsb.ru
 npfsberbanka.ru
 nprts.ru
+nps.rspp.ru
 nrb.ru
 ns-bank.ru
 nsbank.ru
@@ -1049,6 +1050,7 @@ spbexchange.ru
 specdep.ru
 spimex.ru
 sportryadom.ru
+sppno.rspp.ru
 spvb.ru
 srbank.ru
 ssb35.ru
@@ -1070,6 +1072,7 @@ stock-api.ocs.ru
 strahovka35.ru
 strelkacard.ru
 strelkapay.ru
+studio.sberdevices.ru
 su-test.ru
 superkassa.ru
 survey.sberbank-service.ru

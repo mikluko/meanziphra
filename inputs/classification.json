@@ -57,6 +57,10 @@
       "category": "gov",
       "confidence": 1
     },
+    "name:50.rospotrebnadzor.ru": {
+      "category": "gov",
+      "confidence": 0.99
+    },
     "name:5646son.ru": {
       "category": "other",
       "confidence": 0.94
@@ -76,6 +80,11 @@
     "name:8800.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
+    },
+    "name:a2048.ivi-mc.ru": {
+      "category": "other",
+      "confidence": 0.49,
+      "review": true
     },
     "name:a2p-voice-int.megafon.ru": {
       "category": "telecom",
@@ -176,6 +185,10 @@
     "name:admin.org.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:admin.premiya.rspp.ru": {
+      "category": "other",
+      "confidence": 0.67
     },
     "name:admin.r7.corp.znanierussia.ru": {
       "category": "other",
@@ -477,6 +490,11 @@
     "name:applyform.ru": {
       "category": "other",
       "confidence": 0.87
+    },
+    "name:apprt.rspp.ru": {
+      "category": "other",
+      "confidence": 0.38,
+      "review": true
     },
     "name:apps.test.int.nloto.ru": {
       "category": "other",
@@ -957,6 +975,11 @@
       "confidence": 0.33,
       "review": true
     },
+    "name:burya.rspp.ru": {
+      "category": "gov",
+      "confidence": 0.34,
+      "review": true
+    },
     "name:buryatia.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -1244,6 +1267,11 @@
     "name:chukotka.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:chuv.rspp.ru": {
+      "category": "telecom",
+      "confidence": 0.18,
+      "review": true
     },
     "name:chuvashia.megafon.ru": {
       "category": "telecom",
@@ -2060,10 +2088,6 @@
     "name:edutech.kilbil.ru": {
       "category": "other",
       "confidence": 0.83
-    },
-    "name:eens.ru": {
-      "category": "other",
-      "confidence": 0.77
     },
     "name:efis-nco.ru": {
       "category": "other",
@@ -3350,6 +3374,11 @@
       "category": "other",
       "confidence": 0.74
     },
+    "name:kemoblast.rspp.ru": {
+      "category": "other",
+      "confidence": 0.42,
+      "review": true
+    },
     "name:key.artyomk.ru": {
       "category": "other",
       "confidence": 0.93
@@ -3767,6 +3796,10 @@
     "name:lk.otello.2gis.ru": {
       "category": "internet",
       "confidence": 0.71
+    },
+    "name:lk.premiya.rspp.ru": {
+      "category": "other",
+      "confidence": 0.62
     },
     "name:lk.regmed.ru": {
       "category": "other",
@@ -4454,6 +4487,11 @@
       "category": "other",
       "confidence": 0.76
     },
+    "name:mr.rspp.ru": {
+      "category": "gov",
+      "confidence": 0.59,
+      "review": true
+    },
     "name:ms1.12.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
@@ -4827,6 +4865,10 @@
       "category": "banks",
       "confidence": 0.95
     },
+    "name:nps.rspp.ru": {
+      "category": "banks",
+      "confidence": 0.61
+    },
     "name:ns-bank.ru": {
       "category": "banks",
       "confidence": 0.91
@@ -5039,6 +5081,11 @@
     "name:oren-sms.ru": {
       "category": "other",
       "confidence": 0.47,
+      "review": true
+    },
+    "name:oren.rspp.ru": {
+      "category": "other",
+      "confidence": 0.22,
       "review": true
     },
     "name:orenburg.dev.home.megafon.ru": {
@@ -5811,6 +5858,10 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:rcbiz.ru": {
+      "category": "other",
+      "confidence": 0.82
+    },
     "name:rcm-szfo.ru": {
       "category": "other",
       "confidence": 0.68
@@ -6099,6 +6150,10 @@
     "name:s.sbp.payanyway.ru": {
       "category": "banks",
       "confidence": 0.9
+    },
+    "name:s3-test.mtsbank.ru": {
+      "category": "banks",
+      "confidence": 1
     },
     "name:s3.ttp.one-infra.ru": {
       "category": "other",
@@ -6656,6 +6711,16 @@
     "name:sppchel.rspp.ru": {
       "category": "other",
       "confidence": 0.45,
+      "review": true
+    },
+    "name:sppkk.rspp.ru": {
+      "category": "other",
+      "confidence": 0.52,
+      "review": true
+    },
+    "name:sppno.rspp.ru": {
+      "category": "banks",
+      "confidence": 0.28,
       "review": true
     },
     "name:sq2.go.mail.ru": {
@@ -7452,6 +7517,10 @@
       "confidence": 0.45,
       "review": true
     },
+    "name:uk-profit-capital.ru": {
+      "category": "other",
+      "confidence": 0.84
+    },
     "name:ulyanovsk.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.91
@@ -7513,6 +7582,11 @@
     "name:utils.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:utz.ru": {
+      "category": "other",
+      "confidence": 0.52,
+      "review": true
     },
     "name:v-dimitriadis.ru": {
       "category": "other",
@@ -7952,10 +8026,6 @@
       "category": "banks",
       "confidence": 0.58,
       "review": true
-    },
-    "name:ws.api-vozi.ozon.ru": {
-      "category": "marketplaces",
-      "confidence": 0.86
     },
     "name:wufeng.ru": {
       "category": "other",
@@ -9528,11 +9598,6 @@
       "confidence": 1,
       "org": "МП Калининградтеплосеть"
     },
-    "ogrn:1023902054967": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "АДМИНИСТРАЦИЯ МО СВЕТЛОГОРСКИЙ ГОРОДСКОЙ ОКРУГ"
-    },
     "ogrn:1023902093478": {
       "category": "gov",
       "confidence": 1,
@@ -9577,6 +9642,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "ГБУЗ \"Камчатский краевой онкологический диспансер\""
+    },
+    "ogrn:1024101039291": {
+      "category": "gov",
+      "confidence": 0.82,
+      "org": "МАУ РКЦ"
     },
     "ogrn:1024200001814": {
       "category": "banks",
@@ -10779,6 +10849,12 @@
       "confidence": 1,
       "org": "Министерство природных ресурсов и экологии Российской Федерации"
     },
+    "ogrn:1027700221559": {
+      "category": "gov",
+      "confidence": 0.49,
+      "review": true,
+      "org": "ФАУ РосКапСтрой"
+    },
     "ogrn:1027700222330": {
       "category": "internet",
       "confidence": 0.99,
@@ -10898,6 +10974,12 @@
       "category": "gov",
       "confidence": 0.65,
       "org": "ФГБУ АВТОТРАНСПОРТНЫЙ КОМБИНАТ"
+    },
+    "ogrn:1027700446840": {
+      "category": "industry",
+      "confidence": 0.5,
+      "review": true,
+      "org": "ФГУП НТЦЗАРЯ"
     },
     "ogrn:1027700458224": {
       "category": "banks",
@@ -11044,6 +11126,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "T-Insurance"
+    },
+    "ogrn:1027739031572": {
+      "category": "internet",
+      "confidence": 0.91,
+      "org": "AO LANIT"
     },
     "ogrn:1027739032925": {
       "category": "banks",
@@ -13253,11 +13340,6 @@
       "confidence": 1,
       "org": "Управление Росреестра по Новосибирской области"
     },
-    "ogrn:1045504005414": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "Ministerstvo finansov Omskoj oblasti"
-    },
     "ogrn:1045504007603": {
       "category": "gov",
       "confidence": 1,
@@ -13874,6 +13956,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "ПАО Россети Урал"
+    },
+    "ogrn:1056604059489": {
+      "category": "gov",
+      "confidence": 0.99,
+      "org": "УМЦ ГОЧС Свердловской области"
     },
     "ogrn:1056604520499": {
       "category": "other",
@@ -14706,6 +14793,11 @@
       "confidence": 0.5,
       "review": true,
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПЕРСПЕКТИВНЫЕ СИСТЕМЫ"
+    },
+    "ogrn:1086658002617": {
+      "category": "industry",
+      "confidence": 0.79,
+      "org": "АО ЕЭНС"
     },
     "ogrn:1087017024874": {
       "category": "internet",
@@ -16702,11 +16794,6 @@
       "category": "transport",
       "confidence": 0.86,
       "org": "ФГУП КЖД"
-    },
-    "ogrn:1159102038523": {
-      "category": "gov",
-      "confidence": 0.99,
-      "org": "ФГБУ ВОЕННЫЙ САНАТОРИЙ «ЯЛТА» МИНОБОРОНЫ РОССИИ"
     },
     "ogrn:1159102069125": {
       "category": "other",
