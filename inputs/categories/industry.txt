@@ -5,7 +5,6 @@ abakanvodokanal.ru
 ac2.avangard.ru
 achimdevelopment.ru
 achimgaz.ru
-acron.ru
 admin-cordiant-learn.severstal.ru
 admin-kompas.severstal.ru
 admin-study.severstal.ru
@@ -310,7 +309,6 @@ ruselectronics.ru
 russianspacesystems.ru
 rustank.ru
 rvc.ru
-s-broiler.ru
 samara-metallurg.ru
 samaravodokanal.ru
 samspace.ru

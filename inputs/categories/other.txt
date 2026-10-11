@@ -227,6 +227,7 @@ gp200.domru.ru
 gpba-service.ru
 grantains.ru
 greencert.ru
+greentechpro.ru
 griser.ru
 gubadm.ru
 guestportal.avangard.ru
@@ -264,7 +265,6 @@ ippss.ru
 ips.avangard.ru
 ipsnok.ru
 irao-engineering.ru
-irkat.ru
 irteya.ru
 isiton.ru
 it-brigita.ru
@@ -356,7 +356,6 @@ max.bidfox.ru
 max.message-relay.ru
 max.screspect.ru
 max.targo.su
-max.ukplus.ru
 maxiarm.ru
 mazenko.ru
 mcclinics.ru
@@ -410,6 +409,7 @@ my.kalkulatorzp.ru
 my.speechxplore.ru
 myavrmaxwebhook.ru
 myfitt.ru
+myjunkstorage.ru
 mylovar.ru
 mymedex.ru
 myproficit.ru
@@ -420,6 +420,7 @@ na-podpisi.ru
 nameste.ru
 narhsi.ru
 narkolog-help-24.ru
+nc.biv91.ru
 nc.kszn34.ru
 neansk.ru
 nenderus.su
@@ -643,7 +644,6 @@ srso.rspp.ru
 srv1cweb.uspekh.ru
 srvchat.uspekh.ru
 sso-ext.ocs.ru
-st-dnd.ru
 star-pro.ru
 star-smile.ru
 static-content.ru

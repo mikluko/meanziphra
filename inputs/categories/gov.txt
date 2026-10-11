@@ -36,14 +36,12 @@ ai72.ru
 aisoms.ru
 akimovkomedia.ru
 aksayland.ru
-albvvp.ru
 aleksinternat26.stv.socinfo.ru
 alexandrino.ru
 altspu.ru
 amplisens.ru
 amrro.ru
 amurobl.ru
-analiz.depfin70.ru
 anodialog.ru
 aoglonass.ru
 api-elreg.ik66.ru
@@ -298,7 +296,6 @@ gisp.gov.ru
 giszpenza.ru
 giszrb.ru
 git.minzdrav.gov.ru
-gjnrk.ru
 gmgs.ru
 gnicpm.ru
 gorzdrav.spb.ru
