@@ -758,8 +758,12 @@ owapps.sberins.ru
 p-fondy.ru
 palacesquare.rambler.ru
 paracesquare.rambler.ru
+pay-sandbox.ivi-mc.ru
+pay-sandbox2.ivi-mc.ru
 pay.fl-shop.ru
+pay.ivi-mc.ru
 pay.sbtips.ru
+pay2.ivi-mc.ru
 payanyway.ru
 payconnect.ru
 payecom.ru

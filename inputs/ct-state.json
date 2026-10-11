@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11300,
+    "https://27.ctlog.digital.gov.ru/2027/": 11311,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 11812
+    "https://ctlog2027.mail.ru/nca2027/": 11823
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -1499,12 +1499,6 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
-    },
-    "acron.ru": {
-      "not_after": "2026-10-10",
-      "org": "ПАО Акрон",
-      "inn": "5321029508",
-      "ogrn": "1025300786610"
     },
     "acs-nuc.vendorcert.mirconnect.ru": {
       "not_after": "2027-02-18",
@@ -3226,12 +3220,6 @@
       "inn": "1435138944",
       "ogrn": "1031403918138"
     },
-    "albvvp.ru": {
-      "not_after": "2026-10-10",
-      "org": "ФБУ Администрация Ленского бассейна",
-      "inn": "1435033691",
-      "ogrn": "1021401057655"
-    },
     "aldan.drsk.ru": {
       "not_after": "2027-04-24",
       "org": "АО ДРСК",
@@ -3810,12 +3798,6 @@
     },
     "an.jtirussia.ru": {
       "not_after": "2026-11-04"
-    },
-    "analiz.depfin70.ru": {
-      "not_after": "2026-10-10",
-      "org": "ДЕПАРТАМЕНТ ФИНАНСОВ ТОМСКОЙ ОБЛАСТИ",
-      "inn": "7000000885",
-      "ogrn": "1037000100719"
     },
     "analytics-vk.ru": {
       "not_after": "2027-07-15",
@@ -24321,7 +24303,7 @@
       "ogrn": "1177746502944"
     },
     "elena.megafon.ru": {
-      "not_after": "2026-11-29"
+      "not_after": "2027-01-08"
     },
     "elf.vitabank.ru": {
       "not_after": "2027-06-29",
@@ -29253,12 +29235,6 @@
       "inn": "5406643611",
       "ogrn": "1105476058930"
     },
-    "gjnrk.ru": {
-      "not_after": "2026-10-10",
-      "org": "ИНСПЕКЦИЯ ГОСУДАРСТВЕННОГО ЖИЛИЩНОГО НАДЗОРА РЕСПУБЛИКИ КАЛМЫКИЯ",
-      "inn": "0816032134",
-      "ogrn": "1160816052000"
-    },
     "gk-ikar.ru": {
       "not_after": "2027-07-28",
       "org": "Engineering Center ECAR, JSC",
@@ -30005,6 +29981,9 @@
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "greentechpro.ru": {
+      "not_after": "2027-01-08"
     },
     "grfc.ru": {
       "not_after": "2027-09-07",
@@ -35287,7 +35266,7 @@
       "ogrn": "1025203020193"
     },
     "iphone.megafon.ru": {
-      "not_after": "2026-11-29"
+      "not_after": "2027-01-08"
     },
     "ipo-omidl-apps-test.vtb.ru": {
       "not_after": "2027-08-03",
@@ -35468,9 +35447,6 @@
       "org": "ГАУИО «Ирэкспертиза»",
       "inn": "3808226558",
       "ogrn": "1123850043272"
-    },
-    "irkat.ru": {
-      "not_after": "2026-10-10"
     },
     "irkopeka4.ru": {
       "not_after": "2027-02-17",
@@ -39236,12 +39212,6 @@
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
-    },
-    "link.centrinvest.ru": {
-      "not_after": "2026-10-10",
-      "org": "Center-invest Bank",
-      "inn": "6163011391",
-      "ogrn": "1026100001949"
     },
     "link.domrf.online": {
       "not_after": "2027-08-05",
@@ -44811,9 +44781,6 @@
       "inn": "3662255704",
       "ogrn": "1173668055000"
     },
-    "max.ukplus.ru": {
-      "not_after": "2026-10-10"
-    },
     "maxapp.ze.parts": {
       "not_after": "2027-08-31"
     },
@@ -49611,6 +49578,9 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
+    "myjunkstorage.ru": {
+      "not_after": "2027-01-08"
+    },
     "mylovar.ru": {
       "not_after": "2026-12-24"
     },
@@ -50085,6 +50055,9 @@
       "org": "АО БАНК НБС",
       "inn": "3702558680",
       "ogrn": "1083700000471"
+    },
+    "nc.biv91.ru": {
+      "not_after": "2027-01-08"
     },
     "nc.kszn34.ru": {
       "not_after": "2026-12-09"
@@ -56356,6 +56329,12 @@
       "inn": "7835905228",
       "ogrn": "1137800007124"
     },
+    "pay-sandbox.ivi-mc.ru": {
+      "not_after": "2027-01-08"
+    },
+    "pay-sandbox2.ivi-mc.ru": {
+      "not_after": "2027-01-08"
+    },
     "pay-test.kk.bank": {
       "not_after": "2027-06-30",
       "org": "КБ Кубань Кредит ООО",
@@ -56403,6 +56382,9 @@
     },
     "pay.iturup.online": {
       "not_after": "2026-10-29"
+    },
+    "pay.ivi-mc.ru": {
+      "not_after": "2027-01-08"
     },
     "pay.kk.bank": {
       "not_after": "2027-06-26",
@@ -56532,6 +56514,9 @@
     },
     "pay2.avangard.ru": {
       "not_after": "2026-11-09"
+    },
+    "pay2.ivi-mc.ru": {
+      "not_after": "2027-01-08"
     },
     "pay2.vbrr.ru": {
       "not_after": "2027-04-14",
@@ -65582,7 +65567,7 @@
       "not_after": "2026-12-28"
     },
     "rzn.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-08"
     },
     "rzn.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -65610,12 +65595,6 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
-    },
-    "s-broiler.ru": {
-      "not_after": "2026-10-10",
-      "org": "ООО Саянский бройлер",
-      "inn": "3814008646",
-      "ogrn": "1043801910756"
     },
     "s.assistant.demo.moneta.ru": {
       "not_after": "2026-11-09"
@@ -73344,9 +73323,6 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
-    },
-    "st-dnd.ru": {
-      "not_after": "2026-10-10"
     },
     "st.ad-tech.ru": {
       "not_after": "2027-07-29",
@@ -91032,12 +91008,6 @@
       "inn": "7713056834",
       "ogrn": "1027739431730"
     },
-    "www.gjnrk.ru": {
-      "not_after": "2026-10-10",
-      "org": "ИНСПЕКЦИЯ ГОСУДАРСТВЕННОГО ЖИЛИЩНОГО НАДЗОРА РЕСПУБЛИКИ КАЛМЫКИЯ",
-      "inn": "0816032134",
-      "ogrn": "1160816052000"
-    },
     "www.gk-ikar.ru": {
       "not_after": "2027-07-23",
       "org": "АО ИЦ ИКАР",
@@ -100726,7 +100696,7 @@
       "ogrn": "1020280000190"
     },
     "yabank.yandex.ru": {
-      "not_after": "2026-10-13"
+      "not_after": "2027-01-08"
     },
     "yadro.com": {
       "not_after": "2027-07-09",

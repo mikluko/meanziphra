@@ -2573,6 +2573,10 @@
       "confidence": 0.41,
       "review": true
     },
+    "name:greentechpro.ru": {
+      "category": "other",
+      "confidence": 0.62
+    },
     "name:gslb.mos.ru": {
       "category": "gov",
       "confidence": 0.59,
@@ -3062,10 +3066,6 @@
       "category": "other",
       "confidence": 0.53,
       "review": true
-    },
-    "name:irkat.ru": {
-      "category": "other",
-      "confidence": 0.81
     },
     "name:irkutsk.dev.home.megafon.ru": {
       "category": "telecom",
@@ -4159,10 +4159,6 @@
       "confidence": 0.47,
       "review": true
     },
-    "name:max.ukplus.ru": {
-      "category": "other",
-      "confidence": 0.73
-    },
     "name:mazenko.ru": {
       "category": "other",
       "confidence": 0.95
@@ -4652,6 +4648,10 @@
       "category": "other",
       "confidence": 0.73
     },
+    "name:myjunkstorage.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
     "name:mylovar.ru": {
       "category": "other",
       "confidence": 0.84
@@ -4704,6 +4704,10 @@
     "name:native.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.91
+    },
+    "name:nc.biv91.ru": {
+      "category": "other",
+      "confidence": 0.85
     },
     "name:nc.kszn34.ru": {
       "category": "other",
@@ -5241,6 +5245,14 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:pay-sandbox.ivi-mc.ru": {
+      "category": "banks",
+      "confidence": 0.74
+    },
+    "name:pay-sandbox2.ivi-mc.ru": {
+      "category": "banks",
+      "confidence": 0.78
+    },
     "name:pay.albank.ru": {
       "category": "banks",
       "confidence": 0.94
@@ -5254,6 +5266,10 @@
       "confidence": 0.46,
       "review": true
     },
+    "name:pay.ivi-mc.ru": {
+      "category": "banks",
+      "confidence": 0.75
+    },
     "name:pay.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -5265,6 +5281,11 @@
     "name:pay2.avangard.ru": {
       "category": "banks",
       "confidence": 0.37,
+      "review": true
+    },
+    "name:pay2.ivi-mc.ru": {
+      "category": "banks",
+      "confidence": 0.5,
       "review": true
     },
     "name:paycontrol.domrfbank.ru": {
@@ -6801,10 +6822,6 @@
     "name:sso.sberdevices.ru": {
       "category": "banks",
       "confidence": 0.78
-    },
-    "name:st-dnd.ru": {
-      "category": "other",
-      "confidence": 0.76
     },
     "name:st.avangard.ru": {
       "category": "industry",
@@ -8794,11 +8811,6 @@
       "confidence": 1,
       "org": "ГКУ РС(Я) Национальная библиотека РС(Я)"
     },
-    "ogrn:1021401057655": {
-      "category": "gov",
-      "confidence": 0.97,
-      "org": "ФБУ Администрация Ленского бассейна"
-    },
     "ogrn:1021401062187": {
       "category": "industry",
       "confidence": 0.29,
@@ -9872,11 +9884,6 @@
       "category": "gov",
       "confidence": 0.76,
       "org": "School-21"
-    },
-    "ogrn:1025300786610": {
-      "category": "industry",
-      "confidence": 1,
-      "org": "ПАО Акрон"
     },
     "ogrn:1025300788094": {
       "category": "gov",
@@ -13243,11 +13250,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "УПРАВЛЕНИЕ РОСРЕЕСТРА ПО ИРКУТСКОЙ ОБЛАСТИ"
-    },
-    "ogrn:1043801910756": {
-      "category": "industry",
-      "confidence": 0.77,
-      "org": "ООО Саянский бройлер"
     },
     "ogrn:1043802220670": {
       "category": "gov",
@@ -16805,11 +16807,6 @@
       "category": "transport",
       "confidence": 1,
       "org": "МЕЖДУНАРОДНЫЙ АЭРОПОРТ СИМФЕРОПОЛЬ"
-    },
-    "ogrn:1160816052000": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "ИНСПЕКЦИЯ ГОСУДАРСТВЕННОГО ЖИЛИЩНОГО НАДЗОРА РЕСПУБЛИКИ КАЛМЫКИЯ"
     },
     "ogrn:1161832070840": {
       "category": "banks",
