@@ -288,6 +288,7 @@ kemcdo.ru
 kemoblast.rspp.ru
 kept.ru
 keptstore.ru
+kevseev.ru
 key.artyomk.ru
 kiekei.ru
 kilbil.ru
@@ -351,7 +352,6 @@ marketing.ocs.ru
 mate-it.ru
 mategroup.ru
 matznay.ru
-max-bot.bestwayservice.ru
 max.bidfox.ru
 max.message-relay.ru
 max.screspect.ru
@@ -501,7 +501,6 @@ planetaibs.ru
 platformatd.ru
 pmdemo.sbertech.ru
 pmplatform.ru
-pms-centr.spb.ru
 po-rubly.ru
 polosatayaloshadka.ru
 portal.acti.ru
@@ -579,7 +578,6 @@ s3.ttp.one-infra.ru
 safework.ru
 savebee.ru
 sbersova.ru
-sborprint.ru
 sce.uec-saturn.ru
 sd-next.ru
 sdb-downloads.ocs.ru

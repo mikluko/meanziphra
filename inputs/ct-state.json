@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11311,
+    "https://27.ctlog.digital.gov.ru/2027/": 11320,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 11823
+    "https://ctlog2027.mail.ru/nca2027/": 11835
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -59,9 +59,6 @@
       "org": "Департамент информационных технологий города Москвы",
       "inn": "7710878000",
       "ogrn": "1107746943347"
-    },
-    "09.rospotrebnadzor.ru": {
-      "not_after": "2026-10-11"
     },
     "0node0019.saas.rambler.tech": {
       "not_after": "2027-07-14",
@@ -5757,6 +5754,9 @@
       "org": "АО Тандер",
       "inn": "2310031475",
       "ogrn": "1022301598549"
+    },
+    "apu3.network": {
+      "not_after": "2027-01-09"
     },
     "apzrotor.ru": {
       "not_after": "2027-06-24",
@@ -27955,12 +27955,6 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
-    "ft3-certificates-epsilon-mpl-api-ext.g4lab.com": {
-      "not_after": "2026-10-11"
-    },
-    "ft3-certificates-tlm-weblk-ext.g4lab.com": {
-      "not_after": "2026-10-11"
-    },
     "ftoken.tander.ru": {
       "not_after": "2027-07-08",
       "org": "АО Тандер",
@@ -31409,6 +31403,9 @@
       "org": "TBank",
       "inn": "7710140679",
       "ogrn": "1027739642281"
+    },
+    "homeassistant.apu3.network": {
+      "not_after": "2027-01-09"
     },
     "homebank.ru": {
       "not_after": "2027-06-18",
@@ -35874,9 +35871,6 @@
       "inn": "7734202860",
       "ogrn": "1027739555282"
     },
-    "iva.tupolev.ru": {
-      "not_after": "2026-10-11"
-    },
     "ivanskr.sel.apitest.team": {
       "not_after": "2026-10-13"
     },
@@ -37128,6 +37122,9 @@
       "inn": "7709006125",
       "ogrn": "1037700067327"
     },
+    "kevseev.ru": {
+      "not_after": "2027-01-09"
+    },
     "key.artyomk.ru": {
       "not_after": "2026-11-06"
     },
@@ -38032,7 +38029,7 @@
       "not_after": "2026-11-19"
     },
     "krasnodar.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-09"
     },
     "krasnodar.ru": {
       "not_after": "2027-04-24",
@@ -39523,7 +39520,7 @@
       "not_after": "2026-11-02"
     },
     "lk-test.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-09"
     },
     "lk-test.nordgold.com": {
       "not_after": "2027-09-09",
@@ -44727,9 +44724,6 @@
     "matznay.ru": {
       "not_after": "2026-11-15"
     },
-    "max-bot.bestwayservice.ru": {
-      "not_after": "2026-10-11"
-    },
     "max.aihor.ru": {
       "not_after": "2026-12-15"
     },
@@ -45440,9 +45434,6 @@
       "org": "АО Медиаскоп",
       "inn": "7714117913",
       "ogrn": "1027739451520"
-    },
-    "medico.crimea.com": {
-      "not_after": "2026-10-11"
     },
     "medkhv.ru": {
       "not_after": "2027-07-31",
@@ -47744,6 +47735,9 @@
       "org": "Moskomsviyz",
       "inn": "7717599630",
       "ogrn": "1077760297548"
+    },
+    "moscow.apu3.network": {
+      "not_after": "2027-01-09"
     },
     "moscow.dev.home.megafon.ru": {
       "not_after": "2027-01-06"
@@ -53254,6 +53248,9 @@
       "inn": "7744001497",
       "ogrn": "1027700167110"
     },
+    "opencode.nenderus.su": {
+      "not_after": "2027-01-09"
+    },
     "openconf.rt.ru": {
       "not_after": "2027-08-31",
       "org": "PJSC Rostelecom",
@@ -57899,9 +57896,6 @@
     },
     "pmplatform.ru": {
       "not_after": "2026-12-24"
-    },
-    "pms-centr.spb.ru": {
-      "not_after": "2026-10-11"
     },
     "pmx.rambler.space": {
       "not_after": "2027-07-14",
@@ -67522,9 +67516,6 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
-    "sborprint.ru": {
-      "not_after": "2026-10-11"
-    },
     "sbox.payecom.ru": {
       "not_after": "2027-06-24",
       "org": "Sberbank",
@@ -68001,9 +67992,6 @@
       "org": "ГБОУ гимназия 433 Курортного района Санкт-Петербурга",
       "inn": "7827001290",
       "ogrn": "1027812401693"
-    },
-    "school434.ru": {
-      "not_after": "2026-10-11"
     },
     "school445.ru": {
       "not_after": "2027-07-23",
@@ -72944,7 +72932,7 @@
       "not_after": "2027-01-06"
     },
     "srvchat.uspekh.ru": {
-      "not_after": "2027-01-07"
+      "not_after": "2027-01-10"
     },
     "ss.svm.psb.services": {
       "not_after": "2027-06-25",
@@ -75755,7 +75743,7 @@
       "ogrn": "1023501237330"
     },
     "svision.tornado.ru": {
-      "not_after": "2026-10-14"
+      "not_after": "2027-01-09"
     },
     "svistuhinskiy-centr.stv.socinfo.ru": {
       "not_after": "2027-06-08",
@@ -77751,9 +77739,6 @@
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
-    },
-    "test-tls-showroom.api.megafon.ru": {
-      "not_after": "2026-10-11"
     },
     "test-tp.br.mosreg.ru": {
       "not_after": "2027-10-01",
