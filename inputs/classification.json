@@ -1,10 +1,6 @@
 {
   "fingerprint": "1b7fd2c040010ea38b5ba5db7f05a6871d421fdf30b16d4233dd0155603e11fa",
   "entries": {
-    "name:09.rospotrebnadzor.ru": {
-      "category": "gov",
-      "confidence": 0.99
-    },
     "name:12.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
@@ -3139,10 +3135,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:iva.tupolev.ru": {
-      "category": "industry",
-      "confidence": 0.89
-    },
     "name:ix-m3-tt-qa-sipproxy01.homeagents.ru": {
       "category": "other",
       "confidence": 0.44,
@@ -3378,6 +3370,10 @@
       "category": "other",
       "confidence": 0.42,
       "review": true
+    },
+    "name:kevseev.ru": {
+      "category": "other",
+      "confidence": 0.94
     },
     "name:key.artyomk.ru": {
       "category": "other",
@@ -4141,10 +4137,6 @@
     "name:matznay.ru": {
       "category": "other",
       "confidence": 0.82
-    },
-    "name:max-bot.bestwayservice.ru": {
-      "category": "other",
-      "confidence": 0.84
     },
     "name:max.aihor.ru": {
       "category": "other",
@@ -5066,6 +5058,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:opencode.nenderus.su": {
+      "category": "other",
+      "confidence": 0.75
+    },
     "name:opensource.tbank.ru": {
       "category": "banks",
       "confidence": 0.97
@@ -5515,10 +5511,6 @@
     "name:pmplatform.ru": {
       "category": "other",
       "confidence": 0.7
-    },
-    "name:pms-centr.spb.ru": {
-      "category": "other",
-      "confidence": 0.6
     },
     "name:pnd-dp.megafon.ru": {
       "category": "telecom",
@@ -6266,10 +6258,6 @@
       "category": "banks",
       "confidence": 0.97
     },
-    "name:sborprint.ru": {
-      "category": "other",
-      "confidence": 0.78
-    },
     "name:sbp-online.econombank.ru": {
       "category": "banks",
       "confidence": 1
@@ -6300,10 +6288,6 @@
     "name:school.ioffe.ru": {
       "category": "gov",
       "confidence": 0.83
-    },
-    "name:school434.ru": {
-      "category": "gov",
-      "confidence": 0.61
     },
     "name:schoolaccel.sberclass.ru": {
       "category": "banks",
@@ -7202,10 +7186,6 @@
     "name:test-openapi.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:test-tls-showroom.api.megafon.ru": {
-      "category": "telecom",
-      "confidence": 1
     },
     "name:test.avangard.ru": {
       "category": "industry",
