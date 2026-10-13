@@ -73,7 +73,6 @@ atomstandart.ru
 atomyze.ru
 atriumnn.ru
 auditkso.ru
-auth.f-pvo.ru
 autodiscover.roscap.ru
 autourist72.ru
 avro.su
@@ -117,6 +116,7 @@ cge-amur.ru
 cgpb.ru
 charlie.mici.imgsmail.ru
 ckk.kszn34.ru
+cleantify.ru
 climamos.ru
 comfort-max.ru
 companyprofile.ru
@@ -171,8 +171,6 @@ eccdn.servicecdn.ru
 eccdn2.servicecdn.ru
 ecospher.ru
 ed-industry.ru
-edge-mx-01.novikom.ru
-edge-mx-02.novikom.ru
 edinici.ru
 edinros.ru
 edo.gupti.ru
@@ -316,6 +314,7 @@ lala.su
 lazurmedical.ru
 le-test-273-2.servicecdn.ru
 lecta.ru
+lemondate.ru
 len.rspp.ru
 lermontovka-spb.ru
 levashov-studio.ru
@@ -403,6 +402,7 @@ msis174.ru
 mt-plan.ru
 mtracker.ocs.ru
 murashow.ru
+music.pakhonin.ru
 muzlab.ru
 mv.corpp.ru
 my.kalkulatorzp.ru
@@ -417,7 +417,6 @@ mytm.goodoldlion.ru
 n.19dx.ru
 n3health.ru
 na-podpisi.ru
-nameste.ru
 narhsi.ru
 narkolog-help-24.ru
 nc.biv91.ru
@@ -491,6 +490,7 @@ phoenix-ca.ru
 phoenix-dnr.ru
 photo.ippe.ru
 photo.katantsev.ru
+photos.pakhonin.ru
 pilotdev-admin.ascon.ru
 pilotdev.ascon.ru
 pim-connector.ocs.ru
@@ -535,7 +535,6 @@ r1864.ru
 r3sonance.ru
 r7.corp.znanierussia.ru
 rame0.ru
-raoes.ru
 rapporto.ru
 raspisanie-btt.ru
 rates.avangard.ru
@@ -563,11 +562,11 @@ rezonit.ru
 rf-cheats.ru
 rifpark.ru
 rmq.datacloud.itphx.ru
+rniirs.ru
 roomlink.ru
 roscherk.su
 rosinkas.ru
 rozzyapps.ru
-rt-link-1.novikom.ru
 ru.oljk.ru
 run.check-ru.ru
 rus.zakupki44fz.ru
@@ -676,7 +675,6 @@ tender32.ru
 termidesk.ru
 test-2.avangard.ru
 test-er.ru
-test.ipfran.ru
 test273.servicecdn.ru
 testcr3.novikom.ru
 testcr8.novikom.ru

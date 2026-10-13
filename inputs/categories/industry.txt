@@ -67,6 +67,7 @@ cms-edge1.slavneft-kng.ru
 cms-edge2.slavneft-kng.ru
 cms-le.energo.ru
 cms.slavneft-kng.ru
+cniitm.ru
 cnpo.ru
 coalstar.ru
 collab-edge.slavneft-kng.ru
@@ -166,6 +167,7 @@ irz.ru
 istokmw.ru
 isup.almaz-antey.ru
 iva-le.energo.ru
+iva.tupolev.ru
 izh-bs.ru
 k-energomash.ru
 kalashnikovconcern.ru
