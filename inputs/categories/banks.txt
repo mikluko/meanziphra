@@ -510,6 +510,7 @@ iftpay.sbtips.ru
 ifttg.sbtips.ru
 ii-company.ru
 iicsk-insurance.ru
+ilb.ru
 images.vesta.ru
 img.tokenization.mirconnect.ru
 img.tokenization.stg.mirconnect.ru
@@ -541,6 +542,7 @@ investpay.ru
 invsol.ru
 ipb.ru
 ippay.ru
+isbank.com.ru
 isin.ru
 isnbank.ru
 itb.ru

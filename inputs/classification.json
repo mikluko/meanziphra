@@ -53,10 +53,6 @@
       "category": "gov",
       "confidence": 1
     },
-    "name:50.rospotrebnadzor.ru": {
-      "category": "gov",
-      "confidence": 0.99
-    },
     "name:5646son.ru": {
       "category": "other",
       "confidence": 0.94
@@ -615,10 +611,6 @@
       "confidence": 0.41,
       "review": true
     },
-    "name:auth.f-pvo.ru": {
-      "category": "other",
-      "confidence": 0.65
-    },
     "name:auth.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -640,6 +632,10 @@
       "category": "industry",
       "confidence": 0.94
     },
+    "name:autoconfig.inforion.ru": {
+      "category": "other",
+      "confidence": 0.61
+    },
     "name:autodealer.cdn-tbank.ru": {
       "category": "banks",
       "confidence": 0.86
@@ -652,6 +648,11 @@
     "name:autodiscover.ertelecom.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:autodiscover.inforion.ru": {
+      "category": "other",
+      "confidence": 0.49,
+      "review": true
     },
     "name:autodiscover.roscap.ru": {
       "category": "other",
@@ -1030,6 +1031,10 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:calendar.inforion.ru": {
+      "category": "other",
+      "confidence": 0.6
+    },
     "name:camp.iturupbank.ru": {
       "category": "banks",
       "confidence": 0.95
@@ -1301,6 +1306,10 @@
       "category": "industry",
       "confidence": 0.37,
       "review": true
+    },
+    "name:cleantify.ru": {
+      "category": "other",
+      "confidence": 0.92
     },
     "name:climamos.ru": {
       "category": "other",
@@ -1636,6 +1645,10 @@
       "category": "other",
       "confidence": 0.35,
       "review": true
+    },
+    "name:davical.inforion.ru": {
+      "category": "other",
+      "confidence": 0.63
     },
     "name:db.argds.ru": {
       "category": "other",
@@ -2025,16 +2038,6 @@
     "name:ed-industry.ru": {
       "category": "other",
       "confidence": 0.84
-    },
-    "name:edge-mx-01.novikom.ru": {
-      "category": "other",
-      "confidence": 0.43,
-      "review": true
-    },
-    "name:edge-mx-02.novikom.ru": {
-      "category": "other",
-      "confidence": 0.43,
-      "review": true
     },
     "name:edi.magnit-info.ru": {
       "category": "marketplaces",
@@ -2463,6 +2466,10 @@
     "name:geo.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:get.kompas.ru": {
+      "category": "internet",
+      "confidence": 0.98
     },
     "name:gilenko.ru": {
       "category": "other",
@@ -3135,6 +3142,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:iva.tupolev.ru": {
+      "category": "industry",
+      "confidence": 0.9
+    },
     "name:ix-m3-tt-qa-sipproxy01.homeagents.ru": {
       "category": "other",
       "confidence": 0.44,
@@ -3596,6 +3607,10 @@
       "category": "telecom",
       "confidence": 0.97
     },
+    "name:ksmg.nkbank.ru": {
+      "category": "banks",
+      "confidence": 0.99
+    },
     "name:kstr.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -3709,6 +3724,10 @@
     "name:learn.sberdevices.ru": {
       "category": "banks",
       "confidence": 0.89
+    },
+    "name:lemondate.ru": {
+      "category": "other",
+      "confidence": 0.84
     },
     "name:len.rspp.ru": {
       "category": "other",
@@ -4524,6 +4543,11 @@
       "category": "telecom",
       "confidence": 0.93
     },
+    "name:msk.inforion.ru": {
+      "category": "other",
+      "confidence": 0.38,
+      "review": true
+    },
     "name:mt-plan.ru": {
       "category": "other",
       "confidence": 0.78
@@ -4566,6 +4590,10 @@
       "category": "telecom",
       "confidence": 1
     },
+    "name:music.pakhonin.ru": {
+      "category": "other",
+      "confidence": 0.82
+    },
     "name:mv.corpp.ru": {
       "category": "other",
       "confidence": 0.71
@@ -4598,6 +4626,11 @@
     "name:mx2.rusnarbank.ru": {
       "category": "banks",
       "confidence": 0.97
+    },
+    "name:mxipa.msk.inforion.ru": {
+      "category": "other",
+      "confidence": 0.51,
+      "review": true
     },
     "name:my-help.ssl-test.megafon.ru": {
       "category": "telecom",
@@ -4672,10 +4705,6 @@
     "name:n.19dx.ru": {
       "category": "other",
       "confidence": 0.81
-    },
-    "name:nameste.ru": {
-      "category": "other",
-      "confidence": 0.9
     },
     "name:narhsi.ru": {
       "category": "other",
@@ -5442,6 +5471,10 @@
       "category": "other",
       "confidence": 0.95
     },
+    "name:photos.pakhonin.ru": {
+      "category": "other",
+      "confidence": 0.95
+    },
     "name:pikhtabank.ru": {
       "category": "banks",
       "confidence": 0.98
@@ -5842,10 +5875,6 @@
       "category": "telecom",
       "confidence": 0.94
     },
-    "name:raoes.ru": {
-      "category": "other",
-      "confidence": 0.87
-    },
     "name:raspisanie-btt.ru": {
       "category": "other",
       "confidence": 0.69
@@ -5986,6 +6015,11 @@
       "category": "internet",
       "confidence": 0.81
     },
+    "name:rniirs.ru": {
+      "category": "other",
+      "confidence": 0.34,
+      "review": true
+    },
     "name:rnko.vkpay.ru": {
       "category": "banks",
       "confidence": 0.81
@@ -6072,11 +6106,6 @@
     "name:rpmail.albank.ru": {
       "category": "banks",
       "confidence": 0.67
-    },
-    "name:rt-link-1.novikom.ru": {
-      "category": "other",
-      "confidence": 0.31,
-      "review": true
     },
     "name:rtdigital.ru": {
       "category": "gov",
@@ -6751,6 +6780,16 @@
       "confidence": 0.3,
       "review": true
     },
+    "name:srv01.msk.inforion.ru": {
+      "category": "other",
+      "confidence": 0.54,
+      "review": true
+    },
+    "name:srv02.msk.inforion.ru": {
+      "category": "other",
+      "confidence": 0.45,
+      "review": true
+    },
     "name:srv1cweb.uspekh.ru": {
       "category": "other",
       "confidence": 0.85
@@ -7216,10 +7255,6 @@
       "confidence": 1,
       "org": "The Ministry of Digital Development of Russia"
     },
-    "name:test.ipfran.ru": {
-      "category": "other",
-      "confidence": 0.65
-    },
     "name:test.krastsvetmet.ru": {
       "category": "industry",
       "confidence": 0.7
@@ -7241,6 +7276,10 @@
     "name:test2.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.92
+    },
+    "name:test2.slavneft.ru": {
+      "category": "industry",
+      "confidence": 0.97
     },
     "name:test273.servicecdn.ru": {
       "category": "other",
@@ -8231,10 +8270,6 @@
       "category": "other",
       "confidence": 0.73
     },
-    "name:www.nameste.ru": {
-      "category": "other",
-      "confidence": 0.86
-    },
     "name:www.nenderus.su": {
       "category": "other",
       "confidence": 0.9
@@ -9029,6 +9064,11 @@
       "category": "internet",
       "confidence": 0.76,
       "org": "ООО ТЕХИНФОРМ"
+    },
+    "ogrn:1022301619339": {
+      "category": "marketplaces",
+      "confidence": 0.79,
+      "org": "ГУП КК Кубаньфармация"
     },
     "ogrn:1022302380638": {
       "category": "transport",
@@ -11190,6 +11230,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "Банк ИПБ (АО)"
+    },
+    "ogrn:1027739066354": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "JSC ISBANK"
     },
     "ogrn:1027739067861": {
       "category": "banks",
@@ -13689,6 +13734,11 @@
       "confidence": 0.99,
       "org": "Минстрой Республики Калмыкия"
     },
+    "ogrn:1050900921235": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "УПРАВЛЕНИЕ РОСПОТРЕБНАДЗОРА ПО КАРАЧАЕВО-ЧЕРКЕССКОЙ РЕСПУБЛИКЕ"
+    },
     "ogrn:1051000011677": {
       "category": "gov",
       "confidence": 1,
@@ -13848,6 +13898,11 @@
       "category": "transport",
       "confidence": 0.78,
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ С 7 ИНЖИНИРИНГ"
+    },
+    "ogrn:1055005107387": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Управление Роспотребнадзора по Московской области"
     },
     "ogrn:1055100194720": {
       "category": "gov",
@@ -15132,6 +15187,11 @@
       "review": true,
       "org": "АО РАД"
     },
+    "ogrn:1098603009295": {
+      "category": "gov",
+      "confidence": 0.9,
+      "org": "МКУ УМТО"
+    },
     "ogrn:1100816001208": {
       "category": "gov",
       "confidence": 1,
@@ -16252,6 +16312,11 @@
       "confidence": 1,
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК"
     },
+    "ogrn:1145074012104": {
+      "category": "industry",
+      "confidence": 0.6,
+      "org": "ООО ЦНИИТОЧМАШ"
+    },
     "ogrn:1145229000190": {
       "category": "industry",
       "confidence": 0.78,
@@ -17149,6 +17214,11 @@
       "review": true,
       "org": "ООО ПЕРФЛЮЕНС"
     },
+    "ogrn:1177746637584": {
+      "category": "transport",
+      "confidence": 0.68,
+      "org": "ПАО ЛК Европлан"
+    },
     "ogrn:1177746725925": {
       "category": "internet",
       "confidence": 0.51,
@@ -17187,6 +17257,11 @@
       "confidence": 0.58,
       "review": true,
       "org": "LLC Smart Retail"
+    },
+    "ogrn:1179102006544": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ГБУ РК ЦСО Города Саки и Сакского района"
     },
     "ogrn:1180327007365": {
       "category": "other",
@@ -18274,6 +18349,11 @@
       "confidence": 1,
       "org": "Управление Росреестра по Запорожской области"
     },
+    "ogrn:1229100007366": {
+      "category": "telecom",
+      "confidence": 1,
+      "org": "ООО МирТелеком"
+    },
     "ogrn:1229300044049": {
       "category": "gov",
       "confidence": 0.98,
@@ -19054,6 +19134,11 @@
       "review": true,
       "org": "АО Инновационная компания «НЗ"
     },
+    "ogrn:1267700264072": {
+      "category": "marketplaces",
+      "confidence": 0.79,
+      "org": "АО ИНТЕЛЛЕКТУАЛЬНАЯ ПЛАТФОРМА"
+    },
     "ogrn:1267800007650": {
       "category": "banks",
       "confidence": 1,
@@ -19217,6 +19302,11 @@
       "category": "gov",
       "confidence": 0.99,
       "org": "ФГБУ ФЦИТЭП ФМБА России"
+    },
+    "ogrn:5147746365256": {
+      "category": "internet",
+      "confidence": 0.62,
+      "org": "Interaktiv"
     },
     "ogrn:5157746008107": {
       "category": "internet",

@@ -13,6 +13,8 @@ acs.cloud.ru
 acti.ru
 activebt.ru
 adguard.artyums.ru
+admin.cloud.ru
+advanced.cloud.ru
 afisha.ru
 ai-mark.ru
 ai-vesna.ru
@@ -48,6 +50,7 @@ am.ru
 analytics-vk.ru
 ankf.ru
 api.m-scan.ru
+apigw.speechpro.hycl.ru
 apiok.ru
 app.echo-platform.ru
 app.sber.ru
@@ -83,12 +86,14 @@ bi-bi.ru
 bia-tech.ru
 billing.ru
 bio-storage.rfaces.ru
+bis.tech.cloud.ru
 bisoft.ru
 bk.ru
 bo.cloud.ru
 boom.ru
 boostdevelopment.ru
 brandanalytics.ru
+burda.ru
 business-max-dev.local.onecld.ru
 cadtech.ru
 cddisk.r7.corp.znanierussia.ru
@@ -107,6 +112,7 @@ clickhouse-bi.gca.eye.salute.ru
 clickhouse-bi.se.eye.salute.ru
 clickhouse-sandbox.gca.eye.salute.ru
 clickhouse-sandbox.se.eye.salute.ru
+clientfirst.miniapp.cloud.ru
 cloud.inforion.ru
 cloud.micard.ru
 cloud.mt-plan.ru
@@ -115,6 +121,7 @@ cloud365.su
 clouddc.ru
 cnt-it.ru
 coder.eye.salute.ru
+console.cloud.ru
 consultant.ru
 corpmail.ru
 cowork-dev.ru
@@ -164,9 +171,11 @@ digital-org.ru
 digitalcryptography.ru
 digitalrenaissance.ru
 diongo.ru
+disaster-recovery.cloud.ru
 disp.local.onecld.ru
 dl-owa.corp.sbercloud.ru
 doc.eye.salute.ru
+docs.sbercloud.ru
 docushka.ru
 don-cloud.ru
 dr.mcs-cloud.ru
@@ -210,6 +219,7 @@ gazeta.ru
 gca.salute.ru
 gcmtech.ru
 gens.ru
+get.kompas.ru
 getcourse.ru
 gigaadmin.gigacollector.eye.salute.ru
 gigaadmin.ift.gigacollector.eye.salute.ru
@@ -217,6 +227,7 @@ gigab2b.ru
 gigadataprovider-api.eye.salute.ru
 gigagateway.eye.salute.ru
 gigagateway.ift.eye.salute.ru
+gigaid.ru
 gigaint-back.eye.salute.ru
 gigaintelligence-dev.eye.salute.ru
 gigaintelligence.eye.salute.ru
@@ -245,8 +256,15 @@ hippoparking.ru
 hishef.ru
 hitfm.ru
 hronikivremeni.ru
+hstxmgr10.msk.cloud.ru
+hstxmgr11.msk.cloud.ru
 huggingfacemeta-api.eye.salute.ru
 i-dgtl.ru
+iam-admin.stage.cloud.ru
+iam-int-admin.cloud.ru
+iam-int.cloud.ru
+iam-reserv.stage.cloud.ru
+iam.stage.cloud.ru
 ibs.ru
 ibstech.ru
 id.cloud.ru
@@ -328,6 +346,7 @@ lj.ru
 ljplus.ru
 logon.rfaces.ru
 loonabrowser.ru
+lvls.ru
 m.odnoklasniki.ru
 mag1c.ru
 mail-king.ru
@@ -439,7 +458,9 @@ partnerplatform.ru
 partners.cloud.ru
 passion.ru
 pbprog.ru
+pd01-ws1-access-02.corp.sbercloud.ru
 pd10-mail-03.corp.sbercloud.ru
+pd10-ws1-access-01.corp.sbercloud.ru
 pd51-08-iam.gis.cloud.ru
 pd51-08-portal.gis.cloud.ru
 pd51-rplat-web-04.gis.cloud.ru
@@ -589,7 +610,6 @@ sravni.ru
 sslvpn.cloud.ru
 sso.mng.cloud.ru
 stage-mesh.ad-tech.ru
-stage.gigaid.ru
 staging.qui-quo.ru
 staging.vklanding.ru
 startups.su

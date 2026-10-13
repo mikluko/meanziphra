@@ -37,6 +37,7 @@ instamart.ru
 itmagnit.ru
 kassa.bifit.ru
 kidsberries.ru
+kubanfarm.ru
 kuper.ru
 lentagroup.ru
 linkwb.ru
@@ -96,6 +97,7 @@ soti.corporateozon.ru
 sportmaster.ru
 sso-keycloak.sigma.sbrf.ru
 stage.fl-shop.ru
+svoi-market.ru
 tander.ru
 taxmon.citilink.ru
 taxmon.lentaretail.ru
