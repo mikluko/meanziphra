@@ -231,6 +231,7 @@ favr.ru
 fbuz16.ru
 fbuz66.ru
 fca-rosminzdrav.ru
+fcao.ru
 fcitep.ru
 fedsfm.ru
 ffoms.gov.ru
@@ -357,6 +358,7 @@ ipfran.ru
 ippe.ru
 irexpertiza.ru
 irkopeka4.ru
+iro22.ru
 iro38.ru
 irs-krsk.ru
 issras.ru
@@ -450,6 +452,7 @@ med-to.ru
 medkhv.ru
 meet.admsurgut.ru
 meteo.ru
+mf55.ru
 mfc-25.ru
 mfc-kursk.ru
 mfc-nso.ru
@@ -783,7 +786,6 @@ tim-crb.ru
 tmkpenza.ru
 tmn-obl.ru
 torgi.gov.ru
-torgi223.depfin70.ru
 trud25.ru
 tubrb.ru
 tulunadm.ru

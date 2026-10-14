@@ -12,6 +12,7 @@ a2048.ivi-mc.ru
 aanda.ru
 aaz.su
 aba.ctrlz.ru
+abc.t-boys.ru
 abs-kassa.ru
 academcity.ru
 adb-w.vkteam.ru
@@ -45,7 +46,6 @@ antonylexar.ru
 ao-trend.ru
 aobron.ru
 aotrend.ru
-api-mincifry-cert.ivi.ru
 api.ocs.ru
 app-3.safe-mobile.ru
 applyform.ru
@@ -118,6 +118,7 @@ charlie.mici.imgsmail.ru
 ckk.kszn34.ru
 cleantify.ru
 climamos.ru
+coachspace.ru
 comfort-max.ru
 companyprofile.ru
 confluence.ocs.ru
@@ -210,7 +211,6 @@ gain-up.ru
 gainup.ru
 gate.livetex.ru
 gc.lebedev.ru
-geniobot.ru
 gi-solutions.ru
 gilenko.ru
 git.klgd.su
@@ -304,6 +304,7 @@ krasdomkino.ru
 krasmechta.ru
 kron-dmsh8.ru
 krylov-center.ru
+ksdfo.rspp.ru
 kuban.rspp.ru
 kubzan.ru
 kulsmi.ru
@@ -399,6 +400,7 @@ msg.acti.ru
 msg.kznamya.ru
 msgrf.ru
 msis174.ru
+msitech.ru
 mt-plan.ru
 mtracker.ocs.ru
 murashow.ru
@@ -458,6 +460,7 @@ oneliya.ru
 onelya.ru
 onlinetours.ru
 optima.msk.ru
+opus11.ru
 ord-lab.ru
 oren-sms.ru
 oren.rspp.ru
@@ -474,7 +477,6 @@ ostec-st.ru
 ostec-test.ru
 ot.its61.ru
 ov.deadtroll.ru
-p109.spb.ru
 p46spb.ru
 p75.spb.ru
 paritet.ru
@@ -647,7 +649,6 @@ static-content.ru
 staticqr.avangard.ru
 stc-groups.ru
 stk-b.ru
-storm-sandbox-mincifry-cert.ivi.ru
 stp-egisz.ru
 sunsetvibes.ru
 suprchel.vm.ascon.ru
@@ -656,7 +657,6 @@ suvlyu.ru
 svision.tornado.ru
 svod31.ru
 symptomcheker.ru
-t-coreconf.ru
 t-investlab.ru
 t-ofp.ru
 tabrasa.ru

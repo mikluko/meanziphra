@@ -58,6 +58,7 @@ cherpwd.stal.ru
 chmz.ru
 chzt.ru
 ckb-rubin.ru
+classcom.ru
 clbf.avangard.ru
 clbfmobile.avangard.ru
 cloud.almaz-antey.ru
@@ -71,6 +72,7 @@ cniitm.ru
 cnpo.ru
 coalstar.ru
 collab-edge.slavneft-kng.ru
+concern-agat.ru
 connectgas.ru
 cordiant-learn.severstal.ru
 corporate.avangard.ru
@@ -242,6 +244,7 @@ npk.ru
 npo-saturn.ru
 npoa.ru
 npovk.ru
+npzoptics.ru
 ntc-zarya.ru
 oaovoentorg.ru
 ocxo.ru
@@ -280,6 +283,7 @@ promelec.ru
 proptech.ru
 proresurs.ru
 proton-orel.ru
+protonpm.ru
 pskovenergosbit.ru
 ptenergo.ru
 pulsarnpp.ru
