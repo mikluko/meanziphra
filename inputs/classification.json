@@ -98,6 +98,10 @@
       "category": "banks",
       "confidence": 0.9
     },
+    "name:abc.t-boys.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:abiturient.cchgeu.ru": {
       "category": "gov",
       "confidence": 0.62
@@ -423,11 +427,6 @@
     "name:api-ble-test.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.95
-    },
-    "name:api-mincifry-cert.ivi.ru": {
-      "category": "other",
-      "confidence": 0.35,
-      "review": true
     },
     "name:api-r.trucko.ru": {
       "category": "transport",
@@ -1361,6 +1360,10 @@
     "name:cnt-tcs-cl01.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
+    },
+    "name:coachspace.ru": {
+      "category": "other",
+      "confidence": 0.87
     },
     "name:cobrowsing-cdn-test.tbank.ru": {
       "category": "banks",
@@ -2439,10 +2442,6 @@
       "category": "telecom",
       "confidence": 0.98
     },
-    "name:geniobot.ru": {
-      "category": "other",
-      "confidence": 0.74
-    },
     "name:geo-demo.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -2873,11 +2872,6 @@
     "name:icbru.ru": {
       "category": "other",
       "confidence": 0.46,
-      "review": true
-    },
-    "name:icons-mincifry-cert.ivi.ru": {
-      "category": "banks",
-      "confidence": 0.39,
       "review": true
     },
     "name:id-ftest.domrfbank.ru": {
@@ -3607,6 +3601,11 @@
       "category": "telecom",
       "confidence": 0.97
     },
+    "name:ksdfo.rspp.ru": {
+      "category": "other",
+      "confidence": 0.14,
+      "review": true
+    },
     "name:ksmg.nkbank.ru": {
       "category": "banks",
       "confidence": 0.99
@@ -3807,10 +3806,6 @@
     "name:lk.kilbil.ru": {
       "category": "other",
       "confidence": 0.86
-    },
-    "name:lk.otello.2gis.ru": {
-      "category": "internet",
-      "confidence": 0.71
     },
     "name:lk.premiya.rspp.ru": {
       "category": "other",
@@ -4527,6 +4522,10 @@
       "confidence": 0.41,
       "review": true
     },
+    "name:msitech.ru": {
+      "category": "other",
+      "confidence": 0.6
+    },
     "name:msk-tcs-app01.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
@@ -5225,10 +5224,6 @@
     "name:owa.econombank.ru": {
       "category": "banks",
       "confidence": 0.99
-    },
-    "name:p109.spb.ru": {
-      "category": "other",
-      "confidence": 0.67
     },
     "name:p1a.kilbil.ru": {
       "category": "other",
@@ -6946,11 +6941,6 @@
       "confidence": 0.41,
       "review": true
     },
-    "name:storm-sandbox-mincifry-cert.ivi.ru": {
-      "category": "other",
-      "confidence": 0.58,
-      "review": true
-    },
     "name:strahovka35.ru": {
       "category": "banks",
       "confidence": 0.68
@@ -7017,10 +7007,6 @@
     "name:svr.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:t-coreconf.ru": {
-      "category": "other",
-      "confidence": 0.79
     },
     "name:tablet.indaspace.alfastrah.ru": {
       "category": "banks",
@@ -8266,6 +8252,11 @@
       "category": "telecom",
       "confidence": 1
     },
+    "name:www.msitech.ru": {
+      "category": "other",
+      "confidence": 0.58,
+      "review": true
+    },
     "name:www.murashow.ru": {
       "category": "other",
       "confidence": 0.73
@@ -9025,6 +9016,11 @@
       "confidence": 0.96,
       "org": "АО АПЗ Ротор"
     },
+    "ogrn:1022201774803": {
+      "category": "gov",
+      "confidence": 0.89,
+      "org": "КАУ ДПО «АИРО имени А.М. Топорова»"
+    },
     "ogrn:1022300001811": {
       "category": "banks",
       "confidence": 1,
@@ -9049,6 +9045,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "Министерство труда и социального развития"
+    },
+    "ogrn:1022301228399": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Департамент имущественных отношений Краснодарского края"
     },
     "ogrn:1022301441601": {
       "category": "gov",
@@ -10136,6 +10137,11 @@
       "confidence": 0.98,
       "org": "АО ОДК-авиадвигатель"
     },
+    "ogrn:1025900893622": {
+      "category": "industry",
+      "confidence": 0.61,
+      "org": "АО ПРОТОН-ПМ"
+    },
     "ogrn:1025900895712": {
       "category": "industry",
       "confidence": 0.89,
@@ -11007,6 +11013,12 @@
       "confidence": 0.5,
       "review": true,
       "org": "ФГУП НТЦЗАРЯ"
+    },
+    "ogrn:1027700450975": {
+      "category": "industry",
+      "confidence": 0.29,
+      "review": true,
+      "org": "АО НПП «КлАСС»"
     },
     "ogrn:1027700458224": {
       "category": "banks",
@@ -12718,6 +12730,11 @@
       "confidence": 1,
       "org": "SOCIUM-BANK(LLC)"
     },
+    "ogrn:1037739128129": {
+      "category": "gov",
+      "confidence": 0.74,
+      "org": "ФГБУ ФЦАО"
+    },
     "ogrn:1037739144640": {
       "category": "gov",
       "confidence": 1,
@@ -13367,6 +13384,11 @@
       "confidence": 1,
       "org": "Управление Росреестра по Новосибирской области"
     },
+    "ogrn:1045504005414": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Ministerstvo finansov Omskoj oblasti"
+    },
     "ogrn:1045504007603": {
       "category": "gov",
       "confidence": 1,
@@ -13753,6 +13775,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "УПРАВЛЕНИЕ РОСПОТРЕБНАДЗОРА ПО РЕСПУБЛИКЕ КОМИ"
+    },
+    "ogrn:1051500502646": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Управление Роспотребнадзора по Республике Северная Осетия-Алания"
     },
     "ogrn:1051641018582": {
       "category": "gov",
@@ -14325,6 +14352,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "AO MUFG Bank (Eurasia)"
+    },
+    "ogrn:1067746239230": {
+      "category": "industry",
+      "confidence": 0.92,
+      "org": "АО Концерн Моринсис-Агат"
     },
     "ogrn:1067746285551": {
       "category": "telecom",
@@ -15366,11 +15398,6 @@
       "confidence": 0.6,
       "org": "OOO MAXIARM"
     },
-    "ogrn:1107746833380": {
-      "category": "banks",
-      "confidence": 1,
-      "org": "Общество с ограниченной ответственностью Страховая компания ТИТ"
-    },
     "ogrn:1107746876896": {
       "category": "other",
       "confidence": 0.78,
@@ -15496,11 +15523,6 @@
       "review": true,
       "org": "RedLine"
     },
-    "ogrn:1113850006676": {
-      "category": "transport",
-      "confidence": 1,
-      "org": "АО Международный Аэропорт Иркутск"
-    },
     "ogrn:1114025006160": {
       "category": "industry",
       "confidence": 0.92,
@@ -15537,6 +15559,11 @@
       "confidence": 0.39,
       "review": true,
       "org": "ООО СТМ"
+    },
+    "ogrn:1115476008889": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "АО Новосибирский приборостроительный завод"
     },
     "ogrn:1115742001682": {
       "category": "industry",
@@ -15582,6 +15609,12 @@
       "category": "banks",
       "confidence": 0.93,
       "org": "ООО ИК «Тренд»"
+    },
+    "ogrn:1117746115233": {
+      "category": "internet",
+      "confidence": 0.5,
+      "review": true,
+      "org": "АО К-ТЕХНОЛОГИИ"
     },
     "ogrn:1117746156461": {
       "category": "gov",
@@ -16853,6 +16886,11 @@
       "confidence": 1,
       "org": "МЕЖДУНАРОДНЫЙ АЭРОПОРТ СИМФЕРОПОЛЬ"
     },
+    "ogrn:1161101055598": {
+      "category": "other",
+      "confidence": 0.67,
+      "org": "ООО ОПУС"
+    },
     "ogrn:1161832070840": {
       "category": "banks",
       "confidence": 0.39,
@@ -17488,6 +17526,11 @@
       "review": true,
       "org": "АУ Региональный аптечный склад"
     },
+    "ogrn:1189112039291": {
+      "category": "telecom",
+      "confidence": 1,
+      "org": "АО Крымтелеком"
+    },
     "ogrn:1189204008564": {
       "category": "banks",
       "confidence": 1,
@@ -17810,6 +17853,11 @@
       "confidence": 0.86,
       "org": "РУССКИЙ РОБОТ. ИТ"
     },
+    "ogrn:1207700017381": {
+      "category": "banks",
+      "confidence": 0.74,
+      "org": "Публичное акционерное общество «B2B-РТС»"
+    },
     "ogrn:1207700038930": {
       "category": "other",
       "confidence": 0.82,
@@ -17982,6 +18030,11 @@
       "category": "other",
       "confidence": 0.61,
       "org": "Общество с ограниченной ответственностью «Иртея»"
+    },
+    "ogrn:1217700164648": {
+      "category": "internet",
+      "confidence": 0.79,
+      "org": "ООО ГПМ Цифровые Технологии"
     },
     "ogrn:1217700216360": {
       "category": "internet",

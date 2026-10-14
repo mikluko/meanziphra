@@ -15,6 +15,7 @@ beeline.ru
 by.mgo.su
 ca.tch.ru
 cbrs.tch.ru
+chat.corp.mango.ru
 chuv.rspp.ru
 comcor.ru
 corpmobile.avangard.ru
@@ -54,6 +55,7 @@ iws.tch.ru
 jobsmodern.ru
 kerch.tch.ru
 kolpinonet.ru
+ktkru.ru
 kursk.tch.ru
 labrx.ru
 m.megafonpro.ru

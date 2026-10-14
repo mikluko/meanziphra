@@ -113,6 +113,7 @@ awgate.vbank.ru
 awseg1.voz.ru
 awseg2.voz.ru
 azimuth.ru
+b2b-rts.ru
 baikalcredobank.ru
 balance-ins.ru
 baltinvest.ru
@@ -499,7 +500,6 @@ ibank.profitbank.ru
 ibank.tpsb.com.ru
 ibispb.ru
 ic-trend.ru
-icons-mincifry-cert.ivi.ru
 ictrend.ru
 id.dengivdelo.ru
 id.ra.sberins.ru
@@ -1143,7 +1143,6 @@ tinkoffcapital.ru
 tinkoffinsurance.ru
 tinsurance.ru
 tinsurancefuture.ru
-tit-b2b.ru
 tkbbank.ru
 tkbip.ru
 tls2.ru
@@ -1300,4 +1299,5 @@ zemcombank.ru
 zemsky.ru
 zenit.ru
 zhivagobank.ru
+zolotayakorona.ru
 zoomdecorate.rambler.ru

@@ -236,6 +236,7 @@ gos.multifactor.ru
 goskey.ru
 gost-api.7raduga.ru
 gpm.ru
+gpmd.ru
 gptresearcher-back.eye.salute.ru
 gptresearcher.eye.salute.ru
 grafana.dev.lk.astra-team.ru
@@ -308,6 +309,7 @@ jirasm.cloud.ru
 jivo.ru
 juicyscore.ru
 jupyter.giga.salute.ru
+k-tech.ru
 kartomarket.ru
 kartoteka.ru
 kascloud.onprem.ru
@@ -779,6 +781,7 @@ xn----8sbafozikqnm7k.xn--p1ai
 xn----ptbg2al7c.xn--p1ai
 xn--80aaefwccm7aekgee1axnu1pla.xn--p1ai
 xn--80aaelvgjoml6j.xn--p1ai
+xn--80aalotit.xn--p1ai
 xn--80aapbghilqyftr.xn--p1ai
 xn--80acttv9e.xn--p1ai
 xn--80agelrjbkos.xn--p1ai
