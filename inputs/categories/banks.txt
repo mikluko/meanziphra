@@ -788,7 +788,6 @@ platiecom.ru
 platiqr.ru
 pmp-portal.mirconnect.ru
 pmp-portal.stg.mirconnect.ru
-pndfr.ru
 pnwr-test.sberbank-service.ru
 pnwr.sberbank-service.ru
 pochtabank.ru
@@ -823,6 +822,9 @@ ptkb.ru
 pulse-hr.ru
 puma.mirconnect.ru
 pupreoccupation.rambler.ru
+putcnfsoncpc-ift.cnfs.ru
+putcnfsoncpc-psi.cnfs.ru
+putcnfsoncpc.cnfs.ru
 qa-dc.ru
 qa-dfo.ru
 qandyapp.ru
@@ -1143,6 +1145,7 @@ tinkoffcapital.ru
 tinkoffinsurance.ru
 tinsurance.ru
 tinsurancefuture.ru
+tit-b2b.ru
 tkbbank.ru
 tkbip.ru
 tls2.ru

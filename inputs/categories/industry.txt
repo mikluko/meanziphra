@@ -46,6 +46,7 @@ bashesk.ru
 bashneft-azs.ru
 bashneft.ru
 bid.gazprom-neft.ru
+bke.ru
 burgaz.ru
 cdbtitan.ru
 ceramotec.ru
@@ -78,7 +79,6 @@ cordiant-learn.severstal.ru
 corporate.avangard.ru
 cpk-alrosa.ru
 crpribor.ru
-crypto.rosatom.ru
 d360v2-cordiant-learn.severstal.ru
 d360v2-kompas.severstal.ru
 d360v2-study.severstal.ru
@@ -318,6 +318,7 @@ samara-metallurg.ru
 samaravodokanal.ru
 samspace.ru
 saratovenergo.ru
+sberbuild.ru
 scac.ru
 sdex.sbbuild.ru
 sdo.avangard.ru
@@ -364,6 +365,7 @@ te-spb.ru
 technologiya.ru
 tecscheme.ru
 tern.ru
+terratech.ru
 tesb.rosatom.ru
 tesp.rosatom.ru
 test.avangard.ru
