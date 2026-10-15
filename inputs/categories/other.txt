@@ -13,6 +13,7 @@ aanda.ru
 aaz.su
 aba.ctrlz.ru
 abc.t-boys.ru
+abooks.pakhonin.ru
 abs-kassa.ru
 academcity.ru
 adb-w.vkteam.ru
@@ -20,7 +21,6 @@ addy.su
 admin.message-relay.ru
 admin.org.ru
 adpo-edu.ru
-aegis.onecld.ru
 aes192.ru
 agatos.ru
 agencycontrol.ru
@@ -73,6 +73,8 @@ atomstandart.ru
 atomyze.ru
 atriumnn.ru
 auditkso.ru
+autoconfig.inforion.ru
+autodiscover.inforion.ru
 autodiscover.roscap.ru
 autourist72.ru
 avro.su
@@ -95,6 +97,7 @@ bkfortuna.ru
 bkz.ru
 bmki.ru
 bonch.su
+books.pakhonin.ru
 bootcamp.pcbltools.ru
 bremeco.ru
 bsigroup.ru
@@ -102,6 +105,7 @@ buduryadom.ru
 burgerkingrus.ru
 c-k.ru
 ca-magnit.ru
+calendar.inforion.ru
 capella-invest.ru
 cardstandard.ru
 cases.gippars.ru
@@ -132,7 +136,6 @@ cpa.pobedapartners.ru
 cpc-proxy.t-technologies.ru
 crm.swimly.ru
 crt-test-alpha.ru
-crvsp.ru
 cryont.ru
 cryptoarm.ru
 ctio-frn.spb.ru
@@ -142,6 +145,7 @@ data-tracker.ru
 datapol.ru
 datatracker-test.sbertech.ru
 datatracker.sbertech.ru
+davical.inforion.ru
 dderevyanko.ru
 ddom7.ru
 decosystems.ru
@@ -150,6 +154,7 @@ demo.bifit.ru
 dengograd.ru
 derbent-parking.ru
 dev-1.staging-mc-2.check-up-online.ru
+dev.daytona-proseca.t-tech.ru
 dev.lk.astra-team.ru
 dev.voicepassword.ru
 dfm.ru
@@ -213,11 +218,11 @@ gate.livetex.ru
 gc.lebedev.ru
 gi-solutions.ru
 gilenko.ru
+git.inforion.ru
 git.klgd.su
 gnpch.ru
 gofocus.ru
 golodyaev.ru
-gonoti.oneme.ru
 gornoaltaysk.ru
 gost.bstrv.ru
 gost.codifast.ru
@@ -233,6 +238,7 @@ gw-vpn.t-access.ru
 ha.blutz.ru
 hair-boutique.ru
 helpms.ru
+hg.inforion.ru
 hill5.ru
 hold-lm.test.nextcontact.ru
 hole-nevermind.ru
@@ -241,7 +247,6 @@ hoteltofms.ru
 hr.ocs.ru
 hrmoscow.ru
 hrtp.ru
-hw.onecld.ru
 i-college.ru
 i-exam.ru
 i-spo.ru
@@ -253,7 +258,9 @@ ikar-eng.ru
 imbok.ru
 imsi.megalocator.ru
 industrialconsulting.ru
-inforion.ru
+inf-bbb.inforion.ru
+inf-mtm.inforion.ru
+inf-wekan.inforion.ru
 informlaw.ru
 inheaven.ru
 intelcube.ru
@@ -379,7 +386,6 @@ mh.net.ru
 mig-os.ru
 mili-rest.ru
 mistrikov.ru
-mlistork.vkteam.ru
 mm.kszn34.ru
 mmchelptech.ru
 mobile.kszn34.ru
@@ -401,12 +407,14 @@ msg.kznamya.ru
 msgrf.ru
 msis174.ru
 msitech.ru
+msk.inforion.ru
 mt-plan.ru
 mtracker.ocs.ru
 murashow.ru
 music.pakhonin.ru
 muzlab.ru
 mv.corpp.ru
+mx.inforion.ru
 my.kalkulatorzp.ru
 my.speechxplore.ru
 myavrmaxwebhook.ru
@@ -482,7 +490,6 @@ p75.spb.ru
 paritet.ru
 partner-reestr.ru
 patheternity.ru
-pd.oneme.ru
 pentaschool.ru
 perf-lk.astra.ru
 perfluence.ru
@@ -563,6 +570,8 @@ reso-med.ru
 rezonit.ru
 rf-cheats.ru
 rifpark.ru
+rm-obis.inforion.ru
+rm.inforion.ru
 rmq.datacloud.itphx.ru
 rniirs.ru
 roomlink.ru
@@ -573,7 +582,6 @@ ru.oljk.ru
 run.check-ru.ru
 rus.zakupki44fz.ru
 ruslegassistens.ru
-rusllm.ru
 russoutdoor.ru
 s3.ttp.one-infra.ru
 safework.ru
@@ -590,8 +598,6 @@ sertifikaty-mincifry.ru
 service.teakett.ru
 servionica.ru
 sesufa.ru
-sferum.max.ru
-sferumsurveys.digitaled.ru
 sfo-makalu.ru
 sfo-veleta.ru
 sharipovv.ru
@@ -676,7 +682,6 @@ termidesk.ru
 test-2.avangard.ru
 test-er.ru
 test273.servicecdn.ru
-testcr3.novikom.ru
 testcr8.novikom.ru
 themm.ru
 tolokonnikov.ru
@@ -685,6 +690,7 @@ trcnf.rspp.ru
 tripee.ru
 ttt.t-boys.ru
 tulamash.ru
+tulaobr.ru
 tv.rspp.ru
 twistask.ru
 ubik24.ru
@@ -695,7 +701,6 @@ umius.ru
 unimatic.ru
 urgaps.ru
 uriahas.ru
-uspn-kosh-agach.ru
 utalk.su
 utz.ru
 v-dimitriadis.ru
@@ -713,11 +718,9 @@ velken.ru
 vertek.ru
 vgaps.ru
 vgl-sport.ru
-video-ai-assistant.one-infra.ru
 vitas1648-dev.ru
 vk-terminal.ru
 vkdigi1.fvds.ru
-vkma-test.onecld.ru
 vnashemdvore.ru
 vo.rspp.ru
 vodolaga.ru
@@ -739,7 +742,6 @@ wild-bot-max.ru
 winelab.ru
 winepark.ru
 wineparkorchard.ru
-woman-clinic.ru
 wufeng.ru
 wushuspb.ru
 www.checkib.avangard.ru
@@ -752,7 +754,6 @@ www.op-torg.ru
 www.skkmorf-sevkav.ru
 www.t-boys.ru
 www.xn--d1auahegc7h.xn--p1ai
-www1.t-boys.ru
 wwwwwtest.t-boys.ru
 x.b22e.ru
 xn----7sbb1amddko8c7b4b.xn--p1ai

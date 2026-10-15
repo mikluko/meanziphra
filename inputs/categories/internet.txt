@@ -16,6 +16,7 @@ adguard.artyums.ru
 admin.cloud.ru
 advanced.cloud.ru
 afisha.ru
+aflt-systems.ru
 ai-mark.ru
 ai-vesna.ru
 aiandhit.ru
@@ -50,7 +51,6 @@ am.ru
 analytics-vk.ru
 ankf.ru
 api.m-scan.ru
-apigw.speechpro.hycl.ru
 apiok.ru
 app.echo-platform.ru
 app.sber.ru
@@ -86,7 +86,6 @@ bi-bi.ru
 bia-tech.ru
 billing.ru
 bio-storage.rfaces.ru
-bis.tech.cloud.ru
 bisoft.ru
 bk.ru
 bo.cloud.ru
@@ -261,11 +260,8 @@ hstxmgr10.msk.cloud.ru
 hstxmgr11.msk.cloud.ru
 huggingfacemeta-api.eye.salute.ru
 i-dgtl.ru
-iam-admin.stage.cloud.ru
 iam-int-admin.cloud.ru
 iam-int.cloud.ru
-iam-reserv.stage.cloud.ru
-iam.stage.cloud.ru
 ibs.ru
 ibstech.ru
 id.cloud.ru
@@ -537,7 +533,6 @@ ru-robot.ru
 rusprofile.ru
 rusradio.ru
 rustore.ru
-s3.api.speechpro.hycl.ru
 s3.gos.cloud.ru
 s3r.gos.cloud.ru
 s3vk.ru
@@ -601,17 +596,26 @@ spark.giga.salute.ru
 special.sbercloud.ru
 spectrumdata.ru
 spectrumscoring.ru
+speechpro.hycl.ru
 sport1tv.ru
 sportdzen.ru
 sportmail.ru
 sportsdzen.ru
 sputniknews.ru
+sr003-nb.ai.cloud.ru
+sr004-nb.ai.cloud.ru
+sr005-nb.ai.cloud.ru
+sr006-nb.ai.cloud.ru
+sr008-nb.ai.cloud.ru
+sr009-nb.ai.cloud.ru
 sravni-labs.ru
 sravni-team.ru
 sravni.ru
 sslvpn.cloud.ru
 sso.mng.cloud.ru
 stage-mesh.ad-tech.ru
+stage.ai-agents.internal.cloud.ru
+stage.cloud.ru
 staging.qui-quo.ru
 staging.vklanding.ru
 startups.su
@@ -647,6 +651,7 @@ target.rfaces.ru
 tccenter.ru
 tconf.ru
 teachersday.ru
+tech.cloud.ru
 techbrand.miniapp.cloud.ru
 technoscore.ru
 tensor.ru
@@ -682,6 +687,7 @@ uchihanzi.ru
 ucs.su
 ucscards.ru
 udr.eye.salute.ru
+uem.cloud.ru
 ukraina.ru
 ureguliryi.ru
 utable.ru
@@ -715,6 +721,7 @@ vcda30-01.cloud.ru
 vcda30-02.cloud.ru
 vcda30-03.cloud.ru
 vcda50-02.cloud.ru
+vdi.cloud.ru
 vedomosti.ru
 vesna-aster.ru
 vesna-group.ru
@@ -776,6 +783,7 @@ www.dsp-rambler.ru
 xbox.cloud.ru
 xmail.ru
 xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai
+xn----7sbabrcgtg6afi1b.xn--p1ai
 xn----7sbqo1dby.xn--p1ai
 xn----8sbafozikqnm7k.xn--p1ai
 xn----ptbg2al7c.xn--p1ai

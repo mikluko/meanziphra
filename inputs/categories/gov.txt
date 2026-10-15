@@ -83,6 +83,7 @@ bo-sevastopol.ru
 bot-srv.oparina4.ru
 bratsk-city.ru
 bratska.ru
+brdi32.ru
 bredy74.ru
 bryanskoblfin.ru
 budget-next.depfin70.ru
@@ -111,6 +112,8 @@ cge.onego.ru
 cgkipd.ru
 chebarcul.ru
 cheladm.ru
+chem-react.rrcki.ru
+chem.rrcki.ru
 chernadmin.ru
 childrest.ru
 ciogd.spb.ru
@@ -356,12 +359,15 @@ ioffe.ru
 ipcson.stv.socinfo.ru
 ipfran.ru
 ippe.ru
+irea.rrcki.ru
 irexpertiza.ru
 irkopeka4.ru
 iro22.ru
 iro38.ru
 irs-krsk.ru
+isp.nsc.ru
 issras.ru
+itam.nsc.ru
 itarctica.ru
 its61.ru
 ivgoradm.ru
@@ -656,7 +662,6 @@ rovesnik74.ru
 rpndon.ru
 rrc-altay.ru
 rrcentre.ru
-rsfbc.ru
 rstrk.ru
 rsud.govvrn.ru
 rtdigital.ru
@@ -841,6 +846,7 @@ vsrf.ru
 vybory.gov.ru
 webapp.cgb-kushva.ru
 wiki-sibiriada.ru
+www.defense.ru
 www.meteo.nw.ru
 www.pirogov-vestnik.ru
 www.sbnray.ru
@@ -862,8 +868,8 @@ xn---74-5cdkaux2a5aemsld2n.xn--p1ai
 xn--11-jlcep3d.xn--p1ai
 xn--19-6kch3bybw5a.xn--p1ai
 xn--24-8kcm.xn--p1ai
+xn--39-dlcej5afybuehh.xn--p1ai
 xn--40-6kclk1btailw.xn--p1ai
-xn--40-6kcmpkc3e.xn--p1ai
 xn--42-6kcadhwnl3cfdx.xn--p1ai
 xn--64-6kcazfomo9bwd5o.xn--p1ai
 xn--64-6kcpagh6a5aakqg5e.xn--p1ai
