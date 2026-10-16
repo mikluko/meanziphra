@@ -335,6 +335,8 @@ gugenplan.spb.ru
 guion.spb.ru
 gupti.ru
 gusr.ru
+gusstufo.ru
+gussvsk.ru
 gvp.gov.ru
 gvsu.gov.ru
 gz-spb.ru
@@ -450,6 +452,7 @@ mail.rpnrb.ufanet.ru
 map.mgis42.ru
 mapm.ru
 mari-karta.ru
+max.sut.ru
 maxlib.ru
 mcrssar.ru
 mcx.ru
@@ -476,6 +479,7 @@ minfinrk.ru
 mingkhrk.ru
 mingkhsk.ru
 mininform74.ru
+minkult08.ru
 minobr.gov-dpr.ru
 minsoc08.ru
 minsoc26.ru
@@ -641,6 +645,7 @@ rlp.minzdrav.gov.ru
 rmail.oparina4.ru
 rmanpo.ru
 rmapo.ru
+rniirs.ru
 ro.rspp.ru
 roddom-krd.ru
 romny28-npa.ru
@@ -821,6 +826,7 @@ uzagsrk.ru
 vestnik-bratsk.ru
 vetrf.ru
 vetstav.ru
+vgltu.ru
 vimis.oparina4.ru
 virustest.gov.ru
 visit-petersburg.ru
@@ -862,6 +868,7 @@ xn----8sbfckba3a8bcsskd6e.xn--p1ai
 xn----ctbbefcvajij3anca5a.xn--p1ai
 xn----ctbeimd1bern.xn--p1ai
 xn----ftbbavnknceifkok1s.xn--p1ai
+xn----ftbmbaamsm6an.xn--p1ai
 xn----gtbyjafgkjo.xn--p1ai
 xn---33-6cdkdjv2a1ajcfepj.xn--p1ai
 xn---74-5cdkaux2a5aemsld2n.xn--p1ai
