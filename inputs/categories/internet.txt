@@ -19,6 +19,7 @@ afisha.ru
 aflt-systems.ru
 ai-mark.ru
 ai-vesna.ru
+ai.cloud.ru
 aiandhit.ru
 aiandru.ru
 aiandsoft.ru
@@ -48,8 +49,10 @@ alpha-class365.ru
 alta.ru
 alyonkastories.ru
 am.ru
+amocrm.ru
 analytics-vk.ru
 ankf.ru
+api.cloud.ru
 api.m-scan.ru
 apiok.ru
 app.echo-platform.ru
@@ -367,6 +370,7 @@ max.ru
 maximum.ru
 mdigital.ru
 mdm.cloud.ru
+meet-evo.cloud.ru
 meet.cloud.ru
 megaplan.ru
 metadata.eye.salute.ru
@@ -380,11 +384,11 @@ mini-mail.ru
 miranda-media.ru
 mirdomovyat.ru
 mixplat.ru
-mk8s.api.cloud.ru
 mkbs.rfaces.ru
 mlg.ru
 mm.cloud.ru
 mobifitness.ru
+modelrun.inference.internal.cloud.ru
 modernsys.ru
 moduldev.ru
 module.ru
@@ -414,6 +418,7 @@ ncinform.ru
 neg-it.ru
 newton-technology.ru
 norbit.ru
+notebooks.cloud.ru
 notify.local.onecld.ru
 npo-rtc.ru
 nsis.ru
@@ -479,6 +484,7 @@ portal.gos.cloud.ru
 pro-chek.ru
 prod-mesh.ad-tech.ru
 prod.ad-tech.ru
+prod.ai-agents.internal.cloud.ru
 production.vklanding.ru
 proitr.ru
 proxy-manager-ift.giga.salute.ru
@@ -602,12 +608,6 @@ sportdzen.ru
 sportmail.ru
 sportsdzen.ru
 sputniknews.ru
-sr003-nb.ai.cloud.ru
-sr004-nb.ai.cloud.ru
-sr005-nb.ai.cloud.ru
-sr006-nb.ai.cloud.ru
-sr008-nb.ai.cloud.ru
-sr009-nb.ai.cloud.ru
 sravni-labs.ru
 sravni-team.ru
 sravni.ru

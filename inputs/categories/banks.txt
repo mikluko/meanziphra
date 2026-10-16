@@ -638,6 +638,7 @@ mcplat.ru
 mcurl.ru
 mdm.sberbank-service.ru
 mdm.sberins.ru
+median.ru
 meinfx.ru
 metallinvestbank.ru
 metcom.ru
@@ -835,6 +836,7 @@ raif.ru
 raiffeisen-capital.ru
 raiffeisen.ru
 rapi.vneshbank.ru
+ras10.sberdevices.ru
 ratings.ru
 rb-collect.ru
 rbabank.ru

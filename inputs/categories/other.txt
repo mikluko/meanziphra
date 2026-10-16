@@ -217,13 +217,14 @@ gainup.ru
 gate.livetex.ru
 gc.lebedev.ru
 gi-solutions.ru
+giga-agent.ru
+gigaagent.ru
 gilenko.ru
 git.inforion.ru
 git.klgd.su
 gnpch.ru
 gofocus.ru
 golodyaev.ru
-gornoaltaysk.ru
 gost.bstrv.ru
 gost.codifast.ru
 gp200.domru.ru
@@ -306,6 +307,7 @@ komtet.ru
 korotyshev.ru
 kostenok.ru
 kotlin-novator.ru
+kozlov-roman.ru
 kpl32.ru
 krasdomkino.ru
 krasmechta.ru
@@ -348,6 +350,7 @@ mail.kcplant.ru
 mail.myclans.ru
 mail.sirfol.ru
 mail.tverstandart.ru
+mailsrv.in-vent.ru
 mailtest.domru.ru
 main.ipc.rssi.ru
 makclife.ru
@@ -573,7 +576,6 @@ rifpark.ru
 rm-obis.inforion.ru
 rm.inforion.ru
 rmq.datacloud.itphx.ru
-rniirs.ru
 roomlink.ru
 roscherk.su
 rosinkas.ru
