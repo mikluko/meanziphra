@@ -87,6 +87,7 @@ b2bportal.ocs.ru
 bahmurov.ru
 baltinfocom.ru
 barbecue-pech.ru
+bars-crm.unlimited-access.ru
 bcskda.ru
 belon.ru
 betcity.ru
@@ -122,6 +123,7 @@ charlie.mici.imgsmail.ru
 ckk.kszn34.ru
 cleantify.ru
 climamos.ru
+cloud.pakhonin.ru
 coachspace.ru
 comfort-max.ru
 companyprofile.ru
@@ -164,6 +166,7 @@ dipos.ru
 directstar.ru
 displayart.ru
 distant-college.ru
+dns.supportec.servicecdn.ru
 doc.sfmo.ru
 docdoc.ru
 doksignal.ru
@@ -332,6 +335,7 @@ lexgarant.ru
 link-or.ru
 link.gorizont-project.ru
 lms.lomt.ru
+lnr.rspp.ru
 lo-miac.ru
 lot-online.ru
 luchi.ru
@@ -513,6 +517,7 @@ planetaibs.ru
 platformatd.ru
 pmdemo.sbertech.ru
 pmplatform.ru
+pndfr.ru
 po-rubly.ru
 polosatayaloshadka.ru
 portal.acti.ru
@@ -656,12 +661,12 @@ star-smile.ru
 static-content.ru
 staticqr.avangard.ru
 stc-groups.ru
+stepan.su
 stk-b.ru
 stp-egisz.ru
 sunsetvibes.ru
 suprchel.vm.ascon.ru
 susocds1.ru
-suvlyu.ru
 svision.tornado.ru
 svod31.ru
 symptomcheker.ru
@@ -717,6 +722,7 @@ vebrf-am.ru
 vektrumsport.ru
 velesib.ru
 velken.ru
+verinson.ru
 vertek.ru
 vgaps.ru
 vgl-sport.ru
