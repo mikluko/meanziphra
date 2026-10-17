@@ -130,6 +130,7 @@ cmd-online.ru
 cmd.su
 cmec.spb.ru
 cmiap-app.minzdrav.gov.ru
+cmiap-note.minzdrav.gov.ru
 codd32.ru
 commim.spb.ru
 copp78.ru
@@ -146,6 +147,7 @@ csr-spb.ru
 csvr.ru
 cvat.oparina4.ru
 czn-rzn.ru
+dayseducaltai.ru
 depagro32.ru
 detbolnvr.ru
 df2.ivanovoobl.ru
@@ -231,6 +233,7 @@ fam-penza.pnzreg.ru
 fam.plagate.ru
 famadmin-penza.pnzreg.ru
 favr.ru
+fbuz11.ru
 fbuz16.ru
 fbuz66.ru
 fca-rosminzdrav.ru
@@ -286,6 +289,7 @@ gds.krao.ru
 geocartography.ru
 geoportal40.ru
 geovestnik.ru
+get-package.oparina4.ru
 gfs.ru
 gfu.ru
 gge.ru
@@ -488,6 +492,7 @@ minstroyrf.gov.ru
 mintrud.gov.ru
 minzdravao.ru
 mio26.ru
+mipt.ru
 mirea.ru
 mkgtu.ru
 mnr.gov.ru
@@ -535,6 +540,7 @@ nekrasovka.ru
 nii-kpg.ru
 nii-nk.ru
 nii-vektor.ru
+niineptun.ru
 niipolyus.ru
 niitp.ru
 nimro.ru
@@ -559,6 +565,7 @@ ofd.phoenix-dnr.ru
 ofoms.ru
 ofukem.ru
 okn08.ru
+ombudsman.gov.ru
 omskparlament.ru
 omskzan.ru
 omsomsk.ru
@@ -753,7 +760,6 @@ stavminobr.ru
 stavminprom.ru
 stavregion.ru
 stavropolarena.ru
-stavspk.ru
 stavzags.ru
 stavzan.ru
 staxi.spb.ru
@@ -842,7 +848,6 @@ voda.gov.ru
 volbti.ru
 volgadmin.ru
 volgafin.ru
-volganet.ru
 volgoduma.ru
 volgograd.ru
 volgtehkol.ru

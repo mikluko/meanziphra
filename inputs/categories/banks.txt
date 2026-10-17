@@ -88,7 +88,6 @@ astrahovanie.ru
 atbbank.ru
 atdcode.ru
 atm-receipt.cdn-tbank.ru
-atm72.ru
 authentication.domru.ru
 auto-prep-virtu.sberins.ru
 autodealer.cdn-tbank.ru

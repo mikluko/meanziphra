@@ -807,6 +807,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:bars-crm.unlimited-access.ru": {
+      "category": "other",
+      "confidence": 0.7
+    },
     "name:bashkortostan.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -1344,6 +1348,10 @@
       "confidence": 0.47,
       "review": true
     },
+    "name:cloud.pakhonin.ru": {
+      "category": "other",
+      "confidence": 0.75
+    },
     "name:cloud.spbfsb.ru": {
       "category": "banks",
       "confidence": 0.84
@@ -1364,6 +1372,10 @@
     "name:cmiap-app.minzdrav.gov.ru": {
       "category": "gov",
       "confidence": 1
+    },
+    "name:cmiap-note.minzdrav.gov.ru": {
+      "category": "gov",
+      "confidence": 0.99
     },
     "name:cnt-tcs-cl01.megafon.ru": {
       "category": "telecom",
@@ -1877,6 +1889,11 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:dns.supportec.servicecdn.ru": {
+      "category": "other",
+      "confidence": 0.47,
+      "review": true
+    },
     "name:doc.fbq.ru": {
       "category": "other",
       "confidence": 0.6
@@ -2246,6 +2263,10 @@
     "name:fbq.ru": {
       "category": "other",
       "confidence": 0.77
+    },
+    "name:fbuz41.rospotrebnadzor.ru": {
+      "category": "gov",
+      "confidence": 0.99
     },
     "name:feature1.domrfbank.ru": {
       "category": "banks",
@@ -3825,6 +3846,11 @@
     "name:lms.lomt.ru": {
       "category": "other",
       "confidence": 0.65
+    },
+    "name:lnr.rspp.ru": {
+      "category": "other",
+      "confidence": 0.2,
+      "review": true
     },
     "name:lo-miac.ru": {
       "category": "other",
@@ -5506,6 +5532,11 @@
       "category": "telecom",
       "confidence": 0.89
     },
+    "name:pndfr.ru": {
+      "category": "other",
+      "confidence": 0.5,
+      "review": true
+    },
     "name:pochta.cchgeu.ru": {
       "category": "gov",
       "confidence": 0.33,
@@ -6850,6 +6881,10 @@
       "confidence": 0.45,
       "review": true
     },
+    "name:stepan.su": {
+      "category": "other",
+      "confidence": 0.97
+    },
     "name:sti.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -6905,10 +6940,6 @@
     "name:susocds1.ru": {
       "category": "other",
       "confidence": 0.84
-    },
-    "name:suvlyu.ru": {
-      "category": "other",
-      "confidence": 0.74
     },
     "name:svision.tornado.ru": {
       "category": "other",
@@ -7605,6 +7636,10 @@
       "category": "telecom",
       "confidence": 1
     },
+    "name:verinson.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:vertek.ru": {
       "category": "other",
       "confidence": 0.74
@@ -8242,6 +8277,10 @@
     "name:www.t-boys.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:www.tbank.ru": {
+      "category": "banks",
+      "confidence": 0.99
     },
     "name:www.tender32.ru": {
       "category": "other",
@@ -9168,11 +9207,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "ГБУЗ СК СККОД"
-    },
-    "ogrn:1022601948588": {
-      "category": "gov",
-      "confidence": 0.97,
-      "org": "Stavropol Regional Blood Transfusion Station"
     },
     "ogrn:1022601949644": {
       "category": "gov",
@@ -11484,6 +11518,11 @@
       "confidence": 1,
       "org": "Страховое публичное акционерное общество «Ингосстрах»"
     },
+    "ogrn:1027739386135": {
+      "category": "gov",
+      "confidence": 0.99,
+      "org": "МФТИ, ФИЗТЕХ"
+    },
     "ogrn:1027739387411": {
       "category": "banks",
       "confidence": 1,
@@ -12781,6 +12820,11 @@
       "review": true,
       "org": "АО ИНИСТ"
     },
+    "ogrn:1037739605078": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Аппарат Уполномоченного по правам человека в РФ"
+    },
     "ogrn:1037739640421": {
       "category": "gov",
       "confidence": 0.99,
@@ -13722,6 +13766,11 @@
       "confidence": 1,
       "org": "УПРАВЛЕНИЕ РОСПОТРЕБНАДЗОРА ПО РЕСПУБЛИКЕ КОМИ"
     },
+    "ogrn:1051100461114": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ФБУЗ Центр гигиены и эпидемиологии в Республике Коми"
+    },
     "ogrn:1051500502646": {
       "category": "gov",
       "confidence": 1,
@@ -14423,12 +14472,6 @@
       "confidence": 0.71,
       "org": "ООО СР Реком"
     },
-    "ogrn:1073444004600": {
-      "category": "gov",
-      "confidence": 0.38,
-      "review": true,
-      "org": "Комитет информационных технологий"
-    },
     "ogrn:1073667027774": {
       "category": "gov",
       "confidence": 1,
@@ -14708,6 +14751,12 @@
       "review": true,
       "org": "МУ ЦБ УО"
     },
+    "ogrn:1082902000180": {
+      "category": "industry",
+      "confidence": 0.54,
+      "review": true,
+      "org": "АО \"СПО \"Арктика\""
+    },
     "ogrn:1083700000471": {
       "category": "banks",
       "confidence": 1,
@@ -14824,11 +14873,6 @@
       "category": "gov",
       "confidence": 0.99,
       "org": "ГКУ ТО ЦИТТО"
-    },
-    "ogrn:1087232042259": {
-      "category": "banks",
-      "confidence": 0.87,
-      "org": "АТМ АЛЬЯНС"
     },
     "ogrn:1087325005899": {
       "category": "banks",
@@ -15653,6 +15697,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СБЕРБАНК ФАКТОРИНГ"
+    },
+    "ogrn:1117847613267": {
+      "category": "gov",
+      "confidence": 0.65,
+      "org": "АО НИИ НЕПТУН"
     },
     "ogrn:1118383000196": {
       "category": "gov",
@@ -19016,6 +19065,11 @@
       "confidence": 0.53,
       "review": true,
       "org": "T-OFP"
+    },
+    "ogrn:1257700058087": {
+      "category": "transport",
+      "confidence": 0.68,
+      "org": "ООО БИЗАЭРО"
     },
     "ogrn:1257700107642": {
       "category": "banks",

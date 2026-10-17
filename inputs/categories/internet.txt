@@ -248,7 +248,6 @@ h43.ru
 harbor.eye.salute.ru
 hbdigital.ru
 hbdt.ru
-helpdesk.rcngroup.ru
 hi-chef.ru
 hi-chief.ru
 hi-shef.ru
@@ -265,9 +264,11 @@ huggingfacemeta-api.eye.salute.ru
 i-dgtl.ru
 iam-int-admin.cloud.ru
 iam-int.cloud.ru
+iam.cloud.ru
 ibs.ru
 ibstech.ru
 id.cloud.ru
+id.ru
 ids-llc.ru
 ids-llc.su
 ift-mesh.ad-tech.ru
@@ -355,7 +356,6 @@ mail.dom.ru
 mail.domru.ru
 mail.kotlin-novator.ru
 mail.rambler.su
-mail.rcngroup.ru
 mail.ru
 mailapps.ru
 mailking.ru
@@ -510,6 +510,7 @@ rc-mesh.ad-tech.ru
 rc.ad-tech.ru
 rcktb.ru
 rcktbnk.ru
+rcngroup.ru
 rdc.spb.ru
 recfaces.ru
 red-soft.ru
