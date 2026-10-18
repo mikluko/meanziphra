@@ -293,6 +293,7 @@ kanzburo.ru
 kapmed.ru
 karo-film.ru
 karofilm.ru
+kartavoprosov.ru
 kemcdo.ru
 kemoblast.rspp.ru
 kept.ru
@@ -381,7 +382,6 @@ mebel-enot.ru
 mec-backend-sync.services.ocs.ru
 mec-backend.services.ocs.ru
 mec.services.ocs.ru
-meddoc.ddprod.ru
 medexpress.ru
 meeting.avangard.ru
 memo.klgd.su
@@ -561,7 +561,6 @@ rcbiz.ru
 rcm-szfo.ru
 rcraduga.ru
 recruitingreports.ru
-red-dolphin.ru
 red1dark.ru
 reestr-proton.ru
 reestrrn.ru
@@ -670,6 +669,7 @@ susocds1.ru
 svision.tornado.ru
 svod31.ru
 symptomcheker.ru
+syncthing.pakhonin.ru
 t-investlab.ru
 t-ofp.ru
 tabrasa.ru
@@ -785,6 +785,7 @@ xn--80aapampemcchfmo7a3c9ehj.xn--p1ai
 xn--80abfedt6amof8k3a.xn--p1ai
 xn--80addfbb6bm6a.xn--p1ai
 xn--80aebecah6apa1adyldqm2sra.xn--p1ai
+xn--80aegdqmtlj.xn--p1ai
 xn--80aeimkqakctc.xn--p1ai
 xn--80aimavhgct.xn--p1ai
 xn--80akakmejco9a.xn--p1ai

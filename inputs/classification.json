@@ -2921,6 +2921,11 @@
       "category": "other",
       "confidence": 0.77
     },
+    "name:iiun.ru": {
+      "category": "gov",
+      "confidence": 0.44,
+      "review": true
+    },
     "name:imbok.ru": {
       "category": "other",
       "confidence": 0.85
@@ -3294,6 +3299,10 @@
     "name:karelia.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:kartavoprosov.ru": {
+      "category": "other",
+      "confidence": 0.82
     },
     "name:kassa.moneta.ru": {
       "category": "banks",
@@ -4276,10 +4285,6 @@
       "category": "other",
       "confidence": 0.41,
       "review": true
-    },
-    "name:meddoc.ddprod.ru": {
-      "category": "other",
-      "confidence": 0.68
     },
     "name:media.argds.ru": {
       "category": "other",
@@ -6962,6 +6967,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:syncthing.pakhonin.ru": {
+      "category": "other",
+      "confidence": 0.7
+    },
     "name:tablet.indaspace.alfastrah.ru": {
       "category": "banks",
       "confidence": 0.75
@@ -8394,6 +8403,10 @@
       "category": "other",
       "confidence": 0.88
     },
+    "name:xn--80aegdqmtlj.xn--p1ai": {
+      "category": "other",
+      "confidence": 0.85
+    },
     "name:xn--80aeimkqakctc.xn--p1ai": {
       "category": "other",
       "confidence": 0.85
@@ -9054,11 +9067,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "Администрация МО Тбилисский район"
-    },
-    "ogrn:1022304842075": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "ГБУЗ Тимашевская ЦРБ МЗ КК"
     },
     "ogrn:1022304919405": {
       "category": "gov",
@@ -14683,11 +14691,6 @@
       "confidence": 0.58,
       "review": true,
       "org": "Звук бизнес"
-    },
-    "ogrn:1077847590040": {
-      "category": "other",
-      "confidence": 0.69,
-      "org": "АО Красный дельфин"
     },
     "ogrn:1077847632818": {
       "category": "industry",
