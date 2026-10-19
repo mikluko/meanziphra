@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 11727,
+    "https://27.ctlog.digital.gov.ru/2027/": 11742,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 12283
+    "https://ctlog2027.mail.ru/nca2027/": 12300
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -5691,9 +5691,6 @@
       "org": "BCS BANK AO",
       "inn": "5460000016",
       "ogrn": "1055400000369"
-    },
-    "applyform.ru": {
-      "not_after": "2026-10-18"
     },
     "apprt.rspp.ru": {
       "not_after": "2027-01-07"
@@ -14806,7 +14803,7 @@
       "ogrn": "1027700067328"
     },
     "ceph.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-16"
     },
     "ceph.ntv.ru": {
       "not_after": "2027-06-15",
@@ -23507,9 +23504,6 @@
       "inn": "9729364605",
       "ogrn": "1247700004056"
     },
-    "eas.pzhv.ru": {
-      "not_after": "2026-10-18"
-    },
     "eas.startups.su": {
       "not_after": "2027-07-28",
       "org": "LLC MDS",
@@ -24045,7 +24039,7 @@
       "not_after": "2026-12-14"
     },
     "edmconn.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-16"
     },
     "edo.gupti.ru": {
       "not_after": "2026-10-29"
@@ -26525,7 +26519,7 @@
       "not_after": "2026-11-16"
     },
     "ext-www.megafon.ru": {
-      "not_after": "2026-11-25"
+      "not_after": "2027-01-16"
     },
     "ext.clickstream.sberbank.ru": {
       "not_after": "2027-07-22",
@@ -27323,7 +27317,7 @@
       "ogrn": "1237700474747"
     },
     "fin.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "finam.ru": {
       "not_after": "2027-08-20",
@@ -37873,7 +37867,7 @@
       "not_after": "2026-11-26"
     },
     "khb.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "khv.21-school.ru": {
       "not_after": "2027-06-09",
@@ -38496,9 +38490,6 @@
       "inn": "5260059340",
       "ogrn": "1025200001661"
     },
-    "kostenok.ru": {
-      "not_after": "2026-10-18"
-    },
     "kostroma.sveza.ru": {
       "not_after": "2027-09-02",
       "org": "Severstal-infocom JSC",
@@ -38974,7 +38965,7 @@
       "not_after": "2027-01-12"
     },
     "kurgan.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "kurgan.sveza.ru": {
       "not_after": "2027-09-02",
@@ -42111,9 +42102,6 @@
     "maaa.domru.ru": {
       "not_after": "2026-10-22"
     },
-    "maaa2013.domru.ru": {
-      "not_after": "2026-10-18"
-    },
     "maaatest.domru.ru": {
       "not_after": "2026-10-25"
     },
@@ -43635,6 +43623,9 @@
     "mail.myclans.ru": {
       "not_after": "2027-01-04"
     },
+    "mail.myjunkstorage.ru": {
+      "not_after": "2027-01-16"
+    },
     "mail.mymedex.ru": {
       "not_after": "2027-06-29",
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ МЕДЭКСПЕРТ ПЛЮС",
@@ -44865,9 +44856,6 @@
     "mailsrv.in-vent.ru": {
       "not_after": "2027-01-13"
     },
-    "mailtest.domru.ru": {
-      "not_after": "2026-10-18"
-    },
     "mailx-test1.psbank.ru": {
       "not_after": "2027-03-03",
       "org": "Публичное акционерное общество Банк ПСБ",
@@ -45815,9 +45803,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "mcst.ru": {
-      "not_after": "2026-10-18"
     },
     "mcu.kubankredit.ru": {
       "not_after": "2027-06-24",
@@ -48412,7 +48397,7 @@
       "ogrn": "1027739387411"
     },
     "molkom1c-test.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "molkom1c.megafon.ru": {
       "not_after": "2026-12-10"
@@ -50521,7 +50506,7 @@
       "ogrn": "1027739609391"
     },
     "myjunkstorage.ru": {
-      "not_after": "2027-01-15"
+      "not_after": "2027-01-16"
     },
     "mylovar.ru": {
       "not_after": "2026-12-24"
@@ -51761,7 +51746,7 @@
       "not_after": "2026-11-26"
     },
     "nn.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "nn.sveza.ru": {
       "not_after": "2027-09-02",
@@ -54338,7 +54323,7 @@
       "ogrn": "1027739850962"
     },
     "operator.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "opinionlab.ru": {
       "not_after": "2027-07-15",
@@ -62400,9 +62385,6 @@
       "inn": "9731063700",
       "ogrn": "1207700164066"
     },
-    "py23pro.ru": {
-      "not_after": "2026-10-18"
-    },
     "pyatigorsk-mrd.ru": {
       "not_after": "2027-03-26",
       "org": "GBUZ SK Pyatigorskiy mezhrayonnyy rodilnyy dom",
@@ -67436,7 +67418,7 @@
       "not_after": "2026-11-26"
     },
     "sakha.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-16"
     },
     "sakhalin.21-school.ru": {
       "not_after": "2027-03-27",
@@ -78992,7 +78974,7 @@
       "ogrn": "1027700067328"
     },
     "test-hub-cdn.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-01-16"
     },
     "test-hub-informer.middle.megafon.ru": {
       "not_after": "2026-12-14"
@@ -79421,9 +79403,6 @@
       "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
-    },
-    "test.npnd.ru": {
-      "not_after": "2026-10-18"
     },
     "test.nspd.rosreestr.gov.ru": {
       "not_after": "2027-05-22",
@@ -82495,7 +82474,7 @@
       "not_after": "2027-01-02"
     },
     "ulyanovsk.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-16"
     },
     "ulyanovsk.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -82883,9 +82862,6 @@
     },
     "urgaps.ru": {
       "not_after": "2026-11-08"
-    },
-    "uriahas.ru": {
-      "not_after": "2026-10-18"
     },
     "url-shortener.sberbank-service.ru": {
       "not_after": "2027-07-31",
@@ -94691,9 +94667,6 @@
       "org": "Министерство цифрового развития и связи Саратовской области",
       "inn": "6450109626",
       "ogrn": "1206400003655"
-    },
-    "www.mcst.ru": {
-      "not_after": "2026-10-18"
     },
     "www.mcurl.ru": {
       "not_after": "2027-09-07",

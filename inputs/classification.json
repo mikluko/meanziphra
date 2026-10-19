@@ -490,10 +490,6 @@
       "category": "other",
       "confidence": 0.9
     },
-    "name:applyform.ru": {
-      "category": "other",
-      "confidence": 0.87
-    },
     "name:apprt.rspp.ru": {
       "category": "other",
       "confidence": 0.38,
@@ -2009,11 +2005,6 @@
       "category": "telecom",
       "confidence": 0.96
     },
-    "name:eas.pzhv.ru": {
-      "category": "gov",
-      "confidence": 0.38,
-      "review": true
-    },
     "name:ebs-integration-test.megafon.ru": {
       "category": "telecom",
       "confidence": 0.92
@@ -3528,10 +3519,6 @@
       "category": "other",
       "confidence": 0.98
     },
-    "name:kostenok.ru": {
-      "category": "other",
-      "confidence": 0.82
-    },
     "name:kotlin-novator.ru": {
       "category": "other",
       "confidence": 0.63
@@ -3924,11 +3911,6 @@
       "confidence": 0.47,
       "review": true
     },
-    "name:maaa2013.domru.ru": {
-      "category": "other",
-      "confidence": 0.34,
-      "review": true
-    },
     "name:maaatest.domru.ru": {
       "category": "other",
       "confidence": 0.89
@@ -4044,6 +4026,10 @@
       "category": "other",
       "confidence": 0.65
     },
+    "name:mail.myjunkstorage.ru": {
+      "category": "other",
+      "confidence": 0.7
+    },
     "name:mail.regulinvest.ru": {
       "category": "banks",
       "confidence": 0.5,
@@ -4084,11 +4070,6 @@
     "name:mailsrv.in-vent.ru": {
       "category": "other",
       "confidence": 0.54,
-      "review": true
-    },
-    "name:mailtest.domru.ru": {
-      "category": "other",
-      "confidence": 0.37,
       "review": true
     },
     "name:main.ipc.rssi.ru": {
@@ -4212,10 +4193,6 @@
     "name:mccm.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:mcst.ru": {
-      "category": "other",
-      "confidence": 0.7
     },
     "name:md.azbykait.ru": {
       "category": "other",
@@ -5788,10 +5765,6 @@
       "category": "other",
       "confidence": 0.9
     },
-    "name:py23pro.ru": {
-      "category": "other",
-      "confidence": 0.83
-    },
     "name:pyopenrpa.ru": {
       "category": "other",
       "confidence": 0.59,
@@ -7208,11 +7181,6 @@
       "category": "industry",
       "confidence": 0.7
     },
-    "name:test.npnd.ru": {
-      "category": "banks",
-      "confidence": 0.48,
-      "review": true
-    },
     "name:test1.certhub-beta.onecld.ru": {
       "category": "internet",
       "confidence": 0.39,
@@ -7537,10 +7505,6 @@
     "name:urgaps.ru": {
       "category": "other",
       "confidence": 0.77
-    },
-    "name:uriahas.ru": {
-      "category": "other",
-      "confidence": 0.92
     },
     "name:url-tcs-cl01.megafon.ru": {
       "category": "telecom",
@@ -8184,11 +8148,6 @@
     "name:www.markdowntableeditor.ru": {
       "category": "internet",
       "confidence": 0.53,
-      "review": true
-    },
-    "name:www.mcst.ru": {
-      "category": "other",
-      "confidence": 0.41,
       "review": true
     },
     "name:www.mebel-enot.ru": {

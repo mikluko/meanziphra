@@ -48,7 +48,6 @@ aobron.ru
 aotrend.ru
 api.ocs.ru
 app-3.safe-mobile.ru
-applyform.ru
 apprt.rspp.ru
 aq.ru
 archiv.ru
@@ -309,7 +308,6 @@ kolibrisoft.ru
 komontrol.ru
 komtet.ru
 korotyshev.ru
-kostenok.ru
 kotlin-novator.ru
 kozlov-roman.ru
 kpl32.ru
@@ -344,7 +342,6 @@ lundapadel.ru
 lync.domru.ru
 lynx-texts.ru
 maaa.domru.ru
-maaa2013.domru.ru
 maaatest.domru.ru
 madhome.ru
 magnit-info.ru
@@ -356,7 +353,6 @@ mail.myclans.ru
 mail.sirfol.ru
 mail.tverstandart.ru
 mailsrv.in-vent.ru
-mailtest.domru.ru
 main.ipc.rssi.ru
 makclife.ru
 makeyev.ru
@@ -375,7 +371,6 @@ maxiarm.ru
 mazenko.ru
 mcclinics.ru
 mconsulting.ru
-mcst.ru
 md.azbykait.ru
 mdm.ocs.ru
 mebel-enot.ru
@@ -545,7 +540,6 @@ prrr.ru
 pulse-hcm.ru
 pushkindoc.ru
 pwk.x0124.ru
-py23pro.ru
 pyopenrpa.ru
 q-admins.ru
 r1864.ru
@@ -707,7 +701,6 @@ umcusp.ru
 umius.ru
 unimatic.ru
 urgaps.ru
-uriahas.ru
 utalk.su
 utz.ru
 v-dimitriadis.ru
