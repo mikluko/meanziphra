@@ -1128,7 +1128,6 @@ techpass.sberbank-service.ru
 tehnologiidobra.ru
 teleportbank.ru
 test.gnpch.ru
-test.npnd.ru
 test1.bnpltests.ru
 test2.bnpltests.ru
 testarm.toyotafs.ru
