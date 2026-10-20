@@ -893,10 +893,6 @@
       "category": "industry",
       "confidence": 0.99
     },
-    "name:bio.crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.92
-    },
     "name:bitrix.rusprof.ru": {
       "category": "other",
       "confidence": 0.71
@@ -1076,10 +1072,6 @@
       "category": "other",
       "confidence": 0.51,
       "review": true
-    },
-    "name:cchgeu.ru": {
-      "category": "other",
-      "confidence": 0.7
     },
     "name:ccmp-study.megafon.ru": {
       "category": "telecom",
@@ -1532,10 +1524,6 @@
     "name:credit.iturupbank.ru": {
       "category": "banks",
       "confidence": 0.99
-    },
-    "name:crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.82
     },
     "name:crm.strahovka35.ru": {
       "category": "banks",
@@ -2682,6 +2670,18 @@
       "category": "telecom",
       "confidence": 0.97
     },
+    "name:harness-1.brain-flow.ru": {
+      "category": "other",
+      "confidence": 0.78
+    },
+    "name:harness-2.brain-flow.ru": {
+      "category": "other",
+      "confidence": 0.76
+    },
+    "name:harness-3.brain-flow.ru": {
+      "category": "other",
+      "confidence": 0.79
+    },
     "name:hdx.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.87
@@ -2789,10 +2789,6 @@
       "confidence": 0.43,
       "review": true
     },
-    "name:hrmoscow.ru": {
-      "category": "other",
-      "confidence": 0.84
-    },
     "name:hrtp.ru": {
       "category": "other",
       "confidence": 0.7
@@ -2830,10 +2826,6 @@
     "name:ib.rusnarbank.ru": {
       "category": "banks",
       "confidence": 0.97
-    },
-    "name:ibank.crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.98
     },
     "name:ibank.econombank.ru": {
       "category": "banks",
@@ -3767,6 +3759,10 @@
       "category": "telecom",
       "confidence": 0.91
     },
+    "name:liveservice.spb.ru": {
+      "category": "other",
+      "confidence": 0.68
+    },
     "name:lk-auth.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.94
@@ -4152,6 +4148,10 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:max-bot.bestwayservice.ru": {
+      "category": "other",
+      "confidence": 0.84
+    },
     "name:max.aihor.ru": {
       "category": "other",
       "confidence": 0.66
@@ -4168,10 +4168,6 @@
     "name:mazenko.ru": {
       "category": "other",
       "confidence": 0.95
-    },
-    "name:mbank.crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.99
     },
     "name:mbf.avangard.ru": {
       "category": "industry",
@@ -4774,10 +4770,6 @@
       "category": "banks",
       "confidence": 0.85
     },
-    "name:next.crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.77
-    },
     "name:nextcloud.acti.ru": {
       "category": "other",
       "confidence": 0.47,
@@ -5035,10 +5027,6 @@
     "name:online.albank.ru": {
       "category": "banks",
       "confidence": 0.81
-    },
-    "name:online.crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.83
     },
     "name:online.datapol.ru": {
       "category": "other",
@@ -5524,6 +5512,10 @@
       "confidence": 0.33,
       "review": true
     },
+    "name:podvigi-rossii.ru": {
+      "category": "other",
+      "confidence": 0.61
+    },
     "name:poisk.megafon.ru": {
       "category": "telecom",
       "confidence": 0.92
@@ -6000,10 +5992,6 @@
       "category": "banks",
       "confidence": 0.87
     },
-    "name:roscherk.su": {
-      "category": "other",
-      "confidence": 0.88
-    },
     "name:rostelecom.gw11.bank.moneta.ru": {
       "category": "banks",
       "confidence": 0.54,
@@ -6055,6 +6043,16 @@
       "category": "banks",
       "confidence": 0.67
     },
+    "name:rtbapp.ru": {
+      "category": "other",
+      "confidence": 0.55,
+      "review": true
+    },
+    "name:rtbapp.su": {
+      "category": "other",
+      "confidence": 0.54,
+      "review": true
+    },
     "name:rtdigital.ru": {
       "category": "gov",
       "confidence": 1,
@@ -6071,10 +6069,6 @@
     "name:run.check-ru.ru": {
       "category": "other",
       "confidence": 0.74
-    },
-    "name:ruprd.crediteurope.ru": {
-      "category": "banks",
-      "confidence": 0.84
     },
     "name:rus.avangard.ru": {
       "category": "industry",
@@ -6944,6 +6938,10 @@
       "category": "other",
       "confidence": 0.7
     },
+    "name:t-secrets.ru": {
+      "category": "other",
+      "confidence": 0.89
+    },
     "name:tablet.indaspace.alfastrah.ru": {
       "category": "banks",
       "confidence": 0.75
@@ -7244,6 +7242,10 @@
       "category": "banks",
       "confidence": 0.99
     },
+    "name:tinkoffjournal.ru": {
+      "category": "banks",
+      "confidence": 0.89
+    },
     "name:tmb.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -7329,6 +7331,10 @@
     "name:tsd1c.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
+    },
+    "name:tsecrets.ru": {
+      "category": "other",
+      "confidence": 0.81
     },
     "name:ttt.t-boys.ru": {
       "category": "other",
@@ -8144,6 +8150,10 @@
     "name:www.lexgarant.ru": {
       "category": "other",
       "confidence": 0.91
+    },
+    "name:www.liveservice.spb.ru": {
+      "category": "other",
+      "confidence": 0.68
     },
     "name:www.markdowntableeditor.ru": {
       "category": "internet",
@@ -11425,6 +11435,12 @@
       "confidence": 1,
       "org": "Commercial bank Asia-Invest Bank JSC"
     },
+    "ogrn:1027739282922": {
+      "category": "other",
+      "confidence": 0.25,
+      "review": true,
+      "org": "Акционерное общество МикроЭМ"
+    },
     "ogrn:1027739291580": {
       "category": "gov",
       "confidence": 0.84,
@@ -11778,6 +11794,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "«Вэйбанк» Акционерное общество"
+    },
+    "ogrn:1027746003438": {
+      "category": "other",
+      "confidence": 0.78,
+      "org": "Spravedlivaya Rossiya"
     },
     "ogrn:1027800000084": {
       "category": "banks",
@@ -13255,6 +13276,11 @@
       "confidence": 1,
       "org": "УПРАВЛЕНИЕ РОСРЕЕСТРА ПО ИРКУТСКОЙ ОБЛАСТИ"
     },
+    "ogrn:1043801910756": {
+      "category": "industry",
+      "confidence": 0.75,
+      "org": "ООО Саянский бройлер"
+    },
     "ogrn:1043802220670": {
       "category": "gov",
       "confidence": 0.62,
@@ -13481,6 +13507,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "АО Ульяновский патронный завод"
+    },
+    "ogrn:1047422507736": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "АО НПО Электромашина"
     },
     "ogrn:1047424528580": {
       "category": "gov",
@@ -14043,6 +14074,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "ГБУЗ ЧОМИАЦ"
+    },
+    "ogrn:1057601079470": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Управление Роспотребнадзора по Ярославской области"
     },
     "ogrn:1057711014195": {
       "category": "banks",
@@ -15670,6 +15706,11 @@
       "confidence": 0.95,
       "org": "МКУ ЗР Северное"
     },
+    "ogrn:1120816009380": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Veterinary Department of the Republic of Kalmykia"
+    },
     "ogrn:1121200000316": {
       "category": "banks",
       "confidence": 1,
@@ -16170,6 +16211,11 @@
       "confidence": 0.42,
       "review": true,
       "org": "CTM LTD"
+    },
+    "ogrn:1137746471521": {
+      "category": "other",
+      "confidence": 0.97,
+      "org": "ООО Глобал Медикал Групп"
     },
     "ogrn:1137746472599": {
       "category": "industry",

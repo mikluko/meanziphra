@@ -515,6 +515,7 @@ rdc.spb.ru
 recfaces.ru
 red-soft.ru
 reddatabase.ru
+redosm.ru
 region-am.ru
 region-dk.ru
 region.ru
@@ -587,6 +588,7 @@ sj-dev.ru
 slavsoft.ru
 smailbox.ru
 smartmarket.sber.ru
+smartplayer.cloud.ru
 smartproektsystems.ru
 smsgold.ru
 smtp.interfax.ru
@@ -698,11 +700,15 @@ vbr01.cloud.ru
 vbr10.cloud.ru
 vbr11.msk.cloud.ru
 vbr30.msk.cloud.ru
+vbr50.cloud.ru
+vcc30-01.cloud.ru
+vcc30-02.cloud.ru
 vcc30.msk.cloud.ru
 vcd01-01.cloud.ru
 vcd01-02.cloud.ru
 vcd10-01.cloud.ru
 vcd10-02.cloud.ru
+vcd10-51.cloud.ru
 vcd11-01.cloud.ru
 vcd30-01.cloud.ru
 vcd30-02.cloud.ru
@@ -720,6 +726,7 @@ vcda11.cloud.ru
 vcda30-01.cloud.ru
 vcda30-02.cloud.ru
 vcda30-03.cloud.ru
+vcda50-01.cloud.ru
 vcda50-02.cloud.ru
 vdi.cloud.ru
 vedomosti.ru

@@ -244,6 +244,7 @@ npk-spp.ru
 npk.ru
 npo-saturn.ru
 npoa.ru
+npoelm.ru
 npovk.ru
 npzoptics.ru
 ntc-zarya.ru
@@ -279,6 +280,7 @@ pikyug.ru
 pipeline-science.ru
 planar-elements.ru
 polyot.ru
+ponpz.ru
 porprokat.ru
 promelec.ru
 proptech.ru
@@ -315,6 +317,7 @@ ruselectronics.ru
 russianspacesystems.ru
 rustank.ru
 rvc.ru
+s-broiler.ru
 samara-metallurg.ru
 samaravodokanal.ru
 samspace.ru
