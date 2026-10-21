@@ -195,6 +195,7 @@ entroforce.ru
 epd56.ru
 er-gosduma.ru
 er.ru
+ether-platform.ru
 excimerclinic.ru
 exp-space.ru
 express2.roe.ru
@@ -235,6 +236,7 @@ grantains.ru
 greencert.ru
 greentechpro.ru
 griser.ru
+gsmk.ru
 gubadm.ru
 guestportal.avangard.ru
 gw-vpn.t-access.ru
@@ -247,7 +249,6 @@ helpms.ru
 hg.inforion.ru
 hill5.ru
 hold-lm.test.nextcontact.ru
-hole-nevermind.ru
 home.vasy.ru
 hoteltofms.ru
 hr.ocs.ru
@@ -268,6 +269,7 @@ inf-mtm.inforion.ru
 inf-wekan.inforion.ru
 informlaw.ru
 inheaven.ru
+integ32.ru
 intelcube.ru
 intelwebs.ru
 intourist.ru
@@ -340,14 +342,14 @@ lms.lomt.ru
 lnr.rspp.ru
 lo-miac.ru
 lot-online.ru
+ltk.com.ru
 luchi.ru
 lundapadel.ru
 lync.domru.ru
-lynx-texts.ru
+m.hole-nevermind.ru
 maaa.domru.ru
 maaatest.domru.ru
 madhome.ru
-magnit-info.ru
 mail.crimearw.ru
 mail.gupti.ru
 mail.ibs.ru
@@ -395,6 +397,7 @@ mili-rest.ru
 mistrikov.ru
 mm.kszn34.ru
 mmchelptech.ru
+mobile-http-api2.oneme.ru
 mobile.kszn34.ru
 mobileid.ru
 monomah.ru
@@ -436,6 +439,7 @@ n3health.ru
 na-podpisi.ru
 narhsi.ru
 narkolog-help-24.ru
+nationallottery.ru
 nc.biv91.ru
 nc.kszn34.ru
 neansk.ru
@@ -464,6 +468,7 @@ nuc-probe-1457.devkz.ru
 nuc-probe-1659.devkz.ru
 nuc-probe-1711.devkz.ru
 nuc-probe.devkz.ru
+nuc.hole-nevermind.ru
 nuctest.nationaloto.ru
 nwgnv.ru
 nz-am.ru
@@ -533,6 +538,7 @@ premiya.rspp.ru
 primersvedosa.ru
 probe-nuc-rsa.luna25.ru
 probe.mddc.t-j.ru
+probe.perecle.ru
 prof-consultant.ru
 profinat.ru
 profitserv.ru
@@ -561,6 +567,7 @@ rcbiz.ru
 rcm-szfo.ru
 rcraduga.ru
 recruitingreports.ru
+red-dolphin.ru
 red1dark.ru
 reestr-proton.ru
 reestrrn.ru
@@ -626,6 +633,7 @@ slon-e.ru
 smart-budget.ru
 smartro.ru
 smbn.ru
+smetadompro.ru
 smsgate-dg.one-infra.ru
 sn4il.ru
 soc-volga.ru
@@ -694,6 +702,7 @@ test-er.ru
 test273.servicecdn.ru
 testcr8.novikom.ru
 themm.ru
+tj-app.ru
 tolokonnikov.ru
 traptech.ru
 trcnf.rspp.ru
@@ -709,6 +718,7 @@ ucparma.ru
 uk-profit-capital.ru
 umcusp.ru
 umius.ru
+unigate-stage.tickets.onecld.ru
 unimatic.ru
 urgaps.ru
 utalk.su
@@ -732,6 +742,7 @@ vgl-sport.ru
 vitas1648-dev.ru
 vk-terminal.ru
 vkdigi1.fvds.ru
+vks.triniti.ru
 vnashemdvore.ru
 vo.rspp.ru
 vodolaga.ru

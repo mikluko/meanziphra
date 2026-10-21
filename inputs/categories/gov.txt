@@ -148,6 +148,7 @@ csvr.ru
 cvat.oparina4.ru
 czn-rzn.ru
 dayseducaltai.ru
+ddt-unost.spb.ru
 depagro32.ru
 detbolnvr.ru
 df2.ivanovoobl.ru
@@ -226,6 +227,7 @@ erul.gov.ru
 ervk.gov.ru
 esrn.spb.ru
 etc48.ru
+exp-ext.ftc.ru
 expertiza.spb.ru
 exportcenter.ru
 fam-penza.pnzreg.ru
@@ -265,6 +267,7 @@ fpi.gov.ru
 frccsc.ru
 frprf.ru
 fsnsamara.ru
+fsrpn.ru
 fss.ru
 fstec.gov.ru
 fstec.ru
@@ -631,7 +634,6 @@ rabotavkuzbasse.ru
 rb2-tuapse.ru
 rcoko27.ru
 reg-cctv.ru
-regsamarh.ru
 rem.oparina4.ru
 rem0.oparina4.ru
 rem1.oparina4.ru
@@ -716,7 +718,6 @@ shkola8k.ru
 sibsiu.ru
 sip.admsurgut.ru
 skkb26.ru
-skkcvo.ru
 skkmo.ru
 skkmorf.ru
 skkmpc.ru
