@@ -69,6 +69,10 @@
       "category": "gov",
       "confidence": 0.99
     },
+    "name:79.rospotrebnadzor.ru": {
+      "category": "gov",
+      "confidence": 0.99
+    },
     "name:8800.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -694,6 +698,10 @@
       "category": "other",
       "confidence": 0.77
     },
+    "name:b.sn4il.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
     "name:b2b-ext.yota.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -1156,10 +1164,6 @@
       "category": "other",
       "confidence": 0.42,
       "review": true
-    },
-    "name:certhub-beta.vkteam.ru": {
-      "category": "internet",
-      "confidence": 0.63
     },
     "name:cgbp.ru": {
       "category": "other",
@@ -1656,6 +1660,11 @@
     "name:dbo.ns-bank.ru": {
       "category": "banks",
       "confidence": 0.98
+    },
+    "name:dbo.spsc.ru": {
+      "category": "other",
+      "confidence": 0.46,
+      "review": true
     },
     "name:dbo2.pikhtabank.ru": {
       "category": "banks",
@@ -2179,6 +2188,10 @@
       "category": "telecom",
       "confidence": 0.97
     },
+    "name:ether-platform.ru": {
+      "category": "other",
+      "confidence": 0.76
+    },
     "name:etp-avtodor.ru": {
       "category": "transport",
       "confidence": 0.49,
@@ -2187,6 +2200,11 @@
     "name:ewschool.sberclass.ru": {
       "category": "banks",
       "confidence": 0.84
+    },
+    "name:exp-ext.ftc.ru": {
+      "category": "gov",
+      "confidence": 0.44,
+      "review": true
     },
     "name:exp-space.ru": {
       "category": "other",
@@ -2573,6 +2591,15 @@
       "confidence": 0.59,
       "review": true
     },
+    "name:gsmk.ru": {
+      "category": "other",
+      "confidence": 0.5,
+      "review": true
+    },
+    "name:gts.sn4il.ru": {
+      "category": "other",
+      "confidence": 0.83
+    },
     "name:gu-st.ru": {
       "category": "gov",
       "confidence": 1,
@@ -2755,10 +2782,6 @@
     "name:hold-lm.test.nextcontact.ru": {
       "category": "other",
       "confidence": 0.73
-    },
-    "name:hole-nevermind.ru": {
-      "category": "other",
-      "confidence": 0.97
     },
     "name:home.dealers.megafon.ru": {
       "category": "telecom",
@@ -2996,6 +3019,10 @@
     "name:insurance.gippars.ru": {
       "category": "banks",
       "confidence": 0.89
+    },
+    "name:integ32.ru": {
+      "category": "other",
+      "confidence": 0.84
     },
     "name:intelcube.ru": {
       "category": "other",
@@ -3672,6 +3699,11 @@
       "category": "industry",
       "confidence": 0.7
     },
+    "name:lad.vniitf.ru": {
+      "category": "gov",
+      "confidence": 0.49,
+      "review": true
+    },
     "name:lakoai.ru": {
       "category": "other",
       "confidence": 0.82
@@ -3878,10 +3910,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:lynx-texts.ru": {
-      "category": "other",
-      "confidence": 0.86
-    },
     "name:lyubercy.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -3936,14 +3964,9 @@
       "confidence": 0.55,
       "review": true
     },
-    "name:magnit-info.ru": {
-      "category": "other",
-      "confidence": 0.52,
-      "review": true
-    },
-    "name:magnitenergo.ru": {
-      "category": "industry",
-      "confidence": 0.73
+    "name:mail.79.rospotrebnadzor.ru": {
+      "category": "gov",
+      "confidence": 0.99
     },
     "name:mail.acti.ru": {
       "category": "internet",
@@ -4388,6 +4411,10 @@
     "name:mmk-coal.ru": {
       "category": "industry",
       "confidence": 0.88
+    },
+    "name:mobile-http-api2.oneme.ru": {
+      "category": "other",
+      "confidence": 0.62
     },
     "name:mobile.kszn34.ru": {
       "category": "other",
@@ -5639,6 +5666,10 @@
       "category": "other",
       "confidence": 0.78
     },
+    "name:probe.perecle.ru": {
+      "category": "other",
+      "confidence": 0.85
+    },
     "name:proc.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -6447,6 +6478,10 @@
       "category": "other",
       "confidence": 0.95
     },
+    "name:skaz.vniitf.ru": {
+      "category": "gov",
+      "confidence": 0.73
+    },
     "name:skh.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -6495,6 +6530,10 @@
     "name:smart-jkh.megafon.ru": {
       "category": "telecom",
       "confidence": 0.89
+    },
+    "name:smetadompro.ru": {
+      "category": "other",
+      "confidence": 0.81
     },
     "name:sml.dev.home.megafon.ru": {
       "category": "telecom",
@@ -7246,6 +7285,14 @@
       "category": "banks",
       "confidence": 0.89
     },
+    "name:tinkoffsecrets.ru": {
+      "category": "banks",
+      "confidence": 0.91
+    },
+    "name:tj-app.ru": {
+      "category": "other",
+      "confidence": 0.75
+    },
     "name:tmb.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -7500,6 +7547,11 @@
       "category": "other",
       "confidence": 0.75
     },
+    "name:unigate-stage.tickets.onecld.ru": {
+      "category": "other",
+      "confidence": 0.57,
+      "review": true
+    },
     "name:upay-test-zone-a.megafon.ru": {
       "category": "telecom",
       "confidence": 0.85
@@ -7650,6 +7702,11 @@
     "name:vks.kotlin-novator.ru": {
       "category": "other",
       "confidence": 0.43,
+      "review": true
+    },
+    "name:vks.triniti.ru": {
+      "category": "other",
+      "confidence": 0.44,
       "review": true
     },
     "name:vl.dev.home.megafon.ru": {
@@ -10084,6 +10141,11 @@
       "confidence": 0.61,
       "org": "АО ПРОТОН-ПМ"
     },
+    "ogrn:1025900893864": {
+      "category": "industry",
+      "confidence": 0.98,
+      "org": "АО ОДК-ПМ"
+    },
     "ogrn:1025900895712": {
       "category": "industry",
       "confidence": 0.89,
@@ -10229,11 +10291,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "Администрации городского округа Самара"
-    },
-    "ogrn:1026300969573": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "Управление государственной архивной службы Самарской области"
     },
     "ogrn:1026301167420": {
       "category": "industry",
@@ -10523,11 +10580,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "ADMINISTRACIYA CHEBARKULSKOGO GORODSKOGO OKRUGA"
-    },
-    "ogrn:1027401143021": {
-      "category": "gov",
-      "confidence": 0.95,
-      "org": "ФГБУ СКК ПРИВОЛЖСКИЙ МО РФ"
     },
     "ogrn:1027401183006": {
       "category": "internet",
@@ -11880,6 +11932,11 @@
       "category": "internet",
       "confidence": 0.94,
       "org": "ООО Рексофт"
+    },
+    "ogrn:1027801582258": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ГБУ ДО ДДТ ЮНОСТЬ ВЫБОРГСКОГО РАЙОНА САНКТ-ПЕТЕРБУРГА"
     },
     "ogrn:1027802497656": {
       "category": "industry",
@@ -14687,6 +14744,11 @@
       "review": true,
       "org": "Звук бизнес"
     },
+    "ogrn:1077847590040": {
+      "category": "other",
+      "confidence": 0.76,
+      "org": "АО \"Красный дельфин\""
+    },
     "ogrn:1077847632818": {
       "category": "industry",
       "confidence": 0.34,
@@ -15079,12 +15141,6 @@
       "category": "internet",
       "confidence": 0.98,
       "org": "ООО Информационные системы"
-    },
-    "ogrn:1096829000620": {
-      "category": "telecom",
-      "confidence": 0.38,
-      "review": true,
-      "org": "ООО ЦЕНТР"
     },
     "ogrn:1097154026056": {
       "category": "gov",
@@ -17403,6 +17459,11 @@
       "confidence": 1,
       "org": "SOVCOMBANK ASSET MANAGEMENT LLC"
     },
+    "ogrn:1187746040910": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "ООО ЗЕНИТ ФИНАНС"
+    },
     "ogrn:1187746049457": {
       "category": "other",
       "confidence": 0.41,
@@ -18446,6 +18507,12 @@
       "category": "gov",
       "confidence": 1,
       "org": "Управление Росреестра по Донецкой Народной Республике"
+    },
+    "ogrn:1229400032883": {
+      "category": "other",
+      "confidence": 0.17,
+      "review": true,
+      "org": "ЛТК"
     },
     "ogrn:1229400102249": {
       "category": "gov",

@@ -203,7 +203,6 @@ lubteplo.ru
 lukoil.ru
 m-road.ru
 m-road62.ru
-magnitenergo.ru
 mail.almaz-antey.ru
 mail.energo.ru
 mail.tdzs.ru
@@ -279,6 +278,7 @@ phasotron.ru
 pikyug.ru
 pipeline-science.ru
 planar-elements.ru
+pmz.ru
 polyot.ru
 ponpz.ru
 porprokat.ru
