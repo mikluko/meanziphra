@@ -269,6 +269,10 @@
       "category": "other",
       "confidence": 0.71
     },
+    "name:aironteh.ru": {
+      "category": "other",
+      "confidence": 0.67
+    },
     "name:akey.ocs.ru": {
       "category": "other",
       "confidence": 0.44,
@@ -474,10 +478,6 @@
       "category": "banks",
       "confidence": 0.97
     },
-    "name:app-3.safe-mobile.ru": {
-      "category": "other",
-      "confidence": 0.63
-    },
     "name:app-demo.factoring.megafon.ru": {
       "category": "telecom",
       "confidence": 0.78
@@ -655,10 +655,6 @@
       "category": "banks",
       "confidence": 0.23,
       "review": true
-    },
-    "name:autodiscover.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.99
     },
     "name:autodiscover.inforion.ru": {
       "category": "other",
@@ -1177,10 +1173,6 @@
       "category": "other",
       "confidence": 0.74
     },
-    "name:changepass.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.99
-    },
     "name:charlie.mici.imgsmail.ru": {
       "category": "other",
       "confidence": 0.5,
@@ -1202,6 +1194,10 @@
     "name:cheb.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
+    },
+    "name:cheb23.shkola.hc.ru": {
+      "category": "gov",
+      "confidence": 0.97
     },
     "name:chechnya.dev.home.megafon.ru": {
       "category": "telecom",
@@ -1730,6 +1726,10 @@
       "category": "internet",
       "confidence": 0.6
     },
+    "name:demo.epilogica.ru": {
+      "category": "other",
+      "confidence": 0.75
+    },
     "name:demo.factoring.megafon.ru": {
       "category": "telecom",
       "confidence": 0.78
@@ -2044,10 +2044,6 @@
       "category": "other",
       "confidence": 0.84
     },
-    "name:edi.magnit-info.ru": {
-      "category": "marketplaces",
-      "confidence": 0.79
-    },
     "name:edinici.ru": {
       "category": "other",
       "confidence": 0.81
@@ -2213,6 +2209,10 @@
     "name:expe-cluster.rencredit.ru": {
       "category": "banks",
       "confidence": 0.89
+    },
+    "name:expertvoice.ru": {
+      "category": "other",
+      "confidence": 0.78
     },
     "name:expr-p-av1.domrfbank.ru": {
       "category": "banks",
@@ -2538,6 +2538,10 @@
       "confidence": 0.43,
       "review": true
     },
+    "name:gosaltushka.ru": {
+      "category": "other",
+      "confidence": 0.74
+    },
     "name:gossluzhba.gov.ru": {
       "category": "gov",
       "confidence": 1,
@@ -2812,10 +2816,6 @@
       "confidence": 0.43,
       "review": true
     },
-    "name:hrtp.ru": {
-      "category": "other",
-      "confidence": 0.7
-    },
     "name:hub.megafon.ru": {
       "category": "telecom",
       "confidence": 1
@@ -2967,6 +2967,10 @@
     "name:infoportal.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:inforion.ru": {
+      "category": "other",
+      "confidence": 0.73
     },
     "name:informer.hub.megafon.ru": {
       "category": "telecom",
@@ -3321,14 +3325,6 @@
     "name:kassa.payanyway.ru": {
       "category": "banks",
       "confidence": 0.91
-    },
-    "name:kb.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.97
-    },
-    "name:kblion.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.94
     },
     "name:kbr.dev.home.megafon.ru": {
       "category": "telecom",
@@ -3787,10 +3783,6 @@
       "confidence": 0.58,
       "review": true
     },
-    "name:lion.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.91
-    },
     "name:liveservice.spb.ru": {
       "category": "other",
       "confidence": 0.68
@@ -3918,10 +3910,6 @@
       "category": "telecom",
       "confidence": 0.95
     },
-    "name:m.hole-nevermind.ru": {
-      "category": "other",
-      "confidence": 0.94
-    },
     "name:m.megafonpro.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -4006,10 +3994,6 @@
       "category": "other",
       "confidence": 0.39,
       "review": true
-    },
-    "name:mail.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.95
     },
     "name:mail.gupti.ru": {
       "category": "other",
@@ -4286,10 +4270,6 @@
       "category": "other",
       "confidence": 0.52,
       "review": true
-    },
-    "name:meet.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.97
     },
     "name:meet.megafon.ru": {
       "category": "telecom",
@@ -4707,6 +4687,11 @@
       "category": "other",
       "confidence": 0.81
     },
+    "name:n8n.aironteh.ru": {
+      "category": "other",
+      "confidence": 0.47,
+      "review": true
+    },
     "name:narhsi.ru": {
       "category": "other",
       "confidence": 0.73
@@ -4935,10 +4920,6 @@
       "category": "internet",
       "confidence": 0.83
     },
-    "name:nuc.hole-nevermind.ru": {
-      "category": "other",
-      "confidence": 0.91
-    },
     "name:nuctest.demo.moneta.ru": {
       "category": "banks",
       "confidence": 0.75
@@ -4976,6 +4957,10 @@
     "name:oblako.katantsev.ru": {
       "category": "other",
       "confidence": 0.68
+    },
+    "name:octoground.ru": {
+      "category": "other",
+      "confidence": 0.84
     },
     "name:ofd.phoenix-dnr.ru": {
       "category": "gov",
@@ -5644,6 +5629,10 @@
     "name:prim.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:prima-systems.ru": {
+      "category": "other",
+      "confidence": 0.79
     },
     "name:primary-data.devos.astralinux.ru": {
       "category": "internet",
@@ -6436,6 +6425,10 @@
       "category": "other",
       "confidence": 0.86
     },
+    "name:shonichev.ru": {
+      "category": "other",
+      "confidence": 0.89
+    },
     "name:shop.avangard.ru": {
       "category": "marketplaces",
       "confidence": 0.65
@@ -6636,11 +6629,6 @@
       "category": "telecom",
       "confidence": 0.96
     },
-    "name:sp13.spb.ru": {
-      "category": "gov",
-      "confidence": 0.45,
-      "review": true
-    },
     "name:space.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.81
@@ -6793,10 +6781,6 @@
       "category": "banks",
       "confidence": 0.38,
       "review": true
-    },
-    "name:sso.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.98
     },
     "name:sso.ift.sberdevices.ru": {
       "category": "banks",
@@ -7552,6 +7536,11 @@
       "confidence": 0.57,
       "review": true
     },
+    "name:unigate.tickets.onecld.ru": {
+      "category": "other",
+      "confidence": 0.57,
+      "review": true
+    },
     "name:upay-test-zone-a.megafon.ru": {
       "category": "telecom",
       "confidence": 0.85
@@ -7978,10 +7967,6 @@
       "category": "telecom",
       "confidence": 1
     },
-    "name:wifi-it.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.97
-    },
     "name:wifire.megafon.ru": {
       "category": "telecom",
       "confidence": 1
@@ -8376,10 +8361,6 @@
     "name:xmao.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.96
-    },
-    "name:xn----7sbb1amddko8c7b4b.xn--p1ai": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:xn----8sbmmlgncfbgqis7m.xn--p1ai": {
       "category": "other",
@@ -10292,6 +10273,11 @@
       "confidence": 1,
       "org": "Администрации городского округа Самара"
     },
+    "ogrn:1026300969573": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Управление государственной архивной службы Самарской области"
+    },
     "ogrn:1026301167420": {
       "category": "industry",
       "confidence": 0.85,
@@ -11882,12 +11868,6 @@
       "confidence": 1,
       "org": "БАНК \"ТРАСТ\" (ПАО)"
     },
-    "ogrn:1027800000931": {
-      "category": "other",
-      "confidence": 0.17,
-      "review": true,
-      "org": "НКО АО ПРЦ"
-    },
     "ogrn:1027800000942": {
       "category": "banks",
       "confidence": 1,
@@ -12807,6 +12787,11 @@
       "category": "gov",
       "confidence": 0.98,
       "org": "ФГБУ Акваинфотека"
+    },
+    "ogrn:1037739269590": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ИПУ РАН"
     },
     "ogrn:1037739272779": {
       "category": "other",
@@ -13914,11 +13899,6 @@
       "confidence": 0.54,
       "review": true,
       "org": "Парусник-Белгород"
-    },
-    "ogrn:1053244053675": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "Departament obrazovaniya i nauki Bryanskoi oblasti"
     },
     "ogrn:1053244057085": {
       "category": "gov",
@@ -15049,6 +15029,11 @@
       "confidence": 0.99,
       "org": "АО \"ЦКБ МТ \"РУБИН\""
     },
+    "ogrn:1089848054339": {
+      "category": "industry",
+      "confidence": 0.97,
+      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО АДМИРАЛТЕЙСКИЕ ВЕРФИ"
+    },
     "ogrn:1090280016650": {
       "category": "internet",
       "confidence": 0.58,
@@ -15813,6 +15798,12 @@
       "confidence": 1,
       "org": "Минвостокразвития России"
     },
+    "ogrn:1122801012828": {
+      "category": "gov",
+      "confidence": 0.37,
+      "review": true,
+      "org": "АО РНИЦ по Амурской области"
+    },
     "ogrn:1123444007070": {
       "category": "banks",
       "confidence": 0.85,
@@ -16097,6 +16088,11 @@
       "confidence": 0.5,
       "review": true,
       "org": "NPK Stamaks"
+    },
+    "ogrn:1132311009357": {
+      "category": "industry",
+      "confidence": 0.94,
+      "org": "ООО \"КРАСНОДАРЭЛЕКТРО\""
     },
     "ogrn:1132312013140": {
       "category": "other",

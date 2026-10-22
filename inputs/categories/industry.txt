@@ -8,6 +8,7 @@ achimgaz.ru
 admin-cordiant-learn.severstal.ru
 admin-kompas.severstal.ru
 admin-study.severstal.ru
+admship.ru
 aerosila.ru
 agroconcern.ru
 agrosource.ru
@@ -185,6 +186,7 @@ kompas.severstal.ru
 komzrt.ru
 kraftway.ru
 krastsvetmet.ru
+krdelectro.ru
 kskkaluga.ru
 kst-energo.ru
 kts39.ru
