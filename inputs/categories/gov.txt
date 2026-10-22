@@ -41,6 +41,7 @@ alexandrino.ru
 altspu.ru
 amplisens.ru
 amrro.ru
+amurglonass.ru
 amurobl.ru
 anodialog.ru
 aoglonass.ru
@@ -70,7 +71,6 @@ autodiscover.admsurgut.ru
 autodiscover.oparina4.ru
 avtobaza-ogv.ru
 azs.mari-el.gov.ru
-b-edu.ru
 balahonovskiy-pni.stv.socinfo.ru
 bdmsh.stv.muzkult.ru
 bee-saturn.ru
@@ -86,7 +86,6 @@ bratska.ru
 brdi32.ru
 bredy74.ru
 bryanskoblfin.ru
-budget-next.depfin70.ru
 budmuzeum.stv.muzkult.ru
 bukep.ru
 burdc.ru
@@ -110,6 +109,7 @@ centr-judo.ru
 cfmc.ru
 cge.onego.ru
 cgkipd.ru
+cheb23.shkola.hc.ru
 chebarcul.ru
 cheladm.ru
 chem-react.rrcki.ru
@@ -329,6 +329,7 @@ gp2sochi.ru
 gpab.spb.ru
 grcc.ru
 grfc.ru
+gronvos.ru
 gsen.ru
 gsnspb.ru
 gsrk.ru
@@ -368,6 +369,7 @@ ioffe.ru
 ipcson.stv.socinfo.ru
 ipfran.ru
 ippe.ru
+ipu.ru
 irea.rrcki.ru
 irexpertiza.ru
 irkopeka4.ru
@@ -634,6 +636,7 @@ rabotavkuzbasse.ru
 rb2-tuapse.ru
 rcoko27.ru
 reg-cctv.ru
+regsamarh.ru
 rem.oparina4.ru
 rem0.oparina4.ru
 rem1.oparina4.ru
@@ -733,7 +736,6 @@ sndko.ru
 soc23.ru
 socfmba.ru
 sofpni.stv.socinfo.ru
-sp13.spb.ru
 sp15spb.ru
 sp31.spb.ru
 spbdshi3.ru

@@ -27,6 +27,7 @@ agencycontrol.ru
 ai-academy.ru
 ai-mnesis.ru
 aihor.ru
+aironteh.ru
 akey.ocs.ru
 aktiv-rso.ru
 al.rspp.ru
@@ -47,7 +48,6 @@ ao-trend.ru
 aobron.ru
 aotrend.ru
 api.ocs.ru
-app-3.safe-mobile.ru
 apprt.rspp.ru
 aq.ru
 archiv.ru
@@ -72,8 +72,6 @@ atomstandart.ru
 atomyze.ru
 atriumnn.ru
 auditkso.ru
-autoconfig.inforion.ru
-autodiscover.inforion.ru
 autodiscover.roscap.ru
 autourist72.ru
 avro.su
@@ -105,7 +103,6 @@ buduryadom.ru
 burgerkingrus.ru
 c-k.ru
 ca-magnit.ru
-calendar.inforion.ru
 capella-invest.ru
 cardstandard.ru
 cases.gippars.ru
@@ -145,12 +142,13 @@ data-tracker.ru
 datapol.ru
 datatracker-test.sbertech.ru
 datatracker.sbertech.ru
-davical.inforion.ru
+dbo.spsc.ru
 dderevyanko.ru
 ddom7.ru
 decosystems.ru
 delta-privod.ru
 demo.bifit.ru
+demo.epilogica.ru
 dengograd.ru
 derbent-parking.ru
 dev-1.staging-mc-2.check-up-online.ru
@@ -198,6 +196,7 @@ er.ru
 ether-platform.ru
 excimerclinic.ru
 exp-space.ru
+expertvoice.ru
 express2.roe.ru
 f4opt.ru
 fbq.ru
@@ -223,11 +222,11 @@ gi-solutions.ru
 giga-agent.ru
 gigaagent.ru
 gilenko.ru
-git.inforion.ru
 git.klgd.su
 gnpch.ru
 gofocus.ru
 golodyaev.ru
+gosaltushka.ru
 gost.bstrv.ru
 gost.codifast.ru
 gp200.domru.ru
@@ -246,13 +245,11 @@ harness-1.brain-flow.ru
 harness-2.brain-flow.ru
 harness-3.brain-flow.ru
 helpms.ru
-hg.inforion.ru
 hill5.ru
 hold-lm.test.nextcontact.ru
 home.vasy.ru
 hoteltofms.ru
 hr.ocs.ru
-hrtp.ru
 i-college.ru
 i-exam.ru
 i-spo.ru
@@ -264,9 +261,7 @@ ikar-eng.ru
 imbok.ru
 imsi.megalocator.ru
 industrialconsulting.ru
-inf-bbb.inforion.ru
-inf-mtm.inforion.ru
-inf-wekan.inforion.ru
+inforion.ru
 informlaw.ru
 inheaven.ru
 integ32.ru
@@ -346,7 +341,6 @@ ltk.com.ru
 luchi.ru
 lundapadel.ru
 lync.domru.ru
-m.hole-nevermind.ru
 maaa.domru.ru
 maaatest.domru.ru
 madhome.ru
@@ -417,14 +411,12 @@ msg.kznamya.ru
 msgrf.ru
 msis174.ru
 msitech.ru
-msk.inforion.ru
 mt-plan.ru
 mtracker.ocs.ru
 murashow.ru
 music.pakhonin.ru
 muzlab.ru
 mv.corpp.ru
-mx.inforion.ru
 my.kalkulatorzp.ru
 my.speechxplore.ru
 myavrmaxwebhook.ru
@@ -468,12 +460,12 @@ nuc-probe-1457.devkz.ru
 nuc-probe-1659.devkz.ru
 nuc-probe-1711.devkz.ru
 nuc-probe.devkz.ru
-nuc.hole-nevermind.ru
 nuctest.nationaloto.ru
 nwgnv.ru
 nz-am.ru
 oa.roscap.ru
 oblako.katantsev.ru
+octoground.ru
 oknazone.ru
 omsk.rspp.ru
 oneliya.ru
@@ -535,6 +527,7 @@ pravorub.ru
 premiumbim.ru
 premiumcad.ru
 premiya.rspp.ru
+prima-systems.ru
 primersvedosa.ru
 probe-nuc-rsa.luna25.ru
 probe.mddc.t-j.ru
@@ -584,8 +577,6 @@ reso-med.ru
 rezonit.ru
 rf-cheats.ru
 rifpark.ru
-rm-obis.inforion.ru
-rm.inforion.ru
 rmq.datacloud.itphx.ru
 roomlink.ru
 rosinkas.ru
@@ -617,6 +608,7 @@ sfo-veleta.ru
 sharipovv.ru
 shibaev.su
 shilinka.ru
+shonichev.ru
 shriftik.ru
 siaplc.ru
 sibmoll.ru
@@ -656,7 +648,6 @@ sportloto.ru
 sppchel.rspp.ru
 sppkk.rspp.ru
 spravedlivo.ru
-spsc.ru
 sredi-cvetov.ru
 srm-tdh.selta-info.ru
 srmfc.ru
@@ -719,6 +710,7 @@ uk-profit-capital.ru
 umcusp.ru
 umius.ru
 unigate-stage.tickets.onecld.ru
+unigate.tickets.onecld.ru
 unimatic.ru
 urgaps.ru
 utalk.su
@@ -768,7 +760,6 @@ wufeng.ru
 wushuspb.ru
 www.checkib.avangard.ru
 www.codifast.ru
-www.gosaltushka.ru
 www.ippe.ru
 www.latrenta.ru
 www.ocs.ru
@@ -778,7 +769,6 @@ www.t-boys.ru
 www.xn--d1auahegc7h.xn--p1ai
 wwwwwtest.t-boys.ru
 x.b22e.ru
-xn----7sbb1amddko8c7b4b.xn--p1ai
 xn----7sbnqazjhcv.xn--p1ai
 xn----7sbnqvigct4i.xn--p1ai
 xn----8sbmmlgncfbgqis7m.xn--p1ai
