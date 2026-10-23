@@ -132,6 +132,7 @@ cozycats.ru
 cpa.pobedapartners.ru
 cpc-proxy.t-technologies.ru
 crm.swimly.ru
+crmnote.ru
 crt-test-alpha.ru
 cryont.ru
 cryptoarm.ru
@@ -182,9 +183,9 @@ edo.gupti.ru
 edscontrol.ru
 edu-assist.ru
 efis-nco.ru
-eifmanballet.ru
 electricpastuh.ru
 elisov.ru
+elitan.ru
 endowments.ru
 energy-tracker.ru
 enpv.ru
@@ -210,6 +211,7 @@ formoplast.spb.ru
 foto.myhome365.ru
 foxford.ru
 freetato.ru
+frontkit.ru
 frsd.ru
 ftoroplast4.ru
 fundmir.ru
@@ -235,7 +237,6 @@ grantains.ru
 greencert.ru
 greentechpro.ru
 griser.ru
-gsmk.ru
 gubadm.ru
 guestportal.avangard.ru
 gw-vpn.t-access.ru
@@ -333,6 +334,7 @@ lexgarant.ru
 link-or.ru
 link.gorizont-project.ru
 liveservice.spb.ru
+lk.regmed.ru
 lms.lomt.ru
 lnr.rspp.ru
 lo-miac.ru
@@ -340,11 +342,8 @@ lot-online.ru
 ltk.com.ru
 luchi.ru
 lundapadel.ru
-lync.domru.ru
-maaa.domru.ru
 maaatest.domru.ru
 madhome.ru
-mail.crimearw.ru
 mail.gupti.ru
 mail.ibs.ru
 mail.kcplant.ru
@@ -489,6 +488,7 @@ ostec-st.ru
 ostec-test.ru
 ot.its61.ru
 ov.deadtroll.ru
+ozkpromo.kion.ru
 p46spb.ru
 p75.spb.ru
 paritet.ru
@@ -520,7 +520,6 @@ podvigi-rossii.ru
 polosatayaloshadka.ru
 portal.acti.ru
 portal.grand-tm.ru
-portalaaa.domru.ru
 pr-cbs.ru
 practica.pro.consyst-os.ru
 pravorub.ru
@@ -568,7 +567,6 @@ reezonly.ru
 regard.ru
 regionsoft.le-dv.ru
 register.rspp.ru
-regmed.ru
 remotica.ru
 repair-calculator.ru
 reports.speechxplore.ru
@@ -649,7 +647,6 @@ sppchel.rspp.ru
 sppkk.rspp.ru
 spravedlivo.ru
 sredi-cvetov.ru
-srm-tdh.selta-info.ru
 srmfc.ru
 srro.rspp.ru
 srso.rspp.ru
@@ -682,6 +679,7 @@ tanya.msural.ru
 tashorikov.ru
 taxmon.berks.ru
 taxmon.merlion.ru
+taya-ai.ru
 tcpootionstest.ru
 teatrvfk.ru
 technodrom.ru

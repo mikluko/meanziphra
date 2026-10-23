@@ -1,6 +1,7 @@
 # Домены категории industry, по одному в строке. Файл пишет meanziphra update.
 # Запись разрешает домен и все его поддомены, поэтому *. не нужен.
 aakim.ru
+abakanenergo.ru
 abakanvodokanal.ru
 ac2.avangard.ru
 achimdevelopment.ru
@@ -428,6 +429,7 @@ xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbhhgjt4afav0m.xn--p1ai
 xn----dtbjkxc4abh.xn--p1ai
 xn--80aadbk0bjofbqx.xn--p1ai
+xn--80aahrca5bqhk0m.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80agfa2babkkggig1a5jqa.xn--p1ai
 xn--80ahbbiggbxxyl2q.xn--p1ai
@@ -454,5 +456,6 @@ zavod-plastmass.ru
 zdship.ru
 zea.api.belmont-renew.ru
 zea.belmont-renew.ru
+zhilservis-ketovo.ru
 znvo.ru
 zvo.ru

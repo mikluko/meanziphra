@@ -332,7 +332,6 @@ lvls.ru
 m.odnoklasniki.ru
 mag1c.ru
 mail-king.ru
-mail.dom.ru
 mail.domru.ru
 mail.kotlin-novator.ru
 mail.rambler.su
@@ -593,7 +592,6 @@ tagapp.ru
 tagme.ru
 talisman-web.ru
 target.rfaces.ru
-tccenter.ru
 tconf.ru
 teachersday.ru
 technoscore.ru
