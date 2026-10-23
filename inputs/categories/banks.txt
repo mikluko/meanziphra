@@ -88,10 +88,8 @@ astrahovanie.ru
 atbbank.ru
 atdcode.ru
 atm-receipt.cdn-tbank.ru
-authentication.domru.ru
 auto-prep-virtu.sberins.ru
 autodealer.cdn-tbank.ru
-autodiscover.domru.ru
 autodiscover.mcbteam.ru
 autodiscover.mkb-invest.ru
 autodiscover.modulkassa.ru
@@ -456,6 +454,7 @@ gpbspace.ru
 gpbtravel.ru
 gpvpn.mkb-invest.ru
 granatpay.ru
+gsmk.ru
 guest.sberins.ru
 gusevdmitry.ru
 gutabank.ru

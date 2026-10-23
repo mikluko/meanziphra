@@ -114,8 +114,8 @@ chebarcul.ru
 cheladm.ru
 chem-react.rrcki.ru
 chem.rrcki.ru
-chernadmin.ru
 childrest.ru
+cikrf.ru
 ciogd.spb.ru
 cit-sk.ru
 citis.ru
@@ -306,6 +306,7 @@ gisp.gov.ru
 giszpenza.ru
 giszrb.ru
 git.minzdrav.gov.ru
+gjnrk.ru
 gmgs.ru
 gnicpm.ru
 gorzdrav.spb.ru
@@ -870,6 +871,7 @@ xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
 xn----7sbabhpxokex8c.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
+xn----7sbezt1a4b.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----8sbehgcimb3cfabqj3b.xn--p1ai
 xn----8sbfckba3a8bcsskd6e.xn--p1ai
@@ -937,6 +939,7 @@ xn--d1aie4av.xn--p1ai
 xn--e1ahdbdflckekkc.xn--p1ai
 xn--h1acdfggnhdg.xn--p1ai
 xn--h1adghi.xn--p1ai
+xn--h1ae8a.xn--p1ai
 xn--j1adu7b.xn--p1ai
 xn--j1afbdo3a.xn--p1ai
 xn--j1agba.xn--p1ai

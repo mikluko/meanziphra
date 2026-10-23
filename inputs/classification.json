@@ -638,11 +638,6 @@
       "category": "banks",
       "confidence": 0.94
     },
-    "name:authentication.domru.ru": {
-      "category": "banks",
-      "confidence": 0.35,
-      "review": true
-    },
     "name:autoconfig.inforion.ru": {
       "category": "other",
       "confidence": 0.61
@@ -650,11 +645,6 @@
     "name:autodealer.cdn-tbank.ru": {
       "category": "banks",
       "confidence": 0.86
-    },
-    "name:autodiscover.domru.ru": {
-      "category": "banks",
-      "confidence": 0.23,
-      "review": true
     },
     "name:autodiscover.inforion.ru": {
       "category": "other",
@@ -1533,6 +1523,10 @@
       "category": "other",
       "confidence": 0.79
     },
+    "name:crmnote.ru": {
+      "category": "other",
+      "confidence": 0.63
+    },
     "name:crt-test-alpha.ru": {
       "category": "other",
       "confidence": 0.91
@@ -2113,10 +2107,6 @@
       "confidence": 1,
       "org": "The Ministry of Digital Development of Russia"
     },
-    "name:eifmanballet.ru": {
-      "category": "other",
-      "confidence": 0.92
-    },
     "name:elasticsearch.dev.lk.astra-team.ru": {
       "category": "internet",
       "confidence": 0.42,
@@ -2595,11 +2585,6 @@
       "confidence": 0.59,
       "review": true
     },
-    "name:gsmk.ru": {
-      "category": "other",
-      "confidence": 0.5,
-      "review": true
-    },
     "name:gts.sn4il.ru": {
       "category": "other",
       "confidence": 0.83
@@ -2927,6 +2912,11 @@
       "category": "other",
       "confidence": 0.77
     },
+    "name:ihapi-mock.engagement.dev.sberdevices.ru": {
+      "category": "internet",
+      "confidence": 0.29,
+      "review": true
+    },
     "name:iiun.ru": {
       "category": "gov",
       "confidence": 0.44,
@@ -3213,6 +3203,10 @@
     "name:jokertag.ru": {
       "category": "other",
       "confidence": 0.83
+    },
+    "name:journal.tinkoff.ru": {
+      "category": "banks",
+      "confidence": 0.92
     },
     "name:journals.ioffe.ru": {
       "category": "gov",
@@ -3893,11 +3887,6 @@
       "category": "banks",
       "confidence": 0.95
     },
-    "name:lync.domru.ru": {
-      "category": "other",
-      "confidence": 0.51,
-      "review": true
-    },
     "name:lyncdiscover.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -3917,11 +3906,6 @@
     "name:m2m.megafon.ru": {
       "category": "telecom",
       "confidence": 1
-    },
-    "name:maaa.domru.ru": {
-      "category": "other",
-      "confidence": 0.47,
-      "review": true
     },
     "name:maaatest.domru.ru": {
       "category": "other",
@@ -3972,14 +3956,6 @@
     "name:mail.bank.moneta.ru": {
       "category": "banks",
       "confidence": 0.99
-    },
-    "name:mail.crimearw.ru": {
-      "category": "other",
-      "confidence": 0.65
-    },
-    "name:mail.dom.ru": {
-      "category": "internet",
-      "confidence": 0.77
     },
     "name:mail.domru.ru": {
       "category": "internet",
@@ -5191,6 +5167,10 @@
       "category": "banks",
       "confidence": 0.99
     },
+    "name:ozkpromo.kion.ru": {
+      "category": "other",
+      "confidence": 0.66
+    },
     "name:p1a.kilbil.ru": {
       "category": "other",
       "confidence": 0.93
@@ -5549,19 +5529,9 @@
       "confidence": 0.31,
       "review": true
     },
-    "name:portal.domru.ru": {
-      "category": "telecom",
-      "confidence": 0.47,
-      "review": true
-    },
     "name:portal.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:portalaaa.domru.ru": {
-      "category": "other",
-      "confidence": 0.41,
-      "review": true
     },
     "name:poykovsky.dev.home.megafon.ru": {
       "category": "telecom",
@@ -5909,10 +5879,6 @@
       "category": "other",
       "confidence": 0.44,
       "review": true
-    },
-    "name:regmed.ru": {
-      "category": "other",
-      "confidence": 0.79
     },
     "name:remotica.ru": {
       "category": "other",
@@ -6301,6 +6267,10 @@
       "category": "industry",
       "confidence": 0.58,
       "review": true
+    },
+    "name:secrets.tinkoff.ru": {
+      "category": "banks",
+      "confidence": 0.99
     },
     "name:securepaysv.rsb.ru": {
       "category": "banks",
@@ -6717,11 +6687,6 @@
       "category": "other",
       "confidence": 0.81
     },
-    "name:srm-tdh.selta-info.ru": {
-      "category": "other",
-      "confidence": 0.49,
-      "review": true
-    },
     "name:srro.rspp.ru": {
       "category": "other",
       "confidence": 0.3,
@@ -7027,6 +6992,10 @@
     "name:tay.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
+    },
+    "name:taya-ai.ru": {
+      "category": "other",
+      "confidence": 0.73
     },
     "name:tcglst.megafon.ru": {
       "category": "telecom",
@@ -12045,6 +12014,11 @@
       "confidence": 1,
       "org": "ПАО Россети Ленэнерго"
     },
+    "ogrn:1027809172489": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "Акционерное общество «Городская страховая медицинская компания»"
+    },
     "ogrn:1027809181542": {
       "category": "gov",
       "confidence": 0.98,
@@ -12977,6 +12951,11 @@
       "confidence": 0.98,
       "org": "СПБ ГКУ ГИРЦ"
     },
+    "ogrn:1037816033530": {
+      "category": "other",
+      "confidence": 0.77,
+      "org": "Наименование организации"
+    },
     "ogrn:1037821003956": {
       "category": "gov",
       "confidence": 1,
@@ -13203,10 +13182,21 @@
       "confidence": 1,
       "org": "Управление Росреестра по Республике Тыва"
     },
+    "ogrn:1041800258444": {
+      "category": "other",
+      "confidence": 0.57,
+      "review": true,
+      "org": "ООО Элитан Трейд"
+    },
     "ogrn:1041805001380": {
       "category": "gov",
       "confidence": 1,
       "org": "Управление Росреестра по Удмуртской Республике"
+    },
+    "ogrn:1041901013747": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "Общество с ограниченной ответственностью «Абаканэнергосбыт»"
     },
     "ogrn:1041901024440": {
       "category": "gov",
@@ -13740,6 +13730,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "СПб ГБУК ГММОБЛ"
+    },
+    "ogrn:1047855099170": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "АО Газпром газораспределение"
     },
     "ogrn:1047855174685": {
       "category": "gov",
@@ -15949,11 +15944,6 @@
       "confidence": 1,
       "org": "ООО Международные Процессинговые Системы"
     },
-    "ogrn:1127746385095": {
-      "category": "internet",
-      "confidence": 0.73,
-      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО ТЕХНОЛОГИЧЕСКАЯ КОМПАНИЯ ЦЕНТР"
-    },
     "ogrn:1127746460885": {
       "category": "gov",
       "confidence": 1,
@@ -16409,6 +16399,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК"
+    },
+    "ogrn:1144510000326": {
+      "category": "industry",
+      "confidence": 0.98,
+      "org": "ООО Жилсервис"
     },
     "ogrn:1145074012104": {
       "category": "industry",
@@ -16950,6 +16945,11 @@
       "category": "transport",
       "confidence": 1,
       "org": "МЕЖДУНАРОДНЫЙ АЭРОПОРТ СИМФЕРОПОЛЬ"
+    },
+    "ogrn:1160816052000": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ИНСПЕКЦИЯ ГОСУДАРСТВЕННОГО ЖИЛИЩНОГО НАДЗОРА РЕСПУБЛИКИ КАЛМЫКИЯ"
     },
     "ogrn:1161101055598": {
       "category": "other",
@@ -17661,11 +17661,6 @@
       "confidence": 0.46,
       "review": true,
       "org": "Спортивные Лотереи"
-    },
-    "ogrn:1195958042620": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "ADMINISTRATSIYA CHERNUSHINSKOGO MUNICIPALNOGO OKRUGA"
     },
     "ogrn:1196658076185": {
       "category": "internet",

@@ -24,11 +24,17 @@ by.mgo.su
 ca.tch.ru
 cbrs.tch.ru
 cdn.mwsapis.ru
+certmanager.mwsapis.ru
 chat.corp.mango.ru
 chuv.rspp.ru
 comcor.ru
+compute.mwsapis.ru
+console.mws.ru
+console.rc.mws.ru
 corpmobile.avangard.ru
 crl.tch.ru
+crm-s3.mws.ru
+crm.mws.ru
 csat.ru
 cstweb.tch.ru
 cstweb3.tch.ru
@@ -36,6 +42,7 @@ cstwebu.tch.ru
 cus.tch.ru
 dealer.onlime.ru
 dev.intmts.ru
+dns.mwsapis.ru
 doc.rscc.ru
 dom.ru
 domru.ru
@@ -53,7 +60,9 @@ gazprom.ru
 gazpromexport.ru
 gazpromre.ru
 gostelekom.ru
+gpt.mwsapis.ru
 gtyprofill.ru
+iam.mwsapis.ru
 ibmobile.avangard.ru
 ident.tch.ru
 identt.tch.ru
