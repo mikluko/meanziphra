@@ -82,6 +82,10 @@
       "confidence": 0.49,
       "review": true
     },
+    "name:a2p-api.megafon.ru": {
+      "category": "telecom",
+      "confidence": 1
+    },
     "name:a2p-voice-int.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -139,6 +143,10 @@
     "name:account.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:accounts.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.95
     },
     "name:acquiring.phoenix-dnr.ru": {
       "category": "other",
@@ -415,6 +423,11 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:apay-dev.avangard.ru": {
+      "category": "banks",
+      "confidence": 0.36,
+      "review": true
+    },
     "name:apay.avangard.ru": {
       "category": "banks",
       "confidence": 0.65
@@ -617,6 +630,10 @@
       "category": "industry",
       "confidence": 0.41,
       "review": true
+    },
+    "name:auth.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.94
     },
     "name:auth.giga-agent.ru": {
       "category": "other",
@@ -1093,6 +1110,15 @@
       "category": "internet",
       "confidence": 0.99
     },
+    "name:cdn.crmnote.ru": {
+      "category": "other",
+      "confidence": 0.57,
+      "review": true
+    },
+    "name:cdn.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.9
+    },
     "name:cdn.hub.megafon.ru": {
       "category": "telecom",
       "confidence": 1
@@ -1312,6 +1338,11 @@
       "category": "industry",
       "confidence": 0.9
     },
+    "name:cloud.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.52,
+      "review": true
+    },
     "name:cloud.inforion.ru": {
       "category": "internet",
       "confidence": 0.58,
@@ -1374,6 +1405,10 @@
     "name:code.argds.ru": {
       "category": "other",
       "confidence": 0.64
+    },
+    "name:colo.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.81
     },
     "name:cometa.sberclass.ru": {
       "category": "banks",
@@ -1875,6 +1910,10 @@
     "name:dmitrov.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
+    },
+    "name:dns.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.84
     },
     "name:dns.supportec.servicecdn.ru": {
       "category": "other",
@@ -2974,6 +3013,10 @@
       "category": "other",
       "confidence": 0.9
     },
+    "name:infrastructure-protection.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.89
+    },
     "name:ingushetia.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -3105,11 +3148,6 @@
     "name:it-kizlyar.ru": {
       "category": "other",
       "confidence": 0.82
-    },
-    "name:it-service57.ru": {
-      "category": "other",
-      "confidence": 0.55,
-      "review": true
     },
     "name:it24online.ru": {
       "category": "other",
@@ -3697,10 +3735,6 @@
     "name:lakoai.ru": {
       "category": "other",
       "confidence": 0.82
-    },
-    "name:lala.su": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:langepas.dev.home.megafon.ru": {
       "category": "telecom",
@@ -4687,6 +4721,10 @@
     "name:native.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.91
+    },
+    "name:nc.anozit.ru": {
+      "category": "other",
+      "confidence": 0.82
     },
     "name:nc.biv91.ru": {
       "category": "other",
@@ -5683,10 +5721,6 @@
       "category": "telecom",
       "confidence": 1
     },
-    "name:prosdr.ru": {
-      "category": "other",
-      "confidence": 0.81
-    },
     "name:prrr.ru": {
       "category": "other",
       "confidence": 0.89
@@ -6064,6 +6098,10 @@
     "name:rusnarbank.ru": {
       "category": "banks",
       "confidence": 0.95
+    },
+    "name:rustdesk-oss.brain-flow.ru": {
+      "category": "internet",
+      "confidence": 0.73
     },
     "name:ry5a.megafon.ru": {
       "category": "telecom",
@@ -6858,6 +6896,10 @@
       "confidence": 0.41,
       "review": true
     },
+    "name:storage.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.82
+    },
     "name:store.siaplc.ru": {
       "category": "other",
       "confidence": 0.41,
@@ -6866,6 +6908,10 @@
     "name:strahovka35.ru": {
       "category": "banks",
       "confidence": 0.68
+    },
+    "name:streaming.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.62
     },
     "name:stud.omnis-university.ru": {
       "category": "gov",
@@ -7860,6 +7906,10 @@
     "name:warui.ru": {
       "category": "other",
       "confidence": 0.97
+    },
+    "name:web-protect.edge.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.87
     },
     "name:web-test.domrfbank.ru": {
       "category": "banks",
@@ -14882,11 +14932,6 @@
       "review": true,
       "org": "ООО «Комтет»"
     },
-    "ogrn:1085836000040": {
-      "category": "gov",
-      "confidence": 0.99,
-      "org": "МЭРП ПО"
-    },
     "ogrn:1085904014591": {
       "category": "other",
       "confidence": 0.5,
@@ -15131,6 +15176,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "АО «НПО «Высокоточные комплексы»"
+    },
+    "ogrn:1097746072797": {
+      "category": "internet",
+      "confidence": 0.99,
+      "org": "K2 Integration JSC"
     },
     "ogrn:1097746111473": {
       "category": "internet",
@@ -15917,11 +15967,6 @@
       "category": "industry",
       "confidence": 0.66,
       "org": "АО БАЙКАЛ ЭЛЕКТРОНИКС"
-    },
-    "ogrn:1127746024120": {
-      "category": "other",
-      "confidence": 0.63,
-      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО ГСЛ"
     },
     "ogrn:1127746026792": {
       "category": "internet",
@@ -19247,6 +19292,12 @@
       "confidence": 0.97,
       "org": "LLC SFO SVOI CAPITAL - FINTECH"
     },
+    "ogrn:1267700021710": {
+      "category": "transport",
+      "confidence": 0.19,
+      "review": true,
+      "org": "РНКО Альнаир (АО)"
+    },
     "ogrn:1267700039430": {
       "category": "banks",
       "confidence": 0.99,
@@ -19530,6 +19581,11 @@
       "category": "banks",
       "confidence": 0.87,
       "org": "ООО \"ЭТП ГПБ КОНСАЛТИНГ\""
+    },
+    "ogrn:5177746031370": {
+      "category": "industry",
+      "confidence": 0.68,
+      "org": "ООО \"ОПЕРАТОР ГАЗПРОМ ИД\""
     },
     "ogrn:5177746031623": {
       "category": "industry",

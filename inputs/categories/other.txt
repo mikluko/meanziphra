@@ -278,7 +278,6 @@ isiton.ru
 it-brigita.ru
 it-earth.ru
 it-kizlyar.ru
-it-service57.ru
 it24online.ru
 itadmin.su
 iva-tech.ru
@@ -322,7 +321,6 @@ kulsmi.ru
 kuzgosweb.kemobl.ru
 kxte.ru
 lakoai.ru
-lala.su
 lazurmedical.ru
 le-test-273-2.servicecdn.ru
 lecta.ru
@@ -431,6 +429,7 @@ na-podpisi.ru
 narhsi.ru
 narkolog-help-24.ru
 nationallottery.ru
+nc.anozit.ru
 nc.biv91.ru
 nc.kszn34.ru
 neansk.ru
@@ -537,7 +536,6 @@ profitserv.ru
 project.donntu.ru
 promo.max.ru
 promo.oneme.ru
-prosdr.ru
 prosv.ru
 prrr.ru
 pulse-hcm.ru
@@ -728,7 +726,6 @@ velken.ru
 verinson.ru
 vertek.ru
 vgaps.ru
-vgl-sport.ru
 vitas1648-dev.ru
 vk-terminal.ru
 vkdigi1.fvds.ru

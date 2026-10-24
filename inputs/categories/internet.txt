@@ -215,6 +215,8 @@ gigaadmin.gigacollector.eye.salute.ru
 gigaadmin.ift.gigacollector.eye.salute.ru
 gigab2b.ru
 gigadataprovider-api.eye.salute.ru
+gigadomainsview-dev.eye.salute.ru
+gigadomainsview.eye.salute.ru
 gigagateway.eye.salute.ru
 gigagateway.ift.eye.salute.ru
 gigaid.ru
@@ -290,6 +292,7 @@ jivo.ru
 juicyscore.ru
 jupyter.giga.salute.ru
 k-tech.ru
+k2int.ru
 kartomarket.ru
 kartoteka.ru
 kascloud.onprem.ru
@@ -491,6 +494,7 @@ rttv.ru
 ru-robot.ru
 rusprofile.ru
 rusradio.ru
+rustdesk-oss.brain-flow.ru
 rustore.ru
 s3vk.ru
 saas-tech.ru

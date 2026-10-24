@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 12087,
+    "https://27.ctlog.digital.gov.ru/2027/": 12203,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 12655
+    "https://ctlog2027.mail.ru/nca2027/": 12776
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -257,6 +257,9 @@
       "org": "JSC 1C GROUP",
       "inn": "9713033887",
       "ogrn": "1267700057558"
+    },
+    "1c24.pro": {
+      "not_after": "2027-10-23"
     },
     "1capp-dev.com": {
       "not_after": "2027-07-28",
@@ -1212,6 +1215,9 @@
     "a2048.ivi-mc.ru": {
       "not_after": "2027-01-07"
     },
+    "a2p-api.megafon.ru": {
+      "not_after": "2027-01-21"
+    },
     "a2p-voice-int.megafon.ru": {
       "not_after": "2026-12-10"
     },
@@ -1526,6 +1532,9 @@
     },
     "account.megafon.ru": {
       "not_after": "2026-12-10"
+    },
+    "accounts.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "ach.gov.ru": {
       "not_after": "2027-09-17",
@@ -4249,6 +4258,9 @@
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
+    "apay-dev.avangard.ru": {
+      "not_after": "2027-01-21"
+    },
     "apay.avangard.ru": {
       "not_after": "2027-01-06"
     },
@@ -4322,7 +4334,7 @@
       "not_after": "2027-01-07"
     },
     "api-gmp.spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -4425,6 +4437,12 @@
     },
     "api-r.trucko.ru": {
       "not_after": "2027-10-02"
+    },
+    "api-rtr.sberbankins.ru": {
+      "not_after": "2027-10-23",
+      "org": "Insurance company Sberbank Insurance LLC",
+      "inn": "7706810747",
+      "ogrn": "1147746683479"
     },
     "api-sber.pass.nspk.ru": {
       "not_after": "2027-06-12",
@@ -5339,7 +5357,7 @@
       "ogrn": "5167746080057"
     },
     "api.spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -7140,6 +7158,9 @@
       "org": "ООО РАМБЛЕР ДС",
       "inn": "7726759760",
       "ogrn": "5147746290269"
+    },
+    "auth.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "auth.events.gazprombank.ru": {
       "not_after": "2027-06-18",
@@ -12244,7 +12265,7 @@
       "ogrn": "1117746689840"
     },
     "bonus-spasibo.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -13819,7 +13840,7 @@
       "not_after": "2026-12-14"
     },
     "cargo2.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-01-21"
     },
     "cars.mail.ru": {
       "not_after": "2027-07-15",
@@ -14378,6 +14399,12 @@
     },
     "cdn.connect.mail.ru": {
       "not_after": "2026-12-28"
+    },
+    "cdn.crmnote.ru": {
+      "not_after": "2027-01-21"
+    },
+    "cdn.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "cdn.efadevelopment.ru": {
       "not_after": "2027-06-24",
@@ -16473,6 +16500,12 @@
       "inn": "7702045051",
       "ogrn": "1027739053704"
     },
+    "clnt-sbs-daprxy-prd.sberbankins.ru": {
+      "not_after": "2027-10-23",
+      "org": "Insurance company Sberbank Insurance LLC",
+      "inn": "7706810747",
+      "ogrn": "1147746683479"
+    },
     "clnt-sbs-echat-ift.sberbankins.ru": {
       "not_after": "2027-10-05",
       "org": "Insurance company Sberbank Insurance LLC",
@@ -16550,6 +16583,9 @@
       "org": "Публичное акционерное общество «ДОМ.РФ»",
       "inn": "7729355614",
       "ogrn": "1027700262270"
+    },
+    "cloud.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "cloud.geoscan.ru": {
       "not_after": "2027-08-04",
@@ -16978,7 +17014,7 @@
       "ogrn": "1176733002995"
     },
     "cnt-tcs-cl01.megafon.ru": {
-      "not_after": "2026-12-09"
+      "not_after": "2027-01-21"
     },
     "cnt.rambler.ru": {
       "not_after": "2027-07-29",
@@ -17195,6 +17231,9 @@
       "org": "ООО ВЕЛОСПОРТ",
       "inn": "7737535811",
       "ogrn": "5087746431405"
+    },
+    "colo.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "color.tricolor.ru": {
       "not_after": "2027-10-19",
@@ -17842,7 +17881,7 @@
       "ogrn": "1027739850962"
     },
     "corp.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-21"
     },
     "corp.oaovoentorg.ru": {
       "not_after": "2027-07-29",
@@ -18187,13 +18226,13 @@
       "ogrn": "1021400967092"
     },
     "cpl-cpn-ift.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-cpn-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -18211,25 +18250,25 @@
       "ogrn": "1117746689840"
     },
     "cpl-cpn-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-kafkacpl-ift.sigma.sbrf.ru": {
-      "not_after": "2026-12-05",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-kafkacpl-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-05",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-kafkacpl-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-05",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -18265,19 +18304,19 @@
       "ogrn": "1117746689840"
     },
     "cpl-rsk-ift.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-rsk-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-rsk-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -18307,19 +18346,19 @@
       "ogrn": "1117746689840"
     },
     "cpl-ubc-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cpl-ubc-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "cplsb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -18787,7 +18826,7 @@
       "ogrn": "1047796382920"
     },
     "crmbpm.spasibosb.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -19504,6 +19543,12 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
+    "d-studio-hub.sberdevices.ru": {
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "d-technologies.ru": {
       "not_after": "2027-08-06",
       "org": "ООО ТЕХНОЛОГИИ РАЗВИТИЯ",
@@ -19812,6 +19857,12 @@
       "org": "OOO ZEMCOMBANK",
       "inn": "6132001298",
       "ogrn": "1026100001982"
+    },
+    "dbo.alnairao.ru": {
+      "not_after": "2027-10-23",
+      "org": "РНКО Альнаир (АО)",
+      "inn": "9725200758",
+      "ogrn": "1267700021710"
     },
     "dbo.balakovo-bank.ru": {
       "not_after": "2027-07-02",
@@ -20573,7 +20624,7 @@
       "ogrn": "1117746689840"
     },
     "dev-gtw.sberdevices.ru": {
-      "not_after": "2027-10-09",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -21659,10 +21710,16 @@
       "ogrn": "1027700132195"
     },
     "devicestest.sberbank.ru": {
-      "not_after": "2027-10-05",
-      "org": "Domclick",
-      "inn": "7736249247",
-      "ogrn": "1157746652150"
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
+    "devicestets.sberbank.ru": {
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
     },
     "devinvest.domrfbank.ru": {
       "not_after": "2026-11-25"
@@ -22713,6 +22770,12 @@
       "org": "ANO Dom Molodezhi",
       "inn": "9309030409",
       "ogrn": "1269300001167"
+    },
+    "dns.apu3.network": {
+      "not_after": "2027-01-21"
+    },
+    "dns.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "dns.mwsapis.ru": {
       "not_after": "2027-10-22",
@@ -27011,7 +27074,7 @@
       "ogrn": "1147746831352"
     },
     "express.roe.ru": {
-      "not_after": "2026-11-02"
+      "not_after": "2027-01-21"
     },
     "express.sberbankins.ru": {
       "not_after": "2027-07-15",
@@ -27035,13 +27098,13 @@
       "ogrn": "1057747513680"
     },
     "express2.roe.ru": {
-      "not_after": "2026-11-02"
+      "not_after": "2027-01-21"
     },
     "express3.roe.ru": {
-      "not_after": "2026-11-02"
+      "not_after": "2027-01-21"
     },
     "express4.roe.ru": {
-      "not_after": "2026-11-02"
+      "not_after": "2027-01-21"
     },
     "expresspk.ru": {
       "not_after": "2027-04-14",
@@ -27314,7 +27377,7 @@
       "ogrn": "1022300003703"
     },
     "factoring.megafon.ru": {
-      "not_after": "2026-12-13"
+      "not_after": "2027-01-21"
     },
     "factoring.mkb.ru": {
       "not_after": "2026-11-17",
@@ -27388,23 +27451,11 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
-    "fam-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
-    },
     "fam.plagate.ru": {
       "not_after": "2027-08-11",
       "org": "ФГУП ГлавНИВЦ УДП РФ",
       "inn": "7704030780",
       "ogrn": "1027739667614"
-    },
-    "famadmin-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
     },
     "family-api.mts.ru": {
       "not_after": "2027-07-29",
@@ -28733,7 +28784,7 @@
       "ogrn": "1117746689840"
     },
     "frade.spasibotest.ru": {
-      "not_after": "2027-09-08",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -29320,7 +29371,7 @@
       "not_after": "2026-12-08"
     },
     "gateway.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -29853,6 +29904,18 @@
       "inn": "5610151539",
       "ogrn": "1135658002567"
     },
+    "gid.ru": {
+      "not_after": "2027-10-23",
+      "org": "ООО \"ОПЕРАТОР ГАЗПРОМ ИД\"",
+      "inn": "7743228142",
+      "ogrn": "5177746031370"
+    },
+    "gid.team": {
+      "not_after": "2027-10-23",
+      "org": "ООО \"ОПЕРАТОР ГАЗПРОМ ИД\"",
+      "inn": "7743228142",
+      "ogrn": "5177746031370"
+    },
     "gid.vk.com": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -29948,6 +30011,18 @@
     },
     "gigadataprovider-api.eye.salute.ru": {
       "not_after": "2027-07-14",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "gigadomainsview-dev.eye.salute.ru": {
+      "not_after": "2027-10-23",
+      "org": "ООО Салютдевайсы",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
+    "gigadomainsview.eye.salute.ru": {
+      "not_after": "2027-10-23",
       "org": "ООО Салютдевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -30859,7 +30934,7 @@
       "ogrn": "1087746714593"
     },
     "grafana-gmp.spasibosb.ru": {
-      "not_after": "2026-12-18",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -31165,61 +31240,61 @@
       "not_after": "2027-01-18"
     },
     "gtw-common-gc.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-common-sc.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-common.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-gc.dev.sberdevices.ru": {
-      "not_after": "2027-10-09",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-sc.dev.sberdevices.ru": {
-      "not_after": "2027-10-09",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-video-gc.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-video-sc.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-zvuk-gc.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw-zvuk-sc.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
     "gtw.sberdevices.ru": {
-      "not_after": "2027-10-02",
+      "not_after": "2027-10-23",
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
@@ -31492,73 +31567,73 @@
       "not_after": "2026-10-27"
     },
     "gw01.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw02.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw03.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw04.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw05.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw06.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw07.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw08.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw09.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw10.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw11.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
     "gw12.alfa-bank.info": {
-      "not_after": "2026-11-17",
+      "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
@@ -32281,7 +32356,7 @@
       "not_after": "2026-12-16"
     },
     "hermes-preprod.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-21"
     },
     "hermes-prod.rt.ru": {
       "not_after": "2027-07-09",
@@ -34308,12 +34383,6 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
-    "idm-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
-    },
     "idm.b.mtsbank.ru": {
       "not_after": "2027-05-13",
       "org": "ПАО МТС-Банк",
@@ -34842,6 +34911,12 @@
       "inn": "7725352740",
       "ogrn": "1147799009160"
     },
+    "ift.sp.devicestest.sberbank.ru": {
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "ift.static.developer.sberdevices.ru": {
       "not_after": "2027-09-09",
       "org": "ООО СалютДевайсы",
@@ -34879,7 +34954,7 @@
       "ogrn": "1027700132195"
     },
     "iftonline.sberbank.ru": {
-      "not_after": "2027-01-14",
+      "not_after": "2027-10-23",
       "org": "Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
@@ -35541,6 +35616,12 @@
       "inn": "5001097019",
       "ogrn": "1135001007041"
     },
+    "infoservices.sberdevices.ru": {
+      "not_after": "2027-10-23",
+      "org": "ООО САЛЮТДЕВАЙСЫ",
+      "inn": "7730253720",
+      "ogrn": "1197746592394"
+    },
     "infosysco.ru": {
       "not_after": "2027-06-18",
       "org": "ООО Информационные системы",
@@ -35588,6 +35669,9 @@
       "org": "АО «Финансовый Маркетплейс Сравни.ру»",
       "inn": "9705151291",
       "ogrn": "1207700502107"
+    },
+    "infrastructure-protection.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "infrastructure.sbercity.ru": {
       "not_after": "2027-08-03",
@@ -35683,7 +35767,7 @@
       "not_after": "2027-01-19"
     },
     "ingushetia.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-21"
     },
     "inheaven.ru": {
       "not_after": "2027-10-07"
@@ -36240,6 +36324,12 @@
     "investor.sberbank.ru": {
       "not_after": "2027-06-23",
       "org": "Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
+    "investorday.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
@@ -36999,9 +37089,6 @@
       "inn": "7736316133",
       "ogrn": "1187700008407"
     },
-    "it-service57.ru": {
-      "not_after": "2026-10-23"
-    },
     "it.sch435.ru": {
       "not_after": "2027-07-16",
       "org": "ГБОУ СОШ № 435 Курортного района Санкт-Петербурга",
@@ -37277,6 +37364,12 @@
     },
     "ix-m3-tt-qa-sipproxy01.homeagents.ru": {
       "not_after": "2026-12-06"
+    },
+    "izbirkom.ru": {
+      "not_after": "2027-10-23",
+      "org": "ЦИК России",
+      "inn": "7710010990",
+      "ogrn": "1027700466640"
     },
     "izh-bs.ru": {
       "not_after": "2027-07-22",
@@ -37778,6 +37871,12 @@
       "org": "ООО К2 Тех",
       "inn": "9722043793",
       "ogrn": "1237700255055"
+    },
+    "k2int.ru": {
+      "not_after": "2027-10-23",
+      "org": "K2 Integration JSC",
+      "inn": "7701829110",
+      "ogrn": "1097746072797"
     },
     "k3-t.sberpravo.ru": {
       "not_after": "2027-08-24",
@@ -38764,7 +38863,7 @@
       "ogrn": "1117746689840"
     },
     "kibana-gmp.spasibosb.ru": {
-      "not_after": "2026-12-18",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -40200,9 +40299,6 @@
     "lakoai.ru": {
       "not_after": "2027-09-21"
     },
-    "lala.su": {
-      "not_after": "2026-10-23"
-    },
     "lan.ubrr.ru": {
       "not_after": "2027-09-18",
       "org": "PAO Uralskij Bank Rekonstruktsii i Razvitija",
@@ -40884,6 +40980,12 @@
       "inn": "7702000406",
       "ogrn": "1027700159497"
     },
+    "live.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "live.vkplay.ru": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -40981,7 +41083,7 @@
       "ogrn": "1027700149124"
     },
     "lk-cybersec-dev.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-21"
     },
     "lk-cybersec-rc.test-middle.megafon.ru": {
       "not_after": "2027-01-18"
@@ -41036,12 +41138,6 @@
       "org": "PJSC Rostelecom",
       "inn": "7707049388",
       "ogrn": "1027700198767"
-    },
-    "lk-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
     },
     "lk-srv.severstal.com": {
       "not_after": "2027-09-18",
@@ -42229,13 +42325,13 @@
       "ogrn": "1057747513680"
     },
     "loyift-api.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "loyift-grafana.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42253,19 +42349,19 @@
       "ogrn": "1117746689840"
     },
     "loyift-kibana.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "loyift-owi.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "loyift-repo.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42277,13 +42373,13 @@
       "ogrn": "1117746689840"
     },
     "loyift-xml-online.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "loystg-api.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42295,7 +42391,7 @@
       "ogrn": "1117746689840"
     },
     "loystg-grafana.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42313,7 +42409,7 @@
       "ogrn": "1117746689840"
     },
     "loystg-kibana.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42325,7 +42421,7 @@
       "ogrn": "1117746689840"
     },
     "loystg-owi.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42349,7 +42445,7 @@
       "ogrn": "1117746689840"
     },
     "loystg-repo.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -42367,7 +42463,7 @@
       "ogrn": "1117746689840"
     },
     "loystg-xml-online.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -46725,6 +46821,12 @@
       "inn": "8401005730",
       "ogrn": "1028400000298"
     },
+    "mcp.ecom.sberbank.ru": {
+      "not_after": "2027-10-23",
+      "org": "SberBank of the Russian Federation",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "mcp.sberpay.sberbank.ru": {
       "not_after": "2027-10-20",
       "org": "SberBank of the Russian Federation",
@@ -48193,7 +48295,7 @@
       "ogrn": "1020800769208"
     },
     "mingkhrk.ru": {
-      "not_after": "2026-11-01",
+      "not_after": "2027-10-23",
       "org": "МИНИСТЕРСТВО ЖКХ И ЭНЕРГЕТИКИ РЕСПУБЛИКИ КАЛМЫКИЯ",
       "inn": "0814165474",
       "ogrn": "1050866777939"
@@ -48301,7 +48403,7 @@
       "ogrn": "1147746683479"
     },
     "minkult08.ru": {
-      "not_after": "2027-10-15",
+      "not_after": "2027-10-23",
       "org": "Минкультуры и туризма РК",
       "inn": "0816026395",
       "ogrn": "1140816000490"
@@ -51946,6 +52048,9 @@
       "inn": "3702558680",
       "ogrn": "1083700000471"
     },
+    "nc.anozit.ru": {
+      "not_after": "2027-01-21"
+    },
     "nc.biv91.ru": {
       "not_after": "2027-01-08"
     },
@@ -52187,7 +52292,7 @@
       "ogrn": "1027700132195"
     },
     "new.spasibosberbank.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -52601,7 +52706,7 @@
       "ogrn": "1027809251744"
     },
     "nloto-api.middle.megafon.ru": {
-      "not_after": "2026-12-08"
+      "not_after": "2027-01-21"
     },
     "nloto.megafon.ru": {
       "not_after": "2027-08-25",
@@ -61791,12 +61896,6 @@
       "inn": "7728094832",
       "ogrn": "1027700510672"
     },
-    "profilaktika.edu.ru": {
-      "not_after": "2026-10-23",
-      "org": "ФГАНУ «ФИЦТО»",
-      "inn": "7725071812",
-      "ogrn": "1027739516815"
-    },
     "profile-lt.sber.ru": {
       "not_after": "2027-04-22",
       "org": "Public Joint-Stock Company Sberbank of Russia",
@@ -62220,9 +62319,6 @@
       "inn": "5254493052",
       "ogrn": "1185275039718"
     },
-    "prosdr.ru": {
-      "not_after": "2026-10-23"
-    },
     "proshkola.ru": {
       "not_after": "2027-06-18",
       "org": "VEB",
@@ -62640,6 +62736,12 @@
       "inn": "7725352740",
       "ogrn": "1147799009160"
     },
+    "psi.sp.devicestest.sberbank.ru": {
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "psi.test-jazz.sberbank.ru": {
       "not_after": "2027-09-24",
       "org": "Sberbank",
@@ -62653,8 +62755,8 @@
       "ogrn": "1027700167110"
     },
     "psionline.sberbank.ru": {
-      "not_after": "2027-02-13",
-      "org": "SberBank of the Russian Federation",
+      "not_after": "2027-10-23",
+      "org": "Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
@@ -62677,7 +62779,7 @@
       "not_after": "2027-01-02"
     },
     "pskov.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-21"
     },
     "pskov.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -64513,7 +64615,7 @@
       "ogrn": "1027739210630"
     },
     "ra2.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-21"
     },
     "ra2.rsb.ru": {
       "not_after": "2027-08-24",
@@ -65212,7 +65314,7 @@
       "ogrn": "1027739850962"
     },
     "rec.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-21"
     },
     "receipts-api.sberbank.ru": {
       "not_after": "2027-10-05",
@@ -66095,6 +66197,12 @@
       "org": "Rossiya Segodnya",
       "inn": "7704853840",
       "ogrn": "5137746242937"
+    },
+    "ribc.sber.bank.in": {
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
     },
     "ric.mil.ru": {
       "not_after": "2027-07-01",
@@ -67582,6 +67690,9 @@
       "inn": "6314037242",
       "ogrn": "1126317006441"
     },
+    "rustdesk-oss.brain-flow.ru": {
+      "not_after": "2027-01-21"
+    },
     "rustest.ru": {
       "not_after": "2027-03-25",
       "org": "ФГБУ \"Федеральный центр тестирования\"",
@@ -67959,6 +68070,12 @@
       "org": "Акционерное общество ОТП Банк",
       "inn": "7708001614",
       "ogrn": "1027739176563"
+    },
+    "s.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
     },
     "s.sber.ru": {
       "not_after": "2026-12-02",
@@ -68783,7 +68900,7 @@
       "not_after": "2026-12-28"
     },
     "saratov.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-21"
     },
     "saratov.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -69403,6 +69520,12 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
+    "sbergiletalks.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "sbergiletalks.sber.ru": {
       "not_after": "2027-10-20",
       "org": "Sberbank",
@@ -69641,7 +69764,7 @@
       "not_after": "2026-11-08"
     },
     "sberspasibo.ru": {
-      "not_after": "2027-06-25",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -70016,7 +70139,7 @@
       "ogrn": "1147799009160"
     },
     "sbspasibo.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -71087,8 +71210,8 @@
       "ogrn": "1135658002567"
     },
     "sed.fadm.gov.ru": {
-      "not_after": "2026-10-24",
-      "org": "Федеральное агентство по делам молодежи",
+      "not_after": "2027-10-23",
+      "org": "ФЕДЕРАЛЬНОЕ АГЕНТСТВО ПО ДЕЛАМ МОЛОДЕЖИ",
       "inn": "7703672351",
       "ogrn": "1087746900450"
     },
@@ -72131,7 +72254,7 @@
       "ogrn": "1165010050590"
     },
     "sigma.sbrf.ru": {
-      "not_after": "2026-11-24",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -72866,7 +72989,7 @@
       "not_after": "2026-12-10"
     },
     "smart-jkh.megafon.ru": {
-      "not_after": "2026-12-13"
+      "not_after": "2027-01-21"
     },
     "smart.nso.ru": {
       "not_after": "2027-03-17",
@@ -74528,25 +74651,25 @@
       "ogrn": "1197746592394"
     },
     "spasibo.digital": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "spasibo.market": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -74564,13 +74687,13 @@
       "ogrn": "1117746689840"
     },
     "spasibosberbank.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "spasibotest.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -77536,6 +77659,9 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "storage.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
+    },
     "storage.investekspert.ru": {
       "not_after": "2027-06-30",
       "org": "Joint-Stock Company Investekspert",
@@ -77727,6 +77853,9 @@
       "org": "ООО РАМБЛЕР ДС",
       "inn": "7726759760",
       "ogrn": "5147746290269"
+    },
+    "streaming.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "strelkacard.ru": {
       "not_after": "2027-06-16",
@@ -81895,7 +82024,7 @@
       "not_after": "2026-12-28"
     },
     "tom.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-21"
     },
     "tom.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -82789,7 +82918,7 @@
       "ogrn": "1047702026701"
     },
     "turn.jazz.sberbank.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
@@ -82807,25 +82936,25 @@
       "ogrn": "1027700342890"
     },
     "turn01.jazz.sberbank.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
     "turn02.jazz.sberbank.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
     "turn03.jazz.sberbank.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
     "turn04.jazz.sberbank.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
@@ -82903,7 +83032,7 @@
       "not_after": "2026-12-30"
     },
     "tver.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-21"
     },
     "tver.tricolor.ru": {
       "not_after": "2027-08-06",
@@ -83308,7 +83437,7 @@
       "ogrn": "1117746689840"
     },
     "ubc-sberapi-sec.spasibotest.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -83320,7 +83449,7 @@
       "ogrn": "1117746689840"
     },
     "ubc.spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -85683,12 +85812,6 @@
       "inn": "3443154301",
       "ogrn": "1253400003977"
     },
-    "vgl-sport.ru": {
-      "not_after": "2026-10-23",
-      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО ГСЛ",
-      "inn": "7728795958",
-      "ogrn": "1127746024120"
-    },
     "vgltu.ru": {
       "not_after": "2027-10-15",
       "org": "ВГЛТУ им. Г.Ф. Морозова",
@@ -86422,7 +86545,7 @@
       "not_after": "2026-12-28"
     },
     "vl.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-21"
     },
     "vl.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -88136,6 +88259,9 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
+    },
+    "web-protect.edge.sberdevices.ru": {
+      "not_after": "2027-01-21"
     },
     "web-proxy-1.dmz.ncsp.com": {
       "not_after": "2027-02-09",
@@ -90703,7 +90829,7 @@
       "ogrn": "1107746876896"
     },
     "www.api-gmp.spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -90751,7 +90877,7 @@
       "ogrn": "1026600000460"
     },
     "www.api.spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -92206,31 +92332,31 @@
       "ogrn": "1117746689840"
     },
     "www.cpl-cpn-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-cpn-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-kafkacpl-ift.sigma.sbrf.ru": {
-      "not_after": "2026-12-05",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-kafkacpl-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-05",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-kafkacpl-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-05",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -92254,19 +92380,19 @@
       "ogrn": "1117746689840"
     },
     "www.cpl-rsk-ift.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-rsk-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-rsk-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -92278,13 +92404,13 @@
       "ogrn": "1117746689840"
     },
     "www.cpl-ubc-prom.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.cpl-ubc-psi.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -92356,7 +92482,7 @@
       "ogrn": "1117746689840"
     },
     "www.crmbpm.spasibosb.sigma.sbrf.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -93363,18 +93489,6 @@
       "inn": "3906390669",
       "ogrn": "1203900004670"
     },
-    "www.fam-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
-    },
-    "www.famadmin-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
-    },
     "www.family-api.mts.ru": {
       "not_after": "2027-07-29",
       "org": "Mobile TeleSystems Public Joint Stock Company",
@@ -93991,7 +94105,7 @@
       "ogrn": "1217700164648"
     },
     "www.grafana-gmp.spasibosb.ru": {
-      "not_after": "2026-12-18",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -94509,12 +94623,6 @@
       "inn": "7725243282",
       "ogrn": "1037725059800"
     },
-    "www.idm-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
-    },
     "www.idp-external-test.alfabank.ru": {
       "not_after": "2027-06-30",
       "org": "AO Alfa-Bank",
@@ -94790,6 +94898,12 @@
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
+    },
+    "www.investorday.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
     },
     "www.investorday.sber.ru": {
       "not_after": "2027-07-29",
@@ -95137,7 +95251,7 @@
       "ogrn": "1117746689840"
     },
     "www.kibana-gmp.spasibosb.ru": {
-      "not_after": "2026-12-18",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95610,6 +95724,12 @@
       "inn": "7708119944",
       "ogrn": "1027700251314"
     },
+    "www.live.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "www.livejournal.com": {
       "not_after": "2027-07-14",
       "org": "ООО СИМ",
@@ -95666,12 +95786,6 @@
       "org": "ПАО СКБ Приморья Примсоцбанк",
       "inn": "2539013067",
       "ogrn": "1022500001061"
-    },
-    "www.lk-penza.pnzreg.ru": {
-      "not_after": "2026-10-23",
-      "org": "МЭРП ПО",
-      "inn": "5836013555",
-      "ogrn": "1085836000040"
     },
     "www.lk.admsvtl.ru": {
       "not_after": "2027-05-26",
@@ -95788,13 +95902,13 @@
       "ogrn": "1117746689840"
     },
     "www.loyift-api.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.loyift-grafana.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95812,19 +95926,19 @@
       "ogrn": "1117746689840"
     },
     "www.loyift-kibana.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.loyift-owi.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.loyift-repo.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95836,13 +95950,13 @@
       "ogrn": "1117746689840"
     },
     "www.loyift-xml-online.spasibotest.ru": {
-      "not_after": "2026-11-14",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
     "www.loystg-api.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95854,7 +95968,7 @@
       "ogrn": "1117746689840"
     },
     "www.loystg-grafana.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95872,7 +95986,7 @@
       "ogrn": "1117746689840"
     },
     "www.loystg-kibana.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95884,7 +95998,7 @@
       "ogrn": "1117746689840"
     },
     "www.loystg-owi.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95908,7 +96022,7 @@
       "ogrn": "1117746689840"
     },
     "www.loystg-repo.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -95926,7 +96040,7 @@
       "ogrn": "1117746689840"
     },
     "www.loystg-xml-online.demo.spasibobonus.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -96313,7 +96427,7 @@
       "ogrn": "1020700756229"
     },
     "www.mingkhrk.ru": {
-      "not_after": "2026-11-01",
+      "not_after": "2027-10-23",
       "org": "МИНИСТЕРСТВО ЖКХ И ЭНЕРГЕТИКИ РЕСПУБЛИКИ КАЛМЫКИЯ",
       "inn": "0814165474",
       "ogrn": "1050866777939"
@@ -96323,6 +96437,12 @@
       "org": "Министерство ЖКХ Ставропольского края",
       "inn": "2636206829",
       "ogrn": "1152651000512"
+    },
+    "www.minkult08.ru": {
+      "not_after": "2027-10-23",
+      "org": "Минкультуры и туризма РК",
+      "inn": "0816026395",
+      "ogrn": "1140816000490"
     },
     "www.minsoc31.ru": {
       "not_after": "2027-01-19",
@@ -96763,7 +96883,7 @@
       "ogrn": "5147746290269"
     },
     "www.new.spasibosberbank.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -98520,6 +98640,12 @@
       "inn": "7731559044",
       "ogrn": "1077746003334"
     },
+    "www.ribc.sber.bank.in": {
+      "not_after": "2027-10-23",
+      "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
     "www.rief.sber.ru": {
       "not_after": "2027-01-21",
       "org": "Sberbank",
@@ -99015,6 +99141,12 @@
     "www.sberegaem-vmeste.ru": {
       "not_after": "2027-10-15",
       "org": "Public Joint-Stock Company Sberbank of Russia",
+      "inn": "7707083893",
+      "ogrn": "1027700132195"
+    },
+    "www.sbergiletalks.sber.me": {
+      "not_after": "2027-10-23",
+      "org": "PJSC Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
@@ -99883,7 +100015,7 @@
       "ogrn": "1117746689840"
     },
     "www.spasibosberbank.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -100795,7 +100927,7 @@
       "ogrn": "1117746689840"
     },
     "www.ubc-sberapi-sec.spasibotest.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -100807,7 +100939,7 @@
       "ogrn": "1117746689840"
     },
     "www.ubc.spasibosb.ru": {
-      "not_after": "2026-12-02",
+      "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
