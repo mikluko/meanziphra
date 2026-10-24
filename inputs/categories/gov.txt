@@ -230,9 +230,7 @@ etc48.ru
 exp-ext.ftc.ru
 expertiza.spb.ru
 exportcenter.ru
-fam-penza.pnzreg.ru
 fam.plagate.ru
-famadmin-penza.pnzreg.ru
 favr.ru
 fbuz11.ru
 fbuz16.ru
@@ -352,7 +350,6 @@ hivkuban.ru
 hosp23.ru
 hospital.karelia.ru
 iac.spb.ru
-idm-penza.pnzreg.ru
 idworld.phoenix-dnr.ru
 igcpc.ru
 iiot.gov.ru
@@ -387,6 +384,7 @@ ivmis.ru
 ivoblmed.ru
 ivoblmed.su
 ivuslugi.ru
+izbirkom.ru
 juratino.ru
 kadastr.ru
 kalitva-land.ru
@@ -443,7 +441,6 @@ leslenobl.ru
 letters.kremlin.ru
 lib.kr-cbs.ru
 lifefor2.ru
-lk-penza.pnzreg.ru
 lk.admsvtl.ru
 lkexpertiza.spb.ru
 lms.apu.fsin.gov.ru

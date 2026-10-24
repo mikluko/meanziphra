@@ -22,6 +22,7 @@ absolutbank.ru
 absolutins.ru
 absolutvip.ru
 acapital-am.ru
+accounts.edge.sberdevices.ru
 acptl.ru
 acs-nuc.vendorcert.mirconnect.ru
 acs.vendorcert.mirconnect.ru
@@ -88,6 +89,7 @@ astrahovanie.ru
 atbbank.ru
 atdcode.ru
 atm-receipt.cdn-tbank.ru
+auth.edge.sberdevices.ru
 auto-prep-virtu.sberins.ru
 autodealer.cdn-tbank.ru
 autodiscover.mcbteam.ru
@@ -202,6 +204,7 @@ ccbrussia.ru
 cdekfin.ru
 cdekpay.ru
 cdn-tinkoff.ru
+cdn.edge.sberdevices.ru
 centervolonterov.ru
 centrbuh28.ru
 centrinvest.ru
@@ -220,6 +223,7 @@ cifra-bank.ru
 cifra-broker.ru
 citylifeindex.ru
 cks.domoy.ru
+cloud.edge.sberdevices.ru
 cloud.spbfsb.ru
 cloudm.voz.ru
 cls.rambler.ru
@@ -232,6 +236,7 @@ cnv-ift-fpsu.sberins.ru
 cnv-lb-test.sberins.ru
 cnv-psi-fpsu.sberins.ru
 coalmetbank.ru
+colo.edge.sberdevices.ru
 comfortcredit.ru
 concentrate.rambler.ru
 connect.profinvest.su
@@ -297,6 +302,7 @@ ctst-intg-lb02.sberins.ru
 cumbersome.rambler.ru
 custody.ru
 cvdi-ctx-gw.sberins.ru
+d-studio-hub.sberdevices.ru
 d2insur.ru
 dalena.ru
 dalenabank.ru
@@ -336,6 +342,7 @@ dk-pay.ru
 dl.vneshbank.ru
 dmclk.ru
 dmitriykhotimskiy.ru
+dns.edge.sberdevices.ru
 dobroskb.ru
 dobrozaim.ru
 docagent.sberbank-service.ru
@@ -516,6 +523,7 @@ img01.rambler.ru
 in-bank.ru
 infinitum-tc.ru
 informseti.ru
+infrastructure-protection.edge.sberdevices.ru
 ingo.ru
 ingo360.ru
 ingoauto.ru
@@ -1077,7 +1085,9 @@ startupsummit.ru
 statement.rft.ru
 stentor.vneshbank.ru
 stock-api.ocs.ru
+storage.edge.sberdevices.ru
 strahovka35.ru
+streaming.edge.sberdevices.ru
 strelkacard.ru
 strelkapay.ru
 studio.sberdevices.ru
@@ -1240,6 +1250,7 @@ vtkbank.ru
 waybank.ru
 wb-bank.su
 wealthim.ru
+web-protect.edge.sberdevices.ru
 web.toyotafs.ru
 webim.vneshbank.ru
 webtest.toyotafs.ru
