@@ -2,6 +2,7 @@
 # Запись разрешает домен и все его поддомены, поэтому *. не нужен.
 100ege.ru
 18650pro.ru
+1ya.su
 2440090.ru
 4270.ru
 5646son.ru
@@ -611,6 +612,7 @@ sibmoll.ru
 simaz-med.ru
 sio26.ru
 sistemagorod.ru
+sitepms.cumcraft.ru
 sitnikovpravo.ru
 sk.ru
 skiorganaizer.ru

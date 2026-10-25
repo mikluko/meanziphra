@@ -17,6 +17,10 @@
       "category": "gov",
       "confidence": 0.71
     },
+    "name:1ya.su": {
+      "category": "other",
+      "confidence": 0.93
+    },
     "name:25.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
@@ -6474,6 +6478,10 @@
     "name:sio26.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:sitepms.cumcraft.ru": {
+      "category": "other",
+      "confidence": 0.7
     },
     "name:sitnikovpravo.ru": {
       "category": "other",

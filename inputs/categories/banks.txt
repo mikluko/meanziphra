@@ -596,7 +596,6 @@ lasagna.rambler.ru
 lazarusfinance.ru
 learn.sberdevices.ru
 lei-code.ru
-letobank.ru
 libdiv.ru
 library.sberdatascience.ru
 licard.ru
@@ -781,7 +780,6 @@ payhd.ru
 paymentkit.ru
 paymgate.ru
 paymo.ru
-pchtb.ru
 pchtbnk.ru
 pikhtabank.ru
 pilot-rpa.sberbank-service.ru
