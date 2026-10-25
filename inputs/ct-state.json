@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 12203,
+    "https://27.ctlog.digital.gov.ru/2027/": 12218,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 12776
+    "https://ctlog2027.mail.ru/nca2027/": 12792
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -392,6 +392,9 @@
       "org": "АО ПЕРВЫЙ КАНАЛ",
       "inn": "7717039300",
       "ogrn": "1027700222330"
+    },
+    "1ya.su": {
+      "not_after": "2027-01-22"
     },
     "2017.omk.ru": {
       "not_after": "2027-07-29",
@@ -6196,12 +6199,6 @@
       "inn": "7830000426",
       "ogrn": "1027809256254"
     },
-    "areopad-tls.rt.ru": {
-      "not_after": "2026-10-24",
-      "org": "PJSC Rostelecom",
-      "inn": "7707049388",
-      "ogrn": "1027700198767"
-    },
     "areotab-u.nspk.ru": {
       "not_after": "2027-06-12",
       "org": "АО НСПК",
@@ -8202,12 +8199,6 @@
     },
     "autodiscover.kzn-vpn01.sovcombank.group": {
       "not_after": "2026-11-07",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "autodiscover.lawis.sovcombank.ru": {
-      "not_after": "2026-10-24",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
@@ -12970,7 +12961,7 @@
       "not_after": "2027-01-13"
     },
     "buryatia.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "burzakup.ru": {
       "not_after": "2027-10-07",
@@ -15958,7 +15949,7 @@
       "not_after": "2027-01-07"
     },
     "chuvashia.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-22"
     },
     "chuvashia.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -24069,7 +24060,7 @@
       "not_after": "2026-12-28"
     },
     "eao.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-22"
     },
     "eao.rspp.ru": {
       "not_after": "2026-12-31"
@@ -31780,7 +31771,7 @@
       "not_after": "2027-01-19"
     },
     "hakas.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "hakaton.rt.ru": {
       "not_after": "2026-12-03",
@@ -38044,7 +38035,7 @@
       "not_after": "2026-12-28"
     },
     "kalmykia.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-22"
     },
     "kalmykia.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -38461,7 +38452,7 @@
       "not_after": "2027-01-20"
     },
     "kchr.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "kclext.otpbank.ru": {
       "not_after": "2027-08-11",
@@ -38821,7 +38812,7 @@
       "not_after": "2026-12-28"
     },
     "khb.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-22"
     },
     "khb.staging.megafon.ru": {
       "not_after": "2027-01-16"
@@ -40607,12 +40598,6 @@
       "org": "Public Joint-Stock Company Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
-    },
-    "letobank.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "letters.kremlin.ru": {
       "not_after": "2027-07-09",
@@ -44409,12 +44394,6 @@
       "inn": "6608003052",
       "ogrn": "1026600000460"
     },
-    "mail.lawis.sovcombank.ru": {
-      "not_after": "2026-10-24",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "mail.legalbpm.sberpravo.ru": {
       "not_after": "2027-08-24",
       "org": "LLC Sberlegal",
@@ -47302,7 +47281,7 @@
       "ogrn": "1027739362474"
     },
     "meet.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "meet.nspk.ru": {
       "not_after": "2027-06-12",
@@ -50389,7 +50368,7 @@
       "not_after": "2027-01-10"
     },
     "msk-tcs-cl02.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "msk-tcs-cl03.megafon.ru": {
       "not_after": "2026-12-10"
@@ -56728,12 +56707,6 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "owa.lawis.sovcombank.ru": {
-      "not_after": "2026-10-24",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "owa.lk.ismet.sovcomlife.ru": {
       "not_after": "2027-06-16",
       "org": "ООО Совкомбанк Страхование жизни",
@@ -59034,12 +59007,6 @@
     },
     "pccard.myweb.domrfbank.ru": {
       "not_after": "2026-12-10"
-    },
-    "pchtb.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "pchtbnk.ru": {
       "not_after": "2027-06-25",
@@ -64744,7 +64711,7 @@
       "ogrn": "1027739447922"
     },
     "radar-api.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-01-22"
     },
     "radar-business-rum.sberbank.ru": {
       "not_after": "2027-09-17",
@@ -68637,12 +68604,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "salestest.pochtabank.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "salonpicker.ru": {
       "not_after": "2027-06-22",
@@ -72654,6 +72615,9 @@
       "org": "ООО  «Центр новых финансовых сервисов»",
       "inn": "9709078370",
       "ogrn": "1227700098009"
+    },
+    "sitepms.cumcraft.ru": {
+      "not_after": "2027-01-22"
     },
     "sitnikovpravo.ru": {
       "not_after": "2026-12-20"
@@ -77252,7 +77216,7 @@
       "ogrn": "1027700149124"
     },
     "static1.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "static2.storage.bcs.ru": {
       "not_after": "2027-09-28",
@@ -88465,7 +88429,7 @@
       "ogrn": "1127711000031"
     },
     "webchat-weblab.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "webchat.dialog.online": {
       "not_after": "2027-07-22",
@@ -88885,7 +88849,7 @@
       "not_after": "2026-12-10"
     },
     "wfm-t.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-22"
     },
     "wfm.megafon.ru": {
       "not_after": "2026-12-10"
@@ -89792,12 +89756,6 @@
       "org": "ООО «Интернет Решения»",
       "inn": "7704217370",
       "ogrn": "1027739244741"
-    },
-    "ws.bg.pochtabank.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "ws.blogger-edu.ozon.ru": {
       "not_after": "2027-06-19",
@@ -95577,12 +95535,6 @@
     "www.latrenta.ru": {
       "not_after": "2026-12-01"
     },
-    "www.lawis.sovcombank.ru": {
-      "not_after": "2026-10-24",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "www.lazurmedical.ru": {
       "not_after": "2027-09-08",
       "org": "ООО СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА ЛАЗУРЬ",
@@ -95666,12 +95618,6 @@
       "org": "ООО РИХ",
       "inn": "7725243282",
       "ogrn": "1037725059800"
-    },
-    "www.letobank.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "www.lexgarant.ru": {
       "not_after": "2026-10-29"
@@ -97644,12 +97590,6 @@
       "inn": "7725038124",
       "ogrn": "1037739527077"
     },
-    "www.pchtb.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
-    },
     "www.pchtbnk.ru": {
       "not_after": "2027-06-25",
       "org": "VTB Bank (PJSC)",
@@ -98966,12 +98906,6 @@
       "org": "School-21",
       "inn": "7707083893",
       "ogrn": "1246500001945"
-    },
-    "www.salestest.pochtabank.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "www.samadm.ru": {
       "not_after": "2026-11-21",
@@ -101636,12 +101570,6 @@
       "org": "Kept Limited Liability Company",
       "inn": "7703816719",
       "ogrn": "1147746973637"
-    },
-    "www.ws.bg.pochtabank.ru": {
-      "not_after": "2026-10-24",
-      "org": "JSC Post Bank",
-      "inn": "3232005484",
-      "ogrn": "1023200000010"
     },
     "www.wufeng.ru": {
       "not_after": "2027-08-11"
