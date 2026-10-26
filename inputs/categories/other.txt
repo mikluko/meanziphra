@@ -114,7 +114,6 @@ cdo.biglv.ru
 certhub-beta.onecld.ru
 cgbp.ru
 cge-amur.ru
-cgpb.ru
 charlie.mici.imgsmail.ru
 ckk.kszn34.ru
 cleantify.ru
@@ -333,7 +332,6 @@ lexgarant.ru
 link-or.ru
 link.gorizont-project.ru
 liveservice.spb.ru
-lk.regmed.ru
 lms.lomt.ru
 lnr.rspp.ru
 lo-miac.ru
@@ -341,7 +339,6 @@ lot-online.ru
 ltk.com.ru
 luchi.ru
 lundapadel.ru
-maaatest.domru.ru
 madhome.ru
 mail.gupti.ru
 mail.ibs.ru
@@ -501,7 +498,6 @@ pervye.ru
 petprojects1.ru
 phoenix-ca.ru
 phoenix-dnr.ru
-photo.ippe.ru
 photo.katantsev.ru
 photos.pakhonin.ru
 pilotdev-admin.ascon.ru
@@ -540,7 +536,6 @@ promo.oneme.ru
 prosv.ru
 prrr.ru
 pulse-hcm.ru
-pushkindoc.ru
 pwk.x0124.ru
 pyopenrpa.ru
 q-admins.ru
@@ -587,7 +582,6 @@ ruslegassistens.ru
 russoutdoor.ru
 s3.ttp.one-infra.ru
 safework.ru
-savebee.ru
 sbersova.ru
 sce.uec-saturn.ru
 sd-next.ru
@@ -624,7 +618,6 @@ smart-budget.ru
 smartro.ru
 smbn.ru
 smetadompro.ru
-smsgate-dg.one-infra.ru
 sn4il.ru
 soc-volga.ru
 soc.kszn34.ru
@@ -715,7 +708,6 @@ utalk.su
 utz.ru
 v-dimitriadis.ru
 vahpesto.ru
-vant.ippe.ru
 vault.gorp.msk.ru
 vaultary.ru
 vbudushee.ru
@@ -742,7 +734,6 @@ vospdom.ru
 vpano.ru
 vpbx1nl.fvds.ru
 vpn-ha.t-access.ru
-vpn.myautopodpiska.ru
 vpn.radostev.ru
 vpnaccess.avangard.ru
 vremenagoda51.ru
@@ -757,7 +748,6 @@ wufeng.ru
 wushuspb.ru
 www.checkib.avangard.ru
 www.codifast.ru
-www.ippe.ru
 www.latrenta.ru
 www.ocs.ru
 www.op-torg.ru
