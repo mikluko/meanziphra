@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 12218,
+    "https://27.ctlog.digital.gov.ru/2027/": 12235,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 12792
+    "https://ctlog2027.mail.ru/nca2027/": 12809
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -1298,9 +1298,6 @@
       "org": "АО Банк Инго",
       "inn": "7714056040",
       "ogrn": "1027739447922"
-    },
-    "abank.ru": {
-      "not_after": "2026-10-25"
     },
     "abankpre.ingobank.ru": {
       "not_after": "2027-07-20",
@@ -5741,7 +5738,7 @@
       "not_after": "2026-11-08"
     },
     "app.factoring.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "app.fgislk-test.gov.ru": {
       "not_after": "2027-04-17",
@@ -9950,7 +9947,7 @@
       "not_after": "2027-01-04"
     },
     "b2x.megafon.ru": {
-      "not_after": "2026-12-09"
+      "not_after": "2027-01-23"
     },
     "b3-mb.vtb.ru": {
       "not_after": "2026-12-10",
@@ -14586,6 +14583,9 @@
       "inn": "6608003052",
       "ogrn": "1026600000460"
     },
+    "cdn.sm.sberdevices.ru": {
+      "not_after": "2027-01-23"
+    },
     "cdn.sovcomins.ru": {
       "not_after": "2026-11-13",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
@@ -15312,9 +15312,6 @@
       "inn": "7710422909",
       "ogrn": "1027700282763"
     },
-    "cgpb.ru": {
-      "not_after": "2026-10-25"
-    },
     "ch.ris61edu.ru": {
       "not_after": "2027-02-10",
       "org": "GAU DPO RO IRO",
@@ -15766,7 +15763,7 @@
       "ogrn": "5147746082160"
     },
     "check.yota.ru": {
-      "not_after": "2026-12-13"
+      "not_after": "2027-01-23"
     },
     "checker.key.rt.ru": {
       "not_after": "2027-07-10",
@@ -17911,7 +17908,7 @@
       "ogrn": "1027700132195"
     },
     "corp.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "corp.vk.ru": {
       "not_after": "2027-07-15",
@@ -26054,9 +26051,6 @@
       "inn": "5035037441",
       "ogrn": "1085035000786"
     },
-    "erlight.r-x.team": {
-      "not_after": "2026-10-25"
-    },
     "erp.akiselev.group": {
       "not_after": "2027-04-13",
       "org": "ООО ОТТИСК-СПБ",
@@ -29647,7 +29641,7 @@
       "ogrn": "1144400000425"
     },
     "genassistant.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-23"
     },
     "genbank.ru": {
       "not_after": "2027-08-03",
@@ -31223,9 +31217,6 @@
       "org": "Office of the State Council of the Komi Republic",
       "inn": "1101481895",
       "ogrn": "1031100405632"
-    },
-    "gti.bi.zone": {
-      "not_after": "2026-10-25"
     },
     "gts.sn4il.ru": {
       "not_after": "2027-01-18"
@@ -35590,7 +35581,7 @@
       "not_after": "2026-12-03"
     },
     "informer.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-23"
     },
     "informhd.ru": {
       "not_after": "2027-09-07",
@@ -41496,9 +41487,6 @@
       "inn": "3128060841",
       "ogrn": "1073128002056"
     },
-    "lk.regmed.ru": {
-      "not_after": "2026-10-25"
-    },
     "lk.roomlink.ru": {
       "not_after": "2027-07-13",
       "org": "ООО Эй энд Эй",
@@ -43124,9 +43112,6 @@
       "org": "АО ТОЙОТА БАНК",
       "inn": "7750004136",
       "ogrn": "1077711000058"
-    },
-    "maaatest.domru.ru": {
-      "not_after": "2026-10-25"
     },
     "maas.aeromax-group.ru": {
       "not_after": "2027-08-03",
@@ -44975,9 +44960,6 @@
     },
     "mail.regulinvest.ru": {
       "not_after": "2026-11-04"
-    },
-    "mail.remdizel.com": {
-      "not_after": "2026-10-25"
     },
     "mail.restapi-buh.sovcombank.ru": {
       "not_after": "2027-06-12",
@@ -50550,9 +50532,6 @@
       "inn": "7736279160",
       "ogrn": "5167746080057"
     },
-    "mta.expmed.ru": {
-      "not_after": "2026-10-25"
-    },
     "mta.mkp.ru.net": {
       "not_after": "2027-08-13"
     },
@@ -53387,7 +53366,7 @@
       "not_after": "2027-01-02"
     },
     "nsk.megafon.ru": {
-      "not_after": "2026-11-26"
+      "not_after": "2027-01-23"
     },
     "nsk.staging.megafon.ru": {
       "not_after": "2026-12-10"
@@ -54768,9 +54747,6 @@
       "org": "AAA Capital Management",
       "inn": "7722515837",
       "ogrn": "1047796382920"
-    },
-    "online.abank.ru": {
-      "not_after": "2026-10-25"
     },
     "online.absolutbank.ru": {
       "not_after": "2027-10-14",
@@ -58187,7 +58163,7 @@
       "ogrn": "1026600000460"
     },
     "partner.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-23"
     },
     "partner.tricolor.ru": {
       "not_after": "2027-10-12",
@@ -59303,7 +59279,7 @@
       "not_after": "2026-12-31"
     },
     "perm.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "perm.sveza.ru": {
       "not_after": "2027-09-02",
@@ -59528,9 +59504,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "photo.ippe.ru": {
-      "not_after": "2026-10-25"
     },
     "photo.katantsev.ru": {
       "not_after": "2026-12-21"
@@ -63224,9 +63197,6 @@
       "org": "СПб ГБУ Пушкинский районный дом культуры",
       "inn": "7820007704",
       "ogrn": "1027809010228"
-    },
-    "pushkindoc.ru": {
-      "not_after": "2026-10-25"
     },
     "pushproducer.megafon.ru": {
       "not_after": "2026-12-10"
@@ -68908,9 +68878,6 @@
       "inn": "7825444176",
       "ogrn": "1037843040784"
     },
-    "savebee.ru": {
-      "not_after": "2026-10-25"
-    },
     "savemoney.alfabank.ru": {
       "not_after": "2027-02-13",
       "org": "AO Alfa-Bank",
@@ -72947,7 +72914,7 @@
       "ogrn": "1227700855216"
     },
     "smart-city.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "smart-jkh-gslb.megafon.ru": {
       "not_after": "2026-12-10"
@@ -73344,9 +73311,6 @@
     },
     "smsfilter-admin.megafon.ru": {
       "not_after": "2026-12-16"
-    },
-    "smsgate-dg.one-infra.ru": {
-      "not_after": "2026-10-25"
     },
     "smsgate.1c.ru": {
       "not_after": "2027-07-28",
@@ -75023,7 +74987,7 @@
       "not_after": "2027-01-19"
     },
     "spokdealer2.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "sport.m.vkvideo.cs7777.vk.com": {
       "not_after": "2027-07-15",
@@ -80126,7 +80090,7 @@
       "not_after": "2026-12-29"
     },
     "test-account.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "test-acm.bank-hlynov.com": {
       "not_after": "2026-12-20"
@@ -83179,7 +83143,7 @@
       "not_after": "2026-11-26"
     },
     "tyumen.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "tyumen.sveza.ru": {
       "not_after": "2027-09-02",
@@ -84007,7 +83971,7 @@
       "ogrn": "1162468052284"
     },
     "upay-test-zone-a.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "upay-test-zone-b.megafon.ru": {
       "not_after": "2026-12-10"
@@ -84663,9 +84627,6 @@
       "inn": "7704252261",
       "ogrn": "1037700255284"
     },
-    "vant.ippe.ru": {
-      "not_after": "2026-10-25"
-    },
     "variti.io": {
       "not_after": "2027-06-15",
       "org": "ООО Варити+",
@@ -84709,7 +84670,7 @@
       "ogrn": "1027739176563"
     },
     "vats-cp.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-23"
     },
     "vats.rt.ru": {
       "not_after": "2026-12-25",
@@ -85505,9 +85466,6 @@
       "org": "Severstal-infocom JSC",
       "inn": "3528007105",
       "ogrn": "1023501237330"
-    },
-    "vdigw.ertelecom.ru": {
-      "not_after": "2026-10-25"
     },
     "vditrade.moex.com": {
       "not_after": "2027-01-20",
@@ -87156,9 +87114,6 @@
     "vpn.mtsbank.ru": {
       "not_after": "2026-12-17"
     },
-    "vpn.myautopodpiska.ru": {
-      "not_after": "2026-10-25"
-    },
     "vpn.nnk.ru": {
       "not_after": "2027-05-26",
       "org": "АО ННК",
@@ -88571,9 +88526,6 @@
       "org": "СПб ГУП ПАССАЖИРАВТОТРАНС",
       "inn": "7830001758",
       "ogrn": "1027809247300"
-    },
-    "webmail.domru.ru": {
-      "not_after": "2026-10-25"
     },
     "webmail.gazprom.ru": {
       "not_after": "2027-09-04",
@@ -94878,9 +94830,6 @@
     "www.ioffe.ru": {
       "not_after": "2026-12-13"
     },
-    "www.ippe.ru": {
-      "not_after": "2026-10-25"
-    },
     "www.iro38.ru": {
       "not_after": "2027-01-29",
       "org": "ГАУ ДПО «Институт развития образования Иркутской области»",
@@ -98938,7 +98887,7 @@
       "ogrn": "1117746689840"
     },
     "www.sber-bank.by": {
-      "not_after": "2026-11-09"
+      "not_after": "2027-01-23"
     },
     "www.sber-unity.ru": {
       "not_after": "2027-07-16",

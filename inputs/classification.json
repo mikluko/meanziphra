@@ -106,10 +106,6 @@
       "category": "other",
       "confidence": 0.7
     },
-    "name:abank.ru": {
-      "category": "banks",
-      "confidence": 0.9
-    },
     "name:abc.t-boys.ru": {
       "category": "other",
       "confidence": 0.9
@@ -1127,6 +1123,10 @@
       "category": "telecom",
       "confidence": 1
     },
+    "name:cdn.sm.sberdevices.ru": {
+      "category": "banks",
+      "confidence": 0.9
+    },
     "name:cdo.biglv.ru": {
       "category": "other",
       "confidence": 0.68
@@ -1188,10 +1188,6 @@
     "name:cge-amur.ru": {
       "category": "other",
       "confidence": 0.65
-    },
-    "name:cgpb.ru": {
-      "category": "other",
-      "confidence": 0.74
     },
     "name:charlie.mici.imgsmail.ru": {
       "category": "other",
@@ -3859,10 +3855,6 @@
       "category": "other",
       "confidence": 0.62
     },
-    "name:lk.regmed.ru": {
-      "category": "other",
-      "confidence": 0.67
-    },
     "name:lk.voicebot.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -3944,10 +3936,6 @@
     "name:m2m.megafon.ru": {
       "category": "telecom",
       "confidence": 1
-    },
-    "name:maaatest.domru.ru": {
-      "category": "other",
-      "confidence": 0.89
     },
     "name:madhome.ru": {
       "category": "other",
@@ -4547,11 +4535,6 @@
       "category": "other",
       "confidence": 0.78
     },
-    "name:mta.expmed.ru": {
-      "category": "gov",
-      "confidence": 0.33,
-      "review": true
-    },
     "name:mtracker.ocs.ru": {
       "category": "other",
       "confidence": 0.46,
@@ -5050,10 +5033,6 @@
       "category": "gov",
       "confidence": 0.93
     },
-    "name:online.abank.ru": {
-      "category": "banks",
-      "confidence": 0.99
-    },
     "name:online.albank.ru": {
       "category": "banks",
       "confidence": 0.81
@@ -5442,10 +5421,6 @@
       "confidence": 0.45,
       "review": true
     },
-    "name:photo.ippe.ru": {
-      "category": "other",
-      "confidence": 0.75
-    },
     "name:photo.katantsev.ru": {
       "category": "other",
       "confidence": 0.95
@@ -5772,10 +5747,6 @@
     "name:pushker.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:pushkindoc.ru": {
-      "category": "other",
-      "confidence": 0.82
     },
     "name:pushproducer.megafon.ru": {
       "category": "telecom",
@@ -6224,10 +6195,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:savebee.ru": {
-      "category": "other",
-      "confidence": 0.92
-    },
     "name:sber001.aspirelifestyles.ru": {
       "category": "banks",
       "confidence": 0.85
@@ -6572,11 +6539,6 @@
     "name:smsfilter-admin.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:smsgate-dg.one-infra.ru": {
-      "category": "other",
-      "confidence": 0.42,
-      "review": true
     },
     "name:smtp.interfax.ru": {
       "category": "internet",
@@ -7620,10 +7582,6 @@
       "confidence": 0.41,
       "review": true
     },
-    "name:vant.ippe.ru": {
-      "category": "other",
-      "confidence": 0.71
-    },
     "name:vats-cp.megafon.ru": {
       "category": "telecom",
       "confidence": 0.94
@@ -7657,10 +7615,6 @@
     "name:vdi2.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:vdigw.ertelecom.ru": {
-      "category": "telecom",
-      "confidence": 0.97
     },
     "name:vebrf-am.ru": {
       "category": "other",
@@ -7860,10 +7814,6 @@
       "category": "banks",
       "confidence": 0.95
     },
-    "name:vpn.myautopodpiska.ru": {
-      "category": "other",
-      "confidence": 0.63
-    },
     "name:vpn.radostev.ru": {
       "category": "other",
       "confidence": 0.74
@@ -7938,11 +7888,6 @@
     "name:weblk-digitalarm.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:webmail.domru.ru": {
-      "category": "internet",
-      "confidence": 0.44,
-      "review": true
     },
     "name:webmail.ioffe.ru": {
       "category": "gov",
@@ -8191,10 +8136,6 @@
     "name:www.ioffe.ru": {
       "category": "gov",
       "confidence": 0.77
-    },
-    "name:www.ippe.ru": {
-      "category": "other",
-      "confidence": 0.65
     },
     "name:www.it-brigita.ru": {
       "category": "other",

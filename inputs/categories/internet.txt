@@ -670,7 +670,6 @@ vsrobotics.ru
 web-dnk.ru
 web.infteh.ru
 web3tech.ru
-webmail.domru.ru
 webquik.ru
 webrds.corp.sigma.sbrf.ru
 wed-agent-api.eye.salute.ru

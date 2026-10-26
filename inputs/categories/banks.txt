@@ -15,7 +15,6 @@
 7304488.ru
 a-3.ru
 aaacapital.ru
-abank.ru
 abr.ru
 absolut-trust.ru
 absolutbank.ru
@@ -205,6 +204,7 @@ cdekfin.ru
 cdekpay.ru
 cdn-tinkoff.ru
 cdn.edge.sberdevices.ru
+cdn.sm.sberdevices.ru
 centervolonterov.ru
 centrbuh28.ru
 centrinvest.ru
