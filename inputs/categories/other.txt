@@ -14,7 +14,6 @@ aanda.ru
 aaz.su
 aba.ctrlz.ru
 abc.t-boys.ru
-abooks.pakhonin.ru
 abs-kassa.ru
 academcity.ru
 adb-w.vkteam.ru
@@ -26,7 +25,6 @@ aes192.ru
 agatos.ru
 agencycontrol.ru
 ai-academy.ru
-ai-mnesis.ru
 aihor.ru
 aironteh.ru
 akey.ocs.ru
@@ -73,6 +71,7 @@ atomstandart.ru
 atomyze.ru
 atriumnn.ru
 auditkso.ru
+auth.ai-mnesis.ru
 autodiscover.roscap.ru
 autourist72.ru
 avro.su
@@ -93,12 +92,11 @@ bfmsk-test-files.brain-flow.ru
 bfmsk-test.brain-flow.ru
 bitrix.rusprof.ru
 bkfortuna.ru
-bkz.ru
 bmki.ru
 bonch.su
-books.pakhonin.ru
 bootcamp.pcbltools.ru
 bremeco.ru
+bs.clickso.ru
 bsigroup.ru
 buduryadom.ru
 burgerkingrus.ru
@@ -118,7 +116,6 @@ charlie.mici.imgsmail.ru
 ckk.kszn34.ru
 cleantify.ru
 climamos.ru
-cloud.pakhonin.ru
 coachspace.ru
 comfort-max.ru
 companyprofile.ru
@@ -145,7 +142,6 @@ datatracker-test.sbertech.ru
 datatracker.sbertech.ru
 dbo.spsc.ru
 dderevyanko.ru
-ddom7.ru
 decosystems.ru
 delta-privod.ru
 demo.bifit.ru
@@ -168,7 +164,6 @@ doc.sfmo.ru
 docdoc.ru
 doksignal.ru
 domstrazh.ru
-domsvod.ru
 dpomipk.ru
 draga.ru
 dvaugla.ru
@@ -286,6 +281,7 @@ jira.ocs.ru
 jiraproxy.ocs.ru
 jokertag.ru
 jssm.vkteam.ru
+k-gr.ru
 kairosstrategy.ru
 kanzburo.ru
 kapmed.ru
@@ -409,7 +405,6 @@ msitech.ru
 mt-plan.ru
 mtracker.ocs.ru
 murashow.ru
-music.pakhonin.ru
 muzlab.ru
 mv.corpp.ru
 my.kalkulatorzp.ru
@@ -435,9 +430,6 @@ nenderus.su
 neonxp.ru
 neovox.ru
 net.hostdm.ru
-netologia.ru
-netology.ru
-netoservices.ru
 nev.sirfol.ru
 newpeople.ru
 nextcloud.acti.ru
@@ -445,7 +437,6 @@ niidpo.ru
 niige.ru
 niklibrary.ru
 niti-progress.ru
-niti.ru
 nixwan.ru
 nloto.ru
 nmt54.ru
@@ -488,6 +479,7 @@ ov.deadtroll.ru
 ozkpromo.kion.ru
 p46spb.ru
 p75.spb.ru
+pakhonin.ru
 paritet.ru
 partner-reestr.ru
 patheternity.ru
@@ -499,7 +491,6 @@ petprojects1.ru
 phoenix-ca.ru
 phoenix-dnr.ru
 photo.katantsev.ru
-photos.pakhonin.ru
 pilotdev-admin.ascon.ru
 pilotdev.ascon.ru
 pim-connector.ocs.ru
@@ -526,6 +517,7 @@ prima-systems.ru
 primersvedosa.ru
 probe-nuc-rsa.luna25.ru
 probe.mddc.t-j.ru
+probe.mddc.t-secrets.ru
 probe.perecle.ru
 prof-consultant.ru
 profinat.ru
@@ -539,7 +531,6 @@ pulse-hcm.ru
 pwk.x0124.ru
 pyopenrpa.ru
 q-admins.ru
-r1864.ru
 r3sonance.ru
 r7.corp.znanierussia.ru
 rame0.ru
@@ -576,7 +567,6 @@ rozzyapps.ru
 rtbapp.ru
 rtbapp.su
 ru.oljk.ru
-run.check-ru.ru
 rus.zakupki44fz.ru
 ruslegassistens.ru
 russoutdoor.ru
@@ -631,7 +621,6 @@ sospp.rspp.ru
 sovereignx.ru
 spasskievorota.ru
 spbdp7.ru
-spbicp.ru
 spboms.ru
 spectrinvest.ru
 speechpro.ru
@@ -650,6 +639,7 @@ star-pro.ru
 star-smile.ru
 static-content.ru
 staticqr.avangard.ru
+stavcreative.ru
 stc-groups.ru
 stepan.su
 stk-b.ru
@@ -660,10 +650,8 @@ susocds1.ru
 svision.tornado.ru
 svod31.ru
 symptomcheker.ru
-syncthing.pakhonin.ru
 t-investlab.ru
 t-ofp.ru
-t-secrets.ru
 tabrasa.ru
 tambov.rspp.ru
 tamga-group.ru
@@ -674,7 +662,6 @@ taxmon.berks.ru
 taxmon.merlion.ru
 taya-ai.ru
 tcpootionstest.ru
-teatrvfk.ru
 technodrom.ru
 tegu.kontakt-saratov.ru
 tender32.ru
@@ -684,7 +671,6 @@ test-er.ru
 test273.servicecdn.ru
 testcr8.novikom.ru
 themm.ru
-tj-app.ru
 tolokonnikov.ru
 traptech.ru
 trcnf.rspp.ru

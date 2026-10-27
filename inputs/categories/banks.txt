@@ -88,6 +88,7 @@ astrahovanie.ru
 atbbank.ru
 atdcode.ru
 atm-receipt.cdn-tbank.ru
+atm72.ru
 auth.edge.sberdevices.ru
 auto-prep-virtu.sberins.ru
 autodealer.cdn-tbank.ru
@@ -445,6 +446,7 @@ gersains.ru
 getfinance.ru
 gethalva.ru
 gigaconf.ru
+gitlab.pfc.ru
 gitverse.ru
 globus-coins.ru
 gorod74.ru
@@ -724,7 +726,6 @@ npf-sng.ru
 npf-transneft.ru
 npfalliance.ru
 npff.ru
-npfpens.ru
 npfsb.ru
 npfsberbanka.ru
 nprts.ru
@@ -1114,6 +1115,7 @@ t-hack.ru
 t-insurance.ru
 t-j.ru
 t-pulse.ru
+t-secrets.ru
 t-sign-app.ru
 t-sparkinside.ru
 t-static-wv.ru
@@ -1155,6 +1157,7 @@ tinkoffsecrets.ru
 tinsurance.ru
 tinsurancefuture.ru
 tit-b2b.ru
+tj-app.ru
 tkbbank.ru
 tkbip.ru
 tls2.ru

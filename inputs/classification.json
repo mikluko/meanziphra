@@ -247,10 +247,6 @@
       "category": "banks",
       "confidence": 0.98
     },
-    "name:ai-mnesis.ru": {
-      "category": "other",
-      "confidence": 0.77
-    },
     "name:ai.d-agency.su": {
       "category": "other",
       "confidence": 0.46,
@@ -908,10 +904,6 @@
       "category": "other",
       "confidence": 0.71
     },
-    "name:bkz.ru": {
-      "category": "other",
-      "confidence": 0.67
-    },
     "name:bo.albank.ru": {
       "category": "banks",
       "confidence": 0.93
@@ -980,6 +972,10 @@
     "name:brn.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
+    },
+    "name:bs.clickso.ru": {
+      "category": "other",
+      "confidence": 0.73
     },
     "name:bulksms.phoenix-dnr.ru": {
       "category": "other",
@@ -1711,10 +1707,6 @@
       "category": "other",
       "confidence": 0.92
     },
-    "name:ddom7.ru": {
-      "category": "other",
-      "confidence": 0.94
-    },
     "name:ddos.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -1953,11 +1945,6 @@
     "name:domstrazh.ru": {
       "category": "other",
       "confidence": 0.74
-    },
-    "name:domsvod.ru": {
-      "category": "other",
-      "confidence": 0.43,
-      "review": true
     },
     "name:don-cloud.ru": {
       "category": "internet",
@@ -2291,6 +2278,10 @@
       "confidence": 0.77
     },
     "name:fbuz41.rospotrebnadzor.ru": {
+      "category": "gov",
+      "confidence": 0.99
+    },
+    "name:fbuz52.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
     },
@@ -2740,6 +2731,11 @@
     "name:hdx.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.87
+    },
+    "name:headscale.aironteh.ru": {
+      "category": "other",
+      "confidence": 0.42,
+      "review": true
     },
     "name:help-chat.bank.yandex.ru": {
       "category": "banks",
@@ -4742,19 +4738,6 @@
       "confidence": 0.46,
       "review": true
     },
-    "name:netologia.ru": {
-      "category": "other",
-      "confidence": 0.83
-    },
-    "name:netology.ru": {
-      "category": "other",
-      "confidence": 0.83
-    },
-    "name:netoservices.ru": {
-      "category": "other",
-      "confidence": 0.51,
-      "review": true
-    },
     "name:nev.sirfol.ru": {
       "category": "other",
       "confidence": 0.81
@@ -4803,11 +4786,6 @@
     "name:niklibrary.ru": {
       "category": "other",
       "confidence": 0.79
-    },
-    "name:niti.ru": {
-      "category": "other",
-      "confidence": 0.46,
-      "review": true
     },
     "name:nixwan.ru": {
       "category": "other",
@@ -4865,10 +4843,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:npfpens.ru": {
-      "category": "banks",
-      "confidence": 0.95
-    },
     "name:nps.rspp.ru": {
       "category": "banks",
       "confidence": 0.61
@@ -4920,6 +4894,11 @@
     "name:nuc-test-anything.yandex-net.ru": {
       "category": "internet",
       "confidence": 0.83
+    },
+    "name:nuc.devops4you.ru": {
+      "category": "internet",
+      "confidence": 0.57,
+      "review": true
     },
     "name:nuctest.demo.moneta.ru": {
       "category": "banks",
@@ -4990,10 +4969,6 @@
     "name:old.ioffe.ru": {
       "category": "gov",
       "confidence": 0.77
-    },
-    "name:olimpicshop.ru": {
-      "category": "marketplaces",
-      "confidence": 0.85
     },
     "name:omnibot.chat.msbapps.ru": {
       "category": "other",
@@ -5203,6 +5178,10 @@
     "name:p75.spb.ru": {
       "category": "other",
       "confidence": 0.63
+    },
+    "name:pakhonin.ru": {
+      "category": "other",
+      "confidence": 0.92
     },
     "name:panel-b2x.megafon.ru": {
       "category": "telecom",
@@ -5770,10 +5749,6 @@
       "confidence": 0.45,
       "review": true
     },
-    "name:r1864.ru": {
-      "category": "other",
-      "confidence": 0.9
-    },
     "name:r3sonance.ru": {
       "category": "other",
       "confidence": 0.82
@@ -6060,10 +6035,6 @@
     "name:ru.oljk.ru": {
       "category": "other",
       "confidence": 0.77
-    },
-    "name:run.check-ru.ru": {
-      "category": "other",
-      "confidence": 0.74
     },
     "name:rus.avangard.ru": {
       "category": "industry",
@@ -6635,11 +6606,6 @@
       "category": "other",
       "confidence": 0.78
     },
-    "name:spbicp.ru": {
-      "category": "other",
-      "confidence": 0.43,
-      "review": true
-    },
     "name:spboms.ru": {
       "category": "other",
       "confidence": 0.6
@@ -6942,10 +6908,6 @@
       "category": "other",
       "confidence": 0.7
     },
-    "name:t-secrets.ru": {
-      "category": "other",
-      "confidence": 0.89
-    },
     "name:tablet.indaspace.alfastrah.ru": {
       "category": "banks",
       "confidence": 0.75
@@ -7024,10 +6986,6 @@
     "name:teamservice.mtsbank.ru": {
       "category": "banks",
       "confidence": 0.97
-    },
-    "name:teatrvfk.ru": {
-      "category": "other",
-      "confidence": 0.79
     },
     "name:technodrom.ru": {
       "category": "other",
@@ -7183,6 +7141,11 @@
       "confidence": 1,
       "org": "The Ministry of Digital Development of Russia"
     },
+    "name:test.kbs.goznak.ru": {
+      "category": "gov",
+      "confidence": 0.5,
+      "review": true
+    },
     "name:test.krastsvetmet.ru": {
       "category": "industry",
       "confidence": 0.7
@@ -7250,17 +7213,9 @@
       "category": "banks",
       "confidence": 0.99
     },
-    "name:tinkoffjournal.ru": {
-      "category": "banks",
-      "confidence": 0.89
-    },
     "name:tinkoffsecrets.ru": {
       "category": "banks",
       "confidence": 0.91
-    },
-    "name:tj-app.ru": {
-      "category": "other",
-      "confidence": 0.75
     },
     "name:tmb.dev.home.megafon.ru": {
       "category": "telecom",
@@ -7893,10 +7848,6 @@
       "category": "gov",
       "confidence": 0.49,
       "review": true
-    },
-    "name:webrtc.meetings.tbank.ru": {
-      "category": "banks",
-      "confidence": 1
     },
     "name:werlock.ru": {
       "category": "other",
@@ -9715,6 +9666,11 @@
       "review": true,
       "org": "ООО КИНЕФ"
     },
+    "ogrn:1024701759565": {
+      "category": "gov",
+      "confidence": 0.73,
+      "org": "ФГУП НИТИ им. А.П. Александрова"
+    },
     "ogrn:1024701893336": {
       "category": "industry",
       "confidence": 1,
@@ -11216,6 +11172,12 @@
       "confidence": 1,
       "org": "JSCB NOVIKOMBANK"
     },
+    "ogrn:1027739081556": {
+      "category": "industry",
+      "confidence": 0.58,
+      "review": true,
+      "org": "АО НИИ стали"
+    },
     "ogrn:1027739082106": {
       "category": "banks",
       "confidence": 1,
@@ -12490,6 +12452,11 @@
       "confidence": 1,
       "org": "Администрация Великого Новгорода"
     },
+    "ogrn:1035401488858": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ФБУН Новосибирский НИИ гигиены Роспотребнадзора"
+    },
     "ogrn:1035402503950": {
       "category": "telecom",
       "confidence": 1,
@@ -13322,6 +13289,11 @@
       "confidence": 1,
       "org": "Управление Росреестра по Калининградской области"
     },
+    "ogrn:1044004404619": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Государственная жилищная инспекция Калужской области"
+    },
     "ogrn:1044004426498": {
       "category": "gov",
       "confidence": 1,
@@ -13645,6 +13617,11 @@
       "confidence": 1,
       "org": "ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ ОБРАЗОВАНИЯ И НАУКИ"
     },
+    "ogrn:1047796350910": {
+      "category": "gov",
+      "confidence": 0.94,
+      "org": "Федеральное агентство железнодорожного транспорта"
+    },
     "ogrn:1047796365760": {
       "category": "gov",
       "confidence": 1,
@@ -13954,6 +13931,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "Управление Роспотребнадзора по Московской области"
+    },
+    "ogrn:1055005109147": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ФБУЗ Центр гигиены и эпидемиологии в Московской области"
     },
     "ogrn:1055100194720": {
       "category": "gov",
@@ -14362,6 +14344,12 @@
       "confidence": 0.78,
       "org": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ КОМБИНАТ КАМЕНСКИЙ"
     },
+    "ogrn:1067017061396": {
+      "category": "internet",
+      "confidence": 0.5,
+      "review": true,
+      "org": "ООО \"ЭНБИСИС\""
+    },
     "ogrn:1067451014135": {
       "category": "gov",
       "confidence": 1,
@@ -14557,6 +14545,11 @@
       "category": "banks",
       "confidence": 0.98,
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ АКТИВФИНАНСМЕНЕДЖМЕНТ"
+    },
+    "ogrn:1075902004386": {
+      "category": "banks",
+      "confidence": 0.83,
+      "org": "ООО ПРОЕКТНАЯ ФОНДОВАЯ КОМПАНИЯ"
     },
     "ogrn:1076163002651": {
       "category": "gov",
@@ -14903,6 +14896,11 @@
       "confidence": 0.99,
       "org": "ГКУ ТО ЦИТТО"
     },
+    "ogrn:1087232042259": {
+      "category": "banks",
+      "confidence": 0.83,
+      "org": "АТМ АЛЬЯНС"
+    },
     "ogrn:1087325005899": {
       "category": "banks",
       "confidence": 1,
@@ -15049,6 +15047,11 @@
       "confidence": 1,
       "org": "Управление Росреестра по Республике Татарстан"
     },
+    "ogrn:1091901004590": {
+      "category": "gov",
+      "confidence": 0.75,
+      "org": "Спорткомплекс имени Н.Г. Булакина"
+    },
     "ogrn:1092468000020": {
       "category": "gov",
       "confidence": 0.99,
@@ -15168,6 +15171,11 @@
       "confidence": 0.49,
       "review": true,
       "org": "BURGER RUS LLC"
+    },
+    "ogrn:1097746322156": {
+      "category": "gov",
+      "confidence": 0.84,
+      "org": "ФГБУ «СЛО «Россия»"
     },
     "ogrn:1097746395372": {
       "category": "other",
@@ -15897,6 +15905,11 @@
       "confidence": 0.63,
       "org": "Экстрим безопасность"
     },
+    "ogrn:1127154040122": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "Алексинский опытный механический завод"
+    },
     "ogrn:1127453008264": {
       "category": "gov",
       "confidence": 0.95,
@@ -15937,6 +15950,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "ООО Международные Процессинговые Системы"
+    },
+    "ogrn:1127746385095": {
+      "category": "internet",
+      "confidence": 0.78,
+      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО ТЕХНОЛОГИЧЕСКАЯ КОМПАНИЯ ЦЕНТР"
     },
     "ogrn:1127746460885": {
       "category": "gov",
@@ -16866,6 +16884,12 @@
       "review": true,
       "org": "JSC GLONASS"
     },
+    "ogrn:1157746591815": {
+      "category": "industry",
+      "confidence": 0.49,
+      "review": true,
+      "org": "JTI Russia LLC"
+    },
     "ogrn:1157746622109": {
       "category": "internet",
       "confidence": 0.97,
@@ -16928,6 +16952,11 @@
       "category": "transport",
       "confidence": 0.86,
       "org": "ФГУП КЖД"
+    },
+    "ogrn:1159102038523": {
+      "category": "gov",
+      "confidence": 0.99,
+      "org": "ФГБУ ВОЕННЫЙ САНАТОРИЙ «ЯЛТА» МИНОБОРОНЫ РОССИИ"
     },
     "ogrn:1159102069125": {
       "category": "other",
@@ -17041,6 +17070,12 @@
       "category": "banks",
       "confidence": 1,
       "org": "ООО ВТБ ФОРЕКС"
+    },
+    "ogrn:1167746277247": {
+      "category": "transport",
+      "confidence": 0.53,
+      "review": true,
+      "org": "ООО Смартвэй"
     },
     "ogrn:1167746289248": {
       "category": "gov",
@@ -17825,6 +17860,12 @@
       "confidence": 1,
       "org": "ООО РСХБ ЛИЗИНГ"
     },
+    "ogrn:1197847247443": {
+      "category": "industry",
+      "confidence": 0.37,
+      "review": true,
+      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПРОБИОДУКТЫ"
+    },
     "ogrn:1199112020238": {
       "category": "internet",
       "confidence": 0.38,
@@ -18055,6 +18096,12 @@
       "category": "other",
       "confidence": 0.84,
       "org": "Culture LLC"
+    },
+    "ogrn:1215200027899": {
+      "category": "marketplaces",
+      "confidence": 0.36,
+      "review": true,
+      "org": "АО \"Платформа А\""
     },
     "ogrn:1215400003433": {
       "category": "banks",
@@ -19246,6 +19293,11 @@
       "confidence": 0.19,
       "review": true,
       "org": "РНКО Альнаир (АО)"
+    },
+    "ogrn:1267700033457": {
+      "category": "other",
+      "confidence": 0.75,
+      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ К-РЕГЛАМЕНТ"
     },
     "ogrn:1267700039430": {
       "category": "banks",

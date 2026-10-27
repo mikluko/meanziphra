@@ -17,6 +17,7 @@ ahml.ru
 ahstep.ru
 akveduk52.ru
 alabuga.ru
+aleksinomz.ru
 alfa.avangard.ru
 almaz-rpe.ru
 alrosa.ru
@@ -235,6 +236,7 @@ mpaes.ru
 mptk55.ru
 mtronics.ru
 niip.ru
+niistali.ru
 nm-conference.ru
 nniirt.ru
 nnk.ru
@@ -421,6 +423,7 @@ vyksa-culture.ru
 vympel-rybinsk.ru
 vzavod.ru
 webcon.omk-it.ru
+winston.ru
 wp.tupolev.ru
 www.energy-invest.ru
 www.energy-tracker.ru
@@ -442,6 +445,7 @@ xn--b1adaeba5bdflcgnh4bv.xn--p1ai
 xn--b1ajw.xn--p1ai
 xn--d1aqf.xn--p1ai
 xn--d1auahegc7h.xn--p1ai
+xn--g1ao9b.xn--p1ai
 xn--h1ahecbk.xn--p1ai
 yakno.ru
 yakovlev.ru

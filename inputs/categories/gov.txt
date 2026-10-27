@@ -108,6 +108,7 @@ cdvo.sosbs.ru
 centr-judo.ru
 cfmc.ru
 cge.onego.ru
+cgemo.ru
 cgkipd.ru
 cheb23.shkola.hc.ru
 chebarcul.ru
@@ -243,6 +244,7 @@ ffoms.gov.ru
 ffoms.ru
 fgau.ru
 fgbu-atk.ru
+fgbu-yalta.ru
 fgbuusz.ru
 fgis-saturn.ru
 fgislk-test.gov.ru
@@ -542,11 +544,13 @@ nekrasovka.ru
 nii-kpg.ru
 nii-nk.ru
 nii-vektor.ru
+niig.su
 niineptun.ru
 niipolyus.ru
 niitp.ru
 nimro.ru
 nioch.nsc.ru
+niti.ru
 nkpis.ru
 nlrs.ru
 nobl.ru
@@ -651,6 +655,7 @@ rkc-pk.ru
 rkcdv.ru
 rkomi.ru
 rlp.minzdrav.gov.ru
+rlw.gov.ru
 rmail.oparina4.ru
 rmanpo.ru
 rmapo.ru
@@ -711,12 +716,14 @@ sed.fadm.gov.ru
 semenov.nnov.ru
 sev.gov.ru
 sf-kras.ru
+sfdrussia.ru
 sfr.gov.ru
 shagp1.ru
 shagp2.ru
 shkola8k.ru
 sibsiu.ru
 sip.admsurgut.ru
+sk-abakan.ru
 skkb26.ru
 skkmo.ru
 skkmorf.ru
@@ -789,6 +796,7 @@ tc394.ru
 tc404.ru
 tele-med.spb.ru
 temocenter.ru
+test.kbs.goznak.ru
 testmo.ru
 tfi-urfo.ru
 tfoms-rzn.ru
@@ -883,6 +891,7 @@ xn--19-6kch3bybw5a.xn--p1ai
 xn--24-8kcm.xn--p1ai
 xn--39-dlcej5afybuehh.xn--p1ai
 xn--40-6kclk1btailw.xn--p1ai
+xn--40-6kcmpkc3e.xn--p1ai
 xn--42-6kcadhwnl3cfdx.xn--p1ai
 xn--64-6kcazfomo9bwd5o.xn--p1ai
 xn--64-6kcpagh6a5aakqg5e.xn--p1ai
