@@ -158,6 +158,7 @@ developers.sber.ru
 developers.sberbank.ru
 devmail.ru
 devpi.eye.salute.ru
+dialog-demo.sbertech.ru
 digi-track.ru
 digidoc.ru
 digital-org.ru

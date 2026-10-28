@@ -10,6 +10,7 @@ auth-service.fl-shop.ru
 autoplatform.ru
 autotradecomplex.ru
 avito.ru
+azgaz.ru
 cc-new-reserve.sbermegamarket.sigma.sbrf.ru
 cc-new.sbermegamarket.sigma.sbrf.ru
 chipdip.ru
@@ -25,6 +26,7 @@ elko.ru
 etprf.ru
 faberlic.ru
 fp.bifit.ru
+gaz-connect.ru
 geobasket.ru
 global-hub.ru
 globaloet.ru
@@ -97,6 +99,7 @@ soti.corporateozon.ru
 sportmaster.ru
 sso-keycloak.sigma.sbrf.ru
 stage.fl-shop.ru
+stt.ru
 svoi-market.ru
 tander.ru
 taxmon.citilink.ru
@@ -110,6 +113,7 @@ transport.bifit.ru
 tvoymagnit.ru
 usadba-shop.ru
 uznaipro.ru
+valdai.ru
 velosport.ru
 venus.magnitcosmetic.ru
 vitrina.bifit.ru

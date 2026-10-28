@@ -49,6 +49,7 @@ akibank.ru
 akt.sberbank-service.ru
 albank.ru
 alefbank.ru
+alexbank.ru
 alfa-oms.ru
 alfaacademzdrav.ru
 alfabank.ru
@@ -499,7 +500,6 @@ ib.bankrsi.ru
 ibam.ru
 ibam24.ru
 ibank-nbsrf.ru
-ibank.alexbank.ru
 ibank.amanatpay.ru
 ibank.asiainvestbank.ru
 ibank.procommercebank.ru
@@ -674,6 +674,7 @@ modulbank.ru
 moex.ru
 moneta.ru
 moscombank.ru
+moskb.ru
 mosnarbank.ru
 mosoblbank.ru
 most-test.sberbank-service.ru
