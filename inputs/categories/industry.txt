@@ -208,8 +208,11 @@ lubteplo.ru
 lukoil.ru
 m-road.ru
 m-road62.ru
+mail-01.rfipoteka.ru
+mail-02.rfipoteka.ru
 mail.almaz-antey.ru
 mail.energo.ru
+mail.rfipoteka.ru
 mail.tdzs.ru
 mail.upz.ru
 mail2.upz.ru
@@ -251,6 +254,7 @@ npo-saturn.ru
 npoa.ru
 npoelm.ru
 npovk.ru
+npp-rubin.ru
 npzoptics.ru
 ntc-zarya.ru
 oaovoentorg.ru
@@ -308,6 +312,7 @@ rev2.avangard.ru
 rex-motors.ru
 rhc.ru
 rn-grp.ru
+rnd.stcnet.ru
 rnt.ru
 rosatomflot.ru
 rosatomtalents.sberclass.ru
@@ -347,6 +352,7 @@ sibvinyl.ru
 sineft.ru
 sipweb.omk-it.ru
 sistema-re.ru
+sk-akbars.ru
 slavneft.ru
 smolate.ru
 smrtc.ru

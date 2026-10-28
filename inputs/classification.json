@@ -118,11 +118,6 @@
       "category": "other",
       "confidence": 0.92
     },
-    "name:abs-kassa.ru": {
-      "category": "other",
-      "confidence": 0.54,
-      "review": true
-    },
     "name:ac2.avangard.ru": {
       "category": "industry",
       "confidence": 0.59,
@@ -436,10 +431,6 @@
       "category": "telecom",
       "confidence": 1
     },
-    "name:api-app.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.86
-    },
     "name:api-ble-test.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.95
@@ -464,10 +455,6 @@
     "name:api.gigaagent.ru": {
       "category": "other",
       "confidence": 0.61
-    },
-    "name:api.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:api.lamoda.ru": {
       "category": "marketplaces",
@@ -498,10 +485,6 @@
     "name:app.factoring.megafon.ru": {
       "category": "telecom",
       "confidence": 0.83
-    },
-    "name:app.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.9
     },
     "name:apprt.rspp.ru": {
       "category": "other",
@@ -797,10 +780,6 @@
       "category": "other",
       "confidence": 0.57,
       "review": true
-    },
-    "name:bank.moneta.ru": {
-      "category": "banks",
-      "confidence": 0.99
     },
     "name:bank.yandex.ru": {
       "category": "banks",
@@ -1789,10 +1768,6 @@
       "category": "other",
       "confidence": 0.74
     },
-    "name:dev-lk.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.83
-    },
     "name:dev-panel.addy.su": {
       "category": "internet",
       "confidence": 0.65
@@ -1865,6 +1840,10 @@
     "name:di-mfb-dev.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.63
+    },
+    "name:dialog-demo.sbertech.ru": {
+      "category": "internet",
+      "confidence": 0.62
     },
     "name:dialog.test-middle.megafon.ru": {
       "category": "telecom",
@@ -2096,6 +2075,10 @@
       "category": "other",
       "confidence": 0.45,
       "review": true
+    },
+    "name:edu.vi.fsin.gov.ru": {
+      "category": "gov",
+      "confidence": 0.92
     },
     "name:edu.vui.fsin.gov.ru": {
       "category": "gov",
@@ -2553,6 +2536,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:gornoaltaysk.ru": {
+      "category": "other",
+      "confidence": 0.74
+    },
     "name:gos.acme.donntu.ru": {
       "category": "gov",
       "confidence": 0.43,
@@ -2895,6 +2882,18 @@
     "name:ibs-consulting.ru": {
       "category": "other",
       "confidence": 0.85
+    },
+    "name:ica-ext-nw.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.99
+    },
+    "name:ica-ext-sib.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.99
+    },
+    "name:ica-ext-vlg.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.98
     },
     "name:ica2-ext.megafon.ru": {
       "category": "telecom",
@@ -3456,10 +3455,6 @@
       "category": "other",
       "confidence": 0.9
     },
-    "name:kilbil.ru": {
-      "category": "other",
-      "confidence": 0.91
-    },
     "name:kirov.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
@@ -3883,6 +3878,10 @@
       "category": "other",
       "confidence": 0.65
     },
+    "name:lms.vi.fsin.gov.ru": {
+      "category": "gov",
+      "confidence": 0.92
+    },
     "name:lnr.rspp.ru": {
       "category": "other",
       "confidence": 0.2,
@@ -3908,6 +3907,10 @@
     "name:logs-afina.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:lookl.ru": {
+      "category": "other",
+      "confidence": 0.75
     },
     "name:ltinvest.domrfbank.ru": {
       "category": "banks",
@@ -4634,10 +4637,6 @@
     "name:my.raiffeisen-capital.ru": {
       "category": "banks",
       "confidence": 0.94
-    },
-    "name:my.speechxplore.ru": {
-      "category": "other",
-      "confidence": 0.79
     },
     "name:my.uat.bank.yandex.ru": {
       "category": "banks",
@@ -5880,10 +5879,6 @@
       "category": "other",
       "confidence": 0.77
     },
-    "name:reports.speechxplore.ru": {
-      "category": "other",
-      "confidence": 0.65
-    },
     "name:reserv.2mon.ru": {
       "category": "other",
       "confidence": 0.78
@@ -6035,6 +6030,10 @@
     "name:ru.oljk.ru": {
       "category": "other",
       "confidence": 0.77
+    },
+    "name:run.check-ru.ru": {
+      "category": "other",
+      "confidence": 0.74
     },
     "name:rus.avangard.ru": {
       "category": "industry",
@@ -6462,10 +6461,6 @@
       "category": "other",
       "confidence": 0.87
     },
-    "name:slon-e.ru": {
-      "category": "other",
-      "confidence": 0.73
-    },
     "name:smart-city.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -6609,10 +6604,6 @@
     "name:spboms.ru": {
       "category": "other",
       "confidence": 0.6
-    },
-    "name:speechpro.ru": {
-      "category": "other",
-      "confidence": 0.87
     },
     "name:speedtest.astralinux.ru": {
       "category": "internet",
@@ -7410,10 +7401,6 @@
       "category": "banks",
       "confidence": 0.94
     },
-    "name:ubik24.ru": {
-      "category": "other",
-      "confidence": 0.65
-    },
     "name:ucs.iturupbank.ru": {
       "category": "banks",
       "confidence": 0.91
@@ -8115,6 +8102,10 @@
     "name:www.liveservice.spb.ru": {
       "category": "other",
       "confidence": 0.68
+    },
+    "name:www.lookl.ru": {
+      "category": "other",
+      "confidence": 0.65
     },
     "name:www.markdowntableeditor.ru": {
       "category": "internet",
@@ -9142,6 +9133,11 @@
       "confidence": 1,
       "org": "ГБУЗ СК СККОД"
     },
+    "ogrn:1022601948588": {
+      "category": "gov",
+      "confidence": 0.99,
+      "org": "Stavropol Regional Blood Transfusion Station"
+    },
     "ogrn:1022601949644": {
       "category": "gov",
       "confidence": 1,
@@ -9298,6 +9294,11 @@
       "confidence": 1,
       "org": "Администрация города Благовещенска"
     },
+    "ogrn:1022800523404": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Законодательное Собрание Амурской области"
+    },
     "ogrn:1022900509521": {
       "category": "gov",
       "confidence": 1,
@@ -9417,6 +9418,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "Акционерное общество «СЕВЕРГАЗБАНК»"
+    },
+    "ogrn:1023500886310": {
+      "category": "other",
+      "confidence": 0.77,
+      "org": "ООО «Офис Стиль»"
     },
     "ogrn:1023501237330": {
       "category": "industry",
@@ -10490,6 +10496,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "ADMINISTRACIYA CHEBARKULSKOGO GORODSKOGO OKRUGA"
+    },
+    "ogrn:1027401143021": {
+      "category": "gov",
+      "confidence": 0.95,
+      "org": "ФГБУ СКК ПРИВОЛЖСКИЙ МО РФ"
     },
     "ogrn:1027401183006": {
       "category": "internet",
@@ -12462,6 +12473,11 @@
       "confidence": 1,
       "org": "OOO Novotelecom"
     },
+    "ogrn:1035802518531": {
+      "category": "industry",
+      "confidence": 0.97,
+      "org": "JSC SIE Rubin"
+    },
     "ogrn:1036167001090": {
       "category": "other",
       "confidence": 0.62,
@@ -13707,6 +13723,11 @@
       "confidence": 1,
       "org": "СПб ГБУК ГММОБЛ"
     },
+    "ogrn:1047844000082": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "КОМИТЕТ ПО ИНВЕСТИЦИЯМ САНКТ-ПЕТЕРБУРГА"
+    },
     "ogrn:1047855099170": {
       "category": "industry",
       "confidence": 1,
@@ -14520,11 +14541,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "МИНИСТЕРСТВО ОБРАЗОВАНИЯ КУЗБАССА"
-    },
-    "ogrn:1074205024101": {
-      "category": "gov",
-      "confidence": 0.99,
-      "org": "Департамент по охране объектов животного мира Кузбасса"
     },
     "ogrn:1075027018032": {
       "category": "industry",
@@ -15354,6 +15370,11 @@
       "confidence": 1,
       "org": "joint stock company MOSCOVSKIY OBLASTNOI BANK"
     },
+    "ogrn:1107711000066": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "КБ Москоммерцбанк (АО)"
+    },
     "ogrn:1107746038410": {
       "category": "internet",
       "confidence": 0.99,
@@ -15909,6 +15930,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "Алексинский опытный механический завод"
+    },
+    "ogrn:1127325006786": {
+      "category": "other",
+      "confidence": 0.84,
+      "org": "Ресурс развития"
     },
     "ogrn:1127453008264": {
       "category": "gov",
@@ -16724,6 +16750,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "АО «НПФ «Волга-Капитал»"
+    },
+    "ogrn:1151673001006": {
+      "category": "industry",
+      "confidence": 0.93,
+      "org": "Shipbuilding Corporation Ak Bars"
     },
     "ogrn:1152223011335": {
       "category": "other",
@@ -18020,6 +18051,11 @@
       "confidence": 0.5,
       "review": true,
       "org": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ ПРО"
+    },
+    "ogrn:1207700325590": {
+      "category": "industry",
+      "confidence": 0.63,
+      "org": "АО «НТЦ «Атлас»"
     },
     "ogrn:1207700427714": {
       "category": "other",

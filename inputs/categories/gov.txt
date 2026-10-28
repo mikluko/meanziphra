@@ -181,7 +181,6 @@ doctorrb.ru
 donfti.ru
 donor-surgut.ru
 donses.ru
-doozm.ru
 dorogisk.ru
 dou27.ru
 dpr-gov.ru
@@ -199,6 +198,7 @@ edocom.ru
 edu-penza.ru
 edu.gov.ru
 edu.ru
+edu.vi.fsin.gov.ru
 edu.vui.fsin.gov.ru
 edu35.ru
 edu54.ru
@@ -446,6 +446,7 @@ lifefor2.ru
 lk.admsvtl.ru
 lkexpertiza.spb.ru
 lms.apu.fsin.gov.ru
+lms.vi.fsin.gov.ru
 login.ik66.ru
 lyncdiscover.admsurgut.ru
 lyncweb.admsurgut.ru
@@ -725,6 +726,7 @@ sibsiu.ru
 sip.admsurgut.ru
 sk-abakan.ru
 skkb26.ru
+skkcvo.ru
 skkmo.ru
 skkmorf.ru
 skkmpc.ru
@@ -744,6 +746,7 @@ sp15spb.ru
 sp31.spb.ru
 spbdshi3.ru
 spbeias.ru
+spbinvestment.ru
 spbmiac.ru
 spbsad23.ru
 spbti.ru
@@ -767,6 +770,7 @@ stavminobr.ru
 stavminprom.ru
 stavregion.ru
 stavropolarena.ru
+stavspk.ru
 stavzags.ru
 stavzan.ru
 staxi.spb.ru
@@ -968,4 +972,5 @@ zdrav26.ru
 zdrav74.ru
 zrk.rk.gov.ru
 zrnao.ru
+zsamur.ru
 zskuzbass.ru
