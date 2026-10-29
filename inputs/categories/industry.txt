@@ -73,6 +73,12 @@ cms-edge1.slavneft-kng.ru
 cms-edge2.slavneft-kng.ru
 cms-le.energo.ru
 cms.slavneft-kng.ru
+cms1.tgc11.ru
+cms2.tgc11.ru
+cms3.tgc11.ru
+cms4.tgc11.ru
+cms5.tgc11.ru
+cms6.tgc11.ru
 cniitm.ru
 cnpo.ru
 coalstar.ru
@@ -125,6 +131,9 @@ etpz.ru
 etx-in.ru
 ex.upz.ru
 exiar.ru
+expc1.tgc11.ru
+expc2.tgc11.ru
+expe.tgc11.ru
 fabrikant.ru
 fakel-russia.ru
 files.energo.ru
@@ -176,6 +185,7 @@ isup.almaz-antey.ru
 iva-le.energo.ru
 iva.tupolev.ru
 izh-bs.ru
+join-meet.tgc11.ru
 k-energomash.ru
 kalashnikovconcern.ru
 kalashnikovgroup.ru
@@ -411,6 +421,7 @@ uralmash-kartex.ru
 uulz.ru
 uwca.ru
 vcs.almaz-antey.ru
+vcs.tgc11.ru
 vdk-spp.ru
 vks-expway-e.energo.ru
 vks-iva.energo.ru

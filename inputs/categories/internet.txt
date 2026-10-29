@@ -140,6 +140,7 @@ d-technologies.ru
 data-studio.ru
 datacloudmail.ru
 dcode.su
+delo.cscomp.ru
 demo.bitrix24.payanyway.ru
 demo1.hycl.ru
 demo2.hycl.ru
@@ -184,6 +185,7 @@ edgecenter.ru
 edinoevideo.ru
 edtechpro.ru
 efadevelopment.ru
+elara.ru
 elasticsearch.dev.lk.astra-team.ru
 elvees.ru
 enbisys.ru
@@ -337,7 +339,6 @@ lvls.ru
 m.odnoklasniki.ru
 mag1c.ru
 mail-king.ru
-mail.domru.ru
 mail.kotlin-novator.ru
 mail.rambler.su
 mail.ru
@@ -623,7 +624,6 @@ trim-ai.ru
 trino.eye.salute.ru
 trino.giga.salute.ru
 trsystem68.ru
-trueconf.elara.ru
 tutoria.ru
 tvc.ru
 tvzvezda.ru
