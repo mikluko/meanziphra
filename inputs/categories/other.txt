@@ -134,7 +134,6 @@ crm.swimly.ru
 crmnote.ru
 crt-test-alpha.ru
 cryont.ru
-cryptoarm.ru
 ctio-frn.spb.ru
 ctxcc.mbrd.ru
 d-agency.su
@@ -260,7 +259,6 @@ i-college.ru
 i-exam.ru
 i-spo.ru
 ibs-consulting.ru
-icbru.ru
 ifxt.ru
 ikac.ru
 ikar-eng.ru
@@ -358,7 +356,6 @@ mailsrv.in-vent.ru
 main.ipc.rssi.ru
 makclife.ru
 makeyev.ru
-makovetsky.ru
 malchikovma.ru
 manbbq.ru
 marketing.ocs.ru
@@ -366,7 +363,6 @@ mate-it.ru
 mategroup.ru
 matznay.ru
 max-bot.bestwayservice.ru
-max.bidfox.ru
 max.message-relay.ru
 max.screspect.ru
 max.targo.su
@@ -543,6 +539,7 @@ pulse-hcm.ru
 pwk.x0124.ru
 pyopenrpa.ru
 q-admins.ru
+q7.hozmax.ru
 r3sonance.ru
 r7.corp.znanierussia.ru
 rame0.ru
@@ -586,7 +583,6 @@ russoutdoor.ru
 s3.ttp.one-infra.ru
 safework.ru
 sbersova.ru
-sce.uec-saturn.ru
 sd-next.ru
 sdb-downloads.ocs.ru
 segd.ru
@@ -601,13 +597,13 @@ sfo-makalu.ru
 sfo-veleta.ru
 sharipovv.ru
 shibaev.su
-shilinka.ru
 shonichev.ru
 shriftik.ru
 siaplc.ru
 sibmoll.ru
 simaz-med.ru
 sio26.ru
+sir20.ru
 sistemagorod.ru
 sitepms.cumcraft.ru
 sitnikovpravo.ru
@@ -657,7 +653,6 @@ stk-b.ru
 stp-egisz.ru
 sunsetvibes.ru
 suprchel.vm.ascon.ru
-susocds1.ru
 svision.tornado.ru
 svod31.ru
 symptomcheker.ru

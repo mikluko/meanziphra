@@ -332,6 +332,10 @@
       "category": "telecom",
       "confidence": 0.95
     },
+    "name:als.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.67
+    },
     "name:altastroy-nn.ru": {
       "category": "other",
       "confidence": 0.6
@@ -494,11 +498,6 @@
     "name:apps.test.int.nloto.ru": {
       "category": "other",
       "confidence": 0.5,
-      "review": true
-    },
-    "name:aqua.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.57,
       "review": true
     },
     "name:aquatelecom.ru": {
@@ -1024,10 +1023,6 @@
       "category": "other",
       "confidence": 0.6
     },
-    "name:camp.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.95
-    },
     "name:candlepin.dev.lk.astra-team.ru": {
       "category": "other",
       "confidence": 0.42,
@@ -1521,10 +1516,6 @@
       "category": "telecom",
       "confidence": 0.9
     },
-    "name:credit.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.99
-    },
     "name:crm.strahovka35.ru": {
       "category": "banks",
       "confidence": 0.84
@@ -1553,10 +1544,6 @@
     "name:crypto-tls-cc.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
-    },
-    "name:cryptoarm.ru": {
-      "category": "other",
-      "confidence": 0.77
     },
     "name:ctio-frn.spb.ru": {
       "category": "other",
@@ -2492,6 +2479,10 @@
       "category": "other",
       "confidence": 0.95
     },
+    "name:git.als.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.69
+    },
     "name:git.inforion.ru": {
       "category": "other",
       "confidence": 0.6
@@ -2657,6 +2648,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "The Ministry of Digital Development of Russia"
+    },
+    "name:gw.rfa.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.58,
+      "review": true
     },
     "name:gzi.datapol.ru": {
       "category": "other",
@@ -2898,11 +2894,6 @@
     "name:ica2-ext.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
-    },
-    "name:icbru.ru": {
-      "category": "other",
-      "confidence": 0.46,
-      "review": true
     },
     "name:id-ftest.domrfbank.ru": {
       "category": "banks",
@@ -3982,11 +3973,6 @@
       "category": "banks",
       "confidence": 0.99
     },
-    "name:mail.domru.ru": {
-      "category": "internet",
-      "confidence": 0.36,
-      "review": true
-    },
     "name:mail.econombank.ru": {
       "category": "banks",
       "confidence": 0.99
@@ -4085,10 +4071,6 @@
       "category": "other",
       "confidence": 0.84
     },
-    "name:makovetsky.ru": {
-      "category": "other",
-      "confidence": 0.92
-    },
     "name:malchikovma.ru": {
       "category": "other",
       "confidence": 0.92
@@ -4161,10 +4143,6 @@
       "confidence": 0.84
     },
     "name:max.aihor.ru": {
-      "category": "other",
-      "confidence": 0.66
-    },
-    "name:max.bidfox.ru": {
       "category": "other",
       "confidence": 0.66
     },
@@ -4769,10 +4747,6 @@
       "category": "other",
       "confidence": 0.47,
       "review": true
-    },
-    "name:nfp.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.95
     },
     "name:nht.home.megafon.ru": {
       "category": "telecom",
@@ -5743,6 +5717,10 @@
       "category": "other",
       "confidence": 0.84
     },
+    "name:q7.hozmax.ru": {
+      "category": "other",
+      "confidence": 0.7
+    },
     "name:qr.avangard.ru": {
       "category": "industry",
       "confidence": 0.45,
@@ -5796,6 +5774,10 @@
     "name:raspisanie-btt.ru": {
       "category": "other",
       "confidence": 0.69
+    },
+    "name:rassvet.sir20.ru": {
+      "category": "other",
+      "confidence": 0.78
     },
     "name:rates.avangard.ru": {
       "category": "other",
@@ -6212,11 +6194,6 @@
       "category": "telecom",
       "confidence": 0.98
     },
-    "name:sce.uec-saturn.ru": {
-      "category": "other",
-      "confidence": 0.5,
-      "review": true
-    },
     "name:school.ioffe.ru": {
       "category": "gov",
       "confidence": 0.83
@@ -6224,10 +6201,6 @@
     "name:schoolaccel.sberclass.ru": {
       "category": "banks",
       "confidence": 0.79
-    },
-    "name:schoolcards.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.74
     },
     "name:sdb-downloads.ocs.ru": {
       "category": "other",
@@ -6325,10 +6298,6 @@
       "category": "other",
       "confidence": 0.65
     },
-    "name:sevmash.ru": {
-      "category": "industry",
-      "confidence": 0.99
-    },
     "name:sf.slavneft.ru": {
       "category": "industry",
       "confidence": 0.98
@@ -6369,10 +6338,6 @@
     "name:shibaev.su": {
       "category": "other",
       "confidence": 0.94
-    },
-    "name:shilinka.ru": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:shonichev.ru": {
       "category": "other",
@@ -6415,6 +6380,10 @@
     "name:sio26.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:sir20.ru": {
+      "category": "other",
+      "confidence": 0.89
     },
     "name:sitepms.cumcraft.ru": {
       "category": "other",
@@ -6534,10 +6503,6 @@
       "category": "other",
       "confidence": 0.51,
       "review": true
-    },
-    "name:socialcert.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.86
     },
     "name:soft.ocs.ru": {
       "category": "other",
@@ -6768,6 +6733,14 @@
       "category": "gov",
       "confidence": 0.77
     },
+    "name:static-admin.giga-agent.ru": {
+      "category": "other",
+      "confidence": 0.68
+    },
+    "name:static-admin.gigaagent.ru": {
+      "category": "other",
+      "confidence": 0.63
+    },
     "name:static-content.ru": {
       "category": "other",
       "confidence": 0.87
@@ -6869,10 +6842,6 @@
     "name:surgut.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
-    },
-    "name:susocds1.ru": {
-      "category": "other",
-      "confidence": 0.84
     },
     "name:svision.tornado.ru": {
       "category": "other",
@@ -7079,21 +7048,6 @@
       "confidence": 0.38,
       "review": true
     },
-    "name:test-nuc-33.certhub-beta.vkteam.ru": {
-      "category": "internet",
-      "confidence": 0.37,
-      "review": true
-    },
-    "name:test-nuc-43.certhub-beta.vkteam.ru": {
-      "category": "internet",
-      "confidence": 0.45,
-      "review": true
-    },
-    "name:test-nuc-44.certhub-beta.vkteam.ru": {
-      "category": "internet",
-      "confidence": 0.38,
-      "review": true
-    },
     "name:test-nuc-45.certhub-beta.vkteam.ru": {
       "category": "internet",
       "confidence": 0.42,
@@ -7282,10 +7236,6 @@
       "category": "other",
       "confidence": 0.85
     },
-    "name:trueconf.elara.ru": {
-      "category": "internet",
-      "confidence": 0.61
-    },
     "name:trueconf.slavneft.ru": {
       "category": "industry",
       "confidence": 0.98
@@ -7400,10 +7350,6 @@
     "name:uatinvest.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.94
-    },
-    "name:ucs.iturupbank.ru": {
-      "category": "banks",
-      "confidence": 0.91
     },
     "name:udm.dev.home.megafon.ru": {
       "category": "telecom",
@@ -7985,10 +7931,6 @@
     "name:www.cozycats.ru": {
       "category": "other",
       "confidence": 0.91
-    },
-    "name:www.cryptoarm.ru": {
-      "category": "other",
-      "confidence": 0.74
     },
     "name:www.d-agency.su": {
       "category": "other",
@@ -8849,6 +8791,11 @@
       "category": "gov",
       "confidence": 0.75,
       "org": "АО ВНИИР"
+    },
+    "ogrn:1022101269123": {
+      "category": "internet",
+      "confidence": 0.82,
+      "org": "АО ЭЛАРА"
     },
     "ogrn:1022200525819": {
       "category": "banks",
@@ -13978,6 +13925,11 @@
       "confidence": 1,
       "org": "Управление Роспотребнадзора по Новосибирской области"
     },
+    "ogrn:1055406226237": {
+      "category": "industry",
+      "confidence": 0.94,
+      "org": "AO TGK-11"
+    },
     "ogrn:1055504019768": {
       "category": "gov",
       "confidence": 1,
@@ -14799,6 +14751,11 @@
       "confidence": 0.54,
       "review": true,
       "org": "АО \"СПО \"Арктика\""
+    },
+    "ogrn:1082902001401": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "АО ПО Севмаш"
     },
     "ogrn:1083700000471": {
       "category": "banks",
@@ -19044,6 +19001,12 @@
       "category": "banks",
       "confidence": 0.99,
       "org": "АО Т-БКИ"
+    },
+    "ogrn:1247700643156": {
+      "category": "internet",
+      "confidence": 0.59,
+      "review": true,
+      "org": "OOO CSK"
     },
     "ogrn:1247700649547": {
       "category": "banks",
