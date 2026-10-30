@@ -29,7 +29,6 @@ aironteh.ru
 akey.ocs.ru
 aktiv-rso.ru
 al.rspp.ru
-algoritm-bim.ru
 alko.aoapz.ru
 alljava.ru
 altastroy-nn.ru
@@ -41,7 +40,6 @@ andoc.ru
 anketa.ocs.ru
 ano-orbita.ru
 ansap.ru
-antonylexar.ru
 ao-trend.ru
 aobron.ru
 aotrend.ru
@@ -85,7 +83,6 @@ baltinfocom.ru
 barbecue-pech.ru
 bars-crm.unlimited-access.ru
 bcskda.ru
-belon.ru
 betcity.ru
 bfmsk-test-files.brain-flow.ru
 bfmsk-test.brain-flow.ru
@@ -106,6 +103,7 @@ capella-invest.ru
 cardstandard.ru
 cases.gippars.ru
 cc-vpn.t-access.ru
+cdn.p2p-app.ru
 cdn.tribastion.ru
 cdo-first.ru
 cdo.biglv.ru
@@ -176,7 +174,6 @@ ecospher.ru
 ed-industry.ru
 edinici.ru
 edinros.ru
-edo.gupti.ru
 edscontrol.ru
 edu-assist.ru
 edu.kilbil.ru
@@ -422,7 +419,6 @@ myjunkstorage.ru
 mylovar.ru
 mymedex.ru
 myproficit.ru
-mytm.goodoldlion.ru
 n.19dx.ru
 n3health.ru
 na-podpisi.ru
@@ -565,6 +561,7 @@ remotica.ru
 repair-calculator.ru
 reserv.2mon.ru
 reso-med.ru
+resultplace.ru
 rezonit.ru
 rf-cheats.ru
 rifpark.ru
@@ -582,6 +579,7 @@ ruslegassistens.ru
 russoutdoor.ru
 s3.ttp.one-infra.ru
 safework.ru
+sb117.ru
 sbersova.ru
 sd-next.ru
 sdb-downloads.ocs.ru
@@ -612,6 +610,7 @@ skiorganaizer.ru
 skladrom.ru
 slivaem-vodu-dev.ru
 slizzz.ru
+sm117.ru
 smart-budget.ru
 smartro.ru
 smbn.ru
@@ -642,6 +641,7 @@ srso.rspp.ru
 srv1cweb.uspekh.ru
 srvchat.uspekh.ru
 sso-ext.ocs.ru
+stage.books.mts.ru
 star-pro.ru
 star-smile.ru
 static-content.ru
@@ -651,6 +651,7 @@ stc-groups.ru
 stepan.su
 stk-b.ru
 stp-egisz.ru
+stream-cad.ru
 sunsetvibes.ru
 suprchel.vm.ascon.ru
 svision.tornado.ru
@@ -670,10 +671,12 @@ taya-ai.ru
 tcpootionstest.ru
 technodrom.ru
 tegu.kontakt-saratov.ru
+telda.ru
 tender32.ru
 termidesk.ru
 test-2.avangard.ru
 test-er.ru
+test.p2p-app.ru
 test273.servicecdn.ru
 testcr8.novikom.ru
 themm.ru

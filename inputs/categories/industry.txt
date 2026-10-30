@@ -214,6 +214,7 @@ len-cas.energo.ru
 lenenergo.ru
 limit.avangard.ru
 login.avangard.ru
+lomo.ru
 lubteplo.ru
 lukoil.ru
 m-road.ru
@@ -234,7 +235,6 @@ meeting-mgw.avangard.ru
 mes-business.ru
 mes-elektrik.ru
 metrowagonmash.ru
-mmk-coal.ru
 mmk.ru
 mmzavod.ru
 monitel.ru
@@ -251,6 +251,7 @@ mtronics.ru
 niip.ru
 niistali.ru
 nm-conference.ru
+nmz.ru
 nniirt.ru
 nnk.ru
 nordsy.spb.ru

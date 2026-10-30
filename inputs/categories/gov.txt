@@ -402,7 +402,6 @@ kcson.pyatigorsk.ru
 kemcardio.ru
 kfsar.ru
 kgainfo.spb.ru
-kirovskij-cson.stv.socinfo.ru
 kirzdrav.ru
 kmiac.ru
 knd.gov.ru
@@ -642,8 +641,6 @@ reg-cctv.ru
 regsamarh.ru
 rem.oparina4.ru
 rem0.oparina4.ru
-rem1.oparina4.ru
-rem2.oparina4.ru
 repa.plagate.ru
 report.depfin70.ru
 rerihspbhu.ru
@@ -873,7 +870,6 @@ wiki-sibiriada.ru
 www.defense.ru
 www.meteo.nw.ru
 www.pirogov-vestnik.ru
-www.sbnray.ru
 x-msg.ru
 xn----7sbaaabg3empormehdn6b2j3b.xn--p1ai
 xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai

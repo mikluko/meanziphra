@@ -288,6 +288,7 @@ is-mmk.ru
 it4prof.ru
 itfederation.ru
 itinfrastructure.ru
+its-centr.ru
 ivi-mc.ru
 ivi.ru
 ivk.ru
@@ -327,6 +328,7 @@ line.rfaces.ru
 linus.su
 linuxtesting.ru
 list.ru
+litellm-dev.eye.salute.ru
 litellm.eye.salute.ru
 litres.ru
 livejournal.ru
@@ -433,6 +435,8 @@ paas.local.onecld.ru
 partnerplatform.ru
 passion.ru
 pbprog.ru
+pcm.gigacollector.eye.salute.ru
+pcm.ift.gigacollector.eye.salute.ru
 phoenix.eye.salute.ru
 phonewatcher.ru
 pip.ru
@@ -567,6 +571,7 @@ sputniknews.ru
 sravni-labs.ru
 sravni-team.ru
 sravni.ru
+stage-argocd.lk.astra-team.ru
 stage-mesh.ad-tech.ru
 staging.qui-quo.ru
 staging.vklanding.ru
