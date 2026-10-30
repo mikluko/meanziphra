@@ -308,10 +308,6 @@
       "confidence": 0.57,
       "review": true
     },
-    "name:algoritm-bim.ru": {
-      "category": "other",
-      "confidence": 0.74
-    },
     "name:alko.aoapz.ru": {
       "category": "other",
       "confidence": 0.76
@@ -410,10 +406,6 @@
       "confidence": 0.45,
       "review": true
     },
-    "name:antonylexar.ru": {
-      "category": "other",
-      "confidence": 0.97
-    },
     "name:aobron.ru": {
       "category": "other",
       "confidence": 0.91
@@ -467,6 +459,11 @@
     "name:api.ocs.ru": {
       "category": "other",
       "confidence": 0.34,
+      "review": true
+    },
+    "name:api.paygas.ru": {
+      "category": "banks",
+      "confidence": 0.41,
       "review": true
     },
     "name:api.premiya.rspp.ru": {
@@ -683,10 +680,6 @@
       "category": "other",
       "confidence": 0.91
     },
-    "name:b2b-ext.yota.ru": {
-      "category": "telecom",
-      "confidence": 0.97
-    },
     "name:b2b-yota-dev.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
@@ -835,10 +828,6 @@
     "name:belmaysky.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
-    },
-    "name:belon.ru": {
-      "category": "other",
-      "confidence": 0.85
     },
     "name:beloyarsky.dev.home.megafon.ru": {
       "category": "telecom",
@@ -1089,9 +1078,24 @@
       "category": "banks",
       "confidence": 0.9
     },
+    "name:cdn.giga-agent.ru": {
+      "category": "other",
+      "confidence": 0.57,
+      "review": true
+    },
+    "name:cdn.gigaagent.ru": {
+      "category": "other",
+      "confidence": 0.52,
+      "review": true
+    },
     "name:cdn.hub.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:cdn.p2p-app.ru": {
+      "category": "other",
+      "confidence": 0.46,
+      "review": true
     },
     "name:cdn.sm.sberdevices.ru": {
       "category": "banks",
@@ -2042,10 +2046,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:edo.gupti.ru": {
-      "category": "other",
-      "confidence": 0.95
-    },
     "name:edscontrol.ru": {
       "category": "other",
       "confidence": 0.7
@@ -2452,10 +2452,6 @@
       "confidence": 0.99
     },
     "name:geo-test.megafon.ru": {
-      "category": "telecom",
-      "confidence": 0.99
-    },
-    "name:geo.demo.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
     },
@@ -4209,10 +4205,6 @@
       "category": "banks",
       "confidence": 0.89
     },
-    "name:mdmlab.bashneft.ru": {
-      "category": "industry",
-      "confidence": 0.97
-    },
     "name:mdmt-dev.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -4366,10 +4358,6 @@
     "name:mm2.rencredit.ru": {
       "category": "banks",
       "confidence": 0.76
-    },
-    "name:mmk-coal.ru": {
-      "category": "industry",
-      "confidence": 0.88
     },
     "name:mobile-http-api2.oneme.ru": {
       "category": "other",
@@ -4636,10 +4624,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "The Ministry of Digital Development of Russia"
-    },
-    "name:mytm.goodoldlion.ru": {
-      "category": "other",
-      "confidence": 0.88
     },
     "name:mywebtest.domrfbank.ru": {
       "category": "banks",
@@ -5510,10 +5494,6 @@
       "category": "telecom",
       "confidence": 0.92
     },
-    "name:pp.mmk-coal.ru": {
-      "category": "industry",
-      "confidence": 0.92
-    },
     "name:pr-cbs.ru": {
       "category": "other",
       "confidence": 0.38,
@@ -5864,6 +5844,10 @@
     "name:reserv.2mon.ru": {
       "category": "other",
       "confidence": 0.78
+    },
+    "name:resultplace.ru": {
+      "category": "other",
+      "confidence": 0.82
     },
     "name:rev.avangard.ru": {
       "category": "industry",
@@ -6698,6 +6682,11 @@
       "category": "banks",
       "confidence": 0.87
     },
+    "name:stage-argocd.lk.astra-team.ru": {
+      "category": "internet",
+      "confidence": 0.47,
+      "review": true
+    },
     "name:stage-rec.middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -6709,6 +6698,11 @@
     "name:stage-termidesk.dds.astralinux.ru": {
       "category": "internet",
       "confidence": 0.53,
+      "review": true
+    },
+    "name:stage.books.mts.ru": {
+      "category": "other",
+      "confidence": 0.46,
       "review": true
     },
     "name:stage.domrfbank.ru": {
@@ -6779,6 +6773,11 @@
       "confidence": 0.45,
       "review": true
     },
+    "name:stellar.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.58,
+      "review": true
+    },
     "name:stepan.su": {
       "category": "other",
       "confidence": 0.97
@@ -6808,6 +6807,11 @@
     "name:strahovka35.ru": {
       "category": "banks",
       "confidence": 0.68
+    },
+    "name:stream-cad.ru": {
+      "category": "other",
+      "confidence": 0.5,
+      "review": true
     },
     "name:streaming.edge.sberdevices.ru": {
       "category": "banks",
@@ -6955,6 +6959,16 @@
       "category": "other",
       "confidence": 0.76
     },
+    "name:tel.szd.stcnet.ru": {
+      "category": "telecom",
+      "confidence": 0.59,
+      "review": true
+    },
+    "name:telda.ru": {
+      "category": "other",
+      "confidence": 0.44,
+      "review": true
+    },
     "name:tender32.ru": {
       "category": "other",
       "confidence": 0.75
@@ -7094,6 +7108,10 @@
     "name:test.krastsvetmet.ru": {
       "category": "industry",
       "confidence": 0.7
+    },
+    "name:test.p2p-app.ru": {
+      "category": "other",
+      "confidence": 0.68
     },
     "name:test1.certhub-beta.onecld.ru": {
       "category": "internet",
@@ -7814,6 +7832,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:whocalls.middle.megafon.ru": {
+      "category": "telecom",
+      "confidence": 0.99
+    },
     "name:widget.chat.msbapps.ru": {
       "category": "other",
       "confidence": 0.47,
@@ -7830,6 +7852,11 @@
     "name:wiki.petprojects1.ru": {
       "category": "other",
       "confidence": 0.82
+    },
+    "name:wiki.szd.stcnet.ru": {
+      "category": "transport",
+      "confidence": 0.45,
+      "review": true
     },
     "name:wild-bot-max.ru": {
       "category": "other",
@@ -9160,11 +9187,6 @@
       "confidence": 1,
       "org": "ГБУСО «Степновский ЦСОН»"
     },
-    "ogrn:1022602225348": {
-      "category": "gov",
-      "confidence": 0.99,
-      "org": "ГБУСО «Кировский ЦСОН»"
-    },
     "ogrn:1022602426571": {
       "category": "gov",
       "confidence": 1,
@@ -9325,11 +9347,6 @@
       "category": "banks",
       "confidence": 1,
       "org": "АО СК РСХБ-СТРАХОВАНИЕ"
-    },
-    "ogrn:1023302353018": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "АДМИНИСТРАЦИЯ СОБИНСКОГО РАЙОНА"
     },
     "ogrn:1023400000018": {
       "category": "banks",
@@ -11811,6 +11828,11 @@
       "confidence": 0.9,
       "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО НАУЧНО-ПРОИЗВОДСТВЕННАЯ ФИРМА ДИПОЛЬ"
     },
+    "ogrn:1027802498514": {
+      "category": "industry",
+      "confidence": 0.98,
+      "org": "АО ЛОМО"
+    },
     "ogrn:1027802502056": {
       "category": "industry",
       "confidence": 0.53,
@@ -12045,6 +12067,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "СПБ ГБУК \"Государственный Музей \"Исаакиевский Собор\""
+    },
+    "ogrn:1027810306259": {
+      "category": "transport",
+      "confidence": 1,
+      "org": "ООО Деловые линии"
     },
     "ogrn:1027810329095": {
       "category": "other",
@@ -12353,6 +12380,11 @@
       "category": "banks",
       "confidence": 0.92,
       "org": "АО БК"
+    },
+    "ogrn:1034316578680": {
+      "category": "industry",
+      "confidence": 0.76,
+      "org": "АО Ново-Вятка"
     },
     "ogrn:1034637012520": {
       "category": "gov",
@@ -14461,6 +14493,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "Министерство образования и науки Амурской области"
+    },
+    "ogrn:1073123016559": {
+      "category": "internet",
+      "confidence": 0.94,
+      "org": "ООО \"ИТС\""
     },
     "ogrn:1073128002056": {
       "category": "internet",
@@ -17926,6 +17963,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "GKU MO CIB MO"
+    },
+    "ogrn:1205400000882": {
+      "category": "other",
+      "confidence": 0.65,
+      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СМ"
     },
     "ogrn:1206400003655": {
       "category": "gov",
