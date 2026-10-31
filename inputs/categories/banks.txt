@@ -1212,6 +1212,7 @@ url-shortener.sberbank-service.ru
 uservpn.sberins.ru
 ussc.ru
 vamprivet.ru
+vardis-ins.ru
 vbrr.ru
 vc.sberdevices.ru
 veb.ru

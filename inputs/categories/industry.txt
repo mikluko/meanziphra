@@ -36,7 +36,6 @@ atsenergo.ru
 atz.ru
 auth.avangard.ru
 autodiscover.prof-itgroup.ru
-autodiscover.upz.ru
 avid.ru
 azsgo.ru
 b2b.avangard.ru
@@ -129,7 +128,6 @@ esb.rosatom.ru
 esp.rosatom.ru
 etpz.ru
 etx-in.ru
-ex.upz.ru
 exiar.ru
 expc1.tgc11.ru
 expc2.tgc11.ru
@@ -153,7 +151,6 @@ gid.ru
 gidropribor.ru
 giotek.ru
 gisogd24.ru
-gitlab.upz.ru
 gk-ikar.ru
 gmt-gazprom.ru
 gn.com.ru
@@ -225,8 +222,6 @@ mail.almaz-antey.ru
 mail.energo.ru
 mail.rfipoteka.ru
 mail.tdzs.ru
-mail.upz.ru
-mail2.upz.ru
 mattermost.avangard.ru
 mbf.avangard.ru
 meatterminal.ru
@@ -257,6 +252,7 @@ nnk.ru
 nordsy.spb.ru
 nornickel.ru
 nornik.ru
+novatek-spgt.ru
 novatek.asugo.ru
 novatek44.ru
 npk-spp.ru
@@ -316,7 +312,6 @@ qr.avangard.ru
 quarton.ru
 r-one.ru
 rcalng.ru
-reg.upz.ru
 relays.ru
 rev.avangard.ru
 rev2.avangard.ru
@@ -399,7 +394,6 @@ tesp.rosatom.ru
 test.avangard.ru
 tgc1.ru
 tkbs.rosatom.ru
-tm.upz.ru
 tomskenergosbyt.ru
 tomskrts.ru
 transneft.ru
@@ -416,6 +410,7 @@ ukpir.ru
 ulnammo.ru
 umpgku.ru
 upravkom.ru
+upz.ru
 uralaz.ru
 uralmash-go.ru
 uralmash-kartex.ru

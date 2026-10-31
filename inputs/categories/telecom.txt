@@ -80,6 +80,7 @@ labrx.ru
 lb.mwsapis.ru
 logging.mwsapis.ru
 m.megafonpro.ru
+mail.elcom.ru
 mail.perm.ru
 mango-loyalty.ru
 mango-office.ru

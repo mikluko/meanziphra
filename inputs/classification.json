@@ -584,6 +584,10 @@
       "category": "internet",
       "confidence": 0.82
     },
+    "name:at-bot.fvds.ru": {
+      "category": "other",
+      "confidence": 0.71
+    },
     "name:atlantmetall.ru": {
       "category": "industry",
       "confidence": 0.9
@@ -943,6 +947,10 @@
     "name:bs.clickso.ru": {
       "category": "other",
       "confidence": 0.73
+    },
+    "name:btx2.in-vent.ru": {
+      "category": "other",
+      "confidence": 0.68
     },
     "name:bulksms.phoenix-dnr.ru": {
       "category": "other",
@@ -1326,6 +1334,10 @@
       "category": "banks",
       "confidence": 1
     },
+    "name:cloud.microsun.ru": {
+      "category": "internet",
+      "confidence": 0.66
+    },
     "name:cloud.mt-plan.ru": {
       "category": "internet",
       "confidence": 0.47,
@@ -1519,6 +1531,11 @@
     "name:credit-yota.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.9
+    },
+    "name:crm.microsun.ru": {
+      "category": "other",
+      "confidence": 0.5,
+      "review": true
     },
     "name:crm.strahovka35.ru": {
       "category": "banks",
@@ -2046,6 +2063,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:edo.gupti.ru": {
+      "category": "other",
+      "confidence": 0.95
+    },
     "name:edscontrol.ru": {
       "category": "other",
       "confidence": 0.7
@@ -2174,11 +2195,6 @@
       "category": "other",
       "confidence": 0.76
     },
-    "name:etp-avtodor.ru": {
-      "category": "transport",
-      "confidence": 0.49,
-      "review": true
-    },
     "name:ewschool.sberclass.ru": {
       "category": "banks",
       "confidence": 0.84
@@ -2242,6 +2258,10 @@
     "name:factoring.megafon.ru": {
       "category": "telecom",
       "confidence": 0.69
+    },
+    "name:faq.vk.ru": {
+      "category": "internet",
+      "confidence": 0.97
     },
     "name:fbq.ru": {
       "category": "other",
@@ -2474,6 +2494,11 @@
     "name:gilenko.ru": {
       "category": "other",
       "confidence": 0.95
+    },
+    "name:git-tools.brain-flow.ru": {
+      "category": "internet",
+      "confidence": 0.49,
+      "review": true
     },
     "name:git.als.astralinux.ru": {
       "category": "internet",
@@ -3216,6 +3241,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:jobs.microsun.ru": {
+      "category": "other",
+      "confidence": 0.69
+    },
     "name:join1.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -3722,6 +3751,10 @@
       "category": "telecom",
       "confidence": 0.97
     },
+    "name:lavateka.ru": {
+      "category": "other",
+      "confidence": 0.73
+    },
     "name:lc.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -3853,6 +3886,10 @@
       "category": "banks",
       "confidence": 0.95
     },
+    "name:lksr.ru": {
+      "category": "other",
+      "confidence": 0.69
+    },
     "name:lkz-preprod.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.97
@@ -3972,6 +4009,11 @@
     "name:mail.econombank.ru": {
       "category": "banks",
       "confidence": 0.99
+    },
+    "name:mail.elcom.ru": {
+      "category": "telecom",
+      "confidence": 0.35,
+      "review": true
     },
     "name:mail.entertext.ru": {
       "category": "other",
@@ -4317,6 +4359,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:microsun.ru": {
+      "category": "other",
+      "confidence": 0.7
+    },
     "name:middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -4575,6 +4621,10 @@
       "confidence": 0.51,
       "review": true
     },
+    "name:mxr.tbank.ru": {
+      "category": "banks",
+      "confidence": 0.99
+    },
     "name:my-help.ssl-test.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -4587,6 +4637,10 @@
     "name:my.bank.yandex.ru": {
       "category": "banks",
       "confidence": 0.78
+    },
+    "name:my.chinachild.ru": {
+      "category": "other",
+      "confidence": 0.93
     },
     "name:my.dev.bank.yandex.ru": {
       "category": "banks",
@@ -6131,6 +6185,10 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:savebee.ru": {
+      "category": "other",
+      "confidence": 0.89
+    },
     "name:sber001.aspirelifestyles.ru": {
       "category": "banks",
       "confidence": 0.85
@@ -6322,6 +6380,10 @@
     "name:shibaev.su": {
       "category": "other",
       "confidence": 0.94
+    },
+    "name:shilinka.ru": {
+      "category": "other",
+      "confidence": 0.82
     },
     "name:shonichev.ru": {
       "category": "other",
@@ -7125,6 +7187,11 @@
     "name:test2.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.92
+    },
+    "name:test2.ocs.ru": {
+      "category": "other",
+      "confidence": 0.57,
+      "review": true
     },
     "name:test2.slavneft.ru": {
       "category": "industry",
@@ -10522,6 +10589,11 @@
       "category": "internet",
       "confidence": 0.89,
       "org": "ООО КОМПАНИЯ ТЕНЗОР"
+    },
+    "ogrn:1027600839639": {
+      "category": "gov",
+      "confidence": 0.92,
+      "org": "ТФОМС Ярославской области"
     },
     "ogrn:1027600980990": {
       "category": "industry",
@@ -15369,6 +15441,11 @@
       "confidence": 1,
       "org": "КБ Москоммерцбанк (АО)"
     },
+    "ogrn:1107746025980": {
+      "category": "other",
+      "confidence": 0.95,
+      "org": "СТРАТЕДЖИ ПАРТНЕРС ГРУПП"
+    },
     "ogrn:1107746038410": {
       "category": "internet",
       "confidence": 0.99,
@@ -17602,6 +17679,11 @@
       "confidence": 1,
       "org": "Министерство просвещения Российской Федерации"
     },
+    "ogrn:1187746786501": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "INSURANCE COMPANY VARDIS LLC"
+    },
     "ogrn:1187746905004": {
       "category": "banks",
       "confidence": 1,
@@ -18224,6 +18306,11 @@
       "confidence": 0.51,
       "review": true,
       "org": "АО КИНОСТУДИЯ СОЮЗМУЛЬТФИЛЬМ"
+    },
+    "ogrn:1217700391842": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "ООО НОВАТЭК-СПГ топливо"
     },
     "ogrn:1217700423654": {
       "category": "internet",
@@ -19372,6 +19459,12 @@
       "confidence": 0.58,
       "review": true,
       "org": "АО Инновационная компания «НЗ"
+    },
+    "ogrn:1267700238002": {
+      "category": "internet",
+      "confidence": 0.54,
+      "review": true,
+      "org": "LLC SFO PLATFORM-1"
     },
     "ogrn:1267700264072": {
       "category": "marketplaces",
