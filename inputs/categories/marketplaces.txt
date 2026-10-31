@@ -23,6 +23,7 @@ dixy.ru
 domlenta.ru
 egaisretail.ru
 elko.ru
+etp-avtodor.ru
 etprf.ru
 faberlic.ru
 fp.bifit.ru
@@ -106,7 +107,6 @@ taxmon.citilink.ru
 taxmon.lentaretail.ru
 tdera.ru
 teakett.ru
-tenders.etp-avtodor.ru
 test-megamarket.ru
 tinko.ru
 transport.bifit.ru

@@ -62,6 +62,7 @@ astais.ru
 asterium.ru
 asterx23.ru
 astrovolga.ru
+at-bot.fvds.ru
 atlasm77.ru
 atomstandard.ru
 atomstandart.ru
@@ -95,6 +96,7 @@ bootcamp.pcbltools.ru
 bremeco.ru
 bs.clickso.ru
 bsigroup.ru
+btx2.in-vent.ru
 buduryadom.ru
 burgerkingrus.ru
 c-k.ru
@@ -174,6 +176,7 @@ ecospher.ru
 ed-industry.ru
 edinici.ru
 edinros.ru
+edo.gupti.ru
 edscontrol.ru
 edu-assist.ru
 edu.kilbil.ru
@@ -322,6 +325,7 @@ kuzgosweb.kemobl.ru
 kxte.ru
 l.kilbil.ru
 lakoai.ru
+lavateka.ru
 lazurmedical.ru
 le-test-273-2.servicecdn.ru
 lecta.ru
@@ -334,6 +338,7 @@ link-or.ru
 link.gorizont-project.ru
 liveservice.spb.ru
 lk.kilbil.ru
+lksr.ru
 lms.lomt.ru
 lnr.rspp.ru
 lo-miac.ru
@@ -382,6 +387,7 @@ meteo.its61.ru
 mglk.ru
 mh.net.ru
 microem.ru
+microsun.ru
 mig-os.ru
 mili-rest.ru
 mistrikov.ru
@@ -412,6 +418,7 @@ mtracker.ocs.ru
 murashow.ru
 muzlab.ru
 mv.corpp.ru
+my.chinachild.ru
 my.kalkulatorzp.ru
 myavrmaxwebhook.ru
 myfitt.ru
@@ -562,6 +569,7 @@ repair-calculator.ru
 reserv.2mon.ru
 reso-med.ru
 resultplace.ru
+rezonet.ru
 rezonit.ru
 rf-cheats.ru
 rifpark.ru
@@ -579,6 +587,7 @@ ruslegassistens.ru
 russoutdoor.ru
 s3.ttp.one-infra.ru
 safework.ru
+savebee.ru
 sb117.ru
 sbersova.ru
 sd-next.ru
@@ -595,6 +604,7 @@ sfo-makalu.ru
 sfo-veleta.ru
 sharipovv.ru
 shibaev.su
+shilinka.ru
 shonichev.ru
 shriftik.ru
 siaplc.ru
@@ -651,6 +661,7 @@ stc-groups.ru
 stepan.su
 stk-b.ru
 stp-egisz.ru
+strategy.ru
 stream-cad.ru
 sunsetvibes.ru
 suprchel.vm.ascon.ru
@@ -677,6 +688,7 @@ termidesk.ru
 test-2.avangard.ru
 test-er.ru
 test.p2p-app.ru
+test2.ocs.ru
 test273.servicecdn.ru
 testcr8.novikom.ru
 themm.ru

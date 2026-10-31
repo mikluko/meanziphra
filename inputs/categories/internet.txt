@@ -110,6 +110,7 @@ clickhouse-sandbox.gca.eye.salute.ru
 clickhouse-sandbox.se.eye.salute.ru
 cloud.inforion.ru
 cloud.micard.ru
+cloud.microsun.ru
 cloud.mt-plan.ru
 cloud.ru
 cloud.tigersoft.ru
@@ -227,6 +228,7 @@ gigaid.ru
 gigaint-back.eye.salute.ru
 gigaintelligence-dev.eye.salute.ru
 gigaintelligence.eye.salute.ru
+git-tools.brain-flow.ru
 gkif.ru
 gos.multifactor.ru
 goskey.ru
@@ -491,6 +493,7 @@ ria.ru
 riamediabank.ru
 rian.ru
 rl0.ru
+rmg.ru
 rock-digital.ru
 rowangame.ru
 rr.ru
@@ -541,6 +544,7 @@ sfera-t1.ru
 sferum-dev.ru
 sferum-platform.ru
 sferum.ru
+sfo-platform-1.ru
 sftgroup.ru
 sftp.kotlin-novator.ru
 shprapp.ru
