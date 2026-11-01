@@ -4167,6 +4167,10 @@
       "category": "other",
       "confidence": 0.75
     },
+    "name:matter.softprofessor.ru": {
+      "category": "other",
+      "confidence": 0.82
+    },
     "name:mattermost.avangard.ru": {
       "category": "industry",
       "confidence": 0.45,

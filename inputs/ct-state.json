@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 12585,
+    "https://27.ctlog.digital.gov.ru/2027/": 12603,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 13176
+    "https://ctlog2027.mail.ru/nca2027/": 13194
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -9491,7 +9491,7 @@
       "ogrn": "1027700067328"
     },
     "avcp.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-01-29"
     },
     "avdesk.rt.ru": {
       "not_after": "2027-07-24",
@@ -10993,12 +10993,6 @@
     },
     "beta.sberclass.ru": {
       "not_after": "2026-11-08"
-    },
-    "beta.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "beta2.cloud.dev-vkplay.ru": {
       "not_after": "2027-09-11",
@@ -13498,7 +13492,7 @@
       "not_after": "2026-11-02"
     },
     "ca2.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "cab.novatek44.ru": {
       "not_after": "2027-07-21",
@@ -13958,12 +13952,6 @@
       "org": "АО Тандер",
       "inn": "2310031475",
       "ogrn": "1022301598549"
-    },
-    "career.zvuk.com": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
     },
     "careers.rosseti-lenenergo.ru": {
       "not_after": "2027-08-25",
@@ -16889,12 +16877,6 @@
       "org": "Публичное акционерное общество Банк ПСБ",
       "inn": "7744000912",
       "ogrn": "1027739019142"
-    },
-    "cloud.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "cloud.ru": {
       "not_after": "2027-10-20",
@@ -19960,18 +19942,6 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
-    "data-analysis.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "data-analysis.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "data-fusion.ru": {
       "not_after": "2026-12-03",
       "org": "VTB Bank (PJSC)",
@@ -22560,24 +22530,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "discipline-monitoring.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "discipline-monitoring.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "discipline-monitoring.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "discovery-portal.ucp-testing.one-infra.ru": {
       "not_after": "2027-06-26",
@@ -27934,24 +27886,6 @@
       "inn": "7734202860",
       "ogrn": "1027739555282"
     },
-    "feature-analysis.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "feature-analysis.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "feature-analysis.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "feature-flow.prestable.vk.team": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -28229,7 +28163,7 @@
       "not_after": "2027-01-14"
     },
     "files-sib.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "files-vlg.megafon.ru": {
       "not_after": "2026-12-10"
@@ -28289,7 +28223,7 @@
       "ogrn": "1027700198767"
     },
     "files.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "files.noosferabank.ru": {
       "not_after": "2027-06-16",
@@ -30855,12 +30789,6 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
-    "go.sber-zvuk.com": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
-    },
     "go.sber.ru": {
       "not_after": "2027-04-24",
       "org": "Savings Bank of the Russian Federation",
@@ -31460,24 +31388,6 @@
       "org": "ООО Специальные технологии контроля",
       "inn": "7720427871",
       "ogrn": "1187746492340"
-    },
-    "greenfield.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "greenfield.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "greenfield.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "greenfieldinvest.domrfbank.ru": {
       "not_after": "2026-12-22",
@@ -32746,7 +32656,7 @@
       "not_after": "2027-01-24"
     },
     "hermes-tg.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-29"
     },
     "hermes.middle.megafon.ru": {
       "not_after": "2027-01-27"
@@ -35136,12 +35046,6 @@
       "inn": "7730253720",
       "ogrn": "1197746592394"
     },
-    "ift.gate1.spaymentextra.ru": {
-      "not_after": "2026-10-31",
-      "org": "SberBank of the Russian Federation",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "ift.gate1.spaymentsplus.ru": {
       "not_after": "2027-03-19",
       "org": "SberBank of the Russian Federation",
@@ -35177,12 +35081,6 @@
       "org": "ООО СалютДевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
-    },
-    "ift.kwapp.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "SberBank of the Russian Federation",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "ift.kwapp.spaymentsplus.ru": {
       "not_after": "2027-03-19",
@@ -35965,7 +35863,7 @@
       "not_after": "2027-01-19"
     },
     "informer.hub.megafon.ru": {
-      "not_after": "2026-12-03"
+      "not_after": "2027-01-29"
     },
     "informer.test-middle.megafon.ru": {
       "not_after": "2027-01-23"
@@ -37657,7 +37555,7 @@
       "not_after": "2027-01-19"
     },
     "iv.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "iva-le.energo.ru": {
       "not_after": "2027-03-19",
@@ -38437,7 +38335,7 @@
       "not_after": "2027-01-22"
     },
     "kalmykia.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "kalmzdrav.ru": {
       "not_after": "2026-11-18",
@@ -41286,24 +41184,6 @@
     "link.gorizont-project.ru": {
       "not_after": "2027-03-19"
     },
-    "link.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "link.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "link.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "link.volbti.ru": {
       "not_after": "2027-07-16",
       "org": "Государственное бюджетное учреждение Волгоградской области «Центр государственной кадастровой оценки»",
@@ -41665,7 +41545,7 @@
       "ogrn": "1087325005899"
     },
     "lk.cloud.megafon.ru": {
-      "not_after": "2026-12-13"
+      "not_after": "2027-01-29"
     },
     "lk.css.rzd.ru": {
       "not_after": "2026-12-03",
@@ -46998,6 +46878,9 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "matter.softprofessor.ru": {
+      "not_after": "2027-01-29"
+    },
     "mattermost.alfastrah.ru": {
       "not_after": "2027-06-26",
       "org": "AlfaStrakhovanie PLC",
@@ -49686,24 +49569,6 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
-    "mobile-gf.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "mobile-gf.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "mobile-gf.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "mobile-http-api2.oneme.ru": {
       "not_after": "2027-01-18"
     },
@@ -49785,12 +49650,6 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
-    "mobile.cloud.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "mobile.dtb1.ru": {
       "not_after": "2027-08-07",
       "org": "АО \"Первый Дортрансбанк\"",
@@ -49860,12 +49719,6 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
-    "mobile.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "mobile.rshb.ru": {
       "not_after": "2027-06-11",
       "org": "АО Россельхозбанк",
@@ -49874,18 +49727,6 @@
     },
     "mobile.sbertransport.ru": {
       "not_after": "2027-06-01",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "mobile.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "mobile.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
       "org": "Public Joint-Stock Company Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
@@ -51007,7 +50848,7 @@
       "not_after": "2027-01-22"
     },
     "msk-tcs-cl03.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "msk-vcse.megafon.ru": {
       "not_after": "2027-08-25",
@@ -51389,12 +51230,6 @@
       "org": "Severstal-infocom JSC",
       "inn": "3528007105",
       "ogrn": "1023501237330"
-    },
-    "music-transfer.ru": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
     },
     "music.kion.ru": {
       "not_after": "2027-08-13",
@@ -54850,24 +54685,6 @@
       "inn": "7744000912",
       "ogrn": "1027739019142"
     },
-    "office.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "office.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "office.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "office.tricolor.ru": {
       "not_after": "2027-10-12",
       "org": "NAO National Satellite Company",
@@ -55101,24 +54918,6 @@
       "org": "OMK-IT",
       "inn": "5247051889",
       "ogrn": "1135247000184"
-    },
-    "old.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "old.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "old.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "old.tricolor.ru": {
       "not_after": "2027-10-12",
@@ -59642,7 +59441,7 @@
       "ogrn": "1147746809924"
     },
     "pays-mf.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-29"
     },
     "pays-test.megafon.ru": {
       "not_after": "2027-01-25"
@@ -65476,7 +65275,7 @@
       "ogrn": "1147746361432"
     },
     "r954n8.site": {
-      "not_after": "2027-01-25"
+      "not_after": "2027-01-29"
     },
     "r96.rosreestr.ru": {
       "not_after": "2027-01-28",
@@ -66053,12 +65852,6 @@
       "org": "Минцифры России",
       "inn": "7710474375",
       "ogrn": "1047702026701"
-    },
-    "rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "rc.sovcomins.ru": {
       "not_after": "2026-12-05",
@@ -66779,18 +66572,6 @@
       "org": "ООО Цифра брокер",
       "inn": "7705934210",
       "ogrn": "1107746963785"
-    },
-    "reports.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "reports.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "reports.tch.ru": {
       "not_after": "2027-08-21",
@@ -68779,30 +68560,6 @@
       "inn": "7708503727",
       "ogrn": "1037739877295"
     },
-    "rzd-expe-m01.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m02.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m03.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m04.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
     "rzd-expe-m05.css.rzd.ru": {
       "not_after": "2026-11-01",
       "org": "Open Joint Stock Company Russian Railways",
@@ -68815,86 +68572,8 @@
       "inn": "7708503727",
       "ogrn": "1037739877295"
     },
-    "rzd-expe-m07.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m08.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m09.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m10.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m11.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m12.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m13.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m14.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m15.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m16.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m18.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
     "rzd.expe-cl01.css.rzd.ru": {
       "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd.expe-cl02.css.rzd.ru": {
-      "not_after": "2026-10-31",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd.expe-cl03.css.rzd.ru": {
-      "not_after": "2026-10-31",
       "org": "Open Joint Stock Company Russian Railways",
       "inn": "7708503727",
       "ogrn": "1037739877295"
@@ -72346,12 +72025,6 @@
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
-    "senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "sense.alfabank.ru": {
       "not_after": "2027-01-23",
       "org": "AO Alfa-Bank",
@@ -73320,24 +72993,6 @@
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
-    },
-    "signalr.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "signalr.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "signalr.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "signing.otpbank.ru": {
       "not_after": "2027-09-25",
@@ -77827,12 +77482,6 @@
       "inn": "6732066868",
       "ogrn": "1136733020335"
     },
-    "staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
     "staging.tvh.kion.ru": {
       "not_after": "2027-08-04",
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КИОН\"",
@@ -79774,12 +79423,6 @@
       "inn": "7707049388",
       "ogrn": "1027700198767"
     },
-    "sz.team": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
-    },
     "szavoz.gov.ru": {
       "not_after": "2026-11-13",
       "org": "Минвостокразвития России",
@@ -81289,9 +80932,6 @@
     "test-2.dev.lk.astra-team.ru": {
       "not_after": "2026-12-29"
     },
-    "test-2.fuckoff.site": {
-      "not_after": "2026-10-31"
-    },
     "test-3.dev.lk.astra-team.ru": {
       "not_after": "2026-12-29"
     },
@@ -81627,6 +81267,12 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
+    },
+    "test-wc01.fuckoff.site": {
+      "not_after": "2027-01-29"
+    },
+    "test-wc02.fuckoff.site": {
+      "not_after": "2027-01-29"
     },
     "test.3ds.payment.ru": {
       "not_after": "2027-04-01",
@@ -88093,7 +87739,7 @@
       "not_after": "2026-12-28"
     },
     "volgograd.megafon.ru": {
-      "not_after": "2026-12-28"
+      "not_after": "2027-01-29"
     },
     "volgograd.ru": {
       "not_after": "2027-03-24",
@@ -89301,6 +88947,9 @@
       "inn": "7703191457",
       "ogrn": "1027739667218"
     },
+    "wc02.fuckoff.site": {
+      "not_after": "2027-01-29"
+    },
     "wealthim.ru": {
       "not_after": "2027-06-25",
       "org": "АО ВИМ ИНВЕСТИЦИИ",
@@ -89342,24 +88991,6 @@
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
-    },
-    "web-dav.rc.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "web-dav.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
-    },
-    "web-dav.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "web-dev.nrb.ru": {
       "not_after": "2026-11-19",
@@ -89693,12 +89324,6 @@
       "org": "BrokerCreditService Ltd",
       "inn": "5406121446",
       "ogrn": "1025402459334"
-    },
-    "webdav.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "webexp.msg.gpb.ru": {
       "not_after": "2027-07-30",
@@ -90635,12 +90260,6 @@
       "org": "ООО «Интернет Решения»",
       "inn": "7704217370",
       "ogrn": "1027739244741"
-    },
-    "wopi.staging.senat.sberbank.ru": {
-      "not_after": "2026-10-31",
-      "org": "Public Joint-Stock Company Sberbank of Russia",
-      "inn": "7707083893",
-      "ogrn": "1027700132195"
     },
     "worker.app-assistent.open.ru": {
       "not_after": "2027-06-19",
@@ -105157,7 +104776,7 @@
       "ogrn": "1023801428111"
     },
     "yanao.megafon.ru": {
-      "not_after": "2026-12-28"
+      "not_after": "2027-01-29"
     },
     "yanao.staging.megafon.ru": {
       "not_after": "2027-01-11"
@@ -106086,12 +105705,6 @@
       "inn": "7708328948",
       "ogrn": "5177746117005"
     },
-    "zmtech.su": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
-    },
     "znai.tech": {
       "not_after": "2027-06-17",
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПУЛЬСАР ЦЕНТР\"",
@@ -106251,23 +105864,11 @@
       "inn": "7708328948",
       "ogrn": "5177746117005"
     },
-    "zvuk.team": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
-    },
     "zvukislov.ru": {
       "not_after": "2027-09-30",
       "org": "ООО Живая Библиотека",
       "inn": "7734658075",
       "ogrn": "1117746445640"
-    },
-    "zvukprime.ru": {
-      "not_after": "2026-10-31",
-      "org": "Zvuk LLC",
-      "inn": "7708328948",
-      "ogrn": "5177746117005"
     },
     "zymzym.ru": {
       "not_after": "2027-09-09",

@@ -385,7 +385,6 @@ ms-web.ru
 msch.eye.salute.ru
 msk-ix.ru
 mtsmedia.ru
-music-transfer.ru
 musickion.ru
 mybook.ru
 mypochta.ru
@@ -738,9 +737,7 @@ yt-pretrain.eye.salute.ru
 yt.eye.salute.ru
 zenabout.ru
 zeppelin.eye.salute.ru
-zmtech.su
 zoea.ru
 zvooq.ru
 zvuk-hifi.ru
 zvukislov.ru
-zvukprime.ru
