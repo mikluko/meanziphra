@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 12603,
+    "https://27.ctlog.digital.gov.ru/2027/": 12618,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 13194
+    "https://ctlog2027.mail.ru/nca2027/": 13209
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -113,9 +113,6 @@
       "org": "Публичное акционерное общество «ДОМ.РФ»",
       "inn": "7729355614",
       "ogrn": "1027700262270"
-    },
-    "12.rospotrebnadzor.ru": {
-      "not_after": "2026-11-01"
     },
     "12ma.ahml.ru": {
       "not_after": "2027-07-27",
@@ -7162,9 +7159,6 @@
       "inn": "7706810747",
       "ogrn": "1147746683479"
     },
-    "auth.ai-mnesis.ru": {
-      "not_after": "2026-11-01"
-    },
     "auth.akbars.ru": {
       "not_after": "2027-07-28",
       "org": "ПАО АК БАРС БАНК",
@@ -8047,12 +8041,6 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "autodiscover.halva.com": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "autodiscover.halva.email": {
       "not_after": "2026-12-22",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
@@ -8065,26 +8053,8 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "autodiscover.halva.market": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "autodiscover.halva.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "autodiscover.halva.tel": {
       "not_after": "2026-12-22",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "autodiscover.halvacart.ru": {
-      "not_after": "2026-11-01",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
@@ -8092,12 +8062,6 @@
     "autodiscover.halvagame.ru": {
       "not_after": "2026-12-16",
       "org": "PJSC SOVCOMBANK",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "autodiscover.halvakard.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -10006,9 +9970,6 @@
     "b2c-dbofl-web-auth-test.domrfbank.ru": {
       "not_after": "2026-11-24"
     },
-    "b2c-dbofl-web-domapi.domrfbank.ru": {
-      "not_after": "2026-11-01"
-    },
     "b2c-dbofl-web-pccard.domrfbank.ru": {
       "not_after": "2026-12-07"
     },
@@ -10595,7 +10556,7 @@
       "not_after": "2026-12-28"
     },
     "bashkortostan.megafon.ru": {
-      "not_after": "2026-12-28"
+      "not_after": "2027-01-30"
     },
     "bashkortostan.staging.megafon.ru": {
       "not_after": "2027-01-28"
@@ -12369,9 +12330,6 @@
       "inn": "3906098008",
       "ogrn": "1023900000080"
     },
-    "bonus.kilbil.ru": {
-      "not_after": "2026-11-01"
-    },
     "bonus.novikom.ru": {
       "not_after": "2027-01-26",
       "org": "JSCB NOVIKOMBANK",
@@ -12532,10 +12490,10 @@
       "not_after": "2026-11-30"
     },
     "bpa.moneta.ru": {
-      "not_after": "2026-11-30"
+      "not_after": "2027-01-31"
     },
     "bpa.payanyway.ru": {
-      "not_after": "2026-11-30"
+      "not_after": "2027-01-31"
     },
     "bpam.sberuniversity.ru": {
       "not_after": "2027-08-07",
@@ -15438,9 +15396,6 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
-    "cgbp.ru": {
-      "not_after": "2026-11-01"
-    },
     "cge-amur.ru": {
       "not_after": "2026-12-07"
     },
@@ -17025,9 +16980,6 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
-    "cmail.acti.ru": {
-      "not_after": "2026-11-01"
-    },
     "cmd-online.ru": {
       "not_after": "2027-08-20",
       "org": "ФБУН ЦНИИ Эпидемиологии Роспотребнадзора",
@@ -17597,30 +17549,6 @@
       "org": "Акционерное общество Уральский завод гражданской авиации",
       "inn": "6664013640",
       "ogrn": "1026605766560"
-    },
-    "conference-2-css-rzd.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "conference-2-rzd-imp.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "conference-3-css-rzd.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "conference-3-rzd-imp.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
     },
     "conference.mil.ru": {
       "not_after": "2027-07-01",
@@ -26213,9 +26141,6 @@
       "inn": "2310031475",
       "ogrn": "1022301598549"
     },
-    "epp.wvro.org": {
-      "not_after": "2026-11-01"
-    },
     "eps74.ru": {
       "not_after": "2027-08-11",
       "org": "Минцифры Челябинской области",
@@ -27929,7 +27854,7 @@
       "not_after": "2026-11-02"
     },
     "feedback.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-30"
     },
     "feedback.poll.ertelecom.ru": {
       "not_after": "2027-07-13",
@@ -29972,9 +29897,6 @@
     },
     "geo-demo.test-middle.megafon.ru": {
       "not_after": "2026-12-16"
-    },
-    "geo-dev.demo.megafon.ru": {
-      "not_after": "2026-11-01"
     },
     "geo-dev.test-middle.megafon.ru": {
       "not_after": "2026-12-16"
@@ -32647,7 +32569,7 @@
       "not_after": "2027-01-27"
     },
     "hermes-test.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-30"
     },
     "hermes-tg-stage.test-middle.megafon.ru": {
       "not_after": "2027-01-24"
@@ -36121,7 +36043,7 @@
       "ogrn": "1027739176563"
     },
     "inplat-widget.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-30"
     },
     "ins-sys.ru": {
       "not_after": "2027-06-23",
@@ -40890,9 +40812,6 @@
       "inn": "7814148471",
       "ogrn": "1037832048605"
     },
-    "lermontovka-spb.ru": {
-      "not_after": "2026-11-01"
-    },
     "lesegais.ru": {
       "not_after": "2027-02-17",
       "org": "ФЕДЕРАЛЬНОЕ АГЕНТСТВО ЛЕСНОГО ХОЗЯЙСТВА",
@@ -40940,12 +40859,6 @@
       "org": "Минобороны России",
       "inn": "7704252261",
       "ogrn": "1037700255284"
-    },
-    "letters.saratov.gov.ru": {
-      "not_after": "2026-11-01",
-      "org": "Управление делами Правительсва Саратовской области",
-      "inn": "6450526524",
-      "ogrn": "1026402203068"
     },
     "levashov-studio.ru": {
       "not_after": "2027-08-20"
@@ -43483,7 +43396,7 @@
       "ogrn": "1027739850962"
     },
     "m2m.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-30"
     },
     "m2q.region.broker": {
       "not_after": "2027-02-17",
@@ -44469,12 +44382,6 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "mail.halva.com": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "mail.halva.email": {
       "not_after": "2026-12-22",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
@@ -44487,26 +44394,8 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "mail.halva.market": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "mail.halva.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "mail.halva.tel": {
       "not_after": "2026-12-22",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "mail.halvacart.ru": {
-      "not_after": "2026-11-01",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
@@ -44514,12 +44403,6 @@
     "mail.halvagame.ru": {
       "not_after": "2026-12-16",
       "org": "PJSC SOVCOMBANK",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "mail.halvakard.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -46373,9 +46256,6 @@
       "org": "АО МАКС-М",
       "inn": "7702030351",
       "ogrn": "1027739099772"
-    },
-    "makeyev.ru": {
-      "not_after": "2026-11-01"
     },
     "malchikovma.ru": {
       "not_after": "2027-07-31"
@@ -50730,9 +50610,6 @@
       "inn": "5024203640",
       "ogrn": "1205000024316"
     },
-    "msg.acti.ru": {
-      "not_after": "2026-11-01"
-    },
     "msg.akbars.ru": {
       "not_after": "2027-07-31",
       "org": "ПАО АК БАРС БАНК",
@@ -52312,9 +52189,6 @@
       "inn": "8603169210",
       "ogrn": "1098603009295"
     },
-    "n.19dx.ru": {
-      "not_after": "2026-11-01"
-    },
     "n3health.ru": {
       "not_after": "2027-03-31",
       "org": "ООО ЭлНетМед",
@@ -53601,6 +53475,9 @@
       "org": "School-21",
       "inn": "5321033744",
       "ogrn": "1025300780075"
+    },
+    "nova.stellar.astralinux.ru": {
+      "not_after": "2027-01-30"
     },
     "nova.vk.team": {
       "not_after": "2027-07-15",
@@ -55134,9 +55011,6 @@
       "org": "VTB Bank (PJSC)",
       "inn": "7702070139",
       "ogrn": "1027739609391"
-    },
-    "omv-dev.demo.megafon.ru": {
-      "not_after": "2026-11-01"
     },
     "omv.megafon.ru": {
       "not_after": "2027-01-07"
@@ -57037,12 +56911,6 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "owa.halva.com": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "owa.halva.email": {
       "not_after": "2026-12-22",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
@@ -57055,26 +56923,8 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "owa.halva.market": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "owa.halva.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "owa.halva.tel": {
       "not_after": "2026-12-22",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "owa.halvacart.ru": {
-      "not_after": "2026-11-01",
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
@@ -57082,12 +56932,6 @@
     "owa.halvagame.ru": {
       "not_after": "2026-12-16",
       "org": "PJSC SOVCOMBANK",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "owa.halvakard.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -59730,12 +59574,6 @@
     },
     "pdm.mkp.ru.net": {
       "not_after": "2027-08-13"
-    },
-    "pdp-develop.demo.megafon.ru": {
-      "not_after": "2026-11-01"
-    },
-    "pdp-master.demo.megafon.ru": {
-      "not_after": "2026-11-01"
     },
     "pdp.vbrr.ru": {
       "not_after": "2027-06-17",
@@ -68554,30 +68392,6 @@
       "inn": "7744000302",
       "ogrn": "1027739326449"
     },
-    "rzd-cms.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m05.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd-expe-m06.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
-    "rzd.expe-cl01.css.rzd.ru": {
-      "not_after": "2026-11-01",
-      "org": "Open Joint Stock Company Russian Railways",
-      "inn": "7708503727",
-      "ogrn": "1037739877295"
-    },
     "rzd.ru": {
       "not_after": "2027-06-23",
       "org": "ОАО РЖД",
@@ -69510,12 +69324,6 @@
     },
     "saratov.dev.home.megafon.ru": {
       "not_after": "2027-01-06"
-    },
-    "saratov.gov.ru": {
-      "not_after": "2026-11-01",
-      "org": "Управление делами Правительсва Саратовской области",
-      "inn": "6450526524",
-      "ogrn": "1026402203068"
     },
     "saratov.home.megafon.ru": {
       "not_after": "2026-12-28"
@@ -71878,12 +71686,6 @@
       "inn": "7707515984",
       "ogrn": "1047796261512"
     },
-    "sed.saratov.gov.ru": {
-      "not_after": "2026-11-01",
-      "org": "Управление делами Правительсва Саратовской области",
-      "inn": "6450526524",
-      "ogrn": "1026402203068"
-    },
     "sedomb.energo.ru": {
       "not_after": "2027-03-20",
       "org": "ПАО Россети Ленэнерго",
@@ -71921,10 +71723,10 @@
       "ogrn": "1027700149124"
     },
     "self.moneta.ru": {
-      "not_after": "2026-11-30"
+      "not_after": "2027-01-31"
     },
     "self.payanyway.ru": {
-      "not_after": "2026-11-30"
+      "not_after": "2027-01-31"
     },
     "self.sber.ru": {
       "not_after": "2027-09-17",
@@ -72107,7 +71909,7 @@
       "ogrn": "1027739850962"
     },
     "sep-in-sbms-ns2.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-30"
     },
     "septemcapital.ru": {
       "not_after": "2026-12-19",
@@ -72591,6 +72393,9 @@
       "org": "GAU DPO RO IRO",
       "inn": "6167109863",
       "ogrn": "1126195015143"
+    },
+    "sh.stellar.astralinux.ru": {
+      "not_after": "2027-01-30"
     },
     "shagp1.ru": {
       "not_after": "2027-08-11",
@@ -73491,9 +73296,6 @@
       "org": "ООО КИОН",
       "inn": "7707434100",
       "ogrn": "1197746576060"
-    },
-    "skiorganaizer.ru": {
-      "not_after": "2026-11-01"
     },
     "skit.rt.ru": {
       "not_after": "2027-03-30",
@@ -77957,7 +77759,7 @@
       "not_after": "2027-01-07"
     },
     "static0.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-01-30"
     },
     "static01.mts.ru": {
       "not_after": "2027-07-29",
@@ -79891,9 +79693,6 @@
       "inn": "9728153016",
       "ogrn": "1257700136100"
     },
-    "tanya.msural.ru": {
-      "not_after": "2026-11-01"
-    },
     "tap.vk.team": {
       "not_after": "2027-06-26",
       "org": "VK LLC",
@@ -81342,9 +81141,6 @@
       "org": "PJSC Rostelecom",
       "inn": "7707049388",
       "ogrn": "1027700198767"
-    },
-    "test.certhub-test.vk.com": {
-      "not_after": "2026-11-01"
     },
     "test.crct.mosreg.ru": {
       "not_after": "2027-09-22",
@@ -84531,9 +84327,6 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
-    "uir-ovpn.acti.ru": {
-      "not_after": "2026-11-01"
-    },
     "uismb.api.vtb.ru": {
       "not_after": "2027-06-29",
       "org": "VTB Bank (PJSC)",
@@ -86688,12 +86481,6 @@
       "inn": "7812014560",
       "ogrn": "1027809169585"
     },
-    "videoconf.saratov.gov.ru": {
-      "not_after": "2026-11-01",
-      "org": "Управление делами Правительсва Саратовской области",
-      "inn": "6450526524",
-      "ogrn": "1026402203068"
-    },
     "videocorp.tricolor.ru": {
       "not_after": "2027-08-06",
       "org": "NAO National Satellite Company",
@@ -86794,7 +86581,7 @@
       "not_after": "2027-01-14"
     },
     "visitor.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-01-30"
     },
     "visitvmz.omk.ru": {
       "not_after": "2027-07-29",
@@ -90029,6 +89816,9 @@
       "org": "Sberbank-Service LLC",
       "inn": "7736663049",
       "ogrn": "1137746703709"
+    },
+    "wiki.stellar.astralinux.ru": {
+      "not_after": "2027-01-30"
     },
     "wiki.szd.stcnet.ru": {
       "not_after": "2027-01-27"
@@ -95082,12 +94872,6 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "www.halva.market": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "www.halva.promo": {
       "not_after": "2027-08-14",
       "org": "PJSC SOVCOMBANK",
@@ -95106,21 +94890,9 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "www.halvacart.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
     "www.halvagame.ru": {
       "not_after": "2026-12-16",
       "org": "PJSC SOVCOMBANK",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
-    },
-    "www.halvakard.ru": {
-      "not_after": "2026-11-01",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -103298,9 +103070,6 @@
       "org": "Минобороны России",
       "inn": "7704252261",
       "ogrn": "1037700255284"
-    },
-    "xn----dtbhazejp5ah.xn--p1ai": {
-      "not_after": "2026-11-01"
     },
     "xn----dtbhhgacmda3ad6au3ah3f3b4e.xn--p1ai": {
       "not_after": "2027-03-04"

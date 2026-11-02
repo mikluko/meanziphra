@@ -69,7 +69,6 @@ atomstandart.ru
 atomyze.ru
 atriumnn.ru
 auditkso.ru
-auth.ai-mnesis.ru
 autodiscover.roscap.ru
 autourist72.ru
 avro.su
@@ -91,7 +90,6 @@ bitrix.rusprof.ru
 bkfortuna.ru
 bmki.ru
 bonch.su
-bonus.kilbil.ru
 bootcamp.pcbltools.ru
 bremeco.ru
 bs.clickso.ru
@@ -110,7 +108,6 @@ cdn.tribastion.ru
 cdo-first.ru
 cdo.biglv.ru
 certhub-beta.onecld.ru
-cgbp.ru
 cge-amur.ru
 charlie.mici.imgsmail.ru
 ckk.kszn34.ru
@@ -119,6 +116,7 @@ climamos.ru
 coachspace.ru
 comfort-max.ru
 companyprofile.ru
+config.bonus.kilbil.ru
 config.kilbil.ru
 confluence.ocs.ru
 connect.ru
@@ -331,7 +329,6 @@ le-test-273-2.servicecdn.ru
 lecta.ru
 lemondate.ru
 len.rspp.ru
-lermontovka-spb.ru
 levashov-studio.ru
 lexgarant.ru
 link-or.ru
@@ -357,7 +354,6 @@ mail.tverstandart.ru
 mailsrv.in-vent.ru
 main.ipc.rssi.ru
 makclife.ru
-makeyev.ru
 malchikovma.ru
 manbbq.ru
 marketing.ocs.ru
@@ -409,7 +405,6 @@ mriyathlon.ru
 msb.msbps.ru
 msbapps.ru
 mschcentr74.ru
-msg.acti.ru
 msg.kznamya.ru
 msgrf.ru
 msis174.ru
@@ -427,7 +422,6 @@ myjunkstorage.ru
 mylovar.ru
 mymedex.ru
 myproficit.ru
-n.19dx.ru
 n3health.ru
 na-podpisi.ru
 narhsi.ru
@@ -452,6 +446,7 @@ nixwan.ru
 nloto.ru
 nmt54.ru
 noizzy.ru
+nova.stellar.astralinux.ru
 nrservice.ru
 ns0.ru
 nuc-probe-1457.devkz.ru
@@ -617,7 +612,6 @@ sistemagorod.ru
 sitepms.cumcraft.ru
 sitnikovpravo.ru
 sk.ru
-skiorganaizer.ru
 skladrom.ru
 slivaem-vodu-dev.ru
 slizzz.ru
@@ -675,7 +669,6 @@ tabrasa.ru
 tambov.rspp.ru
 tamga-group.ru
 tangrm.ru
-tanya.msural.ru
 tashorikov.ru
 taxmon.berks.ru
 taxmon.merlion.ru
@@ -769,7 +762,6 @@ xn----7sbnqazjhcv.xn--p1ai
 xn----7sbnqvigct4i.xn--p1ai
 xn----8sbmmlgncfbgqis7m.xn--p1ai
 xn----8sbmnfeuhiwe3n.xn--p1ai
-xn----dtbhazejp5ah.xn--p1ai
 xn----dtbhhgacmda3ad6au3ah3f3b4e.xn--p1ai
 xn--2-8sbo4ds.xn--p1ai
 xn--38-1lcys.xn--p1ai
