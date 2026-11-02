@@ -694,7 +694,6 @@ sakhalin.gov.ru
 sakhminfin.ru
 saki-pirogova.ru
 samadm.ru
-saratov.gov.ru
 sats.spb.ru
 sayanreabil.ru
 sbmcollege.ru
@@ -823,7 +822,6 @@ udmurt.ru
 ufin48.ru
 ug-rr.ru
 ugzko.ru
-uir-ovpn.acti.ru
 uits.spb.ru
 ukshmao.ru
 uloblkazna.ru

@@ -1,10 +1,6 @@
 {
   "fingerprint": "1b7fd2c040010ea38b5ba5db7f05a6871d421fdf30b16d4233dd0155603e11fa",
   "entries": {
-    "name:12.rospotrebnadzor.ru": {
-      "category": "gov",
-      "confidence": 0.99
-    },
     "name:13.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
@@ -601,10 +597,6 @@
       "confidence": 0.42,
       "review": true
     },
-    "name:auth.ai-mnesis.ru": {
-      "category": "other",
-      "confidence": 0.71
-    },
     "name:auth.avangard.ru": {
       "category": "industry",
       "confidence": 0.41,
@@ -731,10 +723,6 @@
     "name:b2c-dbofl-web-auth-test.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.98
-    },
-    "name:b2c-dbofl-web-domapi.domrfbank.ru": {
-      "category": "banks",
-      "confidence": 0.99
     },
     "name:b2c-dbofl-web-pccard.domrfbank.ru": {
       "category": "banks",
@@ -882,10 +870,6 @@
     "name:bonch.su": {
       "category": "other",
       "confidence": 0.7
-    },
-    "name:bonus.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.85
     },
     "name:books.megafon.ru": {
       "category": "telecom",
@@ -1163,10 +1147,6 @@
       "confidence": 0.42,
       "review": true
     },
-    "name:cgbp.ru": {
-      "category": "other",
-      "confidence": 0.81
-    },
     "name:cge-amur.ru": {
       "category": "other",
       "confidence": 0.65
@@ -1358,11 +1338,6 @@
     "name:clstate.middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.89
-    },
-    "name:cmail.acti.ru": {
-      "category": "internet",
-      "confidence": 0.47,
-      "review": true
     },
     "name:cmiap-app.minzdrav.gov.ru": {
       "category": "gov",
@@ -2462,10 +2437,6 @@
     "name:geo-demo.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:geo-dev.demo.megafon.ru": {
-      "category": "telecom",
-      "confidence": 0.97
     },
     "name:geo-dev.test-middle.megafon.ru": {
       "category": "telecom",
@@ -3788,10 +3759,6 @@
       "confidence": 0.31,
       "review": true
     },
-    "name:lermontovka-spb.ru": {
-      "category": "other",
-      "confidence": 0.86
-    },
     "name:levashov-studio.ru": {
       "category": "other",
       "confidence": 0.91
@@ -4104,10 +4071,6 @@
       "category": "other",
       "confidence": 0.24,
       "review": true
-    },
-    "name:makeyev.ru": {
-      "category": "other",
-      "confidence": 0.84
     },
     "name:malchikovma.ru": {
       "category": "other",
@@ -4511,11 +4474,6 @@
       "confidence": 0.46,
       "review": true
     },
-    "name:msg.acti.ru": {
-      "category": "other",
-      "confidence": 0.54,
-      "review": true
-    },
     "name:msg.kznamya.ru": {
       "category": "other",
       "confidence": 0.41,
@@ -4695,10 +4653,6 @@
       "category": "telecom",
       "confidence": 0.89
     },
-    "name:n.19dx.ru": {
-      "category": "other",
-      "confidence": 0.81
-    },
     "name:n8n.aironteh.ru": {
       "category": "other",
       "confidence": 0.47,
@@ -4837,6 +4791,11 @@
     "name:noizzy.ru": {
       "category": "other",
       "confidence": 0.78
+    },
+    "name:nova.stellar.astralinux.ru": {
+      "category": "other",
+      "confidence": 0.52,
+      "review": true
     },
     "name:novatek.asugo.ru": {
       "category": "industry",
@@ -5010,10 +4969,6 @@
     "name:omsk.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:omv-dev.demo.megafon.ru": {
-      "category": "telecom",
-      "confidence": 0.94
     },
     "name:omv.megafon.ru": {
       "category": "telecom",
@@ -5340,14 +5295,6 @@
     "name:pcidss.uat.bank.yandex.ru": {
       "category": "banks",
       "confidence": 0.71
-    },
-    "name:pdp-develop.demo.megafon.ru": {
-      "category": "telecom",
-      "confidence": 0.98
-    },
-    "name:pdp-master.demo.megafon.ru": {
-      "category": "telecom",
-      "confidence": 0.98
     },
     "name:pentaschool.ru": {
       "category": "other",
@@ -6373,6 +6320,11 @@
       "confidence": 0.43,
       "review": true
     },
+    "name:sh.stellar.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.54,
+      "review": true
+    },
     "name:share.sbrf-capital.ru": {
       "category": "banks",
       "confidence": 0.66
@@ -6462,10 +6414,6 @@
     "name:skh.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:skiorganaizer.ru": {
-      "category": "other",
-      "confidence": 0.89
     },
     "name:slider.vkteam.ru": {
       "category": "internet",
@@ -6946,10 +6894,6 @@
       "category": "other",
       "confidence": 0.44,
       "review": true
-    },
-    "name:tanya.msural.ru": {
-      "category": "other",
-      "confidence": 0.79
     },
     "name:target.test-middle.megafon.ru": {
       "category": "telecom",
@@ -7464,11 +7408,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:uir-ovpn.acti.ru": {
-      "category": "gov",
-      "confidence": 0.45,
-      "review": true
-    },
     "name:uk-profit-capital.ru": {
       "category": "other",
       "confidence": 0.84
@@ -7924,6 +7863,10 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:wiki.stellar.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.76
+    },
     "name:wiki.szd.stcnet.ru": {
       "category": "transport",
       "confidence": 0.45,
@@ -8315,10 +8258,6 @@
     "name:xn----8sbmmlgncfbgqis7m.xn--p1ai": {
       "category": "other",
       "confidence": 0.84
-    },
-    "name:xn----dtbhazejp5ah.xn--p1ai": {
-      "category": "other",
-      "confidence": 0.86
     },
     "name:xn----dtbhhgacmda3ad6au3ah3f3b4e.xn--p1ai": {
       "category": "other",
@@ -10282,11 +10221,6 @@
       "category": "gov",
       "confidence": 1,
       "org": "Саратовская областная Дума"
-    },
-    "ogrn:1026402203068": {
-      "category": "gov",
-      "confidence": 1,
-      "org": "Управление делами Правительсва Саратовской области"
     },
     "ogrn:1026402205246": {
       "category": "gov",
