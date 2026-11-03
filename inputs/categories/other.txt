@@ -94,7 +94,6 @@ bootcamp.pcbltools.ru
 bremeco.ru
 bs.clickso.ru
 bsigroup.ru
-btx2.in-vent.ru
 buduryadom.ru
 burgerkingrus.ru
 c-k.ru
@@ -108,6 +107,7 @@ cdn.tribastion.ru
 cdo-first.ru
 cdo.biglv.ru
 certhub-beta.onecld.ru
+cgbp.ru
 cge-amur.ru
 charlie.mici.imgsmail.ru
 ckk.kszn34.ru
@@ -116,8 +116,6 @@ climamos.ru
 coachspace.ru
 comfort-max.ru
 companyprofile.ru
-config.bonus.kilbil.ru
-config.kilbil.ru
 confluence.ocs.ru
 connect.ru
 corp.avangard.ru
@@ -161,7 +159,6 @@ distant-college.ru
 dns.supportec.servicecdn.ru
 doc.sfmo.ru
 docdoc.ru
-docs.kilbil.ru
 doksignal.ru
 domstrazh.ru
 dpomipk.ru
@@ -177,9 +174,6 @@ edinros.ru
 edo.gupti.ru
 edscontrol.ru
 edu-assist.ru
-edu.kilbil.ru
-edusales.kilbil.ru
-edutech.kilbil.ru
 efis-nco.ru
 electricpastuh.ru
 elisov.ru
@@ -200,7 +194,6 @@ express2.roe.ru
 f4opt.ru
 fbq.ru
 fc-zenit.ru
-feedback.kilbil.ru
 fesskov.ru
 fileexch.aspirelifestyles.ru
 filjus.ru
@@ -225,7 +218,6 @@ gigaagent.ru
 gilenko.ru
 git.klgd.su
 gnpch.ru
-go.kilbil.ru
 gofocus.ru
 golodyaev.ru
 gornoaltaysk.ru
@@ -246,7 +238,6 @@ hair-boutique.ru
 harness-1.brain-flow.ru
 harness-2.brain-flow.ru
 harness-3.brain-flow.ru
-help.kilbil.ru
 helpms.ru
 hill5.ru
 hold-lm.test.nextcontact.ru
@@ -262,9 +253,11 @@ ikac.ru
 ikar-eng.ru
 imbok.ru
 imsi.megalocator.ru
+in-vent.ru
 industrialconsulting.ru
 inforion.ru
 informlaw.ru
+ingoread.ru
 inheaven.ru
 integ32.ru
 intelcube.ru
@@ -279,6 +272,7 @@ isiton.ru
 it-brigita.ru
 it-earth.ru
 it-kizlyar.ru
+it-service57.ru
 it24online.ru
 itadmin.su
 iva-tech.ru
@@ -307,6 +301,7 @@ knigozakaz.ru
 kolibrisoft.ru
 komontrol.ru
 komtet.ru
+koresh-panel.ru
 korotyshev.ru
 kotlin-novator.ru
 kozlov-roman.ru
@@ -321,7 +316,6 @@ kubzan.ru
 kulsmi.ru
 kuzgosweb.kemobl.ru
 kxte.ru
-l.kilbil.ru
 lakoai.ru
 lavateka.ru
 lazurmedical.ru
@@ -334,7 +328,6 @@ lexgarant.ru
 link-or.ru
 link.gorizont-project.ru
 liveservice.spb.ru
-lk.kilbil.ru
 lksr.ru
 lms.lomt.ru
 lnr.rspp.ru
@@ -351,7 +344,6 @@ mail.kcplant.ru
 mail.myclans.ru
 mail.sirfol.ru
 mail.tverstandart.ru
-mailsrv.in-vent.ru
 main.ipc.rssi.ru
 makclife.ru
 malchikovma.ru
@@ -483,9 +475,7 @@ ostec-test.ru
 ot.its61.ru
 ov.deadtroll.ru
 ozkpromo.kion.ru
-p1a.kilbil.ru
 p46spb.ru
-p75.spb.ru
 pakhonin.ru
 paritet.ru
 partner-reestr.ru
@@ -512,7 +502,6 @@ pndfr.ru
 po-rubly.ru
 podvigi-rossii.ru
 polosatayaloshadka.ru
-portal.acti.ru
 portal.grand-tm.ru
 pr-cbs.ru
 practica.pro.consyst-os.ru
@@ -532,6 +521,7 @@ profitserv.ru
 project.donntu.ru
 promo.max.ru
 promo.oneme.ru
+prosdr.ru
 prosv.ru
 prrr.ru
 pulse-hcm.ru
@@ -687,7 +677,6 @@ test273.servicecdn.ru
 testcr8.novikom.ru
 themm.ru
 tolokonnikov.ru
-tool.kilbil.ru
 traptech.ru
 trcnf.rspp.ru
 tripee.ru
@@ -699,7 +688,6 @@ tv.rspp.ru
 twistask.ru
 ucparma.ru
 uk-profit-capital.ru
-umcusp.ru
 umius.ru
 unigate-stage.tickets.onecld.ru
 unigate.tickets.onecld.ru
@@ -739,7 +727,6 @@ vpn.radostev.ru
 vpnaccess.avangard.ru
 vremenagoda51.ru
 vyb.spb.ru
-wallet.kilbil.ru
 warui.ru
 werlock.ru
 wild-bot-max.ru

@@ -3,6 +3,7 @@
 13z.sbermegamarket.sigma.sbrf.ru
 absoluttrade.ru
 alfapoint-loyalty.ru
+api-sravni.imp.prod.pdp.rgs.ru
 api.lamoda.ru
 arbor-vitae.ru
 ashmao.ru
@@ -111,7 +112,6 @@ test-megamarket.ru
 tinko.ru
 transport.bifit.ru
 tvoymagnit.ru
-usadba-shop.ru
 uznaipro.ru
 valdai.ru
 velosport.ru
