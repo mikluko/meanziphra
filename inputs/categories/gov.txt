@@ -70,7 +70,6 @@ audit.gov.ru
 autodiscover.admsurgut.ru
 autodiscover.oparina4.ru
 avtobaza-ogv.ru
-azs.mari-el.gov.ru
 balahonovskiy-pni.stv.socinfo.ru
 bdmsh.stv.muzkult.ru
 bee-saturn.ru
@@ -460,6 +459,7 @@ mail.plagate.ru
 mail.rpnrb.ufanet.ru
 map.mgis42.ru
 mapm.ru
+mari-el.gov.ru
 mari-karta.ru
 max.sut.ru
 maxlib.ru
@@ -547,6 +547,7 @@ nii-vektor.ru
 niig.su
 niineptun.ru
 niipolyus.ru
+niisi.ru
 niitp.ru
 nimro.ru
 nioch.nsc.ru
@@ -697,7 +698,6 @@ samadm.ru
 sats.spb.ru
 sayanreabil.ru
 sbmcollege.ru
-sc.mari-el.gov.ru
 sch435.ru
 sch435.spb.ru
 school-134.ru
@@ -737,6 +737,7 @@ smirview.plagate.ru
 smurk.ru
 sndko.ru
 soc23.ru
+soccard.ru
 socfmba.ru
 sofpni.stv.socinfo.ru
 sp15spb.ru
@@ -830,6 +831,7 @@ umfc42.ru
 umfc48.ru
 untar.ru
 uobr.ru
+updk.ru
 uprio.ru
 uprvetrk.ru
 urfu.ru

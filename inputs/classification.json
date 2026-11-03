@@ -431,6 +431,11 @@
       "category": "transport",
       "confidence": 0.81
     },
+    "name:api-sravni.imp.prod.pdp.rgs.ru": {
+      "category": "marketplaces",
+      "confidence": 0.18,
+      "review": true
+    },
     "name:api-test.megafon.ru": {
       "category": "telecom",
       "confidence": 1
@@ -992,10 +997,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:ca1.beeline.ru": {
-      "category": "telecom",
-      "confidence": 0.92
-    },
     "name:ca2.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
@@ -1146,6 +1147,10 @@
       "category": "other",
       "confidence": 0.42,
       "review": true
+    },
+    "name:cgbp.ru": {
+      "category": "other",
+      "confidence": 0.76
     },
     "name:cge-amur.ru": {
       "category": "other",
@@ -1300,6 +1305,10 @@
       "category": "industry",
       "confidence": 0.9
     },
+    "name:cloud.digitallogisticsrzd.ru": {
+      "category": "transport",
+      "confidence": 0.9
+    },
     "name:cloud.edge.sberdevices.ru": {
       "category": "banks",
       "confidence": 0.52,
@@ -1374,14 +1383,6 @@
     "name:cometa.sberclass.ru": {
       "category": "banks",
       "confidence": 0.82
-    },
-    "name:config.bonus.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.85
-    },
-    "name:config.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.92
     },
     "name:confluence.ocs.ru": {
       "category": "other",
@@ -1540,6 +1541,10 @@
     "name:crypto-tls-cc.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
+    },
+    "name:ct3d.sd.ascon.ru": {
+      "category": "industry",
+      "confidence": 0.69
     },
     "name:ctio-frn.spb.ru": {
       "category": "other",
@@ -1816,6 +1821,10 @@
       "category": "banks",
       "confidence": 0.9
     },
+    "name:devsec.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.69
+    },
     "name:dg-money.mail.ru": {
       "category": "internet",
       "confidence": 0.76
@@ -1835,6 +1844,10 @@
     "name:digital-marketplace.megafon.ru": {
       "category": "telecom",
       "confidence": 0.9
+    },
+    "name:digitallogisticsrzd.ru": {
+      "category": "transport",
+      "confidence": 0.92
     },
     "name:dip.kubzan.ru": {
       "category": "other",
@@ -1895,10 +1908,6 @@
     "name:docs.hub.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:docs.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.92
     },
     "name:docscan.cdn-tinkoff.ru": {
       "category": "banks",
@@ -2054,11 +2063,6 @@
       "category": "gov",
       "confidence": 0.71
     },
-    "name:edu.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.45,
-      "review": true
-    },
     "name:edu.vi.fsin.gov.ru": {
       "category": "gov",
       "confidence": 0.92
@@ -2066,14 +2070,6 @@
     "name:edu.vui.fsin.gov.ru": {
       "category": "gov",
       "confidence": 0.94
-    },
-    "name:edusales.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.85
-    },
-    "name:edutech.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.83
     },
     "name:efis-nco.ru": {
       "category": "other",
@@ -2261,10 +2257,6 @@
     "name:fed-adfs.megafon.ru": {
       "category": "telecom",
       "confidence": 1
-    },
-    "name:feedback.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.89
     },
     "name:feedback.megafon.ru": {
       "category": "telecom",
@@ -2503,10 +2495,6 @@
       "confidence": 0.22,
       "review": true
     },
-    "name:go.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.9
-    },
     "name:go.mobileid.megafon.ru": {
       "category": "telecom",
       "confidence": 1
@@ -2723,10 +2711,6 @@
     "name:help.home.megafon.ru": {
       "category": "telecom",
       "confidence": 1
-    },
-    "name:help.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.87
     },
     "name:hermes-predoperator.test-middle.megafon.ru": {
       "category": "telecom",
@@ -2948,6 +2932,10 @@
       "confidence": 0.49,
       "review": true
     },
+    "name:in-vent.ru": {
+      "category": "other",
+      "confidence": 0.79
+    },
     "name:inf-bbb.inforion.ru": {
       "category": "other",
       "confidence": 0.52,
@@ -2994,6 +2982,10 @@
     "name:infrastructure-protection.edge.sberdevices.ru": {
       "category": "banks",
       "confidence": 0.89
+    },
+    "name:ingoread.ru": {
+      "category": "other",
+      "confidence": 0.9
     },
     "name:ingushetia.dev.home.megafon.ru": {
       "category": "telecom",
@@ -3126,6 +3118,11 @@
     "name:it-kizlyar.ru": {
       "category": "other",
       "confidence": 0.82
+    },
+    "name:it-service57.ru": {
+      "category": "other",
+      "confidence": 0.58,
+      "review": true
     },
     "name:it24online.ru": {
       "category": "other",
@@ -3524,6 +3521,10 @@
       "category": "other",
       "confidence": 0.84
     },
+    "name:koresh-panel.ru": {
+      "category": "other",
+      "confidence": 0.84
+    },
     "name:koriphey-beta.sberclass.ru": {
       "category": "banks",
       "confidence": 0.85
@@ -3692,10 +3693,6 @@
       "category": "other",
       "confidence": 0.81
     },
-    "name:l.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.97
-    },
     "name:lab.edu-assist.ru": {
       "category": "other",
       "confidence": 0.45,
@@ -3825,10 +3822,6 @@
       "category": "marketplaces",
       "confidence": 0.61
     },
-    "name:lk.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.86
-    },
     "name:lk.premiya.rspp.ru": {
       "category": "other",
       "confidence": 0.62
@@ -3955,11 +3948,6 @@
     "name:mail.79.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
-    },
-    "name:mail.acti.ru": {
-      "category": "internet",
-      "confidence": 0.42,
-      "review": true
     },
     "name:mail.argds.ru": {
       "category": "other",
@@ -5137,17 +5125,9 @@
       "category": "other",
       "confidence": 0.66
     },
-    "name:p1a.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.93
-    },
     "name:p46spb.ru": {
       "category": "other",
       "confidence": 0.85
-    },
-    "name:p75.spb.ru": {
-      "category": "other",
-      "confidence": 0.63
     },
     "name:pakhonin.ru": {
       "category": "other",
@@ -5482,11 +5462,6 @@
       "category": "other",
       "confidence": 0.83
     },
-    "name:portal.acti.ru": {
-      "category": "other",
-      "confidence": 0.31,
-      "review": true
-    },
     "name:portal.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -5636,6 +5611,10 @@
     "name:promocodes-api.middle.megafon.ru": {
       "category": "telecom",
       "confidence": 1
+    },
+    "name:prosdr.ru": {
+      "category": "other",
+      "confidence": 0.77
     },
     "name:prrr.ru": {
       "category": "other",
@@ -5887,6 +5866,10 @@
       "confidence": 0.45,
       "review": true
     },
+    "name:rmc.nkbank.ru": {
+      "category": "banks",
+      "confidence": 0.97
+    },
     "name:rmq.datacloud.itphx.ru": {
       "category": "other",
       "confidence": 0.38,
@@ -6010,10 +5993,6 @@
       "category": "industry",
       "confidence": 0.58,
       "review": true
-    },
-    "name:rusnarbank.ru": {
-      "category": "banks",
-      "confidence": 0.95
     },
     "name:rustdesk-oss.brain-flow.ru": {
       "category": "internet",
@@ -7235,10 +7214,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:tool.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.78
-    },
     "name:transfer.bank.yandex.ru": {
       "category": "banks",
       "confidence": 0.81
@@ -7428,10 +7403,6 @@
       "category": "telecom",
       "confidence": 1
     },
-    "name:umcusp.ru": {
-      "category": "other",
-      "confidence": 0.75
-    },
     "name:unigate-stage.tickets.onecld.ru": {
       "category": "other",
       "confidence": 0.57,
@@ -7457,11 +7428,6 @@
     "name:url-tcs-cl01.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:usadba-shop.ru": {
-      "category": "marketplaces",
-      "confidence": 0.46,
-      "review": true
     },
     "name:user.sberclass.ru": {
       "category": "banks",
@@ -7771,11 +7737,6 @@
     "name:vyb.spb.ru": {
       "category": "other",
       "confidence": 0.69
-    },
-    "name:wallet.kilbil.ru": {
-      "category": "other",
-      "confidence": 0.46,
-      "review": true
     },
     "name:warui.ru": {
       "category": "other",
@@ -10363,6 +10324,11 @@
       "confidence": 1,
       "org": "Ministerstvo finansov Tverskoi oblasti"
     },
+    "ogrn:1026900510647": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "ООО СО Тверьнефтепродукт"
+    },
     "ogrn:1027000002446": {
       "category": "banks",
       "confidence": 1,
@@ -10871,6 +10837,11 @@
       "confidence": 0.9,
       "org": "АО Цезарь Сателлит"
     },
+    "ogrn:1027700347840": {
+      "category": "gov",
+      "confidence": 0.95,
+      "org": "ГЛАВУПДК ПРИ МИД РОССИИ"
+    },
     "ogrn:1027700357244": {
       "category": "banks",
       "confidence": 1,
@@ -10886,6 +10857,11 @@
       "confidence": 0.36,
       "review": true,
       "org": "ЗАО ПРСД"
+    },
+    "ogrn:1027700384909": {
+      "category": "gov",
+      "confidence": 0.99,
+      "org": "NRC «Kurchatov Institute» - SRISA"
     },
     "ogrn:1027700404797": {
       "category": "internet",
@@ -10954,6 +10930,11 @@
       "category": "banks",
       "confidence": 0.81,
       "org": "Management company MKB Investments Limited"
+    },
+    "ogrn:1027702005891": {
+      "category": "gov",
+      "confidence": 0.99,
+      "org": "ГУП «Московский социальный регистр»"
     },
     "ogrn:1027707000441": {
       "category": "banks",
@@ -15010,6 +14991,11 @@
       "confidence": 1,
       "org": "Федеральное агентство по делам молодежи"
     },
+    "ogrn:1087847000020": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "АО СПМБМ Малахит"
+    },
     "ogrn:1089847002728": {
       "category": "gov",
       "confidence": 0.79,
@@ -15494,6 +15480,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "ООО \"ГАЗПРОМ ЭНЕРГОСБЫТ БРЯНСК\""
+    },
+    "ogrn:1111215000203": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Министерство цифрового развития Республики Марий Эл"
     },
     "ogrn:1111690052099": {
       "category": "marketplaces",

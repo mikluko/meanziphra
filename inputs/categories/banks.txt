@@ -15,6 +15,7 @@
 7304488.ru
 a-3.ru
 aaacapital.ru
+abank.ru
 abr.ru
 absolut-trust.ru
 absolutbank.ru
@@ -497,6 +498,7 @@ hpmail.vesta.ru
 hr-abk.ru
 iac.dev.sberdevices.ru
 ib.bankrsi.ru
+ib.rusnarbank.ru
 ibam.ru
 ibam24.ru
 ibank-nbsrf.ru
@@ -504,6 +506,7 @@ ibank.amanatpay.ru
 ibank.asiainvestbank.ru
 ibank.procommercebank.ru
 ibank.profitbank.ru
+ibank.rusnarbank.ru
 ibank.tpsb.com.ru
 ibispb.ru
 ic-trend.ru
@@ -692,6 +695,7 @@ mufg.ru
 multicarta.ru
 multipay.ru
 multiqr.ru
+mx2.rusnarbank.ru
 mx2.veb-leasing.ru
 my.gpbbroker.ru
 myfreshstart.ru
@@ -747,6 +751,7 @@ omobus.ru
 online.bnpparibasbank.ru
 online.payment.ru
 online.profilbank.ru
+online.rusnarbank.ru
 onlinecredit.ru
 open-am.ru
 open-broker.ru
@@ -902,7 +907,6 @@ rt-insurance.ru
 rubank.ru
 rusbsbank.ru
 rusfincorp.ru
-rusnarbank.ru
 russiacalling.ru
 russitabank.ru
 rzb.ru

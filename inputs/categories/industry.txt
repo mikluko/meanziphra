@@ -88,6 +88,7 @@ cordiant-learn.severstal.ru
 corporate.avangard.ru
 cpk-alrosa.ru
 crpribor.ru
+ct3d.sd.ascon.ru
 d360v2-cordiant-learn.severstal.ru
 d360v2-kompas.severstal.ru
 d360v2-study.severstal.ru
@@ -222,6 +223,7 @@ mail.almaz-antey.ru
 mail.energo.ru
 mail.rfipoteka.ru
 mail.tdzs.ru
+malachite-spb.ru
 mattermost.avangard.ru
 mbf.avangard.ru
 meatterminal.ru
@@ -399,6 +401,7 @@ tomskrts.ru
 transneft.ru
 trubodetal.ru
 tsnsapozhok.ru
+tvernefteproduct.ru
 tvoy-domovoy.ru
 uacrussia.ru
 uaz.ru
