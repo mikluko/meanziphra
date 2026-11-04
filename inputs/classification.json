@@ -37,10 +37,6 @@
       "category": "banks",
       "confidence": 0.83
     },
-    "name:3dsec.albank.ru": {
-      "category": "banks",
-      "confidence": 0.75
-    },
     "name:41.rospotrebnadzor.ru": {
       "category": "gov",
       "confidence": 0.99
@@ -221,10 +217,6 @@
     "name:ae-open.ris61edu.ru": {
       "category": "gov",
       "confidence": 0.67
-    },
-    "name:aebonline-api.albank.ru": {
-      "category": "banks",
-      "confidence": 0.83
     },
     "name:aes192.ru": {
       "category": "other",
@@ -798,10 +790,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:bbrbroker.ru": {
-      "category": "banks",
-      "confidence": 0.66
-    },
     "name:bcskda.ru": {
       "category": "other",
       "confidence": 0.76
@@ -867,10 +855,6 @@
     "name:bitrix.rusprof.ru": {
       "category": "other",
       "confidence": 0.71
-    },
-    "name:bo.albank.ru": {
-      "category": "banks",
-      "confidence": 0.93
     },
     "name:bonch.su": {
       "category": "other",
@@ -1264,6 +1248,11 @@
       "category": "telecom",
       "confidence": 0.99
     },
+    "name:citrix-rtk.ctx.mts.ru": {
+      "category": "other",
+      "confidence": 0.37,
+      "review": true
+    },
     "name:citrix.mtsbank.ru": {
       "category": "banks",
       "confidence": 0.98
@@ -1569,6 +1558,45 @@
       "confidence": 0.54,
       "review": true
     },
+    "name:ctxdvisso.ctx.mts.ru": {
+      "category": "other",
+      "confidence": 0.31,
+      "review": true
+    },
+    "name:ctxmskisso.ctx.mts.ru": {
+      "category": "other",
+      "confidence": 0.37,
+      "review": true
+    },
+    "name:ctxmskrsa2.ctx.mts.ru": {
+      "category": "transport",
+      "confidence": 0.25,
+      "review": true
+    },
+    "name:ctxmsksms2.ctx.mts.ru": {
+      "category": "telecom",
+      "confidence": 0.98
+    },
+    "name:ctxnwisso.ctx.mts.ru": {
+      "category": "other",
+      "confidence": 0.37,
+      "review": true
+    },
+    "name:ctxpvisso-reserve.ctx.mts.ru": {
+      "category": "other",
+      "confidence": 0.29,
+      "review": true
+    },
+    "name:ctxpvisso.ctx.mts.ru": {
+      "category": "other",
+      "confidence": 0.31,
+      "review": true
+    },
+    "name:ctxpvsms-reserve.ctx.mts.ru": {
+      "category": "telecom",
+      "confidence": 0.31,
+      "review": true
+    },
     "name:culture.gosuslugi.ru": {
       "category": "gov",
       "confidence": 1,
@@ -1750,6 +1778,11 @@
     "name:dev-api.addy.su": {
       "category": "internet",
       "confidence": 0.58,
+      "review": true
+    },
+    "name:dev-argocd.dev.lk.astra-team.ru": {
+      "category": "internet",
+      "confidence": 0.51,
       "review": true
     },
     "name:dev-lk.addy.su": {
@@ -2025,11 +2058,6 @@
     "name:econombank.ru": {
       "category": "banks",
       "confidence": 0.92
-    },
-    "name:ecs-kids-transport.albank.ru": {
-      "category": "transport",
-      "confidence": 0.45,
-      "review": true
     },
     "name:ed-industry.ru": {
       "category": "other",
@@ -2349,6 +2377,10 @@
       "category": "other",
       "confidence": 0.76
     },
+    "name:fpet2010.ru": {
+      "category": "other",
+      "confidence": 0.79
+    },
     "name:freelance.addy.su": {
       "category": "other",
       "confidence": 0.86
@@ -2534,10 +2566,6 @@
       "category": "other",
       "confidence": 0.58,
       "review": true
-    },
-    "name:gostelekom.ru": {
-      "category": "telecom",
-      "confidence": 0.91
     },
     "name:gosuslugi.ru": {
       "category": "gov",
@@ -2825,19 +2853,11 @@
       "confidence": 0.42,
       "review": true
     },
-    "name:ib.rusnarbank.ru": {
-      "category": "banks",
-      "confidence": 0.97
-    },
     "name:ibank.econombank.ru": {
       "category": "banks",
       "confidence": 0.99
     },
     "name:ibank.profitbank.ru": {
-      "category": "banks",
-      "confidence": 0.99
-    },
-    "name:ibank.rusnarbank.ru": {
       "category": "banks",
       "confidence": 0.99
     },
@@ -3124,6 +3144,10 @@
       "confidence": 0.58,
       "review": true
     },
+    "name:it.sv-e.ru": {
+      "category": "other",
+      "confidence": 0.78
+    },
     "name:it24online.ru": {
       "category": "other",
       "confidence": 0.67
@@ -3388,10 +3412,6 @@
     "name:kem.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.96
-    },
-    "name:kemcdo.ru": {
-      "category": "other",
-      "confidence": 0.74
     },
     "name:kemoblast.rspp.ru": {
       "category": "other",
@@ -4027,6 +4047,11 @@
       "category": "other",
       "confidence": 0.61
     },
+    "name:mail.szd.stcnet.ru": {
+      "category": "transport",
+      "confidence": 0.53,
+      "review": true
+    },
     "name:mail.tulamash.ru": {
       "category": "other",
       "confidence": 0.76
@@ -4331,6 +4356,10 @@
       "category": "banks",
       "confidence": 0.97
     },
+    "name:mirror.devsec.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.83
+    },
     "name:mistrikov.ru": {
       "category": "other",
       "confidence": 0.91
@@ -4562,10 +4591,6 @@
       "category": "banks",
       "confidence": 0.99
     },
-    "name:mx2.rusnarbank.ru": {
-      "category": "banks",
-      "confidence": 0.97
-    },
     "name:mxipa.msk.inforion.ru": {
       "category": "other",
       "confidence": 0.51,
@@ -4785,10 +4810,6 @@
       "confidence": 0.52,
       "review": true
     },
-    "name:novatek.asugo.ru": {
-      "category": "industry",
-      "confidence": 0.6
-    },
     "name:novgorod.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
@@ -4966,10 +4987,6 @@
       "category": "gov",
       "confidence": 0.93
     },
-    "name:online.albank.ru": {
-      "category": "banks",
-      "confidence": 0.81
-    },
     "name:online.datapol.ru": {
       "category": "other",
       "confidence": 0.7
@@ -4977,10 +4994,6 @@
     "name:online.econombank.ru": {
       "category": "banks",
       "confidence": 0.99
-    },
-    "name:online.rusnarbank.ru": {
-      "category": "banks",
-      "confidence": 0.97
     },
     "name:openapi.megafon.ru": {
       "category": "telecom",
@@ -5168,10 +5181,6 @@
     "name:pay-sandbox2.ivi-mc.ru": {
       "category": "banks",
       "confidence": 0.78
-    },
-    "name:pay.albank.ru": {
-      "category": "banks",
-      "confidence": 0.94
     },
     "name:pay.avangard.ru": {
       "category": "banks",
@@ -5461,6 +5470,11 @@
     "name:polosatayaloshadka.ru": {
       "category": "other",
       "confidence": 0.83
+    },
+    "name:portal.acti.ru": {
+      "category": "other",
+      "confidence": 0.31,
+      "review": true
     },
     "name:portal.megafon.ru": {
       "category": "telecom",
@@ -5958,10 +5972,6 @@
       "category": "telecom",
       "confidence": 0.95
     },
-    "name:rpmail.albank.ru": {
-      "category": "banks",
-      "confidence": 0.67
-    },
     "name:rtbapp.ru": {
       "category": "other",
       "confidence": 0.55,
@@ -6147,11 +6157,6 @@
     "name:sbp-online.econombank.ru": {
       "category": "banks",
       "confidence": 1
-    },
-    "name:sbp-transport.albank.ru": {
-      "category": "banks",
-      "confidence": 0.39,
-      "review": true
     },
     "name:sbp.nkbank.ru": {
       "category": "banks",
@@ -6393,6 +6398,10 @@
     "name:skh.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:skiorganaizer.ru": {
+      "category": "other",
+      "confidence": 0.9
     },
     "name:slider.vkteam.ru": {
       "category": "internet",
@@ -7226,11 +7235,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:transport.albank.ru": {
-      "category": "transport",
-      "confidence": 0.46,
-      "review": true
-    },
     "name:traptech.ru": {
       "category": "other",
       "confidence": 0.84
@@ -7758,10 +7762,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:webinars.albank.ru": {
-      "category": "banks",
-      "confidence": 0.76
-    },
     "name:weblk-digitalarm.test-middle.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -7798,6 +7798,11 @@
     "name:wh-cpg-dg.money.mail.ru": {
       "category": "internet",
       "confidence": 0.82
+    },
+    "name:whoami.devsec.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.46,
+      "review": true
     },
     "name:whocalls.megafon.ru": {
       "category": "telecom",
@@ -7878,10 +7883,6 @@
     "name:www.addy.su": {
       "category": "other",
       "confidence": 0.9
-    },
-    "name:www.albank.ru": {
-      "category": "banks",
-      "confidence": 0.71
     },
     "name:www.alljava.ru": {
       "category": "other",
@@ -8147,6 +8148,10 @@
     "name:www.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:www.sv-e.ru": {
+      "category": "other",
+      "confidence": 0.77
     },
     "name:www.t-boys.ru": {
       "category": "other",
@@ -9663,6 +9668,11 @@
       "confidence": 0.55,
       "review": true,
       "org": "Metrowagonmash"
+    },
+    "ogrn:1025003915243": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "Osipyan Institute of Solid State Physics RAS"
     },
     "ogrn:1025004642519": {
       "category": "other",
@@ -13867,6 +13877,11 @@
       "confidence": 1,
       "org": "Управление имущественных отношений Брянской области"
     },
+    "ogrn:1053443007287": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ФБУЗ «Центр гигиены и эпидемиологии в Волгоградской области»"
+    },
     "ogrn:1053500015580": {
       "category": "gov",
       "confidence": 1,
@@ -14247,6 +14262,12 @@
       "confidence": 1,
       "org": "Республиканское агентство по государственным закупкам"
     },
+    "ogrn:1061001070041": {
+      "category": "internet",
+      "confidence": 0.37,
+      "review": true,
+      "org": "ООО Инфолайн"
+    },
     "ogrn:1061101041770": {
       "category": "industry",
       "confidence": 0.31,
@@ -14620,6 +14641,11 @@
       "category": "transport",
       "confidence": 0.75,
       "org": "Ю-Ти-Джи - Экспресс"
+    },
+    "ogrn:1077759874070": {
+      "category": "industry",
+      "confidence": 0.76,
+      "org": "Акционерное общество «РТ-Техприемка»"
     },
     "ogrn:1077760297548": {
       "category": "telecom",

@@ -250,6 +250,7 @@ fgislk-test.gov.ru
 fgislk.gov.ru
 fgup-ohrana.ru
 fguz-tyumen.ru
+fguz-volgograd.ru
 fguzmo.ru
 ficto.ru
 finance.ivanovoobl.ru
@@ -376,6 +377,7 @@ iro22.ru
 iro38.ru
 irs-krsk.ru
 isp.nsc.ru
+issp.ac.ru
 issras.ru
 itam.nsc.ru
 itarctica.ru
