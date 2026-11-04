@@ -9,6 +9,7 @@
 1tv.ru
 2gis.ru
 abcconsulting.ru
+ac.infoline-rk.ru
 acti.ru
 activebt.ru
 adguard.artyums.ru
@@ -148,6 +149,7 @@ demo2.hycl.ru
 demo3.hycl.ru
 depository.ru
 dev-api.addy.su
+dev-argocd.dev.lk.astra-team.ru
 dev-mesh.ad-tech.ru
 dev-panel.addy.su
 dev-sso.dev.lk.astra-team.ru

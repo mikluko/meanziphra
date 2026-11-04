@@ -110,6 +110,7 @@ certhub-beta.onecld.ru
 cgbp.ru
 cge-amur.ru
 charlie.mici.imgsmail.ru
+citrix-rtk.ctx.mts.ru
 ckk.kszn34.ru
 cleantify.ru
 climamos.ru
@@ -132,6 +133,11 @@ crt-test-alpha.ru
 cryont.ru
 ctio-frn.spb.ru
 ctxcc.mbrd.ru
+ctxdvisso.ctx.mts.ru
+ctxmskisso.ctx.mts.ru
+ctxnwisso.ctx.mts.ru
+ctxpvisso-reserve.ctx.mts.ru
+ctxpvisso.ctx.mts.ru
 d-agency.su
 data-tracker.ru
 datapol.ru
@@ -202,6 +208,7 @@ fl-shop.ru
 formoplast.spb.ru
 foto.myhome365.ru
 foxford.ru
+fpet2010.ru
 freetato.ru
 frontkit.ru
 frsd.ru
@@ -273,6 +280,7 @@ it-brigita.ru
 it-earth.ru
 it-kizlyar.ru
 it-service57.ru
+it.sv-e.ru
 it24online.ru
 itadmin.su
 iva-tech.ru
@@ -288,7 +296,6 @@ kapmed.ru
 karo-film.ru
 karofilm.ru
 kartavoprosov.ru
-kemcdo.ru
 kemoblast.rspp.ru
 kept.ru
 keptstore.ru
@@ -502,6 +509,7 @@ pndfr.ru
 po-rubly.ru
 podvigi-rossii.ru
 polosatayaloshadka.ru
+portal.acti.ru
 portal.grand-tm.ru
 pr-cbs.ru
 practica.pro.consyst-os.ru
@@ -602,6 +610,7 @@ sistemagorod.ru
 sitepms.cumcraft.ru
 sitnikovpravo.ru
 sk.ru
+skiorganaizer.ru
 skladrom.ru
 slivaem-vodu-dev.ru
 slizzz.ru
@@ -741,6 +750,7 @@ www.latrenta.ru
 www.ocs.ru
 www.op-torg.ru
 www.skkmorf-sevkav.ru
+www.sv-e.ru
 www.t-boys.ru
 www.xn--d1auahegc7h.xn--p1ai
 wwwwwtest.t-boys.ru

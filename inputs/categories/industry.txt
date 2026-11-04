@@ -255,7 +255,6 @@ nordsy.spb.ru
 nornickel.ru
 nornik.ru
 novatek-spgt.ru
-novatek.asugo.ru
 novatek44.ru
 npk-spp.ru
 npk.ru
@@ -331,6 +330,7 @@ rosseti-lenenergo140.ru
 rosseti-ural.ru
 rosseti.ru
 rostec.ru
+rttec.ru
 rus.avangard.ru
 ruselectronics.ru
 russianspacesystems.ru
