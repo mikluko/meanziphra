@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 12754,
+    "https://27.ctlog.digital.gov.ru/2027/": 12779,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 13348
+    "https://ctlog2027.mail.ru/nca2027/": 13376
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -1601,6 +1601,9 @@
     },
     "ack-it.online": {
       "not_after": "2026-11-08"
+    },
+    "acme-test.devops-team.ru": {
+      "not_after": "2027-02-02"
     },
     "acptl.ru": {
       "not_after": "2027-06-30",
@@ -3769,14 +3772,11 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
-    "alko.aoapz.ru": {
-      "not_after": "2026-11-04"
-    },
     "alldealers-test.megafon.ru": {
       "not_after": "2026-12-09"
     },
     "alldealers.megafon.ru": {
-      "not_after": "2026-12-09"
+      "not_after": "2027-02-02"
     },
     "allinpower.ru": {
       "not_after": "2026-11-26",
@@ -4059,9 +4059,6 @@
       "org": "ООО ЖИЛОЙ МИКРОРАЙОН",
       "inn": "2807006565",
       "ogrn": "1182801007454"
-    },
-    "an.jtirussia.ru": {
-      "not_after": "2026-11-04"
     },
     "analytics-vk.ru": {
       "not_after": "2027-07-15",
@@ -9881,7 +9878,7 @@
       "ogrn": "1147746683479"
     },
     "b2b-yota-dev.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-02-02"
     },
     "b2b.alfastrah.ru": {
       "not_after": "2027-06-26",
@@ -14380,7 +14377,7 @@
       "ogrn": "1022302380638"
     },
     "cdn-afina.megafon.ru": {
-      "not_after": "2026-12-09"
+      "not_after": "2027-02-02"
     },
     "cdn-app.giga.chat": {
       "not_after": "2027-06-30",
@@ -14413,7 +14410,7 @@
       "not_after": "2026-11-29"
     },
     "cdn-hub.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-02-02"
     },
     "cdn-investor.sberbank.ru": {
       "not_after": "2027-06-23",
@@ -16641,9 +16638,6 @@
       "inn": "7803002209",
       "ogrn": "1027809170300"
     },
-    "climamos.ru": {
-      "not_after": "2026-11-04"
-    },
     "clm.mtsbank.ru": {
       "not_after": "2027-06-19",
       "org": "ПАО МТС-Банк",
@@ -16706,9 +16700,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "cloud.barnaultransmash.ru": {
-      "not_after": "2026-11-04"
     },
     "cloud.bspb.ru": {
       "not_after": "2027-02-03",
@@ -16958,6 +16949,9 @@
       "org": "Credit Bank of Moscow PJSC",
       "inn": "7734202860",
       "ogrn": "1027739555282"
+    },
+    "clown.olejka.ru": {
+      "not_after": "2027-02-02"
     },
     "cls.rambler.ru": {
       "not_after": "2027-07-29",
@@ -20190,9 +20184,6 @@
       "org": "VEB.RF",
       "inn": "7750004150",
       "ogrn": "1077711000102"
-    },
-    "dbo2.pikhtabank.ru": {
-      "not_after": "2026-11-04"
     },
     "dbocall.rshb.ru": {
       "not_after": "2027-07-09",
@@ -23974,9 +23965,6 @@
       "inn": "7707049388",
       "ogrn": "1027700198767"
     },
-    "dsyst.com": {
-      "not_after": "2026-11-04"
-    },
     "dt.uecrus.com": {
       "not_after": "2027-09-09",
       "org": "АО ОДК",
@@ -24445,6 +24433,9 @@
       "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
       "inn": "4401116480",
       "ogrn": "1144400000425"
+    },
+    "ecdsad384.fuckoff.site": {
+      "not_after": "2027-02-02"
     },
     "ecert.gov.ru": {
       "not_after": "2027-06-11",
@@ -29516,9 +29507,6 @@
       "org": "АО БАНК РУССКИЙ СТАНДАРТ",
       "inn": "7707056547",
       "ogrn": "1027739210630"
-    },
-    "gate.livetex.ru": {
-      "not_after": "2026-11-04"
     },
     "gate.petersburg.ru": {
       "not_after": "2027-09-10",
@@ -39412,7 +39400,7 @@
       "not_after": "2027-01-13"
     },
     "klg.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "klin.dev.home.megafon.ru": {
       "not_after": "2027-01-06"
@@ -40018,7 +40006,7 @@
       "not_after": "2027-01-05"
     },
     "ks.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "ksc1.sevstar.net": {
       "not_after": "2026-12-14"
@@ -40417,7 +40405,7 @@
       "ogrn": "1027739555282"
     },
     "kvk-tcs-cl01.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "kvvu-mo.21-school.ru": {
       "not_after": "2027-08-13",
@@ -41645,6 +41633,9 @@
       "org": "SberBank of the Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "lk.n-vartovsk.ru": {
+      "not_after": "2027-02-02"
     },
     "lk.noosferabank.ru": {
       "not_after": "2027-03-05",
@@ -43797,6 +43788,9 @@
       "inn": "7731084175",
       "ogrn": "1027739001993"
     },
+    "mail.anozit.ru": {
+      "not_after": "2027-02-03"
+    },
     "mail.api.mobilecheck.pro": {
       "not_after": "2027-06-25",
       "org": "LLC MOBILE CHECK",
@@ -45300,9 +45294,6 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
-    "mail.regulinvest.ru": {
-      "not_after": "2026-11-04"
-    },
     "mail.restapi-buh.sovcombank.ru": {
       "not_after": "2027-06-12",
       "org": "PJSC SOVCOMBANK",
@@ -46558,7 +46549,7 @@
       "not_after": "2027-01-18"
     },
     "mariel.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "marina-shop.ru": {
       "not_after": "2027-02-19",
@@ -60108,9 +60099,6 @@
       "inn": "7705136973",
       "ogrn": "1027700339666"
     },
-    "pikhtabank.ru": {
-      "not_after": "2026-11-04"
-    },
     "pikyug.ru": {
       "not_after": "2027-02-04",
       "org": "Общество с ограниченной ответственностью ПИК-ЮГ",
@@ -63391,7 +63379,7 @@
       "not_after": "2027-01-21"
     },
     "pskov.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "pskovadmin.ru": {
       "not_after": "2027-01-20",
@@ -72293,7 +72281,7 @@
       "not_after": "2027-01-28"
     },
     "sfb-vlgweb02.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "sfb-web.megafon.ru": {
       "not_after": "2027-01-20"
@@ -80999,7 +80987,7 @@
       "not_after": "2027-01-16"
     },
     "test-hub-informer.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-02"
     },
     "test-hub-mfd.middle.megafon.ru": {
       "not_after": "2026-12-14"
@@ -81758,6 +81746,9 @@
     },
     "test2.slavneft.ru": {
       "not_after": "2027-01-10"
+    },
+    "test2026.site": {
+      "not_after": "2027-02-02"
     },
     "test273.servicecdn.ru": {
       "not_after": "2026-12-14"
@@ -82774,7 +82765,7 @@
       "not_after": "2027-01-21"
     },
     "tom.staging.megafon.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-02"
     },
     "tomail.ru": {
       "not_after": "2027-08-04",
@@ -83767,7 +83758,7 @@
       "not_after": "2027-01-02"
     },
     "tver.megafon.ru": {
-      "not_after": "2026-12-30"
+      "not_after": "2027-02-02"
     },
     "tver.staging.megafon.ru": {
       "not_after": "2027-01-21"
@@ -87584,9 +87575,6 @@
       "org": "ГУП Водоканал Санкт-Петербурга",
       "inn": "7830000426",
       "ogrn": "1027809256254"
-    },
-    "vodolaga.ru": {
-      "not_after": "2026-11-04"
     },
     "voduberegi.ru": {
       "not_after": "2027-07-30",
@@ -103003,7 +102991,7 @@
       "not_after": "2026-12-14"
     },
     "x-srm.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-02-02"
     },
     "x-ti.sber.ru": {
       "not_after": "2027-07-29",
@@ -105569,9 +105557,6 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
-    },
-    "zentry.space": {
-      "not_after": "2026-11-04"
     },
     "zeppelin.eye.salute.ru": {
       "not_after": "2027-07-03",

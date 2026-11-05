@@ -15,6 +15,7 @@ aaz.su
 aba.ctrlz.ru
 abc.t-boys.ru
 academcity.ru
+acme-test.devops-team.ru
 adb-w.vkteam.ru
 addy.su
 admin.message-relay.ru
@@ -29,13 +30,11 @@ aironteh.ru
 akey.ocs.ru
 aktiv-rso.ru
 al.rspp.ru
-alko.aoapz.ru
 alljava.ru
 altastroy-nn.ru
 alupka-art.ru
 alzoro.ru
 am-infinity.ru
-an.jtirussia.ru
 andoc.ru
 anketa.ocs.ru
 ano-orbita.ru
@@ -113,7 +112,7 @@ charlie.mici.imgsmail.ru
 citrix-rtk.ctx.mts.ru
 ckk.kszn34.ru
 cleantify.ru
-climamos.ru
+clown.olejka.ru
 coachspace.ru
 comfort-max.ru
 companyprofile.ru
@@ -217,7 +216,6 @@ fundmir.ru
 furman.ru
 gain-up.ru
 gainup.ru
-gate.livetex.ru
 gc.lebedev.ru
 gi-solutions.ru
 giga-agent.ru
@@ -335,6 +333,7 @@ lexgarant.ru
 link-or.ru
 link.gorizont-project.ru
 liveservice.spb.ru
+lk.n-vartovsk.ru
 lksr.ru
 lms.lomt.ru
 lnr.rspp.ru
@@ -345,6 +344,7 @@ ltk.com.ru
 luchi.ru
 lundapadel.ru
 madhome.ru
+mail.anozit.ru
 mail.gupti.ru
 mail.ibs.ru
 mail.kcplant.ru
@@ -724,7 +724,6 @@ vkdigi1.fvds.ru
 vks.triniti.ru
 vnashemdvore.ru
 vo.rspp.ru
-vodolaga.ru
 volkgallery.ru
 volnu.ru
 vorontsov.msk.ru

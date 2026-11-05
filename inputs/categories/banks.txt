@@ -784,7 +784,6 @@ paymgate.ru
 paymo.ru
 pchtbnk.ru
 pfc-site-dev.pfc.ru
-pikhtabank.ru
 pilot-rpa.sberbank-service.ru
 pixel.rambler.ru
 plat-forma.ru
