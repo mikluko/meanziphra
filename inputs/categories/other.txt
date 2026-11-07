@@ -1,7 +1,6 @@
 # Домены категории other, по одному в строке. Файл пишет meanziphra update.
 # Запись разрешает домен и все его поддомены, поэтому *. не нужен.
 100ege.ru
-18650pro.ru
 1ya.su
 2440090.ru
 4270.ru
@@ -40,7 +39,6 @@ anketa.ocs.ru
 ano-orbita.ru
 ansap.ru
 ao-trend.ru
-aobron.ru
 aotrend.ru
 api.ocs.ru
 apprt.rspp.ru
@@ -146,7 +144,6 @@ dbo.spsc.ru
 dderevyanko.ru
 decosystems.ru
 delta-privod.ru
-demo.bifit.ru
 demo.epilogica.ru
 dengograd.ru
 derbent-parking.ru
@@ -205,6 +202,7 @@ filjus.ru
 fkr38.ru
 fl-shop.ru
 formoplast.spb.ru
+forum.retroweb.su
 foto.myhome365.ru
 foxford.ru
 fpet2010.ru
@@ -268,6 +266,7 @@ integ32.ru
 intelcube.ru
 intelwebs.ru
 intourist.ru
+investstav.ru
 ippss.ru
 ips.avangard.ru
 ipsnok.ru
@@ -298,12 +297,11 @@ kemoblast.rspp.ru
 kept.ru
 keptstore.ru
 kevseev.ru
-key.artyomk.ru
 kiekei.ru
+kilbil.ru
 kinokurort.ru
 kmp.ru
 knigozakaz.ru
-kolibrisoft.ru
 komontrol.ru
 komtet.ru
 koresh-panel.ru
@@ -333,11 +331,13 @@ lexgarant.ru
 link-or.ru
 link.gorizont-project.ru
 liveservice.spb.ru
+lk.katalog.rtcp.su
 lk.n-vartovsk.ru
 lksr.ru
 lms.lomt.ru
 lnr.rspp.ru
 lo-miac.ru
+local.doom-steel.ru
 lookl.ru
 lot-online.ru
 ltk.com.ru
@@ -408,6 +408,7 @@ msg.kznamya.ru
 msgrf.ru
 msis174.ru
 msitech.ru
+msk1.amvera.ru
 mt-plan.ru
 mtracker.ocs.ru
 murashow.ru
@@ -447,7 +448,6 @@ nmt54.ru
 noizzy.ru
 nova.stellar.astralinux.ru
 nrservice.ru
-ns0.ru
 nuc-probe-1457.devkz.ru
 nuc-probe-1659.devkz.ru
 nuc-probe-1711.devkz.ru
@@ -459,6 +459,7 @@ oa.roscap.ru
 oblako.katantsev.ru
 octoground.ru
 oknazone.ru
+oldnet.su
 omsk.rspp.ru
 oneliya.ru
 onelya.ru
@@ -505,6 +506,7 @@ planetaibs.ru
 platformatd.ru
 pmdemo.sbertech.ru
 pmplatform.ru
+pms.rtcp.su
 pndfr.ru
 po-rubly.ru
 podvigi-rossii.ru
@@ -525,11 +527,11 @@ probe.mddc.t-secrets.ru
 probe.perecle.ru
 prof-consultant.ru
 profinat.ru
-profitserv.ru
 project.donntu.ru
 promo.max.ru
 promo.oneme.ru
 prosdr.ru
+prostofotka.ru
 prosv.ru
 prrr.ru
 pulse-hcm.ru
@@ -597,6 +599,7 @@ sesufa.ru
 sfo-makalu.ru
 sfo-veleta.ru
 sharipovv.ru
+shaudinis.ru
 shibaev.su
 shilinka.ru
 shonichev.ru
@@ -694,7 +697,6 @@ ttt.t-boys.ru
 tulamash.ru
 tulaobr.ru
 tv.rspp.ru
-twistask.ru
 ucparma.ru
 uk-profit-capital.ru
 umius.ru
@@ -702,7 +704,6 @@ unigate-stage.tickets.onecld.ru
 unigate.tickets.onecld.ru
 unimatic.ru
 urgaps.ru
-utalk.su
 utz.ru
 v-dimitriadis.ru
 vahpesto.ru

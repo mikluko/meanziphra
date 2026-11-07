@@ -67,6 +67,7 @@ allinpower.ru
 alor.ru
 alorbroker.ru
 ankb.ru
+antifraudbigdata.t2.ru
 ao-rr.ru
 aoreestr.ru
 api-prep.expert-insapp.ru
@@ -331,6 +332,7 @@ demo-core-sbol.bnpltests.ru
 demo-landing.bnpltests.ru
 demo-partners.bnpltests.ru
 dengi.ru
+denizbank.ru
 derzhava.ru
 dfo.ru
 dfotech.ru
@@ -402,6 +404,7 @@ external.platichastyamiuat.ru
 fact-web-test.mbrd.ru
 factoring.ru
 faktura.ru
+fasp.ru
 fdom.su
 ffinpay.ru
 files-n.vneshbank.ru
@@ -540,6 +543,7 @@ insales.ru
 instant-pay.ru
 insurance.domoy.ru
 insurance.gippars.ru
+intact.ru
 intreco.ru
 invb.ru
 investekspert.ru
@@ -784,6 +788,7 @@ paymgate.ru
 paymo.ru
 pchtbnk.ru
 pfc-site-dev.pfc.ru
+pfc-site-test.pfc.ru
 pilot-rpa.sberbank-service.ru
 pixel.rambler.ru
 plat-forma.ru
