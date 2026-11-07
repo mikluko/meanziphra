@@ -666,6 +666,7 @@ ro.rspp.ru
 roddom-krd.ru
 romny28-npa.ru
 rosavtodor.gov.ru
+rosguard.gov.ru
 roskazna.gov.ru
 roskazna.ru
 rosleshoz.gov.ru
@@ -744,6 +745,7 @@ socfmba.ru
 sofpni.stv.socinfo.ru
 sp15spb.ru
 sp31.spb.ru
+spb-artschool.ru
 spbdshi3.ru
 spbeias.ru
 spbinvestment.ru
@@ -871,7 +873,6 @@ webapp.cgb-kushva.ru
 wiki-sibiriada.ru
 www.defense.ru
 www.meteo.nw.ru
-www.pirogov-vestnik.ru
 x-msg.ru
 xn----7sbaaabg3empormehdn6b2j3b.xn--p1ai
 xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
@@ -932,6 +933,7 @@ xn--80agfbmd3ajetfm6gxd.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80akjac6amacoe3n.xn--p1ai
 xn--80aphfga3a3b.xn--p1ai
+xn--80atoqz.xn--p1ai
 xn--90aenc5bq.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
 xn--b1aadecsaihi0amca3a.xn--p1ai

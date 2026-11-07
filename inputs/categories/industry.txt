@@ -207,7 +207,6 @@ kzmayak.ru
 kznamya.ru
 labmining.ru
 laspace.ru
-lemark.su
 len-cas.energo.ru
 lenenergo.ru
 limit.avangard.ru
@@ -374,6 +373,7 @@ sptz.ru
 st.avangard.ru
 stallect.ru
 stalsmt.ru
+star.ru
 stilkuhni.ru
 stpr.ru
 stroki.ru
@@ -432,6 +432,7 @@ vodokanal-museum.ru
 vodokanal-zagorod.ru
 vodokanal.spb.ru
 voduberegi.ru
+volnaspb.ru
 voltagelab.ru
 vorkuta.ru
 vsw.ru
