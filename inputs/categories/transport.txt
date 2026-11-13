@@ -1,12 +1,12 @@
 # Домены категории transport, по одному в строке. Файл пишет meanziphra update.
 # Запись разрешает домен и все его поддомены, поэтому *. не нужен.
+aeromax-defense.ru
 aeromax-group.ru
 airkaluga.ru
 akyamal.ru
 amur.rspp.ru
 api-r.trucko.ru
 atechnics.ru
-atsaero.ru
 aviashelf.ru
 avtobus-kirov.ru
 avtobus.spb.ru
@@ -22,8 +22,10 @@ citydrive.ru
 crimearw.ru
 ctxmskrsa2.ctx.mts.ru
 dbo.alnairao.ru
+defense-aeromax.ru
 delivery.ru
 dellin.ru
+deloports.ru
 digitallogisticsrzd.ru
 digitalrzd.ru
 drive-igora.ru
@@ -69,7 +71,6 @@ ncsp.ru
 online-express.ru
 part-kom.ru
 personaero.ru
-planer.klgd.su
 pochta.ru
 polar-aero.ru
 portal-metro.spb.ru

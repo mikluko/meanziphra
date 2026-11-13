@@ -1,14 +1,12 @@
 # Домены категории industry, по одному в строке. Файл пишет meanziphra update.
 # Запись разрешает домен и все его поддомены, поэтому *. не нужен.
+34gaz.ru
 aakim.ru
 abakanenergo.ru
 abakanvodokanal.ru
 ac2.avangard.ru
 achimdevelopment.ru
 achimgaz.ru
-admin-cordiant-learn.severstal.ru
-admin-kompas.severstal.ru
-admin-study.severstal.ru
 admship.ru
 aerosila.ru
 agroconcern.ru
@@ -50,6 +48,7 @@ bashneft.ru
 bid.gazprom-neft.ru
 bke.ru
 burgaz.ru
+bz.ru
 cdbtitan.ru
 ceramotec.ru
 change-f.energo.ru
@@ -84,14 +83,10 @@ coalstar.ru
 collab-edge.slavneft-kng.ru
 concern-agat.ru
 connectgas.ru
-cordiant-learn.severstal.ru
 corporate.avangard.ru
 cpk-alrosa.ru
 crpribor.ru
 ct3d.sd.ascon.ru
-d360v2-cordiant-learn.severstal.ru
-d360v2-kompas.severstal.ru
-d360v2-study.severstal.ru
 deletron.ru
 demo.avangard.ru
 desp.rosatom.ru
@@ -139,7 +134,6 @@ files.energo.ru
 fkpkk.ru
 formoplast-spb.ru
 fuelup.ru
-gasinv.ru
 gaskk-mck.ru
 gazprom-agnks.ru
 gazpromnedra.ru
@@ -159,6 +153,7 @@ gnppregion.ru
 go.ioffe.ru
 gorsetkos.ru
 goznak.ru
+goznakinvest.ru
 gpb-ee.ru
 gpnbonus.ru
 gpnmarket.ru
@@ -193,9 +188,9 @@ kbs.rosatom.ru
 kfw.ru
 kgm.ru
 kinef.ru
-kompas.severstal.ru
 komzrt.ru
 kraftway.ru
+krasnodarvodokanal.ru
 krastsvetmet.ru
 krdelectro.ru
 kskkaluga.ru
@@ -207,7 +202,6 @@ kzmayak.ru
 kznamya.ru
 labmining.ru
 laspace.ru
-lemark.su
 len-cas.energo.ru
 lenenergo.ru
 limit.avangard.ru
@@ -215,6 +209,7 @@ login.avangard.ru
 lomo.ru
 lubteplo.ru
 lukoil.ru
+m-developer.ru
 m-road.ru
 m-road62.ru
 mail-01.rfipoteka.ru
@@ -244,6 +239,7 @@ mosting.ru
 motozavod.ru
 mpaes.ru
 mptk55.ru
+mrgtula.ru
 mtronics.ru
 niip.ru
 niistali.ru
@@ -263,6 +259,7 @@ npoa.ru
 npoelm.ru
 npovk.ru
 npp-rubin.ru
+nppgamma.ru
 npzoptics.ru
 ntc-zarya.ru
 oaovoentorg.ru
@@ -322,7 +319,6 @@ rn-grp.ru
 rnd.stcnet.ru
 rnt.ru
 rosatomflot.ru
-rosatomtalents.sberclass.ru
 rosneft-lubricants.ru
 rosneft.ru
 rosseti-lenenergo.ru
@@ -350,14 +346,16 @@ sentry.avangard.ru
 sernia.ru
 service.avangard.ru
 sev-tech.ru
+severgroup.ru
+severstal.ru
 sevesk.ru
 sevmash.ru
 sfn-am.ru
 sibintek-soft.ru
 sibintek.ru
-sibur.sberclass.ru
 sibvinyl.ru
 sineft.ru
+sintez-cip.ru
 sipweb.omk-it.ru
 sistema-re.ru
 sk-akbars.ru
@@ -371,14 +369,16 @@ spacecorp.ru
 spb-neo.ru
 spoarktika.ru
 sptz.ru
+srobv.su
 st.avangard.ru
 stallect.ru
 stalsmt.ru
+star.ru
+steelsolutions.ru
 stilkuhni.ru
 stpr.ru
 stroki.ru
 stroytransgaz.ru
-study.severstal.ru
 surgutneftegas.ru
 surgutneftegas39.ru
 sveza.ru
@@ -432,6 +432,8 @@ vodokanal-museum.ru
 vodokanal-zagorod.ru
 vodokanal.spb.ru
 voduberegi.ru
+volnaspb.ru
+voloblgaz.ru
 voltagelab.ru
 vorkuta.ru
 vsw.ru
