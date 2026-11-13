@@ -12,7 +12,6 @@
 72ms.ru
 72to.ru
 86vks.mchs.ru
-abiturient.cchgeu.ru
 abmosk.ru
 ac.gov.ru
 ach.gov.ru
@@ -32,6 +31,7 @@ admsel.ru
 admtyumen.ru
 adygheya.ru
 agp.plagate.ru
+ai.gov.ru
 ai72.ru
 aisoms.ru
 akimovkomedia.ru
@@ -66,6 +66,7 @@ astrobl.ru
 asu-smp.mossmp.ru
 asurso.ru
 atk26.ru
+atrtynda.ru
 audit.gov.ru
 autodiscover.admsurgut.ru
 autodiscover.oparina4.ru
@@ -138,7 +139,6 @@ crbdin.ru
 crbkurg.ru
 crc.ru
 crie.ru
-crutch.msk.ru
 csnp.cea.gov.ru
 cson-stepnoe.stv.socinfo.ru
 cson.stv.socinfo.ru
@@ -273,6 +273,7 @@ fstec.gov.ru
 fstec.ru
 fsvps.gov.ru
 fsvps.ru
+fsvts.gov.ru
 fugovp.ru
 fzo.gov.ru
 g45.tambov.gov.ru
@@ -352,6 +353,7 @@ hivkuban.ru
 hosp23.ru
 hospital.karelia.ru
 iac.spb.ru
+iapras.ru
 idworld.phoenix-dnr.ru
 igcpc.ru
 iiot.gov.ru
@@ -395,6 +397,7 @@ kalmpriroda.ru
 kalmstroy.ru
 kalmzdrav.ru
 kalugacard.ru
+kammiac.ru
 kamonco.ru
 karta03.ru
 kazgau.ru
@@ -403,6 +406,7 @@ kcson.pyatigorsk.ru
 kemcardio.ru
 kfsar.ru
 kgainfo.spb.ru
+kirovskij-cson.stv.socinfo.ru
 kirzdrav.ru
 kmiac.ru
 knd.gov.ru
@@ -411,6 +415,7 @@ komicsm.ru
 komifoms.ru
 komsport.spb.ru
 komstroy.spb.ru
+krascsp.ru
 krasfin.ru
 krasnodar.ru
 krasstat.ru
@@ -445,7 +450,6 @@ lib.kr-cbs.ru
 lifefor2.ru
 lk.admsvtl.ru
 lkexpertiza.spb.ru
-lms.apu.fsin.gov.ru
 lms.vi.fsin.gov.ru
 login.ik66.ru
 lyncdiscover.admsurgut.ru
@@ -459,7 +463,6 @@ mail.nic-itep.ru
 mail.oparina4.ru
 mail.plagate.ru
 mail.rpnrb.ufanet.ru
-map.mgis42.ru
 mapm.ru
 mari-el.gov.ru
 mari-karta.ru
@@ -469,6 +472,7 @@ mcrssar.ru
 mcx.ru
 mcxrk.ru
 med-to.ru
+medkam.ru
 medkhv.ru
 meet.admsurgut.ru
 meteo.ru
@@ -479,6 +483,7 @@ mfc-nso.ru
 mfc12.ru
 mfnso.ru
 mfsk.ru
+mgfoms.ru
 miac74.ru
 microbe.ru
 mikhailovsky.ru
@@ -505,7 +510,6 @@ mkgtu.ru
 mnr.gov.ru
 mo-medsvc.ru
 monitoring.gov.ru
-mood51.ru
 morspas.ru
 mos.ru
 mosedu.ru
@@ -556,6 +560,7 @@ nioch.nsc.ru
 niti.ru
 nkpis.ru
 nlrs.ru
+nmt54.ru
 nobl.ru
 novkfo.ru
 novo-sibirsk.ru
@@ -613,9 +618,9 @@ pkitrans.ru
 platform.gov.ru
 platformaexpert.ru
 pmisk.ru
+pmosk.ru
 pni4spb.ru
 pnzmed.ru
-pochta.cchgeu.ru
 podorozhnik.spb.ru
 poi.dvo.ru
 portal.fhdgso.ru
@@ -666,6 +671,7 @@ ro.rspp.ru
 roddom-krd.ru
 romny28-npa.ru
 rosavtodor.gov.ru
+rosguard.gov.ru
 roskazna.gov.ru
 roskazna.ru
 rosleshoz.gov.ru
@@ -744,6 +750,7 @@ socfmba.ru
 sofpni.stv.socinfo.ru
 sp15spb.ru
 sp31.spb.ru
+spb-artschool.ru
 spbdshi3.ru
 spbeias.ru
 spbinvestment.ru
@@ -763,6 +770,7 @@ starompos.ru
 stat.mt-plan.ru
 statskkmorf.ru
 stav-roddom.ru
+stavadm.ru
 stavinvest.ru
 stavkomarchiv.ru
 stavkray.ru
@@ -795,7 +803,6 @@ tahtapni.ru
 tarif74.ru
 tarifspb.ru
 tatar.ru
-tc.oparina4.ru
 tc394.ru
 tc404.ru
 tele-med.spb.ru
@@ -816,7 +823,6 @@ torgi.gov.ru
 trud25.ru
 tubrb.ru
 tulunadm.ru
-tv.oparina4.ru
 tverfin.ru
 tverreg.ru
 tvobr.ru
@@ -866,22 +872,24 @@ volgtehkol.ru
 vologda-city.ru
 voskhod.ru
 vsrf.ru
+vvsu.ru
 vybory.gov.ru
 webapp.cgb-kushva.ru
 wiki-sibiriada.ru
 www.defense.ru
 www.meteo.nw.ru
-www.pirogov-vestnik.ru
 x-msg.ru
 xn----7sbaaabg3empormehdn6b2j3b.xn--p1ai
 xn----7sbabhdckja7bfh9aphepfgihj.xn--p1ai
 xn----7sbabhpxokex8c.xn--p1ai
 xn----7sbbg4agcddf6aammjdhk1r.xn--p1ai
+xn----7sbbgc8crdacheglp1o.xn--p1ai
 xn----7sbbimrdkb3alvdfgd8eufwc.xn--p1ai
 xn----7sbezt1a4b.xn--p1ai
 xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----8sbehgcimb3cfabqj3b.xn--p1ai
 xn----8sbfckba3a8bcsskd6e.xn--p1ai
+xn----8sbuccioem.xn--p1ai
 xn----ctbbefcvajij3anca5a.xn--p1ai
 xn----ctbeimd1bern.xn--p1ai
 xn----ftbbavnknceifkok1s.xn--p1ai
@@ -925,6 +933,7 @@ xn--80adbvdrrdn3buj1grakh.xn--p1ai
 xn--80adciaa0a3bbrqjd1e.xn--p1ai
 xn--80addfq2alq.xn--p1ai
 xn--80adfbej0ceadr0m.xn--p1ai
+xn--80ae1alafffj1i.xn--p1ai
 xn--80aeakmgi9azaci1dvg.xn--p1ai
 xn--80aegbkvxddlre.xn--p1ai
 xn--80aeylecpi.xn--p1ai
@@ -932,6 +941,7 @@ xn--80agfbmd3ajetfm6gxd.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80akjac6amacoe3n.xn--p1ai
 xn--80aphfga3a3b.xn--p1ai
+xn--80atoqz.xn--p1ai
 xn--90aenc5bq.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
 xn--b1aadecsaihi0amca3a.xn--p1ai
@@ -944,6 +954,7 @@ xn--b1afqbrascj.xn--p1ai
 xn--b1agmh1ai8d.xn--p1ai
 xn--c1akasedrm0a.xn--p1ai
 xn--d1aie4av.xn--p1ai
+xn--e1afffdle5a.xn--p1ai
 xn--e1ahdbdflckekkc.xn--p1ai
 xn--h1acdfggnhdg.xn--p1ai
 xn--h1adghi.xn--p1ai
@@ -966,7 +977,6 @@ zakupki.gov.ru
 zakupki08.ru
 zan.nnov.ru
 zapadmorf.ru
-zavedi-rebenka.ru
 zdrav.spb.ru
 zdrav26.ru
 zdrav74.ru

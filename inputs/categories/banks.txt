@@ -17,6 +17,7 @@ a-3.ru
 aaacapital.ru
 abank.ru
 abr.ru
+abs-kassa.ru
 absolut-trust.ru
 absolutbank.ru
 absolutins.ru
@@ -67,6 +68,7 @@ allinpower.ru
 alor.ru
 alorbroker.ru
 ankb.ru
+antifraudbigdata.t2.ru
 ao-rr.ru
 aoreestr.ru
 api-prep.expert-insapp.ru
@@ -115,6 +117,7 @@ awseg1.voz.ru
 awseg2.voz.ru
 azimuth.ru
 b2b-rts.ru
+b2b.bank.yandex.ru
 baikalcredobank.ru
 balance-ins.ru
 baltinvest.ru
@@ -124,7 +127,6 @@ bank-arzamas.ru
 bank-hlynov.ru
 bank-mscb.ru
 bank-peresvet.ru
-bank.yandex.ru
 bank131.ru
 bank45.ru
 bankdom.ru
@@ -171,7 +173,6 @@ bm-bank.ru
 bnal.ru
 boardmind.ru
 bonus-spasibo.ru
-bootcamp-sberid.pcbltools.ru
 bris-cloud.ru
 broker-sb.ru
 broker-sberbank.ru
@@ -301,6 +302,7 @@ ctst-cnv-ui.sberins.ru
 ctst-cnv.sberins.ru
 ctst-insflow.sberins.ru
 ctst-intg-lb02.sberins.ru
+ctxmskhtml.ctx.mts.ru
 cumbersome.rambler.ru
 custody.ru
 cvdi-ctx-gw.sberins.ru
@@ -331,6 +333,7 @@ demo-core-sbol.bnpltests.ru
 demo-landing.bnpltests.ru
 demo-partners.bnpltests.ru
 dengi.ru
+denizbank.ru
 derzhava.ru
 dfo.ru
 dfotech.ru
@@ -346,7 +349,6 @@ dmclk.ru
 dmitriykhotimskiy.ru
 dns.edge.sberdevices.ru
 dobroskb.ru
-dobrozaim.ru
 docagent.sberbank-service.ru
 doctor-credit.ru
 dohodbroker.ru
@@ -402,6 +404,7 @@ external.platichastyamiuat.ru
 fact-web-test.mbrd.ru
 factoring.ru
 faktura.ru
+fasp.ru
 fdom.su
 ffinpay.ru
 files-n.vneshbank.ru
@@ -486,6 +489,7 @@ halvenok.ru
 hb.rambler.ru
 hcdl.ru
 hcrd.ru
+help-chat.bank.yandex.ru
 hersains.ru
 hlv.ru
 hmnpf.ru
@@ -540,6 +544,7 @@ insales.ru
 instant-pay.ru
 insurance.domoy.ru
 insurance.gippars.ru
+intact.ru
 intreco.ru
 invb.ru
 investekspert.ru
@@ -687,6 +692,7 @@ mpi02.vendorcert.mirconnect.ru
 mpx.rambler.ru
 mspbank.ru
 mta.otp-bank.ru
+mts-strahovanie.ru
 mtsbank.ru
 mufg.ru
 multicarta.ru
@@ -783,7 +789,9 @@ paymentkit.ru
 paymgate.ru
 paymo.ru
 pchtbnk.ru
+pcidss.bank.yandex.ru
 pfc-site-dev.pfc.ru
+pfc-site-test.pfc.ru
 pilot-rpa.sberbank-service.ru
 pixel.rambler.ru
 plat-forma.ru
@@ -847,7 +855,6 @@ ratings.ru
 rb-collect.ru
 rbabank.ru
 rbcollect.ru
-rbru-depository.ru
 rdb.ru
 realistbank.ru
 redsquare.rambler.ru
@@ -935,9 +942,6 @@ sberbb.ru
 sberbs.ru
 sbercib.ru
 sbercity.ru
-sberclass.ru
-sberedu.ru
-sbereducation.ru
 sberegaem-vmeste.ru
 sberfactoring.ru
 sberhealth.ru
@@ -975,6 +979,7 @@ sbspasibo.ru
 sbt.msk.ru
 scb-life.ru
 scb-vdi.ru
+scep-gateway.sberdevices.ru
 scnt.rambler.ru
 scoring.ru
 scounter.rambler.ru

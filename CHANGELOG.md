@@ -7,6 +7,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.29] - 2026-11-13
+
+### Changed
+
+- Добавлено и удалено доменов по категориям:
+
+  ```text
+  banks:        +12 / -7
+  gov:          +20 / -10
+  industry:     +15 / -13
+  internet:     +14 / -3
+  marketplaces:  +2 / -1
+  other:        +80 / -50
+  telecom:       +5 / -0
+  transport:     +3 / -2
+  ```
+
+### Security
+
+- Обновлён модуль `golang.org/x/crypto` до v0.59.0, закрывающий уязвимость GO-2026-5932.
+
 ## [0.5.28] - 2026-11-05
 
 ### Changed
@@ -474,7 +495,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Релиз публикует `anchor.crt` и `cat-<категория>.crt`, выпущенные с эфемерным ключом, с аттестацией сборки.
 - `config.example.yaml` описывает все поля конфига.
 
-[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.5.28...HEAD
+[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.5.29...HEAD
+[0.5.29]: https://github.com/mikluko/meanziphra/compare/v0.5.28...v0.5.29
 [0.5.28]: https://github.com/mikluko/meanziphra/compare/v0.5.27...v0.5.28
 [0.5.27]: https://github.com/mikluko/meanziphra/compare/v0.5.26...v0.5.27
 [0.5.26]: https://github.com/mikluko/meanziphra/compare/v0.5.25...v0.5.26

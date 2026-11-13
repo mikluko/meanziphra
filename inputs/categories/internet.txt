@@ -8,6 +8,7 @@
 1sport.ru
 1tv.ru
 2gis.ru
+3qs.ru
 abcconsulting.ru
 ac.infoline-rk.ru
 acti.ru
@@ -25,6 +26,8 @@ airflow-depp-clients.giga.salute.ru
 airflow-dev-gigacapture.giga.salute.ru
 airflow-dev-pretrain.eye.salute.ru
 airflow-dev.giga.salute.ru
+airflow-gateway.giga.salute.ru
+airflow-gigabus-dev.giga.salute.ru
 airflow-gigabus.giga.salute.ru
 airflow-gigacapture-storm.giga.salute.ru
 airflow-gigacapture.giga.salute.ru
@@ -86,6 +89,7 @@ bia-tech.ru
 billing.ru
 bio-storage.rfaces.ru
 bisoft.ru
+bitrix.infoline-rk.ru
 bk.ru
 boom.ru
 boostdevelopment.ru
@@ -142,8 +146,8 @@ d-technologies.ru
 data-studio.ru
 datacloudmail.ru
 dcode.su
+deku.datagalaxy.salute.ru
 delo.cscomp.ru
-demo.bitrix24.payanyway.ru
 demo1.hycl.ru
 demo2.hycl.ru
 demo3.hycl.ru
@@ -206,6 +210,7 @@ ferra.ru
 fineapp.ru
 flamp.ru
 flumeter.ru
+flussonic01.tvzvezda.ru
 fntchcl.ru
 fractel.ru
 fraktel.ru
@@ -339,6 +344,7 @@ livejournal.ru
 livelib.ru
 lj.ru
 ljplus.ru
+lkdoc.infoline-rk.ru
 logon.rfaces.ru
 loonabrowser.ru
 lvls.ru
@@ -466,7 +472,6 @@ qdrant.eye.salute.ru
 qplus.ru
 quto.ru
 r0.ru
-radio.roma.msk.ru
 radiosputnik.ru
 rambler-co.ru
 rambler.ru
@@ -499,6 +504,7 @@ rock-digital.ru
 rowangame.ru
 rr.ru
 rt-ib.ru
+rtbapp.su
 rtinform.ru
 rtreg.ru
 rts-tender.ru
@@ -553,6 +559,7 @@ sigma.ru
 sigstore.onecld.ru
 sj-dev.ru
 slavsoft.ru
+slon-e.ru
 smailbox.ru
 smartmarket.sber.ru
 smartproektsystems.ru
@@ -577,7 +584,9 @@ sravni-labs.ru
 sravni-team.ru
 sravni.ru
 stage-argocd.lk.astra-team.ru
+stage-grafana.lk.astra-team.ru
 stage-mesh.ad-tech.ru
+stage-vmselect.lk.astra-team.ru
 staging.qui-quo.ru
 staging.vklanding.ru
 startups.su
@@ -636,10 +645,10 @@ trino.giga.salute.ru
 trsystem68.ru
 tutoria.ru
 tvc.ru
-tvzvezda.ru
 u1c.ru
 uat-mesh.ad-tech.ru
 uat.ad-tech.ru
+ubik24.ru
 uchi.ru
 uchihanzi.ru
 ucs.su
@@ -664,6 +673,7 @@ vk.ru
 vkcdn.ru
 vkcloud-storage.ru
 vklive.ru
+vkontakte-bot-new.base.pedant.ru
 vkontakte.ru
 vkpartner.ru
 vkpay.ru
@@ -677,6 +687,7 @@ vkuserdocs.ru
 vkuserphoto.ru
 vkuservideo.ru
 vkvideo.ru
+vmselect.dev.lk.astra-team.ru
 vrnhost.ru
 vsgi.ru
 vsice.ru
