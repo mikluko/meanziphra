@@ -33,7 +33,7 @@ jobs:
 
       - name: Read the changelog
         id: changelog
-        uses: mikluko/action-changelog@v1
+        uses: mikluko/action-changelog@v2
 
       - name: Whether a release is due
         id: cut
