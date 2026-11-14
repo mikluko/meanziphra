@@ -450,6 +450,7 @@ lib.kr-cbs.ru
 lifefor2.ru
 lk.admsvtl.ru
 lkexpertiza.spb.ru
+lms.apu.fsin.gov.ru
 lms.vi.fsin.gov.ru
 login.ik66.ru
 lyncdiscover.admsurgut.ru
@@ -803,6 +804,7 @@ tahtapni.ru
 tarif74.ru
 tarifspb.ru
 tatar.ru
+tc.oparina4.ru
 tc394.ru
 tc404.ru
 tele-med.spb.ru

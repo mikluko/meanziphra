@@ -1891,6 +1891,10 @@
       "category": "internet",
       "confidence": 0.61
     },
+    "name:dev.bank.yandex.ru": {
+      "category": "banks",
+      "confidence": 0.86
+    },
     "name:dev.daytona-proseca.t-tech.ru": {
       "category": "other",
       "confidence": 0.37,
@@ -2094,6 +2098,10 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:dzdspb.rzd.ru": {
+      "category": "transport",
+      "confidence": 0.97
+    },
     "name:e-trust.gosuslugi.ru": {
       "category": "gov",
       "confidence": 1,
@@ -2257,10 +2265,6 @@
     "name:eq.domrfbank.ru": {
       "category": "banks",
       "confidence": 0.89
-    },
-    "name:ertelecom.gw11.bank.moneta.ru": {
-      "category": "banks",
-      "confidence": 0.69
     },
     "name:ertelecom.gw14.bank.moneta.ru": {
       "category": "banks",
@@ -4077,6 +4081,10 @@
       "category": "banks",
       "confidence": 0.97
     },
+    "name:lms.apu.fsin.gov.ru": {
+      "category": "gov",
+      "confidence": 0.93
+    },
     "name:lms.lomt.ru": {
       "category": "other",
       "confidence": 0.65
@@ -4230,6 +4238,11 @@
     "name:mail.kpl32.ru": {
       "category": "other",
       "confidence": 0.68
+    },
+    "name:mail.mbbru.ru": {
+      "category": "other",
+      "confidence": 0.37,
+      "review": true
     },
     "name:mail.myclans.ru": {
       "category": "other",
@@ -4895,10 +4908,6 @@
     "name:nefteyugansk.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
-    },
-    "name:nenderus.su": {
-      "category": "other",
-      "confidence": 0.91
     },
     "name:neonxp.ru": {
       "category": "other",
@@ -5574,6 +5583,10 @@
       "confidence": 0.42,
       "review": true
     },
+    "name:pin.domrfbank.ru": {
+      "category": "banks",
+      "confidence": 0.9
+    },
     "name:pixmart.ru": {
       "category": "other",
       "confidence": 0.6
@@ -5763,6 +5776,10 @@
       "category": "other",
       "confidence": 0.49,
       "review": true
+    },
+    "name:projectfinance.domrfbank.ru": {
+      "category": "banks",
+      "confidence": 0.95
     },
     "name:prometheus-sast.devsec.astralinux.ru": {
       "category": "internet",
@@ -6296,6 +6313,19 @@
     "name:rzn.staging.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
+    },
+    "name:s-gca-ac-a-srv-wp-app01.gk-astra.ru": {
+      "category": "other",
+      "confidence": 0.65
+    },
+    "name:s-gca-ac-a-srv-wp-app02.gk-astra.ru": {
+      "category": "other",
+      "confidence": 0.62
+    },
+    "name:s-gca-ac-a-srv-wp-app03.gk-astra.ru": {
+      "category": "other",
+      "confidence": 0.58,
+      "review": true
     },
     "name:s.api.adapters.payments.moneta.ru": {
       "category": "banks",
@@ -7053,6 +7083,14 @@
       "category": "internet",
       "confidence": 0.57,
       "review": true
+    },
+    "name:stage-workspad.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.76
+    },
+    "name:stage-wp-bots.astralinux.ru": {
+      "category": "internet",
+      "confidence": 0.67
     },
     "name:stage.books.mts.ru": {
       "category": "other",
@@ -8309,10 +8347,6 @@
       "category": "other",
       "confidence": 0.87
     },
-    "name:www.codifast.ru": {
-      "category": "other",
-      "confidence": 0.69
-    },
     "name:www.cosa.ru": {
       "category": "other",
       "confidence": 0.73
@@ -8468,10 +8502,6 @@
     "name:www.murashow.ru": {
       "category": "other",
       "confidence": 0.73
-    },
-    "name:www.nenderus.su": {
-      "category": "other",
-      "confidence": 0.9
     },
     "name:www.ns-bank.ru": {
       "category": "banks",
@@ -8818,6 +8848,10 @@
     "name:zheldor.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.97
+    },
+    "name:zid.ru": {
+      "category": "marketplaces",
+      "confidence": 0.69
     },
     "name:zip-teh.ru": {
       "category": "other",
@@ -9759,6 +9793,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "ГБПОУ Волгоградский Технический Колледж"
+    },
+    "ogrn:1023403458594": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "ФКУЗ ВНИПЧИ Роспотребнадзор"
     },
     "ogrn:1023500000160": {
       "category": "banks",
@@ -12482,6 +12521,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "СПб ГБУЗ Стоматологическая поликлиника 15"
+    },
+    "ogrn:1027810239555": {
+      "category": "industry",
+      "confidence": 0.97,
+      "org": "АО Радиоавионика"
     },
     "ogrn:1027810242074": {
       "category": "internet",
@@ -15256,6 +15300,11 @@
       "category": "gov",
       "confidence": 1,
       "org": "БУ РК МИАЦ"
+    },
+    "ogrn:1082452000290": {
+      "category": "industry",
+      "confidence": 0.87,
+      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНФОРМАЦИОННЫЕ СПУТНИКОВЫЕ СИСТЕМЫ\" ИМЕНИ АКАДЕМИКА М.Ф. РЕШЕТНЁВА\""
     },
     "ogrn:1082452000355": {
       "category": "gov",
@@ -18211,6 +18260,12 @@
       "confidence": 0.67,
       "org": "Кредиторм Северо-Запад"
     },
+    "ogrn:1187847259984": {
+      "category": "other",
+      "confidence": 0.39,
+      "review": true,
+      "org": "ООО ВОСЬМЕРИК"
+    },
     "ogrn:1187847281764": {
       "category": "internet",
       "confidence": 0.51,
@@ -18638,6 +18693,12 @@
       "confidence": 0.5,
       "review": true,
       "org": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ ПРО"
+    },
+    "ogrn:1207700315657": {
+      "category": "other",
+      "confidence": 0.55,
+      "review": true,
+      "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПРОСВЕЩЕНИЕ-СОЮЗ"
     },
     "ogrn:1207700325590": {
       "category": "industry",
