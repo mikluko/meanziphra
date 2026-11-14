@@ -173,6 +173,7 @@ interrao.ru
 ipsmp.avangard.ru
 irao-generation.ru
 irz.ru
+iss-reshetnev.ru
 istokmw.ru
 isup.almaz-antey.ru
 iva-le.energo.ru
@@ -309,6 +310,7 @@ pw.sscdomrf.ru
 qr.avangard.ru
 quarton.ru
 r-one.ru
+radioavionica.ru
 rcalng.ru
 relays.ru
 rev.avangard.ru
@@ -347,7 +349,9 @@ sernia.ru
 service.avangard.ru
 sev-tech.ru
 severgroup.ru
+severstal-ssc.ru
 severstal.ru
+severstalssc.ru
 sevesk.ru
 sevmash.ru
 sfn-am.ru
@@ -412,6 +416,7 @@ uk-proekt.ru
 ukpir.ru
 ulnammo.ru
 umpgku.ru
+unifence.ru
 upravkom.ru
 upz.ru
 uralaz.ru
@@ -450,6 +455,7 @@ xn----7sbabgkcfy0anwjbja7a.xn--p1ai
 xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbhhgjt4afav0m.xn--p1ai
 xn----dtbjkxc4abh.xn--p1ai
+xn--80aaahiycas2ahds.xn--p1ai
 xn--80aadbk0bjofbqx.xn--p1ai
 xn--80aahrca5bqhk0m.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai

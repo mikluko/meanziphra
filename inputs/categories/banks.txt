@@ -335,6 +335,7 @@ demo-partners.bnpltests.ru
 dengi.ru
 denizbank.ru
 derzhava.ru
+dev.bank.yandex.ru
 dfo.ru
 dfotech.ru
 di.vneshbank.ru
@@ -887,6 +888,7 @@ rosbank-leasing.ru
 rosbank.ru
 rosdolg.ru
 rosevrobank.ru
+rossitabank.ru
 rostfinance.ru
 round.ru
 royal-bank.ru
