@@ -47,7 +47,6 @@ archiv.ru
 argds.ru
 argus-oskol.ru
 arhzan.ru
-aria-best.ru
 aria-best.su
 artsroom.ru
 artyums.ru
@@ -232,7 +231,6 @@ golodyaev.ru
 gornoaltaysk.ru
 gosaltushka.ru
 gost.bstrv.ru
-gost.codifast.ru
 gpba-service.ru
 grantains.ru
 greencert.ru
@@ -387,6 +385,7 @@ meteo.its61.ru
 mglk.ru
 mh.net.ru
 microem.ru
+microgreenstag.ru
 microsun.ru
 mig-os.ru
 mili-rest.ru

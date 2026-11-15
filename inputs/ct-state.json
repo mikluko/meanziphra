@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 13644,
+    "https://27.ctlog.digital.gov.ru/2027/": 13655,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 14276
+    "https://ctlog2027.mail.ru/nca2027/": 14287
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -5834,7 +5834,7 @@
       "ogrn": "1027739609391"
     },
     "apk3.vtb.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "apkbank.ru": {
       "not_after": "2026-12-23",
@@ -5861,7 +5861,7 @@
       "ogrn": "1117746689840"
     },
     "app-demo.factoring.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "app-online.tricolor.ru": {
       "not_after": "2027-10-19",
@@ -6441,9 +6441,6 @@
       "org": "MintrudAO",
       "inn": "2901158036",
       "ogrn": "1062901069857"
-    },
-    "aria-best.ru": {
-      "not_after": "2026-11-14"
     },
     "aria-best.su": {
       "not_after": "2026-11-15"
@@ -17458,10 +17455,10 @@
       "ogrn": "1027700132195"
     },
     "cobrowsing-cdn-test.tbank.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "cobrowsing-cdn.tbank.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "codd32.ru": {
       "not_after": "2027-08-27",
@@ -31351,9 +31348,6 @@
     "gost.bstrv.ru": {
       "not_after": "2026-11-17"
     },
-    "gost.codifast.ru": {
-      "not_after": "2026-11-14"
-    },
     "gost.glushkova.kim": {
       "not_after": "2027-01-12"
     },
@@ -43347,18 +43341,6 @@
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
-    "loyift-ias-adm.spasibotest.ru": {
-      "not_after": "2026-11-14",
-      "org": "JSC Centre of Loyalty Programs",
-      "inn": "7702770003",
-      "ogrn": "1117746689840"
-    },
-    "loyift-ias.spasibotest.ru": {
-      "not_after": "2026-11-14",
-      "org": "JSC Centre of Loyalty Programs",
-      "inn": "7702770003",
-      "ogrn": "1117746689840"
-    },
     "loyift-kibana.spasibotest.ru": {
       "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
@@ -43373,12 +43355,6 @@
     },
     "loyift-repo.spasibotest.ru": {
       "not_after": "2027-10-23",
-      "org": "JSC Centre of Loyalty Programs",
-      "inn": "7702770003",
-      "ogrn": "1117746689840"
-    },
-    "loyift-static.spasibotest.ru": {
-      "not_after": "2026-11-14",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -48937,7 +48913,7 @@
       "not_after": "2027-01-31"
     },
     "mfo.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "mfo.test-middle.megafon.ru": {
       "not_after": "2027-01-27"
@@ -49223,6 +49199,9 @@
       "org": "Акционерное общество МикроЭМ",
       "inn": "7735082700",
       "ogrn": "1027739282922"
+    },
+    "microgreenstag.ru": {
+      "not_after": "2027-02-12"
     },
     "micron-uat.mtsbank.ru": {
       "not_after": "2027-06-26",
@@ -52037,12 +52016,6 @@
     },
     "mx.comfort-max.ru": {
       "not_after": "2026-12-01"
-    },
-    "mx.crimea.rncb.ru": {
-      "not_after": "2026-11-14",
-      "org": "VTB Bank (PJSC)",
-      "inn": "7702070139",
-      "ogrn": "1027739609391"
     },
     "mx.dorstroycom.ru": {
       "not_after": "2027-09-11",
@@ -68706,12 +68679,6 @@
       "inn": "7017293598",
       "ogrn": "1117017017699"
     },
-    "rstrk.ru": {
-      "not_after": "2026-11-14",
-      "org": "Региональная служба по тарифам Республики Калмыкия",
-      "inn": "0814103358",
-      "ogrn": "1020800772112"
-    },
     "rsud.govvrn.ru": {
       "not_after": "2027-03-03",
       "org": "Министерство цифрового развития Воронежской области",
@@ -75022,12 +74989,6 @@
       "inn": "9705082619",
       "ogrn": "5167746407054"
     },
-    "smtp.crimea.rncb.ru": {
-      "not_after": "2026-11-14",
-      "org": "VTB Bank (PJSC)",
-      "inn": "7702070139",
-      "ogrn": "1027739609391"
-    },
     "smtp.interfax.ru": {
       "not_after": "2026-12-06"
     },
@@ -77681,10 +77642,10 @@
       "ogrn": "5147746290269"
     },
     "stage-rec.middle.megafon.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "stage-rec.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-02-12"
     },
     "stage-srr.dfa-yc.dltru.org": {
       "not_after": "2027-09-18",
@@ -80330,7 +80291,7 @@
       "not_after": "2027-02-10"
     },
     "svr.megafon.ru": {
-      "not_after": "2027-01-04"
+      "not_after": "2027-02-12"
     },
     "svr.staging.megafon.ru": {
       "not_after": "2027-01-19"
@@ -82825,7 +82786,7 @@
       "not_after": "2027-02-02"
     },
     "test273.servicecdn.ru": {
-      "not_after": "2026-12-14"
+      "not_after": "2027-02-12"
     },
     "test3.api.vtb.ru": {
       "not_after": "2027-06-29",
@@ -84676,7 +84637,7 @@
       "not_after": "2027-02-10"
     },
     "tula.megafon.ru": {
-      "not_after": "2027-01-04"
+      "not_after": "2027-02-12"
     },
     "tula.staging.megafon.ru": {
       "not_after": "2027-02-07"
@@ -92964,9 +92925,6 @@
       "inn": "3257057276",
       "ogrn": "1173256011169"
     },
-    "www.aria-best.ru": {
-      "not_after": "2026-11-14"
-    },
     "www.artamonovigor.ru": {
       "not_after": "2027-07-27",
       "org": "ОБУ ИТЦ",
@@ -97917,18 +97875,6 @@
       "inn": "7702770003",
       "ogrn": "1117746689840"
     },
-    "www.loyift-ias-adm.spasibotest.ru": {
-      "not_after": "2026-11-14",
-      "org": "JSC Centre of Loyalty Programs",
-      "inn": "7702770003",
-      "ogrn": "1117746689840"
-    },
-    "www.loyift-ias.spasibotest.ru": {
-      "not_after": "2026-11-14",
-      "org": "JSC Centre of Loyalty Programs",
-      "inn": "7702770003",
-      "ogrn": "1117746689840"
-    },
     "www.loyift-kibana.spasibotest.ru": {
       "not_after": "2027-10-23",
       "org": "JSC Centre of Loyalty Programs",
@@ -97943,12 +97889,6 @@
     },
     "www.loyift-repo.spasibotest.ru": {
       "not_after": "2027-10-23",
-      "org": "JSC Centre of Loyalty Programs",
-      "inn": "7702770003",
-      "ogrn": "1117746689840"
-    },
-    "www.loyift-static.spasibotest.ru": {
-      "not_after": "2026-11-14",
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
@@ -100895,12 +100835,6 @@
       "org": "Russian Standard Insurance",
       "inn": "7703370086",
       "ogrn": "1037703013688"
-    },
-    "www.rstrk.ru": {
-      "not_after": "2026-11-14",
-      "org": "Региональная служба по тарифам Республики Калмыкия",
-      "inn": "0814103358",
-      "ogrn": "1020800772112"
     },
     "www.rtlog.ru": {
       "not_after": "2027-06-18",
