@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 13655,
+    "https://27.ctlog.digital.gov.ru/2027/": 13675,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 14287
+    "https://ctlog2027.mail.ru/nca2027/": 14307
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -2397,9 +2397,6 @@
       "inn": "2315004404",
       "ogrn": "1022302380638"
     },
-    "admin.r7.corp.znanierussia.ru": {
-      "not_after": "2026-11-15"
-    },
     "admin.sbertransport.ru": {
       "not_after": "2027-06-01",
       "org": "Public Joint-Stock Company Sberbank of Russia",
@@ -3998,7 +3995,7 @@
       "not_after": "2027-01-06"
     },
     "altrep.staging.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "altspu.ru": {
       "not_after": "2027-07-20",
@@ -4152,6 +4149,12 @@
     },
     "andoc.ru": {
       "not_after": "2026-12-03"
+    },
+    "andrei-vorobev.su": {
+      "not_after": "2027-02-13"
+    },
+    "andreivorobev.su": {
+      "not_after": "2027-02-13"
     },
     "android-gate.kk.ru": {
       "not_after": "2027-06-30",
@@ -6442,9 +6445,6 @@
       "inn": "2901158036",
       "ogrn": "1062901069857"
     },
-    "aria-best.su": {
-      "not_after": "2026-11-15"
-    },
     "arm-auth.roszdravnadzor.gov.ru": {
       "not_after": "2027-08-11",
       "org": "Federal service surveillance in healthcare",
@@ -6576,9 +6576,6 @@
     },
     "as.mamaev.pro": {
       "not_after": "2027-07-08"
-    },
-    "as.tcsbank.ru": {
-      "not_after": "2026-11-15"
     },
     "as.vk.team": {
       "not_after": "2027-07-15",
@@ -14472,9 +14469,6 @@
       "inn": "3442110950",
       "ogrn": "1103459004362"
     },
-    "cddisk.r7.corp.znanierussia.ru": {
-      "not_after": "2026-11-15"
-    },
     "cdek.ru": {
       "not_after": "2027-11-11",
       "org": "ООО СДЭК-ГЛОБАЛ",
@@ -15496,7 +15490,7 @@
       "ogrn": "1027700132195"
     },
     "certhub-beta.onecld.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-13"
     },
     "certhub-test.vk.com": {
       "not_after": "2026-12-15"
@@ -20662,9 +20656,6 @@
       "inn": "7708001614",
       "ogrn": "1027739176563"
     },
-    "delivery.ru": {
-      "not_after": "2026-11-15"
-    },
     "dellin.ru": {
       "not_after": "2027-10-29",
       "org": "ООО Деловые линии",
@@ -24675,7 +24666,7 @@
       "not_after": "2026-12-31"
     },
     "eao.staging.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "earco.ru": {
       "not_after": "2027-06-25",
@@ -32181,10 +32172,10 @@
       "ogrn": "1057747513680"
     },
     "gw-portal-ext.megafon.ru": {
-      "not_after": "2027-01-06"
+      "not_after": "2027-02-14"
     },
     "gw-portal-ext.staging.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "gw-preprod.lenta.com": {
       "not_after": "2027-07-16",
@@ -33040,7 +33031,7 @@
       "ogrn": "1027700198767"
     },
     "hermes-stage.test-middle.megafon.ru": {
-      "not_after": "2026-12-16"
+      "not_after": "2027-02-13"
     },
     "hermes-stage2.test-middle.megafon.ru": {
       "not_after": "2027-01-27"
@@ -36812,9 +36803,6 @@
       "org": "АО ИНТЕЛКОМ",
       "inn": "4217030093",
       "ogrn": "1024201476738"
-    },
-    "intellectum.info": {
-      "not_after": "2026-11-15"
     },
     "intelwebs.ru": {
       "not_after": "2027-08-11"
@@ -43572,6 +43560,9 @@
       "inn": "9715005927",
       "ogrn": "5147746365256"
     },
+    "lykoptika.ru": {
+      "not_after": "2027-02-13"
+    },
     "lync.mfnso.ru": {
       "not_after": "2027-03-02",
       "org": "ГКУ НСО РИЦ",
@@ -47448,9 +47439,6 @@
     "mattermost.avangard.ru": {
       "not_after": "2027-01-28"
     },
-    "matznay.ru": {
-      "not_after": "2026-11-15"
-    },
     "max-bot.bestwayservice.ru": {
       "not_after": "2027-01-17"
     },
@@ -47958,9 +47946,6 @@
       "inn": "7702045051",
       "ogrn": "1027739053704"
     },
-    "mdk2.mtsbank.ru": {
-      "not_after": "2026-11-15"
-    },
     "mdk3.mtsbank.ru": {
       "not_after": "2026-11-17"
     },
@@ -48430,7 +48415,7 @@
       "ogrn": "5147746249668"
     },
     "megacoach.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "megafon-dfs.ivi-mc.ru": {
       "not_after": "2027-09-03",
@@ -52041,9 +52026,6 @@
       "inn": "7801563590",
       "ogrn": "1117847613267"
     },
-    "mx.ns-bank.ru": {
-      "not_after": "2026-11-15"
-    },
     "mx.tfoms52.ru": {
       "not_after": "2027-04-29",
       "org": "ТФОМС Нижегоросдкой области",
@@ -54528,9 +54510,6 @@
       "org": "НСВ",
       "inn": "7727551797",
       "ogrn": "1057748047675"
-    },
-    "ns-bank.ru": {
-      "not_after": "2026-11-15"
     },
     "ns.ogk2.ru": {
       "not_after": "2027-08-13",
@@ -60398,7 +60377,7 @@
       "not_after": "2027-01-31"
     },
     "penza.staging.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "people.open.ru": {
       "not_after": "2027-01-16",
@@ -61270,7 +61249,7 @@
       "ogrn": "1234400005586"
     },
     "plus.staging.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "pm.ingobank.ru": {
       "not_after": "2027-07-24",
@@ -65907,9 +65886,6 @@
       "inn": "2315004404",
       "ogrn": "1022302380638"
     },
-    "r7.corp.znanierussia.ru": {
-      "not_after": "2026-11-15"
-    },
     "r7.ncsp.com": {
       "not_after": "2027-10-09",
       "org": "PJSC Novorossiysk Commercial Sea Port",
@@ -67508,9 +67484,6 @@
       "org": "ООО \"Резонит\"",
       "inn": "5044031157",
       "ogrn": "1037739154870"
-    },
-    "rf-cheats.ru": {
-      "not_after": "2026-11-15"
     },
     "rfcbank.ru": {
       "not_after": "2027-07-27",
@@ -73112,7 +73085,7 @@
       "ogrn": "1027739186914"
     },
     "sfb-dvweb.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "sfb-edge.megafon.ru": {
       "not_after": "2027-06-18",
@@ -74408,7 +74381,7 @@
       "not_after": "2027-10-01"
     },
     "slizzz.ru": {
-      "not_after": "2026-11-16"
+      "not_after": "2027-02-13"
     },
     "slk.fhdgso.ru": {
       "not_after": "2027-04-01",
@@ -75366,9 +75339,6 @@
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
-    },
-    "social-card.ru": {
-      "not_after": "2026-11-15"
     },
     "social-insurance.sfr.gov.ru": {
       "not_after": "2027-08-13",
@@ -82133,7 +82103,7 @@
       "ogrn": "1023501237330"
     },
     "test-openapi.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "test-opros.vtb.ru": {
       "not_after": "2027-06-23",
@@ -82678,7 +82648,7 @@
       "ogrn": "1227700098009"
     },
     "test1.certhub-beta.onecld.ru": {
-      "not_after": "2026-12-10"
+      "not_after": "2027-02-13"
     },
     "test1.domrfbank.ru": {
       "not_after": "2026-11-26"
@@ -83238,6 +83208,9 @@
     "themm.ru": {
       "not_after": "2027-08-06"
     },
+    "theva.ru": {
+      "not_after": "2027-02-13"
+    },
     "third-m12.asudd.net": {
       "not_after": "2027-07-28",
       "org": "ООО \"Единый Оператор\"",
@@ -83678,9 +83651,6 @@
       "org": "AO Alfa-Bank",
       "inn": "7728168971",
       "ogrn": "1027700067328"
-    },
-    "tms.demo.moneta.dev": {
-      "not_after": "2026-11-15"
     },
     "tms.sberbank.ru": {
       "not_after": "2027-01-26",
@@ -87690,6 +87660,9 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "vid-technological.ru": {
+      "not_after": "2027-02-13"
+    },
     "vid.tricolor.ru": {
       "not_after": "2027-08-06",
       "org": "NAO National Satellite Company",
@@ -87896,9 +87869,6 @@
       "org": "ООО \"БИФИТ КАССА\"",
       "inn": "7719836171",
       "ogrn": "1137746111689"
-    },
-    "vitrina.tv": {
-      "not_after": "2026-11-15"
     },
     "vk-apps.com": {
       "not_after": "2027-07-15",
@@ -99054,9 +99024,6 @@
       "inn": "7712095220",
       "ogrn": "1027700192651"
     },
-    "www.ns-bank.ru": {
-      "not_after": "2026-11-15"
-    },
     "www.nsbank.ru": {
       "not_after": "2027-06-25",
       "org": "NS Bank",
@@ -105988,7 +105955,7 @@
       "not_after": "2027-01-29"
     },
     "yanao.staging.megafon.ru": {
-      "not_after": "2027-01-11"
+      "not_after": "2027-02-13"
     },
     "yango.pro": {
       "not_after": "2026-12-19",

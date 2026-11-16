@@ -199,11 +199,6 @@
       "category": "other",
       "confidence": 0.67
     },
-    "name:admin.r7.corp.znanierussia.ru": {
-      "category": "other",
-      "confidence": 0.39,
-      "review": true
-    },
     "name:adygea.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -404,6 +399,14 @@
       "category": "other",
       "confidence": 0.87
     },
+    "name:andrei-vorobev.su": {
+      "category": "other",
+      "confidence": 0.98
+    },
+    "name:andreivorobev.su": {
+      "category": "other",
+      "confidence": 0.98
+    },
     "name:anketa.ocs.ru": {
       "category": "other",
       "confidence": 0.45,
@@ -539,10 +542,6 @@
       "category": "telecom",
       "confidence": 0.99
     },
-    "name:aria-best.su": {
-      "category": "other",
-      "confidence": 0.9
-    },
     "name:artsroom.ru": {
       "category": "other",
       "confidence": 0.95
@@ -555,10 +554,6 @@
       "category": "other",
       "confidence": 0.49,
       "review": true
-    },
-    "name:as.tcsbank.ru": {
-      "category": "banks",
-      "confidence": 1
     },
     "name:ashurkov.ru": {
       "category": "other",
@@ -1073,11 +1068,6 @@
     "name:ccmp-study.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
-    },
-    "name:cddisk.r7.corp.znanierussia.ru": {
-      "category": "internet",
-      "confidence": 0.52,
-      "review": true
     },
     "name:cdn-afina.megafon.ru": {
       "category": "telecom",
@@ -1789,11 +1779,6 @@
     "name:debug.addy.su": {
       "category": "other",
       "confidence": 0.55,
-      "review": true
-    },
-    "name:delivery.ru": {
-      "category": "transport",
-      "confidence": 0.39,
       "review": true
     },
     "name:delta-privod.ru": {
@@ -4126,6 +4111,10 @@
       "category": "banks",
       "confidence": 0.95
     },
+    "name:lykoptika.ru": {
+      "category": "other",
+      "confidence": 0.81
+    },
     "name:lyncdiscover.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -4362,10 +4351,6 @@
       "confidence": 0.45,
       "review": true
     },
-    "name:matznay.ru": {
-      "category": "other",
-      "confidence": 0.82
-    },
     "name:max-bot.bestwayservice.ru": {
       "category": "other",
       "confidence": 0.84
@@ -4411,10 +4396,6 @@
     "name:mda.uralsib.ru": {
       "category": "banks",
       "confidence": 0.97
-    },
-    "name:mdk2.mtsbank.ru": {
-      "category": "banks",
-      "confidence": 0.99
     },
     "name:mdk3.mtsbank.ru": {
       "category": "banks",
@@ -4788,10 +4769,6 @@
       "confidence": 0.53,
       "review": true
     },
-    "name:mx.ns-bank.ru": {
-      "category": "banks",
-      "confidence": 0.94
-    },
     "name:mx1.bank.moneta.ru": {
       "category": "banks",
       "confidence": 0.99
@@ -5002,10 +4979,6 @@
     "name:nps.rspp.ru": {
       "category": "banks",
       "confidence": 0.61
-    },
-    "name:ns-bank.ru": {
-      "category": "banks",
-      "confidence": 0.91
     },
     "name:nsg.slavneft.ru": {
       "category": "industry",
@@ -6032,11 +6005,6 @@
       "category": "other",
       "confidence": 0.82
     },
-    "name:r7.corp.znanierussia.ru": {
-      "category": "other",
-      "confidence": 0.36,
-      "review": true
-    },
     "name:ra.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
@@ -6164,11 +6132,6 @@
     "name:rev2.avangard.ru": {
       "category": "industry",
       "confidence": 0.34,
-      "review": true
-    },
-    "name:rf-cheats.ru": {
-      "category": "other",
-      "confidence": 0.51,
       "review": true
     },
     "name:rifpark.ru": {
@@ -6796,11 +6759,6 @@
     "name:sochi.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.99
-    },
-    "name:social-card.ru": {
-      "category": "other",
-      "confidence": 0.51,
-      "review": true
     },
     "name:soft.ocs.ru": {
       "category": "other",
@@ -7580,6 +7538,10 @@
       "category": "other",
       "confidence": 0.74
     },
+    "name:theva.ru": {
+      "category": "other",
+      "confidence": 0.84
+    },
     "name:tikhvin.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.91
@@ -7928,6 +7890,10 @@
       "confidence": 0.9
     },
     "name:vertek.ru": {
+      "category": "other",
+      "confidence": 0.74
+    },
+    "name:vid-technological.ru": {
       "category": "other",
       "confidence": 0.74
     },
@@ -8493,10 +8459,6 @@
     "name:www.murashow.ru": {
       "category": "other",
       "confidence": 0.73
-    },
-    "name:www.ns-bank.ru": {
-      "category": "banks",
-      "confidence": 0.95
     },
     "name:www.ocs.ru": {
       "category": "other",

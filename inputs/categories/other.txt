@@ -35,6 +35,8 @@ alupka-art.ru
 alzoro.ru
 am-infinity.ru
 andoc.ru
+andrei-vorobev.su
+andreivorobev.su
 anketa.ocs.ru
 ano-orbita.ru
 ansap.ru
@@ -47,7 +49,6 @@ archiv.ru
 argds.ru
 argus-oskol.ru
 arhzan.ru
-aria-best.su
 artsroom.ru
 artyums.ru
 artzapchasti.ru
@@ -346,6 +347,7 @@ lot-online.ru
 ltk.com.ru
 luchi.ru
 lundapadel.ru
+lykoptika.ru
 madhome.ru
 mail.anozit.ru
 mail.gupti.ru
@@ -363,7 +365,6 @@ marketing.ocs.ru
 mate-it.ru
 mategroup.ru
 matter.softprofessor.ru
-matznay.ru
 max-bot.bestwayservice.ru
 max.message-relay.ru
 max.screspect.ru
@@ -571,7 +572,6 @@ pyopenrpa.ru
 q-admins.ru
 q7.hozmax.ru
 r3sonance.ru
-r7.corp.znanierussia.ru
 rame0.ru
 rapporto.ru
 rates.avangard.ru
@@ -594,7 +594,6 @@ reso-med.ru
 resultplace.ru
 rezonet.ru
 rezonit.ru
-rf-cheats.ru
 rifpark.ru
 rmq.datacloud.itphx.ru
 roomlink.ru
@@ -658,7 +657,6 @@ sn4il.ru
 snowqueen.ru
 soc-volga.ru
 soc.kszn34.ru
-social-card.ru
 soft.ocs.ru
 sogaz-clinic.ru
 sokol-kaluga.ru
@@ -723,6 +721,7 @@ test2.ocs.ru
 test273.servicecdn.ru
 testcr8.novikom.ru
 themm.ru
+theva.ru
 tolokonnikov.ru
 torndv.ru
 trade-u.ru
@@ -756,6 +755,7 @@ velesib.ru
 velken.ru
 verinson.ru
 vertek.ru
+vid-technological.ru
 vitas1648-dev.ru
 vk-terminal.ru
 vkdigi1.fvds.ru
