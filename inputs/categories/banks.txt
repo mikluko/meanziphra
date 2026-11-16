@@ -318,6 +318,7 @@ datamind.ru
 davay-delit.ru
 dbo-zemcombank.ru
 dbo.balakovo-bank.ru
+dbo.ns-bank.ru
 dc.toyotafs.ru
 dc2b.ru
 dc4b.ru
@@ -399,8 +400,10 @@ evonpf.ru
 evrofinance.ru
 exibank.ru
 eximbank.ru
+expmsg.ns-bank.ru
 expobank.ru
 express-bank.ru
+expvcs.ns-bank.ru
 external.platichastyamiuat.ru
 fact-web-test.mbrd.ru
 factoring.ru
@@ -615,6 +618,9 @@ lightcab.ru
 littlerepulsive.rambler.ru
 lk.sbtips.ru
 lk.vitabank.ru
+lka.test.ns-bank.ru
+lkc.test.ns-bank.ru
+lko.test.ns-bank.ru
 locko-bank.su
 lockobank.ru
 lockobank.su
@@ -739,7 +745,6 @@ npfsberbanka.ru
 nprts.ru
 nps.rspp.ru
 nrb.ru
-ns-bank.ru
 nsbank.ru
 nsd.ru
 nsddata.ru
