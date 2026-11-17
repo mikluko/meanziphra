@@ -87,6 +87,7 @@ rwbp.ru
 sabyget.ru
 sabytrade.ru
 samokat.ru
+sber-webhook.moimaket.ru
 sbercare-rds-gw-smkt-reserve.sber.ru
 sbercare-rds-gw-smkt.sber.ru
 sbercare-rds-smkt.sber.ru

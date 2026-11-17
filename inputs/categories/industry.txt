@@ -94,7 +94,6 @@ dev-portal.ru
 dev-stroyka.ru
 dineftyanik.ru
 dipaul.ru
-disk.tupolev.ru
 domres.ru
 domrf-am.ru
 domrf.ru
@@ -115,6 +114,7 @@ ekb.ru
 electromera.su
 elektro-32.ru
 elkam.ru
+energogarant.ru
 energosales.ru
 enholding.ru
 epd47.ru
@@ -157,6 +157,7 @@ goznakinvest.ru
 gpb-ee.ru
 gpnbonus.ru
 gpnmarket.ru
+gro48.ru
 himic.ru
 hiteknsk.ru
 ht.stm-ru.ru
@@ -184,6 +185,7 @@ k-energomash.ru
 kalashnikovconcern.ru
 kalashnikovgroup.ru
 kamaz.ru
+kb-lutch.ru
 kbptula.ru
 kbs.rosatom.ru
 kfw.ru
@@ -206,6 +208,7 @@ laspace.ru
 len-cas.energo.ru
 lenenergo.ru
 limit.avangard.ru
+lmz48.ru
 login.avangard.ru
 lomo.ru
 lubteplo.ru
@@ -272,6 +275,7 @@ okbmei.ru
 okna-leningrad.ru
 omesc.ru
 omk.ru
+omskregiongaz.ru
 omskrts.ru
 opkrt.ru
 orbita.ru
@@ -328,6 +332,7 @@ rosseti-lenenergo140.ru
 rosseti-ural.ru
 rosseti.ru
 rostec.ru
+rpts.su
 rttec.ru
 rus.avangard.ru
 ruselectronics.ru
@@ -457,6 +462,7 @@ xn----7sbhhgjt4afav0m.xn--p1ai
 xn----dtbjkxc4abh.xn--p1ai
 xn--80aaahiycas2ahds.xn--p1ai
 xn--80aadbk0bjofbqx.xn--p1ai
+xn--80aahf2akkincfh.xn--p1ai
 xn--80aahrca5bqhk0m.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80agfa2babkkggig1a5jqa.xn--p1ai

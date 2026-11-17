@@ -509,6 +509,7 @@ rtreg.ru
 rts-tender.ru
 rttv.ru
 ru-robot.ru
+rubackup.ru
 rusprofile.ru
 rusradio.ru
 rustdesk-oss.brain-flow.ru
@@ -623,7 +624,6 @@ tconf.ru
 teachersday.ru
 technoscore.ru
 tensor.ru
-test-le-8.certhub-beta.onecld.ru
 test1.certhub-beta.onecld.ru
 testcert.napalabs.ru
 testkontur.ru
