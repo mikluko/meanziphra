@@ -5,8 +5,10 @@
 1c.krao.ru
 1rkb.ru
 21-school.ru
+223zakupki.budgetnn.ru
 2gkb.ru
 38fbuz.ru
+44zakupki.budgetnn.ru
 52gov.ru
 58zan.ru
 72ms.ru
@@ -289,6 +291,7 @@ gcrr.ru
 gcup.spb.ru
 gdou14spb.ru
 gds.krao.ru
+gelstompol.ru
 geocartography.ru
 geoportal40.ru
 geovestnik.ru
@@ -362,6 +365,7 @@ iiun.ru
 ik.plagate.ru
 ilran.ru
 imc.spb.ru
+imm18.keldysh.ru
 in.meteo.nw.ru
 indepo.ru
 ined.ru
@@ -974,6 +978,7 @@ yenisey-gis.ru
 yeniseygis.ru
 zags-region63.ru
 zakaznso.ru
+zakupki.budgetnn.ru
 zakupki.gov.ru
 zakupki08.ru
 zan.nnov.ru

@@ -93,6 +93,7 @@ mmysql.mwsapis.ru
 modem.czs-anadyr.ru
 monitoring.mwsapis.ru
 moscoms.ru
+motivtelecom.ru
 movix.ru
 moy-m-portal.ru
 mp.tch.ru
