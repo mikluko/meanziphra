@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 13777,
+    "https://27.ctlog.digital.gov.ru/2027/": 13869,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 14410
+    "https://ctlog2027.mail.ru/nca2027/": 14517
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -505,7 +505,10 @@
       "ogrn": "1047702026701"
     },
     "26.rospotrebnadzor.ru": {
-      "not_after": "2026-11-19"
+      "not_after": "2027-11-17",
+      "org": "Управление Роспотребнадзора по Ставропольскому краю",
+      "inn": "2636045466",
+      "ogrn": "1052600297606"
     },
     "27.ctlog.digital.gov.ru": {
       "not_after": "2027-10-26",
@@ -694,7 +697,10 @@
       "ogrn": "1053500015580"
     },
     "36.rospotrebnadzor.ru": {
-      "not_after": "2026-12-07"
+      "not_after": "2027-11-17",
+      "org": "Управление Роспотребнадзора по Воронежской области",
+      "inn": "3665049192",
+      "ogrn": "1053600124676"
     },
     "38fbuz.ru": {
       "not_after": "2027-08-25",
@@ -836,6 +842,12 @@
       "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО БАНК СИНАРА",
       "inn": "6608003052",
       "ogrn": "1026600000460"
+    },
+    "3dsecure.snbank.ru": {
+      "not_after": "2027-11-17",
+      "org": "Bank Snezhinskiy JSC",
+      "inn": "7423004062",
+      "ogrn": "1027400009064"
     },
     "3dsecure.yoomoney.ru": {
       "not_after": "2027-05-29",
@@ -1126,7 +1138,7 @@
       "ogrn": "1085024000698"
     },
     "74.rospotrebnadzor.ru": {
-      "not_after": "2027-02-14"
+      "not_after": "2027-02-15"
     },
     "76.rospotrebnadzor.ru": {
       "not_after": "2027-10-19",
@@ -1595,6 +1607,12 @@
     },
     "account.megafon.ru": {
       "not_after": "2027-02-03"
+    },
+    "account.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "account2-cur.tricolor.ru": {
       "not_after": "2027-10-26",
@@ -6064,6 +6082,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "apple-notif-mz-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "appleaccounts-test.storage.bcs.ru": {
       "not_after": "2027-09-28",
       "org": "BrokerCreditService Ltd",
@@ -6811,6 +6835,12 @@
       "inn": "9731063700",
       "ogrn": "1207700164066"
     },
+    "astfond.ru": {
+      "not_after": "2027-11-17",
+      "org": "ТФОМС Астраханской области",
+      "inn": "3015009330",
+      "ogrn": "1023000826892"
+    },
     "astgoz.ru": {
       "not_after": "2027-09-10",
       "org": "ООО \"АСТ ГОЗ\"",
@@ -6843,6 +6873,12 @@
     },
     "astrakhan.staging.megafon.ru": {
       "not_after": "2027-02-01"
+    },
+    "astral.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО \"КАЛУГА АСТРАЛ\"",
+      "inn": "4029017981",
+      "ogrn": "1024001434049"
     },
     "astralinux.ru": {
       "not_after": "2026-12-03"
@@ -7071,6 +7107,12 @@
       "org": "ER Telecom Holding",
       "inn": "5902202276",
       "ogrn": "1065902028620"
+    },
+    "atsaero.ru": {
+      "not_after": "2027-11-17",
+      "org": "OOO ATS",
+      "inn": "7704856552",
+      "ogrn": "1147746115384"
     },
     "atsenergo.ru": {
       "not_after": "2027-04-13",
@@ -7415,7 +7457,7 @@
       "ogrn": "1197746592394"
     },
     "auth.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -10022,7 +10064,7 @@
       "not_after": "2027-01-06"
     },
     "b2b.bank.yandex.ru": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "b2b.cbrpay.ru": {
       "not_after": "2027-06-12",
@@ -10133,7 +10175,7 @@
       "ogrn": "1147746831352"
     },
     "b2c.client.sbertech.ru": {
-      "not_after": "2026-12-15",
+      "not_after": "2027-11-17",
       "org": "АО СберТех",
       "inn": "7736632467",
       "ogrn": "1117746533926"
@@ -10301,8 +10343,8 @@
       "not_after": "2027-06-23"
     },
     "baikalcredobank.ru": {
-      "not_after": "2026-11-21",
-      "org": "КБ Байкалкредобанк (АО)",
+      "not_after": "2027-11-17",
+      "org": "Commercial Bank Baikalcredobank (JSC)",
       "inn": "3807002717",
       "ogrn": "1023800000278"
     },
@@ -10403,10 +10445,10 @@
       "ogrn": "1025200000011"
     },
     "bank-authproxy-pcidss.prod.yandex-bank.net": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "bank-authproxy.prod.yandex-bank.net": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "bank-b.dar-cert.di-space.ru": {
       "not_after": "2027-10-07",
@@ -10610,7 +10652,7 @@
       "ogrn": "1027739642281"
     },
     "bankofkazan.ru": {
-      "not_after": "2027-08-20",
+      "not_after": "2027-11-17",
       "org": "ООО КБЭР 'Банк Казани'",
       "inn": "1653018661",
       "ogrn": "1021600000014"
@@ -10773,6 +10815,15 @@
       "org": "VK LLC",
       "inn": "7743001840",
       "ogrn": "1027739850962"
+    },
+    "bbb.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "bbb.keldysh.ru": {
+      "not_after": "2027-02-15"
     },
     "bbbbb.t-boys.ru": {
       "not_after": "2027-02-14"
@@ -12028,7 +12079,7 @@
       "ogrn": "1147746831352"
     },
     "biot.nspk.ru": {
-      "not_after": "2027-06-12",
+      "not_after": "2027-11-17",
       "org": "АО НСПК",
       "inn": "7706812159",
       "ogrn": "1147746831352"
@@ -13047,6 +13098,12 @@
       "inn": "7831000027",
       "ogrn": "1027800000140"
     },
+    "bspbdev.ru": {
+      "not_after": "2027-11-17",
+      "org": "Bank Saint-Petersburg Public Joint-Stock Company",
+      "inn": "7831000027",
+      "ogrn": "1027800000140"
+    },
     "bss-api-cur.tricolor.ru": {
       "not_after": "2027-10-26",
       "org": "NAO National Satellite Company",
@@ -13061,6 +13118,12 @@
     },
     "bss-api-rel.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "bss-api.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -13605,8 +13668,26 @@
       "inn": "2310031475",
       "ogrn": "1022301598549"
     },
+    "c2c1-cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "c2c2-cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "c2d-test.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "c2d.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -14434,7 +14515,7 @@
       "ogrn": "1167746803180"
     },
     "cc-vpn.t-access.ru": {
-      "not_after": "2026-12-01"
+      "not_after": "2027-02-15"
     },
     "cc.alfabank.ru": {
       "not_after": "2027-04-14",
@@ -14459,6 +14540,12 @@
       "org": "Публичное акционерное общество Банк ПСБ",
       "inn": "7744000912",
       "ogrn": "1027739019142"
+    },
+    "cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "cc.vtb.ru": {
       "not_after": "2027-08-05",
@@ -15507,6 +15594,9 @@
     "cert.nuc-80d02cc510d6449e.enthusiastic-delighted.online": {
       "not_after": "2026-12-29"
     },
+    "cert.nuc-9e619f165b374568.unforgettable-keenly.ru": {
+      "not_after": "2027-02-15"
+    },
     "cert.nuc-c9b652bab5ac4952.marveled-astonish.online": {
       "not_after": "2026-12-26"
     },
@@ -15533,12 +15623,6 @@
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
-    },
-    "cert1.ext-www-staging.megafon.ru": {
-      "not_after": "2026-11-17"
-    },
-    "cert2.ext-www-staging.megafon.ru": {
-      "not_after": "2026-11-17"
     },
     "cert3.ext-www-staging.megafon.ru": {
       "not_after": "2026-11-19"
@@ -15827,6 +15911,12 @@
       "org": "Bank Saint Petersburg Public Joint-Stock Company",
       "inn": "7831000027",
       "ogrn": "1027800000140"
+    },
+    "chat.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "chat.chatdev.psbank.ru": {
       "not_after": "2027-02-24",
@@ -16327,10 +16417,10 @@
       "ogrn": "1027739609391"
     },
     "chukotka.megafon.ru": {
-      "not_after": "2027-01-05"
+      "not_after": "2027-02-15"
     },
     "chukotka.staging.megafon.ru": {
-      "not_after": "2027-01-12"
+      "not_after": "2027-02-15"
     },
     "chuv.rspp.ru": {
       "not_after": "2027-01-07"
@@ -16505,6 +16595,12 @@
     },
     "cinema-api-rel.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "cinema-api.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -17568,6 +17664,9 @@
     "code.argds.ru": {
       "not_after": "2027-01-13"
     },
+    "code.mipt.ru": {
+      "not_after": "2027-02-15"
+    },
     "code.tricolor.ru": {
       "not_after": "2027-10-19",
       "org": "NAO National Satellite Company",
@@ -18133,7 +18232,7 @@
       "ogrn": "1023501237330"
     },
     "core-logistic-orders.ext-proxy.prod.yandex-bank.net": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "core-sbol.chastyami.shop": {
       "not_after": "2027-06-30",
@@ -19882,6 +19981,12 @@
       "inn": "7706810747",
       "ogrn": "1147746683479"
     },
+    "cvmir.ru": {
+      "not_after": "2027-11-17",
+      "org": "ГБУЗ Краевой детский центр медицинской реабелитации",
+      "inn": "2311066706",
+      "ogrn": "1022301820694"
+    },
     "cwe-cvss-classifier.devsec.astralinux.ru": {
       "not_after": "2027-02-08"
     },
@@ -20942,7 +21047,7 @@
       "ogrn": "1217700294250"
     },
     "demo.factoring.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-15"
     },
     "demo.faktura.ru": {
       "not_after": "2026-12-26",
@@ -23047,6 +23152,9 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
+    "disk.tupolev.ru": {
+      "not_after": "2027-02-15"
+    },
     "disp-micro-cargo.psi.dropapp.sbertransport.ru": {
       "not_after": "2026-12-05",
       "org": "Public Joint-Stock Company Sberbank of Russia",
@@ -24202,9 +24310,6 @@
       "inn": "7728094832",
       "ogrn": "1027700510672"
     },
-    "dpomipk.ru": {
-      "not_after": "2026-11-17"
-    },
     "dpr-gov.ru": {
       "not_after": "2027-03-16",
       "org": "ГУП ДНР РЦИТ",
@@ -24240,6 +24345,18 @@
       "org": "Общество с ограниченной ответственностью МРИЯ",
       "inn": "9103007830",
       "ogrn": "1149102066740"
+    },
+    "drip.bdmz.ru": {
+      "not_after": "2027-11-17",
+      "org": "ПАО «Банк «Санкт-Петербург»",
+      "inn": "7831000027",
+      "ogrn": "1027800000140"
+    },
+    "drip.bspb.ru": {
+      "not_after": "2027-11-17",
+      "org": "ПАО «Банк «Санкт-Петербург»",
+      "inn": "7831000027",
+      "ogrn": "1027800000140"
     },
     "drive-data.ru": {
       "not_after": "2027-08-07",
@@ -27010,6 +27127,12 @@
     "ether-platform.ru": {
       "not_after": "2027-10-20"
     },
+    "etl.integriks.ru": {
+      "not_after": "2027-11-17",
+      "org": "ООО \"НЕТВОКС ЛАБ\"",
+      "inn": "7727627478",
+      "ogrn": "1077760865445"
+    },
     "etp-avtodor.ru": {
       "not_after": "2027-10-30",
       "org": "ООО \"АВТОДОР - ТОРГОВАЯ ПЛОЩАДКА\"",
@@ -27920,7 +28043,7 @@
       "ogrn": "1027700198767"
     },
     "ext-proxy-sberpay.prod.yandex-bank.net": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "ext-tls.gazprombank.investments": {
       "not_after": "2027-06-24",
@@ -28051,6 +28174,12 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "extservice.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "f.mdeng.ru": {
       "not_after": "2027-08-04",
       "org": "Mobile TeleSystems Public Joint Stock Company",
@@ -28122,12 +28251,6 @@
     },
     "factoring.megafon.ru": {
       "not_after": "2027-01-21"
-    },
-    "factoring.mkb.ru": {
-      "not_after": "2026-11-17",
-      "org": "Credit Bank of Moscow PJSC",
-      "inn": "7734202860",
-      "ogrn": "1027739555282"
     },
     "factoring.mtsbank.ru": {
       "not_after": "2027-08-03",
@@ -29534,7 +29657,7 @@
       "ogrn": "1027700198767"
     },
     "fractel.ru": {
-      "not_after": "2026-11-25",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -29552,7 +29675,7 @@
       "ogrn": "1117746689840"
     },
     "fraktel.ru": {
-      "not_after": "2026-12-01",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -30465,6 +30588,12 @@
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
+    "gen-cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "genassistant.test-middle.megafon.ru": {
       "not_after": "2027-01-23"
     },
@@ -31059,6 +31188,12 @@
     "gitflic.astralinux.ru": {
       "not_after": "2027-02-08"
     },
+    "gitlab-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "gitlab-kroki.devsec.astralinux.ru": {
       "not_after": "2027-02-08"
     },
@@ -31067,6 +31202,9 @@
       "org": "MOSCOW EXCHANGE",
       "inn": "7702077840",
       "ogrn": "1027739387411"
+    },
+    "gitlab.astra-monitoring.astralinux.ru": {
+      "not_after": "2027-02-15"
     },
     "gitlab.bcs.ru": {
       "not_after": "2027-08-13",
@@ -31290,6 +31428,12 @@
       "inn": "7736046991",
       "ogrn": "1027700024560"
     },
+    "go-squadus.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "go-test.alfabank.ru": {
       "not_after": "2027-01-23",
       "org": "AO Alfa-Bank",
@@ -31480,9 +31624,6 @@
       "inn": "9718006157",
       "ogrn": "1167746442753"
     },
-    "gost.bstrv.ru": {
-      "not_after": "2026-11-17"
-    },
     "gost.glushkova.kim": {
       "not_after": "2027-01-12"
     },
@@ -31550,12 +31691,6 @@
       "org": "Департамент информационных технологий и цифрового развития",
       "inn": "4501222499",
       "ogrn": "1194501000264"
-    },
-    "gov74.ru": {
-      "not_after": "2026-11-17",
-      "org": "Минцифры Челябинской области",
-      "inn": "7451310939",
-      "ogrn": "1107451016860"
     },
     "govirk.ru": {
       "not_after": "2027-07-24",
@@ -32016,6 +32151,9 @@
       "inn": "0274397100",
       "ogrn": "1250200026592"
     },
+    "gsk132.ru": {
+      "not_after": "2027-02-16"
+    },
     "gslb.mos.ru": {
       "not_after": "2026-12-29"
     },
@@ -32032,8 +32170,8 @@
       "ogrn": "1047839034484"
     },
     "gsp-ac48-1-out-s-1.sbertech.ru": {
-      "not_after": "2026-11-26",
-      "org": "sbertech",
+      "not_after": "2027-11-17",
+      "org": "АО СберТех",
       "inn": "7736632467",
       "ogrn": "1117746533926"
     },
@@ -32324,6 +32462,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "gw-c2d.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "gw-portal-ext.megafon.ru": {
       "not_after": "2027-02-14"
     },
@@ -32337,10 +32481,10 @@
       "ogrn": "1037832048605"
     },
     "gw-vpn.t-access.ru": {
-      "not_after": "2026-12-01"
+      "not_after": "2027-02-15"
     },
     "gw-vpn.tcsbank.ru": {
-      "not_after": "2026-12-01"
+      "not_after": "2027-02-15"
     },
     "gw.api.vtb.ru": {
       "not_after": "2027-06-17",
@@ -32433,6 +32577,12 @@
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
+    "gw1.onlinecall.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "gw10.alfa-bank.info": {
       "not_after": "2027-10-23",
       "org": "AO Alfa-Bank",
@@ -32451,11 +32601,29 @@
       "inn": "7728168971",
       "ogrn": "1027700067328"
     },
+    "gw1onlinecall.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "gw2.onlinecall.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "gw2.platichastyami.ru": {
       "not_after": "2027-07-31",
       "org": "ООО  «Центр новых финансовых сервисов»",
       "inn": "9709078370",
       "ogrn": "1227700098009"
+    },
+    "gw2onlinecall.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "gwar.mil.ru": {
       "not_after": "2027-07-01",
@@ -32716,13 +32884,13 @@
       "ogrn": "1144400000425"
     },
     "halvakids.com": {
-      "not_after": "2026-12-15",
+      "not_after": "2027-11-17",
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
     "halvakids.info": {
-      "not_after": "2026-12-15",
+      "not_after": "2027-11-17",
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
@@ -32746,8 +32914,8 @@
       "ogrn": "1144400000425"
     },
     "halvakids.site": {
-      "not_after": "2026-12-15",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
+      "not_after": "2027-11-17",
+      "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -32764,8 +32932,8 @@
       "ogrn": "1144400000425"
     },
     "halvenok.com": {
-      "not_after": "2026-12-15",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
+      "not_after": "2027-11-17",
+      "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -32782,8 +32950,8 @@
       "ogrn": "1144400000425"
     },
     "halvenok.site": {
-      "not_after": "2026-12-15",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
+      "not_after": "2027-11-17",
+      "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -33067,7 +33235,7 @@
       "ogrn": "1027700067328"
     },
     "help-chat.bank.yandex.ru": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "help-kino.tricolor.ru": {
       "not_after": "2027-10-19",
@@ -33434,6 +33602,12 @@
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
+    },
+    "home.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "home.dealers.megafon.ru": {
       "not_after": "2026-11-24"
@@ -34490,6 +34664,9 @@
       "org": "JSC JSCIB Pochtobank",
       "inn": "5902300019",
       "ogrn": "1025900000059"
+    },
+    "ibank.viking.spb.ru": {
+      "not_after": "2027-02-15"
     },
     "ibank2.atbbank.ru": {
       "not_after": "2027-06-22",
@@ -36337,7 +36514,10 @@
       "ogrn": "1024201467510"
     },
     "in-vent.ru": {
-      "not_after": "2027-01-31"
+      "not_after": "2027-11-17",
+      "org": "INVENT",
+      "inn": "5257114908",
+      "ogrn": "1105257000970"
     },
     "in.meteo.nw.ru": {
       "not_after": "2027-06-23",
@@ -36548,6 +36728,12 @@
       "org": "Общество с ограниченной ответственностью «Информационные сети»",
       "inn": "5001097019",
       "ogrn": "1135001007041"
+    },
+    "infoservice-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "infoservices.sberdevices.ru": {
       "not_after": "2027-10-23",
@@ -36960,6 +37146,12 @@
       "inn": "9713033887",
       "ogrn": "1267700057558"
     },
+    "integriks.ru": {
+      "not_after": "2027-11-17",
+      "org": "ООО \"НЕТВОКС ЛАБ\"",
+      "inn": "7727627478",
+      "ogrn": "1077760865445"
+    },
     "intelcube.ru": {
       "not_after": "2027-08-11"
     },
@@ -37082,9 +37274,6 @@
       "org": "ООО НПЦ ИНТЕРТЕХИНФОРМ",
       "inn": "7106528643",
       "ogrn": "1137154037206"
-    },
-    "interview-ejudge-core.prod.digital-interview.t-tech.ru": {
-      "not_after": "2026-11-17"
     },
     "intha01.sovcomins.ru": {
       "not_after": "2027-11-06",
@@ -39118,7 +39307,7 @@
       "not_after": "2027-01-10"
     },
     "kamchatka.staging.megafon.ru": {
-      "not_after": "2027-01-12"
+      "not_after": "2027-02-15"
     },
     "kammiac.ru": {
       "not_after": "2027-11-10",
@@ -40126,7 +40315,7 @@
       "not_after": "2027-02-10"
     },
     "kirov.megafon.ru": {
-      "not_after": "2027-01-05"
+      "not_after": "2027-02-15"
     },
     "kirov.staging.megafon.ru": {
       "not_after": "2027-02-07"
@@ -40708,7 +40897,7 @@
       "ogrn": "1112308003917"
     },
     "krasnodar.staging.megafon.ru": {
-      "not_after": "2027-01-12"
+      "not_after": "2027-02-15"
     },
     "krasnodar.sveza.ru": {
       "not_after": "2027-09-02",
@@ -40837,7 +41026,7 @@
       "not_after": "2027-02-10"
     },
     "ks.megafon.ru": {
-      "not_after": "2027-01-05"
+      "not_after": "2027-02-15"
     },
     "ks.staging.megafon.ru": {
       "not_after": "2027-02-02"
@@ -41475,6 +41664,12 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
+    "lb.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "lbaasv1.epaas.s7.ru": {
       "not_after": "2027-06-22",
       "org": "АО АВИАКОМПАНИЯ СИБИРЬ",
@@ -42078,6 +42273,12 @@
       "inn": "7723624187",
       "ogrn": "1077758948112"
     },
+    "livechat-c2d.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "livejournal.com": {
       "not_after": "2027-07-14",
       "org": "ООО СИМ",
@@ -42168,6 +42369,12 @@
       "inn": "5503067018",
       "ogrn": "1025500003737"
     },
+    "lk-dealer.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "lk-dev.test-middle.megafon.ru": {
       "not_after": "2027-02-07"
     },
@@ -42195,6 +42402,12 @@
       "inn": "7734202860",
       "ogrn": "1027739555282"
     },
+    "lk-legal.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "lk-metro.spb.ru": {
       "not_after": "2027-09-14",
       "org": "ГУП Петербургский Метрополитен",
@@ -42213,6 +42426,12 @@
       "inn": "7707049388",
       "ogrn": "1027700198767"
     },
+    "lk-plug.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "lk-srv.severstal.com": {
       "not_after": "2027-09-18",
       "org": "Severstal-infocom JSC",
@@ -42224,6 +42443,12 @@
       "org": "AAA Capital Management",
       "inn": "7722515837",
       "ogrn": "1047796382920"
+    },
+    "lk-subscr.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "lk-subscribe.mts.ru": {
       "not_after": "2027-10-06",
@@ -42675,6 +42900,12 @@
       "inn": "7017351521",
       "ogrn": "1145543013880"
     },
+    "lk.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "lk.ug.mts.ru": {
       "not_after": "2027-10-09",
       "org": "Mobile TeleSystems Public Joint Stock Company",
@@ -42743,6 +42974,12 @@
       "org": "JSC Votkinsky zavod",
       "inn": "1828020110",
       "ogrn": "1101828001000"
+    },
+    "lka-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "lka.rosneft.ru": {
       "not_after": "2027-07-31",
@@ -47227,7 +47464,7 @@
       "ogrn": "1047796366298"
     },
     "map.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -47257,7 +47494,7 @@
       "ogrn": "1047796366298"
     },
     "map2.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -47275,7 +47512,7 @@
       "ogrn": "1047796366298"
     },
     "map3.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -47287,7 +47524,7 @@
       "ogrn": "1047796366298"
     },
     "map4.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -47299,7 +47536,7 @@
       "ogrn": "1047796366298"
     },
     "map5.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -47941,7 +48178,7 @@
       "not_after": "2027-01-20"
     },
     "mcc-portal.megafon.ru": {
-      "not_after": "2027-01-12"
+      "not_after": "2027-02-15"
     },
     "mcc.alfabank.ru": {
       "not_after": "2027-07-17",
@@ -48135,6 +48372,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "mdealer-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "mdeng.ru": {
       "not_after": "2027-08-04",
       "org": "Mobile TeleSystems Public Joint Stock Company",
@@ -48152,9 +48395,6 @@
       "org": "ПАО МТС-Банк",
       "inn": "7702045051",
       "ogrn": "1027739053704"
-    },
-    "mdk3.mtsbank.ru": {
-      "not_after": "2026-11-17"
     },
     "mdlp.crpt.ru": {
       "not_after": "2027-07-03",
@@ -48683,6 +48923,12 @@
     },
     "megatel-api-rel.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "megatel-api.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -50364,6 +50610,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "mobile-demo.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "mobile-dev.tricolor.ru": {
       "not_after": "2027-10-26",
       "org": "NAO National Satellite Company",
@@ -50854,7 +51106,7 @@
       "not_after": "2027-02-10"
     },
     "mordovia.megafon.ru": {
-      "not_after": "2027-01-05"
+      "not_after": "2027-02-15"
     },
     "mordovia.staging.megafon.ru": {
       "not_after": "2027-02-07"
@@ -51794,12 +52046,6 @@
       "org": "ООО ДИРЕКТ ТЕХ",
       "inn": "5032391691",
       "ogrn": "1255000064725"
-    },
-    "msko-bud.stv.muzkult.ru": {
-      "not_after": "2026-11-17",
-      "org": "МУК «МСКО»",
-      "inn": "2624800795",
-      "ogrn": "1112651036871"
     },
     "mskobr.ru": {
       "not_after": "2027-09-01",
@@ -52993,6 +53239,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "mytricolor-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "mytrk.link": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -53944,6 +54196,18 @@
       "inn": "5406821800",
       "ogrn": "1225400017270"
     },
+    "nicha.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "nichb.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "nico-bank.ru": {
       "not_after": "2027-09-04",
       "org": "PJSC NICO-BANK",
@@ -54650,7 +54914,7 @@
       "ogrn": "1097746741894"
     },
     "npo-rtc.ru": {
-      "not_after": "2026-12-01",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -54970,6 +55234,9 @@
       "inn": "7703191457",
       "ogrn": "1027739667218"
     },
+    "nuc-08c7d502db3f4f0c.profusion-nonviolence.ru": {
+      "not_after": "2027-02-15"
+    },
     "nuc-0aace967aaaa4eec.exult-unparalleled.ru": {
       "not_after": "2027-02-14"
     },
@@ -54991,6 +55258,9 @@
     "nuc-5ec83058f1d943b1.glee-embolden.online": {
       "not_after": "2026-12-29"
     },
+    "nuc-6b721a3051b44ec6.exult-unparalleled.ru": {
+      "not_after": "2027-02-15"
+    },
     "nuc-7283b3c5bfc24155.glee-embolden.online": {
       "not_after": "2026-12-29"
     },
@@ -55003,6 +55273,9 @@
     "nuc-a00c56af7c5a499e.glee-embolden.online": {
       "not_after": "2026-12-29"
     },
+    "nuc-a5bd3bb696ac4cb3.profusion-nonviolence.ru": {
+      "not_after": "2027-02-15"
+    },
     "nuc-acme.voskhod.ru": {
       "not_after": "2026-12-12",
       "org": "Минцифры России",
@@ -55011,6 +55284,9 @@
     },
     "nuc-c0595539c25141d8.glee-embolden.online": {
       "not_after": "2026-12-30"
+    },
+    "nuc-d83f7b4514ea48e3.exult-unparalleled.ru": {
+      "not_after": "2027-02-15"
     },
     "nuc-e8f2f9abe341449b.glee-embolden.online": {
       "not_after": "2026-12-27"
@@ -55621,6 +55897,12 @@
     "ojs.ioffe.ru": {
       "not_after": "2026-12-13"
     },
+    "ok.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "ok.games": {
       "not_after": "2027-06-26",
       "org": "VK LLC",
@@ -55747,6 +56029,18 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "oktell-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "oktell.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "oktus.sber.ru": {
       "not_after": "2027-03-25",
       "org": "Sberbank",
@@ -55830,6 +56124,12 @@
     },
     "oldnet.su": {
       "not_after": "2027-02-03"
+    },
+    "olimpium.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО Академия Просвещение",
+      "inn": "9715287774",
+      "ogrn": "5167746474968"
     },
     "oltest.cloud.mts.ru": {
       "not_after": "2027-08-05",
@@ -55982,7 +56282,7 @@
       "not_after": "2027-02-10"
     },
     "omsk.megafon.ru": {
-      "not_after": "2027-01-05"
+      "not_after": "2027-02-15"
     },
     "omsk.rspp.ru": {
       "not_after": "2026-12-31"
@@ -56054,7 +56354,7 @@
       "not_after": "2027-02-09"
     },
     "omv.megafon.ru": {
-      "not_after": "2027-01-07"
+      "not_after": "2027-02-15"
     },
     "on-media.ru": {
       "not_after": "2027-08-17",
@@ -56589,6 +56889,12 @@
       "org": "Gazprombank Joint Stock Company",
       "inn": "7744001497",
       "ogrn": "1027700167110"
+    },
+    "onlinecall.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "onlinecredit.ru": {
       "not_after": "2027-03-25",
@@ -59536,6 +59842,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "partner-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "partner-card-gateway-test.api.mtsbank.ru": {
       "not_after": "2027-01-20"
     },
@@ -60025,6 +60337,12 @@
       "inn": "7709129705",
       "ogrn": "1027739186970"
     },
+    "pay.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "pay.uralprombank.ru": {
       "not_after": "2027-06-22",
       "org": "Joint Stock Urals Industrial Bank",
@@ -60220,6 +60538,12 @@
       "inn": "7725243282",
       "ogrn": "1037725059800"
     },
+    "payment.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "payment.uralairlines.ru": {
       "not_after": "2027-10-22",
       "org": "JOINT STOCK COMPANY URAL AIRLINES",
@@ -60391,6 +60715,12 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "pbst.nspk.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО НСПК",
+      "inn": "7706812159",
+      "ogrn": "1147746831352"
+    },
     "pbx.akado-telecom.ru": {
       "not_after": "2027-07-13",
       "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО МОСКОВСКАЯ ТЕЛЕКОММУНИКАЦИОННАЯ КОРПОРАЦИЯ",
@@ -60449,7 +60779,7 @@
       "ogrn": "1247700471919"
     },
     "pcidss.bank.yandex.ru": {
-      "not_after": "2027-02-08"
+      "not_after": "2027-02-15"
     },
     "pcm.gigacollector.eye.salute.ru": {
       "not_after": "2027-10-29",
@@ -60876,12 +61206,6 @@
       "org": "ООО РА ИНДЕКС 20",
       "inn": "7725847502",
       "ogrn": "5147746311686"
-    },
-    "pfo.transneft.ru": {
-      "not_after": "2026-11-17",
-      "org": "Transneft",
-      "inn": "7706061801",
-      "ogrn": "1027700049486"
     },
     "pfp.storage.bcs.ru": {
       "not_after": "2027-09-28",
@@ -61797,6 +62121,12 @@
       "inn": "9715260691",
       "ogrn": "1167746512856"
     },
+    "pofoms.ru": {
+      "not_after": "2027-11-17",
+      "org": "ТФОМС Пермского края",
+      "inn": "5906071680",
+      "ogrn": "1065906036460"
+    },
     "pogoda.mail.ru": {
       "not_after": "2027-07-15",
       "org": "VK LLC",
@@ -62013,6 +62343,12 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
+    "portal-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "portal-feature.web.s7.ru": {
       "not_after": "2027-07-02",
       "org": "АО АВИАКОМПАНИЯ СИБИРЬ",
@@ -62075,6 +62411,12 @@
       "org": "ISPRAS",
       "inn": "7709006125",
       "ogrn": "1037700067327"
+    },
+    "portal.cc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "portal.cloud.ru": {
       "not_after": "2027-10-08",
@@ -62201,6 +62543,12 @@
       "org": "BrokerCreditService Ltd",
       "inn": "5406121446",
       "ogrn": "1025402459334"
+    },
+    "portal.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "portal.vk.team": {
       "not_after": "2027-07-15",
@@ -63846,9 +64194,6 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
-    "promo.zg-test.megafon.ru": {
-      "not_after": "2026-11-17"
-    },
     "promo.zg.megafon.ru": {
       "not_after": "2026-12-16"
     },
@@ -64474,7 +64819,7 @@
       "ogrn": "1047796366298"
     },
     "pub.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -64492,7 +64837,7 @@
       "ogrn": "1047796366298"
     },
     "pub2.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -64504,7 +64849,7 @@
       "ogrn": "1047796366298"
     },
     "pub3.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -64516,7 +64861,7 @@
       "ogrn": "1047796366298"
     },
     "pub4.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -64528,7 +64873,7 @@
       "ogrn": "1047796366298"
     },
     "pub5.fgislk.gov.ru": {
-      "not_after": "2027-04-09",
+      "not_after": "2027-11-17",
       "org": "The Federal Forestry Agency",
       "inn": "7705598840",
       "ogrn": "1047796366298"
@@ -64580,6 +64925,12 @@
       "org": "PJSC Sberbank",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "public.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "publicex.domrfbank.ru": {
       "not_after": "2027-02-11"
@@ -65172,8 +65523,20 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "pxl-msg.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "pxl-web-cur.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "pxl-web.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -65737,10 +66100,10 @@
       "ogrn": "1027700067328"
     },
     "r03.rosreestr.ru": {
-      "not_after": "2027-03-24",
-      "org": "Управление Росреестра по Республике Бурятия",
-      "inn": "0326023500",
-      "ogrn": "1040302993598"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r04.alfabank.ru": {
       "not_after": "2027-07-29",
@@ -65767,10 +66130,10 @@
       "ogrn": "1040600284922"
     },
     "r07.rosreestr.ru": {
-      "not_after": "2027-03-27",
-      "org": "УПРАВЛЕНИЕ ФЕДЕРАЛЬНОЙ СЛУЖБЫ ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАС",
-      "inn": "0721009680",
-      "ogrn": "1040700234321"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r08.rosreestr.ru": {
       "not_after": "2027-03-27",
@@ -65809,10 +66172,10 @@
       "ogrn": "1041200444988"
     },
     "r13.rosreestr.ru": {
-      "not_after": "2027-04-02",
-      "org": "Управление Росреестра по Республике Мордовия",
-      "inn": "1326192268",
-      "ogrn": "1041316017170"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r14.rosreestr.ru": {
       "not_after": "2027-03-26",
@@ -65998,10 +66361,10 @@
       "ogrn": "1044004426498"
     },
     "r41.rosreestr.ru": {
-      "not_after": "2027-03-26",
-      "org": "Управление Росреестра по Камчатскому краю",
-      "inn": "4101099096",
-      "ogrn": "1044100664167"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r42.rosreestr.ru": {
       "not_after": "2027-03-20",
@@ -66046,10 +66409,10 @@
       "ogrn": "1044800221817"
     },
     "r49.rosreestr.ru": {
-      "not_after": "2027-03-19",
-      "org": "Управление Росреестра по Магаданской области и ЧАО",
-      "inn": "4909007240",
-      "ogrn": "1044900038391"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r51.rosreestr.ru": {
       "not_after": "2027-01-16",
@@ -66124,16 +66487,16 @@
       "ogrn": "1046209031384"
     },
     "r63.rosreestr.ru": {
-      "not_after": "2027-04-22",
-      "org": "Управление Росреестра по Самарской области",
-      "inn": "6317053595",
-      "ogrn": "1046300581590"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r64.rosreestr.ru": {
-      "not_after": "2027-03-24",
-      "org": "УПРАВЛЕНИЕ РОСРЕЕСТРА ПО САРАТОВСКОЙ ОБЛАСТИ",
-      "inn": "6455039436",
-      "ogrn": "1056405504671"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r65.rosreestr.ru": {
       "not_after": "2027-03-25",
@@ -66214,10 +66577,10 @@
       "ogrn": "1047550034509"
     },
     "r76.rosreestr.ru": {
-      "not_after": "2027-03-25",
-      "org": "УПРАВЛЕНИЕ РОСРЕЕСТРА ПО ЯРОСЛАВСКОЙ ОБЛАСТИ",
-      "inn": "7604071920",
-      "ogrn": "1047600432219"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r77.rosreestr.ru": {
       "not_after": "2027-03-25",
@@ -66238,28 +66601,28 @@
       "ogrn": "1027900511506"
     },
     "r80.rosreestr.ru": {
-      "not_after": "2027-03-24",
-      "org": "Управление Росреестра по Донецкой Народной Республике",
-      "inn": "9303032008",
-      "ogrn": "1229300177578"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r81.rosreestr.ru": {
-      "not_after": "2027-04-29",
-      "org": "УПРАВЛЕНИЕ РОСРЕЕСТРА ПО ЛУГАНСКОЙ НАРОДНОЙ РЕСПУБЛИКЕ",
-      "inn": "9403025251",
-      "ogrn": "1229400102249"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r84.rosreestr.ru": {
-      "not_after": "2027-01-28",
-      "org": "ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТО",
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
     },
     "r85.rosreestr.ru": {
-      "not_after": "2027-03-20",
-      "org": "Управление Росреестра по Запорожской области",
-      "inn": "9001010826",
-      "ogrn": "1229000019115"
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
+      "inn": "7706560536",
+      "ogrn": "1047796940465"
     },
     "r86.rosreestr.ru": {
       "not_after": "2027-03-19",
@@ -66283,8 +66646,8 @@
       "not_after": "2027-01-29"
     },
     "r96.rosreestr.ru": {
-      "not_after": "2027-01-28",
-      "org": "ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТО",
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
     },
@@ -66515,6 +66878,12 @@
     },
     "raiff-sbp-callback-test.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "raiff-sbp-callback.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -66882,6 +67251,12 @@
       "inn": "2722087526",
       "ogrn": "1092724005770"
     },
+    "rcurala.ru": {
+      "not_after": "2027-11-17",
+      "org": "Расчетный центр Урала",
+      "inn": "6659190330",
+      "ogrn": "1096659004640"
+    },
     "rd.otpbank.ru": {
       "not_after": "2027-09-02",
       "org": "Акционерное общество ОТП Банк",
@@ -67233,6 +67608,12 @@
     "register.rspp.ru": {
       "not_after": "2026-12-30"
     },
+    "registration.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "registrator-rekom.ru": {
       "not_after": "2027-09-07",
       "org": "ООО СР Реком",
@@ -67244,6 +67625,9 @@
       "org": "Sberbank-Service LLC",
       "inn": "7736663049",
       "ogrn": "1137746703709"
+    },
+    "registry.astra-monitoring.astralinux.ru": {
+      "not_after": "2027-02-15"
     },
     "registry.devsec.astralinux.ru": {
       "not_after": "2027-02-09"
@@ -67670,6 +68054,18 @@
       "org": "Center-invest Bank",
       "inn": "6163011391",
       "ogrn": "1026100001949"
+    },
+    "response.sas-sendsay.bspb.ru": {
+      "not_after": "2027-11-17",
+      "org": "Bank «Saint-Petersburg» PJSC",
+      "inn": "7831000027",
+      "ogrn": "1027800000140"
+    },
+    "response.test-sas-sendsay.bspb.ru": {
+      "not_after": "2027-11-17",
+      "org": "Bank «Saint-Petersburg» PJSC",
+      "inn": "7831000027",
+      "ogrn": "1027800000140"
     },
     "rest.myonlinetips.ru": {
       "not_after": "2027-07-16",
@@ -68331,6 +68727,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "ror-c2d.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "ros-air.ru": {
       "not_after": "2027-06-24",
       "org": "Aktsionernoe obshchestvo Aviakompaniya Rossiya",
@@ -68427,6 +68829,12 @@
       "inn": "7703030058",
       "ogrn": "1027739529641"
     },
+    "roskapstroy.ru": {
+      "not_after": "2027-11-17",
+      "org": "ФАУ РосКапСтрой",
+      "inn": "7718193111",
+      "ogrn": "1027700221559"
+    },
     "roskazna.gov.ru": {
       "not_after": "2027-07-29",
       "org": "Федеральное казначейство",
@@ -68494,8 +68902,8 @@
       "ogrn": "1047796940465"
     },
     "rosreestr.ru": {
-      "not_after": "2027-07-06",
-      "org": "Rosreestr",
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
     },
@@ -68877,6 +69285,12 @@
       "inn": "7707056547",
       "ogrn": "1027739210630"
     },
+    "rsfbc.ru": {
+      "not_after": "2027-11-17",
+      "org": "Respublicanskaya slujba finansovo-budjetnogo kontrolya",
+      "inn": "0816003768",
+      "ogrn": "1080816001903"
+    },
     "rshb-am.ru": {
       "not_after": "2027-08-11",
       "org": "ООО РСХБ Управление Активами",
@@ -68972,6 +69386,9 @@
       "org": "JSCB NOVIKOMBANK",
       "inn": "7706196340",
       "ogrn": "1027739075891"
+    },
+    "rt-link.tupolev.ru": {
+      "not_after": "2027-02-15"
     },
     "rt-nuc.sec.yandex.net": {
       "not_after": "2026-12-29"
@@ -70225,6 +70642,18 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
+    "salesftp.s7.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО АВИАКОМПАНИЯ СИБИРЬ",
+      "inn": "5448100656",
+      "ogrn": "1025405624430"
+    },
+    "salesftp13h01.s7.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО АВИАКОМПАНИЯ СИБИРЬ",
+      "inn": "5448100656",
+      "ogrn": "1025405624430"
+    },
     "salonpicker.ru": {
       "not_after": "2027-06-22",
       "org": "ООО УАЙКЛАЕНТС",
@@ -70944,6 +71373,12 @@
     },
     "sberbank-callback-test-rel.tricolor.ru": {
       "not_after": "2027-10-26",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "sberbank-callback.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -72031,12 +72466,6 @@
       "inn": "7743001840",
       "ogrn": "1027739850962"
     },
-    "school-134.ru": {
-      "not_after": "2026-11-17",
-      "org": "ГБОУ СОШ №134 КРАСНОГВАРДЕЙСКОГО РАЙОНА СПБ ИМ. СЕРГЕЯ ДУДКО",
-      "inn": "7806029689",
-      "ogrn": "1037816004335"
-    },
     "school-24.tagan.ru": {
       "not_after": "2027-08-19",
       "org": "МОБУ СОШ № 24",
@@ -72943,6 +73372,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "selfcare-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "selfie.alfabank.ru": {
       "not_after": "2027-02-27",
       "org": "AO Alfa-Bank",
@@ -73267,9 +73702,6 @@
       "inn": "7707049388",
       "ogrn": "1027700198767"
     },
-    "sesufa.ru": {
-      "not_after": "2026-11-17"
-    },
     "sev-tech.ru": {
       "not_after": "2027-07-29",
       "org": "ООО «СЕВЕРНЫЕ ТЕХНОЛОГИИ»",
@@ -73372,9 +73804,6 @@
       "inn": "1101300820",
       "ogrn": "1021100000074"
     },
-    "sevstar.net": {
-      "not_after": "2026-11-17"
-    },
     "sf-kras.ru": {
       "not_after": "2027-08-20",
       "org": "КРАСНОЯРСКИЙ КРАЕВОЙ ФОНД НАУКИ",
@@ -73406,7 +73835,7 @@
       "ogrn": "1027809169585"
     },
     "sfb-mskweb.megafon.ru": {
-      "not_after": "2027-01-12"
+      "not_after": "2027-02-15"
     },
     "sfb-vlgweb.megafon.ru": {
       "not_after": "2027-01-28"
@@ -74016,6 +74445,12 @@
       "org": "JSC Centre of Loyalty Programs",
       "inn": "7702770003",
       "ogrn": "1117746689840"
+    },
+    "sigmaftp24p01.s7.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО АВИАКОМПАНИЯ СИБИРЬ",
+      "inn": "5448100656",
+      "ogrn": "1025405624430"
     },
     "sign-tst.otpbank.ru": {
       "not_after": "2027-09-02",
@@ -74737,6 +75172,12 @@
       "inn": "2310031475",
       "ogrn": "1022301598549"
     },
+    "sm.otpbank.ru": {
+      "not_after": "2027-11-17",
+      "org": "Акционерное общество ОТП Банк",
+      "inn": "7708001614",
+      "ogrn": "1027739176563"
+    },
     "sm117.ru": {
       "not_after": "2027-10-29",
       "org": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СМ",
@@ -74860,6 +75301,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "smarthome-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "smarthome.mts.ru": {
       "not_after": "2027-08-25",
       "org": "Mobile TeleSystems Public Joint Stock Company",
@@ -74889,6 +75336,12 @@
       "org": "ООО Смартмайс",
       "inn": "9714078224",
       "ogrn": "1257700318842"
+    },
+    "smartpay-notif-mz-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "smartpay.devices.sberbank.ru": {
       "not_after": "2027-04-02",
@@ -77533,6 +77986,12 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
+    "sso-migration.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "sso-msg.akbars.ru": {
       "not_after": "2027-07-28",
       "org": "ПАО АК БАРС БАНК",
@@ -77653,6 +78112,12 @@
     "sso.sberdevices.ru": {
       "not_after": "2026-12-16"
     },
+    "sso.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "sso.tvoyodbo.online": {
       "not_after": "2026-12-10",
       "org": "ПАО МТС-Банк",
@@ -77676,6 +78141,12 @@
     },
     "sso2-rel.tricolor.ru": {
       "not_after": "2027-10-22",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "sso2.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -79593,6 +80064,12 @@
     },
     "storage-c2d-test.tricolor.ru": {
       "not_after": "2027-10-22",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "storage-c2d.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -84006,6 +84483,9 @@
       "inn": "6608008004",
       "ogrn": "1026600000350"
     },
+    "tniikip.rospotrebnadzor.ru": {
+      "not_after": "2027-02-15"
+    },
     "tnkf.su": {
       "not_after": "2027-04-09",
       "org": "TBank",
@@ -85299,12 +85779,6 @@
       "inn": "7710140679",
       "ogrn": "1027739642281"
     },
-    "twpg.mkb.ru": {
-      "not_after": "2026-11-17",
-      "org": "Credit Bank of Moscow PJSC",
-      "inn": "7734202860",
-      "ogrn": "1027739555282"
-    },
     "txpg-test.finstarbank.ru": {
       "not_after": "2027-07-16",
       "org": "PJSC FINSTAR BANK",
@@ -85441,14 +85915,14 @@
       "ogrn": "1026605388490"
     },
     "u82.rosreestr.ru": {
-      "not_after": "2027-01-28",
-      "org": "ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТО",
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
     },
     "u92.rosreestr.ru": {
-      "not_after": "2027-01-28",
-      "org": "ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТО",
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
     },
@@ -86230,7 +86704,10 @@
       "ogrn": "1027700347840"
     },
     "upkb.ru": {
-      "not_after": "2027-02-09"
+      "not_after": "2027-11-17",
+      "org": "АО УПКБ Деталь",
+      "inn": "6612011546",
+      "ogrn": "1026600930630"
     },
     "upload.seller.ozon.ru": {
       "not_after": "2027-06-19",
@@ -87203,6 +87680,12 @@
     },
     "vc.sberdevices.ru": {
       "not_after": "2027-01-31"
+    },
+    "vc.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
     },
     "vc.videos.livejournal.com": {
       "not_after": "2027-07-14",
@@ -89308,10 +89791,10 @@
       "ogrn": "1027700132195"
     },
     "vpn-ha.t-access.ru": {
-      "not_after": "2026-12-01"
+      "not_after": "2027-02-15"
     },
     "vpn-ha.tcsbank.ru": {
-      "not_after": "2026-12-01"
+      "not_after": "2027-02-15"
     },
     "vpn-phd.sovcombank.ru": {
       "not_after": "2027-06-12",
@@ -90393,6 +90876,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "web-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "web-dev.nrb.ru": {
       "not_after": "2027-11-09",
       "org": "АКБ НРБАНК (АО)",
@@ -91166,6 +91655,12 @@
     },
     "widget-chat-rel.tricolor.ru": {
       "not_after": "2027-10-22",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "widget-chat.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -92358,6 +92853,12 @@
       "inn": "5247051889",
       "ogrn": "1135247000184"
     },
+    "www.26.rospotrebnadzor.ru": {
+      "not_after": "2027-11-17",
+      "org": "Управление Роспотребнадзора по Ставропольскому краю",
+      "inn": "2636045466",
+      "ogrn": "1052600297606"
+    },
     "www.30let.omk.ru": {
       "not_after": "2027-07-29",
       "org": "OMK-IT",
@@ -92377,7 +92878,10 @@
       "ogrn": "1053500015580"
     },
     "www.36.rospotrebnadzor.ru": {
-      "not_after": "2026-12-07"
+      "not_after": "2027-11-17",
+      "org": "Управление Роспотребнадзора по Воронежской области",
+      "inn": "3665049192",
+      "ogrn": "1053600124676"
     },
     "www.38fbuz.ru": {
       "not_after": "2027-08-25",
@@ -94818,6 +95322,12 @@
       "inn": "7702070139",
       "ogrn": "1027739609391"
     },
+    "www.cvmir.ru": {
+      "not_after": "2027-11-17",
+      "org": "ГБУЗ Краевой детский центр медицинской реабелитации",
+      "inn": "2311066706",
+      "ogrn": "1022301820694"
+    },
     "www.cyberkoalastudios.com": {
       "not_after": "2027-06-11",
       "org": "ООО КИБЕРКОАЛА",
@@ -95965,13 +96475,13 @@
       "ogrn": "1025600000854"
     },
     "www.fractel.ru": {
-      "not_after": "2026-11-25",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
     },
     "www.fraktel.ru": {
-      "not_after": "2026-12-01",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -96595,13 +97105,13 @@
       "ogrn": "1144400000425"
     },
     "www.halvakids.com": {
-      "not_after": "2026-12-15",
+      "not_after": "2027-11-17",
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
     "www.halvakids.info": {
-      "not_after": "2026-12-15",
+      "not_after": "2027-11-17",
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
@@ -96625,8 +97135,8 @@
       "ogrn": "1144400000425"
     },
     "www.halvakids.site": {
-      "not_after": "2026-12-15",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
+      "not_after": "2027-11-17",
+      "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -96643,8 +97153,8 @@
       "ogrn": "1144400000425"
     },
     "www.halvenok.com": {
-      "not_after": "2026-12-15",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
+      "not_after": "2027-11-17",
+      "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -96661,8 +97171,8 @@
       "ogrn": "1144400000425"
     },
     "www.halvenok.site": {
-      "not_after": "2026-12-15",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
+      "not_after": "2027-11-17",
+      "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
     },
@@ -99379,7 +99889,7 @@
       "ogrn": "1157700011017"
     },
     "www.npo-rtc.ru": {
-      "not_after": "2026-12-01",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -99590,6 +100100,12 @@
       "org": "Sberbank of Russia",
       "inn": "7707083893",
       "ogrn": "1027700132195"
+    },
+    "www.olimpium.ru": {
+      "not_after": "2027-11-17",
+      "org": "АО Академия Просвещение",
+      "inn": "9715287774",
+      "ogrn": "5167746474968"
     },
     "www.olympiad.gazprom.ru": {
       "not_after": "2027-11-11",
@@ -100055,12 +100571,6 @@
       "org": "ООО РА ИНДЕКС 20",
       "inn": "7725847502",
       "ogrn": "5147746311686"
-    },
-    "www.pfo.transneft.ru": {
-      "not_after": "2026-11-17",
-      "org": "Transneft",
-      "inn": "7706061801",
-      "ogrn": "1027700049486"
     },
     "www.pga.gazprombank.ru": {
       "not_after": "2027-01-23",
@@ -101098,8 +101608,8 @@
       "ogrn": "1027700251314"
     },
     "www.rosreestr.ru": {
-      "not_after": "2027-01-28",
-      "org": "ФЕДЕРАЛЬНАЯ СЛУЖБА ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ, КАДАСТРА И КАРТО",
+      "not_after": "2027-11-17",
+      "org": "РОСРЕЕСТР",
       "inn": "7706560536",
       "ogrn": "1047796940465"
     },
@@ -101669,12 +102179,6 @@
       "org": "PJSC SOVCOMBANK",
       "inn": "4401116480",
       "ogrn": "1144400000425"
-    },
-    "www.school-134.ru": {
-      "not_after": "2026-11-17",
-      "org": "ГБОУ СОШ №134 КРАСНОГВАРДЕЙСКОГО РАЙОНА СПБ ИМ. СЕРГЕЯ ДУДКО",
-      "inn": "7806029689",
-      "ogrn": "1037816004335"
     },
     "www.school-orphan.ru": {
       "not_after": "2027-04-13",
@@ -102823,7 +103327,7 @@
       "not_after": "2026-12-05"
     },
     "www.t-boys.ru": {
-      "not_after": "2027-02-14"
+      "not_after": "2027-02-15"
     },
     "www.t-inform.ru": {
       "not_after": "2027-01-13",
@@ -104278,7 +104782,7 @@
       "ogrn": "1117847123393"
     },
     "www.xn--80akofvok.xn--p1ai": {
-      "not_after": "2026-12-03",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -104665,7 +105169,7 @@
       "not_after": "2027-01-20"
     },
     "xmao.staging.megafon.ru": {
-      "not_after": "2027-01-12"
+      "not_after": "2027-02-15"
     },
     "xmessenger-webhook-test.alfabank.ru": {
       "not_after": "2027-11-06",
@@ -104964,6 +105468,9 @@
       "inn": "2466226448",
       "ogrn": "1102468001316"
     },
+    "xn--33-8kchpsowg3ao.xn--p1ai": {
+      "not_after": "2027-02-15"
+    },
     "xn--38-1lcys.xn--p1ai": {
       "not_after": "2026-12-17",
       "org": "ФКР МКД ИРКУТСКОЙ ОБЛАСТИ",
@@ -105203,6 +105710,12 @@
       "org": "ГБУ СК Стававтодор",
       "inn": "2635244194",
       "ogrn": "1192651021441"
+    },
+    "xn--80aafj2agk3g.xn--p1ai": {
+      "not_after": "2027-11-17",
+      "org": "АНО Национальные приоритеты",
+      "inn": "9704007633",
+      "ogrn": "1197700017415"
     },
     "xn--80aafna0aeglt3b.xn--p1ai": {
       "not_after": "2026-12-25"
@@ -105625,7 +106138,7 @@
       "ogrn": "1027739850962"
     },
     "xn--80akofvok.xn--p1ai": {
-      "not_after": "2026-12-03",
+      "not_after": "2027-11-17",
       "org": "НПО ФРАКТЕЛ",
       "inn": "7802334258",
       "ogrn": "1057812530060"
@@ -105788,6 +106301,12 @@
       "org": "Публичное акционерное общество «ДОМ.РФ»",
       "inn": "7729355614",
       "ogrn": "1027700262270"
+    },
+    "xn--90anfigdkpy.xn--p1ai": {
+      "not_after": "2027-11-17",
+      "org": "Комитет финансов Санкт-Петербурга",
+      "inn": "7830002430",
+      "ogrn": "1027810256352"
     },
     "xn--90anlfbebar6i.xn--p1ai": {
       "not_after": "2027-07-01",
@@ -106587,6 +107106,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "yoomoney-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "yoomoney.com": {
       "not_after": "2027-08-20",
       "org": "YooMoney NBCO LLC",
@@ -106911,6 +107436,12 @@
       "inn": "7733547365",
       "ogrn": "1057747513680"
     },
+    "zagruzka-sms-api.tricolor.ru": {
+      "not_after": "2027-11-17",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
     "zagruzka-viber-api-dev.tricolor.ru": {
       "not_after": "2027-10-22",
       "org": "NAO National Satellite Company",
@@ -106919,6 +107450,12 @@
     },
     "zagruzka-viber-api-test.tricolor.ru": {
       "not_after": "2027-10-22",
+      "org": "NAO National Satellite Company",
+      "inn": "7733547365",
+      "ogrn": "1057747513680"
+    },
+    "zagruzka-viber-api.tricolor.ru": {
+      "not_after": "2027-11-17",
       "org": "NAO National Satellite Company",
       "inn": "7733547365",
       "ogrn": "1057747513680"
@@ -107281,10 +107818,7 @@
       "ogrn": "1028400000298"
     },
     "zg-api.middle.megafon.ru": {
-      "not_after": "2027-01-14"
-    },
-    "zg-test.megafon.ru": {
-      "not_after": "2026-11-17"
+      "not_after": "2027-02-15"
     },
     "zg.megafon.ru": {
       "not_after": "2026-12-16"

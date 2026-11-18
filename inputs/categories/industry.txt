@@ -94,6 +94,7 @@ dev-portal.ru
 dev-stroyka.ru
 dineftyanik.ru
 dipaul.ru
+disk.tupolev.ru
 domres.ru
 domrf-am.ru
 domrf.ru
@@ -333,6 +334,7 @@ rosseti-ural.ru
 rosseti.ru
 rostec.ru
 rpts.su
+rt-link.tupolev.ru
 rttec.ru
 rus.avangard.ru
 ruselectronics.ru
@@ -422,6 +424,7 @@ ukpir.ru
 ulnammo.ru
 umpgku.ru
 unifence.ru
+upkb.ru
 upravkom.ru
 upz.ru
 uralaz.ru

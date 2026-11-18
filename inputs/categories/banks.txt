@@ -179,6 +179,7 @@ broker-sberbank.ru
 broker.ru
 bsbank.ru
 bspb.ru
+bspbdev.ru
 bstbank.ru
 business-credit.ru
 business.toyotafs.ru
@@ -358,6 +359,7 @@ domclick.ru
 domenvironmental.rambler.ru
 domrfbank.ru
 dp.bankdolinsk.ru
+drip.bdmz.ru
 ds.vendorcert.mirconnect.ru
 dsp-rambler.ru
 dsp.rambler.ru
@@ -858,6 +860,7 @@ ratings.ru
 rb-collect.ru
 rbabank.ru
 rbcollect.ru
+rcurala.ru
 rdb.ru
 realistbank.ru
 redsquare.rambler.ru

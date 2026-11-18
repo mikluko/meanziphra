@@ -63,6 +63,7 @@ artamonovigor.ru
 arxdshi.stv.muzkult.ru
 arzgir-cson.stv.socinfo.ru
 astcsm.ru
+astfond.ru
 astgoz.ru
 astrobl.ru
 asu-smp.mossmp.ru
@@ -74,6 +75,7 @@ autodiscover.admsurgut.ru
 autodiscover.oparina4.ru
 avtobaza-ogv.ru
 balahonovskiy-pni.stv.socinfo.ru
+bbb.keldysh.ru
 bdmsh.stv.muzkult.ru
 bee-saturn.ru
 benzin-rpgu.ru
@@ -148,6 +150,7 @@ csonkr.ru
 csr-spb.ru
 csvr.ru
 cvat.oparina4.ru
+cvmir.ru
 czn-rzn.ru
 dayseducaltai.ru
 ddt-unost.spb.ru
@@ -326,7 +329,6 @@ gosuslugi74.ru
 gov-murman.ru
 gov.spb.ru
 gov45.ru
-gov74.ru
 govirk.ru
 govrb.ru
 goz.ipc.rssi.ru
@@ -489,6 +491,7 @@ mfc12.ru
 mfnso.ru
 mfsk.ru
 mgfoms.ru
+miac.gov74.ru
 miac74.ru
 microbe.ru
 mikhailovsky.ru
@@ -526,7 +529,6 @@ mpr26.ru
 mpu-spb.ru
 mr.rspp.ru
 mshsk.ru
-msko-bud.stv.muzkult.ru
 mskobr.ru
 msns.niic.nsc.ru
 mso51.ru
@@ -627,6 +629,7 @@ pmosk.ru
 pni4spb.ru
 pnzmed.ru
 podorozhnik.spb.ru
+pofoms.ru
 poi.dvo.ru
 portal.fhdgso.ru
 portalkso.ru
@@ -677,6 +680,7 @@ roddom-krd.ru
 romny28-npa.ru
 rosavtodor.gov.ru
 rosguard.gov.ru
+roskapstroy.ru
 roskazna.gov.ru
 roskazna.ru
 rosleshoz.gov.ru
@@ -694,6 +698,7 @@ rovesnik74.ru
 rpndon.ru
 rrc-altay.ru
 rrcentre.ru
+rsfbc.ru
 rsud.govvrn.ru
 rtdigital.ru
 rtrn.ru
@@ -712,7 +717,6 @@ sayanreabil.ru
 sbmcollege.ru
 sch435.ru
 sch435.spb.ru
-school-134.ru
 school-24.tagan.ru
 school-orphan.ru
 school.yanao.ru
@@ -948,6 +952,7 @@ xn--80akjac6amacoe3n.xn--p1ai
 xn--80aphfga3a3b.xn--p1ai
 xn--80atoqz.xn--p1ai
 xn--90aenc5bq.xn--p1ai
+xn--90anfigdkpy.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
 xn--b1aadecsaihi0amca3a.xn--p1ai
 xn--b1acd7afcap.xn--p1ai
