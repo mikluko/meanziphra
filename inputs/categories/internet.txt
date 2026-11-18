@@ -67,6 +67,7 @@ argocd.dev.lk.astra-team.ru
 armgs-proxy.ru
 aspcom.ru
 astervesna.ru
+astral.ru
 astralinux.ru
 asu-leader.ru
 atol.ru
@@ -285,11 +286,11 @@ inosmi.ru
 ins-sys.ru
 insideok.ru
 inspector-cloud.ru
+integriks.ru
 intercomp.ru
 internalog.ru
 internet.ru
 intertexinform.ru
-interview-ejudge-core.prod.digital-interview.t-tech.ru
 introlan.ru
 ir-tech.ru
 is-mmk.ru
