@@ -201,6 +201,7 @@ kskkaluga.ru
 kst-energo.ru
 kts39.ru
 kurgangrc.ru
+kurskgaz.ru
 kzgroup.ru
 kzmayak.ru
 kznamya.ru
@@ -265,6 +266,7 @@ npoelm.ru
 npovk.ru
 npp-rubin.ru
 nppgamma.ru
+nppstart.ru
 npzoptics.ru
 ntc-zarya.ru
 oaovoentorg.ru
@@ -355,7 +357,9 @@ sentry.avangard.ru
 sernia.ru
 service.avangard.ru
 sev-tech.ru
+sever04.ru
 severgroup.ru
+severrg.ru
 severstal-ssc.ru
 severstal.ru
 severstalssc.ru
@@ -385,6 +389,7 @@ st.avangard.ru
 stallect.ru
 stalsmt.ru
 star.ru
+stavkraygaz.ru
 steelsolutions.ru
 stilkuhni.ru
 stpr.ru
@@ -423,6 +428,7 @@ uk-proekt.ru
 ukpir.ru
 ulnammo.ru
 umpgku.ru
+umpo.ru
 unifence.ru
 upkb.ru
 upravkom.ru

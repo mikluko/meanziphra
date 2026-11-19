@@ -166,7 +166,6 @@ billing74.ru
 billing74info.ru
 bistrodengi-mkk.ru
 bistrodengi.ru
-bistrozaim42.ru
 bki-okb.ru
 blanc.ru
 bm-bank.ru
@@ -442,7 +441,6 @@ gate2.spaymentextra.ru
 gazfond-pn.ru
 gazfond.ru
 gazprombank.ru
-gazprombanktech.ru
 gazprompay.ru
 gaztransbank.ru
 gebank.ru
@@ -547,7 +545,6 @@ ingostartup.ru
 insales.ru
 instant-pay.ru
 insurance.domoy.ru
-insurance.gippars.ru
 intact.ru
 intreco.ru
 invb.ru
@@ -593,6 +590,7 @@ kraken-cls.rambler.ru
 kraken-mdt.rambler.ru
 kraken.rambler.ru
 kremlinbank.ru
+krona-bank-dbo.ru
 ksmg1.voz.ru
 ksmg2.voz.ru
 kspbratsk.ru
@@ -727,6 +725,7 @@ nokss.ru
 noobank.ru
 noosferabank.ru
 noospherabank.ru
+norma24.ru
 norvik.ru
 norvikbank.ru
 notp.vneshbank.ru
@@ -916,6 +915,7 @@ rt-insurance.ru
 rubank.ru
 rusbsbank.ru
 rusfincorp.ru
+rusnarbank.ru
 russiacalling.ru
 russitabank.ru
 rzb.ru
@@ -1229,6 +1229,7 @@ vbrr.ru
 vc.sberdevices.ru
 veb.ru
 veblife.ru
+vebrf-am.ru
 vectorcapital.ru
 veles-capital.ru
 venets-bank.ru

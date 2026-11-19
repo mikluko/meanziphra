@@ -53,6 +53,7 @@ api.meteo.nw.ru
 aquainf.ru
 archives.gov.ru
 archives.ru
+arcticahealth.ru
 arhcity.ru
 arhitektura32.ru
 arhofoms.ru
@@ -75,7 +76,6 @@ autodiscover.admsurgut.ru
 autodiscover.oparina4.ru
 avtobaza-ogv.ru
 balahonovskiy-pni.stv.socinfo.ru
-bbb.keldysh.ru
 bdmsh.stv.muzkult.ru
 bee-saturn.ru
 benzin-rpgu.ru
@@ -256,6 +256,7 @@ fgislk.gov.ru
 fgup-ohrana.ru
 fguz-tyumen.ru
 fguz-volgograd.ru
+fguz44.ru
 fguzmo.ru
 ficto.ru
 finance.ivanovoobl.ru
@@ -367,7 +368,6 @@ iiun.ru
 ik.plagate.ru
 ilran.ru
 imc.spb.ru
-imm18.keldysh.ru
 in.meteo.nw.ru
 indepo.ru
 ined.ru
@@ -409,6 +409,7 @@ karta03.ru
 kazgau.ru
 kb51.ru
 kcson.pyatigorsk.ru
+keldysh.ru
 kemcardio.ru
 kfsar.ru
 kgainfo.spb.ru
@@ -621,6 +622,7 @@ petrozavodsk-mo.ru
 pgo-npa.ru
 pgs.rtlabs.ru
 pirogov-center.ru
+pkfoms.ru
 pkitrans.ru
 platform.gov.ru
 platformaexpert.ru
@@ -708,6 +710,7 @@ rustest.ru
 ryazan.gov.ru
 ryazanszn.ru
 rzncit.ru
+s-znc.ru
 sakhalin.gov.ru
 sakhminfin.ru
 saki-pirogova.ru
@@ -899,6 +902,7 @@ xn----7sbkgcoe7akfvfn3h3d.xn--p1ai
 xn----8sbehgcimb3cfabqj3b.xn--p1ai
 xn----8sbfckba3a8bcsskd6e.xn--p1ai
 xn----8sbuccioem.xn--p1ai
+xn----ctb5aimq.xn--p1ai
 xn----ctbbefcvajij3anca5a.xn--p1ai
 xn----ctbeimd1bern.xn--p1ai
 xn----ftbbavnknceifkok1s.xn--p1ai
@@ -988,6 +992,7 @@ zakupki.gov.ru
 zakupki08.ru
 zan.nnov.ru
 zapadmorf.ru
+zavedi-rebenka.ru
 zdrav.spb.ru
 zdrav26.ru
 zdrav74.ru
