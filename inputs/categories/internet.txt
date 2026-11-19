@@ -515,6 +515,7 @@ rusprofile.ru
 rusradio.ru
 rustdesk-oss.brain-flow.ru
 rustore.ru
+rutube.ru
 s3vk.ru
 saas-tech.ru
 saas.msgtech.ru

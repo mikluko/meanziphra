@@ -91,6 +91,7 @@ bmw-vidnoe.ru
 bonch.su
 bralo.com.ru
 bralo.su
+brautomate.ru
 bremeco.ru
 bs.clickso.ru
 bsigroup.ru
@@ -100,14 +101,18 @@ c-k.ru
 ca-magnit.ru
 capella-invest.ru
 cardstandard.ru
-cases.gippars.ru
 cc-vpn.t-access.ru
 cdn.p2p-app.ru
 cdn.tribastion.ru
 cdo-first.ru
 cdo.biglv.ru
+cert.nuc-5b9b24ee5fb349ef.unforgettable-keenly.ru
+cert.nuc-6890a141f4b14d44.tougher-astonishment.ru
+cert.nuc-7eb369607f0f49d6.unforgettable-keenly.ru
 cert.nuc-9e619f165b374568.unforgettable-keenly.ru
+cert.nuc-a8c0d0a22dfd40f8.tougher-astonishment.ru
 cert.nuc-cfeff8dd64ab40cd.tougher-astonishment.ru
+cert.nuc-f0935e10204c4b6c.unforgettable-keenly.ru
 certhub-beta.onecld.ru
 cgbp.ru
 cge-amur.ru
@@ -171,6 +176,7 @@ docdoc.ru
 docreg.budgetnn.ru
 doksignal.ru
 domstrazh.ru
+dp.predictor.su
 draga.ru
 drweb.sv-e.ru
 dvaugla.ru
@@ -296,6 +302,7 @@ k-gr.ru
 kairosstrategy.ru
 kanzburo.ru
 kapmed.ru
+karasikshop.ru
 karo-film.ru
 karofilm.ru
 kartavoprosov.ru
@@ -457,9 +464,14 @@ nrservice.ru
 nsi.budgetnn.ru
 nuc-08c7d502db3f4f0c.profusion-nonviolence.ru
 nuc-0aace967aaaa4eec.exult-unparalleled.ru
+nuc-18805fa00af44e79.exult-unparalleled.ru
 nuc-1d0e4adaf2534b83.profusion-nonviolence.ru
 nuc-6b721a3051b44ec6.exult-unparalleled.ru
+nuc-9ab99b1c142640b0.profusion-nonviolence.ru
 nuc-a5bd3bb696ac4cb3.profusion-nonviolence.ru
+nuc-a7952b06dd8741b1.exult-unparalleled.ru
+nuc-d1ff924c7b2844c8.profusion-nonviolence.ru
+nuc-d3566996b0e34711.exult-unparalleled.ru
 nuc-d83f7b4514ea48e3.exult-unparalleled.ru
 nuc-probe-1457.devkz.ru
 nuc-probe-1659.devkz.ru
@@ -546,6 +558,7 @@ probe.perecle.ru
 prof-consultant.ru
 profinat.ru
 project.donntu.ru
+proletarsky.ru
 promo.max.ru
 promo.oneme.ru
 prosdr.ru
@@ -627,6 +640,7 @@ s-gca-ac-a-srv-wp-app01.gk-astra.ru
 s-gca-ac-a-srv-wp-app02.gk-astra.ru
 s-gca-ac-a-srv-wp-app03.gk-astra.ru
 s3.ttp.one-infra.ru
+s3325.ru
 safework.ru
 savebee.ru
 sb117.ru
@@ -760,6 +774,7 @@ unimatic.ru
 utz.ru
 v-dimitriadis.ru
 vahpesto.ru
+vasw.ru
 vault.dit-corp-business-app-unit.astralinux.ru
 vault.gorp.msk.ru
 vaultary.ru
@@ -767,7 +782,6 @@ vaultwarden.dit-corp-business-app-unit.astralinux.ru
 vbudushee.ru
 vcs1.roscap.ru
 vcs2.roscap.ru
-vebrf-am.ru
 vektrumsport.ru
 velesib.ru
 velken.ru
@@ -781,8 +795,8 @@ vks.triniti.ru
 vmpavitec.ru
 vnashemdvore.ru
 vo.rspp.ru
-volkgallery.ru
 volnu.ru
+vorobevsw.ru
 vorontsov.msk.ru
 vospdom.ru
 vpano.ru
