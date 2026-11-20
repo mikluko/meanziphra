@@ -3,11 +3,11 @@
 34gaz.ru
 aakim.ru
 abakanenergo.ru
-abakanvodokanal.ru
 ac2.avangard.ru
 achimdevelopment.ru
 achimgaz.ru
 admship.ru
+adyggaz.ru
 aerosila.ru
 agroconcern.ru
 agrosource.ru
@@ -94,7 +94,6 @@ dev-portal.ru
 dev-stroyka.ru
 dineftyanik.ru
 dipaul.ru
-disk.tupolev.ru
 domres.ru
 domrf-am.ru
 domrf.ru
@@ -135,7 +134,10 @@ files.energo.ru
 fkpkk.ru
 formoplast-spb.ru
 fuelup.ru
+gasfoto.ru
 gaskk-mck.ru
+gazfoto.ru
+gazphoto.ru
 gazprom-agnks.ru
 gazpromnedra.ru
 gazpromstroytek.ru
@@ -179,7 +181,6 @@ iss-reshetnev.ru
 istokmw.ru
 isup.almaz-antey.ru
 iva-le.energo.ru
-iva.tupolev.ru
 izh-bs.ru
 join-meet.tgc11.ru
 k-energomash.ru
@@ -245,6 +246,7 @@ mosting.ru
 motozavod.ru
 mpaes.ru
 mptk55.ru
+mrg-online.ru
 mrgtula.ru
 mtronics.ru
 niip.ru
@@ -336,7 +338,6 @@ rosseti-ural.ru
 rosseti.ru
 rostec.ru
 rpts.su
-rt-link.tupolev.ru
 rttec.ru
 rus.avangard.ru
 ruselectronics.ru
@@ -417,6 +418,7 @@ tomskrts.ru
 transneft.ru
 trubodetal.ru
 tsnsapozhok.ru
+tupolev.ru
 tvernefteproduct.ru
 tvoy-domovoy.ru
 uacrussia.ru
@@ -461,7 +463,6 @@ vympel-rybinsk.ru
 vzavod.ru
 webcon.omk-it.ru
 winston.ru
-wp.tupolev.ru
 www.energy-invest.ru
 www.energy-tracker.ru
 xn-----6kcac3atcmgyh7di1b.xn--80aafclckjcqurgbdjcpde4b.xn--p1ai
@@ -470,9 +471,11 @@ xn----7sbfckca1ctao1a4l2b.xn--p1ai
 xn----7sbhhgjt4afav0m.xn--p1ai
 xn----dtbjkxc4abh.xn--p1ai
 xn--80aaahiycas2ahds.xn--p1ai
+xn--80aabjimdn9ailz5k.xn--p1ai
 xn--80aadbk0bjofbqx.xn--p1ai
 xn--80aahf2akkincfh.xn--p1ai
 xn--80aahrca5bqhk0m.xn--p1ai
+xn--80addcszobq.xn--p1ai
 xn--80aefebaq2aefmjn9bxd.xn--p1ai
 xn--80agfa2babkkggig1a5jqa.xn--p1ai
 xn--80ahbbiggbxxyl2q.xn--p1ai

@@ -84,6 +84,7 @@ avtocod.ru
 awardme.ru
 b-catalog.ru
 balans2.ru
+balticnews.ru
 beta-class365.ru
 bi-bi.ru
 bia-tech.ru
@@ -349,6 +350,7 @@ logon.rfaces.ru
 loonabrowser.ru
 lvls.ru
 m.odnoklasniki.ru
+m2lab.ru
 mag1c.ru
 mail-king.ru
 mail.kotlin-novator.ru
@@ -745,6 +747,7 @@ yclients.ru
 yfc.ru
 yorgia.ru
 youla.ru
+yt-az1.eye.salute.ru
 yt-gigadrop.eye.salute.ru
 yt-kandinsky.eye.salute.ru
 yt-pretrain.eye.salute.ru
