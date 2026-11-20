@@ -167,6 +167,7 @@ billing74info.ru
 bistrodengi-mkk.ru
 bistrodengi.ru
 bki-okb.ru
+bktb.ru
 blanc.ru
 bm-bank.ru
 bnal.ru
@@ -1233,6 +1234,7 @@ vebrf-am.ru
 vectorcapital.ru
 veles-capital.ru
 venets-bank.ru
+vestabank.ru
 vfbank.ru
 viking.spb.ru
 vikingbank.ru

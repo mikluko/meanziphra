@@ -25,6 +25,7 @@ admbg.ru
 admblag.ru
 adminbk.ru
 adminta.ru
+admirk.ru
 admkonda.ru
 admlr.lipetsk.ru
 admoblkaluga.ru
@@ -317,6 +318,7 @@ git.minzdrav.gov.ru
 gjnrk.ru
 gmgs.ru
 gnicpm.ru
+goradm.irkutsk.ru
 gorzdrav.spb.ru
 gos.acme.donntu.ru
 goshior.ru
@@ -380,6 +382,7 @@ ippe.ru
 ipu.ru
 irea.rrcki.ru
 irexpertiza.ru
+irkadm.ru
 irkopeka4.ru
 iro22.ru
 iro38.ru
@@ -454,6 +457,7 @@ lesegais.ru
 leslenobl.ru
 letters.kremlin.ru
 lib.kr-cbs.ru
+lib.vipe.fsin.gov.ru
 lifefor2.ru
 lk.admsvtl.ru
 lkexpertiza.spb.ru
@@ -489,6 +493,7 @@ mfc-25.ru
 mfc-kursk.ru
 mfc-nso.ru
 mfc12.ru
+mfc51.ru
 mfnso.ru
 mfsk.ru
 mgfoms.ru
@@ -681,6 +686,7 @@ ro.rspp.ru
 roddom-krd.ru
 romny28-npa.ru
 rosavtodor.gov.ru
+rosavtodor.ru
 rosguard.gov.ru
 roskapstroy.ru
 roskazna.gov.ru
