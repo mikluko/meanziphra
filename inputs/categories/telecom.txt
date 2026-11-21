@@ -67,6 +67,7 @@ kms.mwsapis.ru
 kolpinonet.ru
 ktkru.ru
 kursk.tch.ru
+l.qiq.ru
 labrx.ru
 lb.mwsapis.ru
 logging.mwsapis.ru
@@ -88,6 +89,7 @@ megatech-it.ru
 metastore.mwsapis.ru
 mir-telecom.ru
 mk8s.mwsapis.ru
+mkafka.mwsapis.ru
 mlk.onlime.ru
 mmysql.mwsapis.ru
 modem.czs-anadyr.ru
@@ -98,6 +100,7 @@ movix.ru
 moy-m-portal.ru
 mp.tch.ru
 mpostgres.mwsapis.ru
+mredis.mwsapis.ru
 mts-disk.ru
 mts-office.ru
 mts.ru
@@ -154,6 +157,7 @@ umail.ru
 upravlyaem.ru
 vasmfpro.ru
 vasmpro.ru
+vi.mwsapis.ru
 video-dev.metrocom.ru
 video.metrocom.ru
 video2.metrocom.ru

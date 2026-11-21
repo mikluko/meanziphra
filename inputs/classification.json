@@ -1128,6 +1128,10 @@
       "category": "banks",
       "confidence": 0.9
     },
+    "name:cdn.t-bank-app.ru": {
+      "category": "banks",
+      "confidence": 0.97
+    },
     "name:cdo.biglv.ru": {
       "category": "other",
       "confidence": 0.68
@@ -1143,6 +1147,10 @@
     "name:cert.nuc-05ab380190fd4ca2.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.93
+    },
+    "name:cert.nuc-2a112895c08841aa.genuine-productive.ru": {
+      "category": "other",
+      "confidence": 0.79
     },
     "name:cert.nuc-2b35067532414ccc.tougher-astonishment.ru": {
       "category": "other",
@@ -1160,9 +1168,17 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:cert.nuc-43e1160091d8476b.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:cert.nuc-4e314d3d7dda4ed5.unforgettable-keenly.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:cert.nuc-4f176e81ef4c49d1.genuine-productive.ru": {
+      "category": "other",
+      "confidence": 0.84
     },
     "name:cert.nuc-5b9b24ee5fb349ef.unforgettable-keenly.ru": {
       "category": "other",
@@ -1180,11 +1196,23 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:cert.nuc-7b1ade51fbf7433f.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.81
+    },
     "name:cert.nuc-7eb369607f0f49d6.unforgettable-keenly.ru": {
       "category": "other",
       "confidence": 0.87
     },
+    "name:cert.nuc-85494b3e66a74f6f.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.87
+    },
     "name:cert.nuc-89ec9649a5b04f33.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:cert.nuc-8f93c877b80141e6.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.91
     },
@@ -1212,6 +1240,10 @@
       "category": "other",
       "confidence": 0.86
     },
+    "name:cert.nuc-a80cd037ead64978.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.85
+    },
     "name:cert.nuc-a8c0d0a22dfd40f8.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.93
@@ -1219,6 +1251,18 @@
     "name:cert.nuc-ac7b9eadf3304f7f.unforgettable-keenly.ru": {
       "category": "other",
       "confidence": 0.81
+    },
+    "name:cert.nuc-b037c7dda2a84c96.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:cert.nuc-b634001f40c04a6b.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.82
+    },
+    "name:cert.nuc-bd1e58db76ce4134.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.82
     },
     "name:cert.nuc-c829326bff3b4051.unforgettable-keenly.ru": {
       "category": "other",
@@ -1232,6 +1276,14 @@
       "category": "other",
       "confidence": 0.92
     },
+    "name:cert.nuc-de827586c9684641.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.85
+    },
+    "name:cert.nuc-e3c661075dae4691.respite-blossom.ru": {
+      "category": "other",
+      "confidence": 0.94
+    },
     "name:cert.nuc-e4aced2daa8944ef.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.87
@@ -1244,9 +1296,25 @@
       "category": "other",
       "confidence": 0.81
     },
+    "name:cert.nuc-f43df2c9a57b4b8f.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
+    "name:cert.nuc-f76eb5f400a84c52.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:cert.nuc-fa938c55009f4dd9.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.93
+    },
     "name:cert.nuc-fcc75f984d6c4f27.unforgettable-keenly.ru": {
       "category": "other",
       "confidence": 0.73
+    },
+    "name:cert.nuc-fe5bfa48723e4d3c.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.9
     },
     "name:cert4.ext-www-staging.megafon.ru": {
       "category": "telecom",
@@ -4198,6 +4266,10 @@
       "category": "gov",
       "confidence": 0.92
     },
+    "name:lms.vui.fsin.gov.ru": {
+      "category": "gov",
+      "confidence": 0.94
+    },
     "name:lnr.rspp.ru": {
       "category": "other",
       "confidence": 0.2,
@@ -4352,6 +4424,11 @@
     "name:mail.kpl32.ru": {
       "category": "other",
       "confidence": 0.68
+    },
+    "name:mail.lii.ru": {
+      "category": "other",
+      "confidence": 0.33,
+      "review": true
     },
     "name:mail.mbbru.ru": {
       "category": "other",
@@ -5157,7 +5234,15 @@
       "category": "telecom",
       "confidence": 0.98
     },
+    "name:nuc-01d790f1dd4744b5.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.93
+    },
     "name:nuc-067ce8db1ffd4312.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.92
+    },
+    "name:nuc-06893395569d4866.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.92
     },
@@ -5173,6 +5258,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:nuc-101355ca7a9a4c7e.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:nuc-18805fa00af44e79.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.9
@@ -5186,6 +5275,14 @@
       "confidence": 0.91
     },
     "name:nuc-20ddded7be444687.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.89
+    },
+    "name:nuc-236cdc0c42884629.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:nuc-2371d6b214bd41a9.finest-recommendation.ru": {
       "category": "other",
       "confidence": 0.89
     },
@@ -5213,9 +5310,21 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:nuc-390ee9b155fe43d8.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.87
+    },
     "name:nuc-3d18fdcdacb54ebd.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.86
+    },
+    "name:nuc-3f32eaa76fae49ad.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.93
+    },
+    "name:nuc-416c5ff6655f454e.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.9
     },
     "name:nuc-43f0128b9ca24a37.profusion-nonviolence.ru": {
       "category": "other",
@@ -5233,6 +5342,10 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:nuc-59837a05d55e4316.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.93
+    },
     "name:nuc-5ea313fc41764a91.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.9
@@ -5240,6 +5353,10 @@
     "name:nuc-5f5d44399a2f4079.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.92
+    },
+    "name:nuc-5fc0caf8bc11463c.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.86
     },
     "name:nuc-6b721a3051b44ec6.exult-unparalleled.ru": {
       "category": "other",
@@ -5249,17 +5366,41 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:nuc-755255fe0eba49e4.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.92
+    },
     "name:nuc-7b172553addc4a86.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.91
+    },
+    "name:nuc-7c4cba81979e42ba.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.87
+    },
+    "name:nuc-7c4ed289e13943f3.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.93
     },
     "name:nuc-81f13e2a09b1440b.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.89
     },
+    "name:nuc-843be137d63d45ee.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
     "name:nuc-8afdc9475ce9401c.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.9
+    },
+    "name:nuc-8f3e7b56837941a5.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:nuc-9616d772ef614cc4.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.91
     },
     "name:nuc-9ab99b1c142640b0.profusion-nonviolence.ru": {
       "category": "other",
@@ -5273,13 +5414,33 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:nuc-a999069e6efc48ab.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.92
+    },
+    "name:nuc-b60a2cee6e7e4b1c.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.82
+    },
     "name:nuc-b9de4dfb11f744f5.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.89
     },
+    "name:nuc-bcc712fa384545e8.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.82
+    },
+    "name:nuc-c37dba09fec046a1.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:nuc-c49a3e13a50e40f4.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.92
+    },
+    "name:nuc-cabea8d4d2cb4301.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.91
     },
     "name:nuc-d1ff924c7b2844c8.profusion-nonviolence.ru": {
       "category": "other",
@@ -5297,13 +5458,25 @@
       "category": "other",
       "confidence": 0.9
     },
+    "name:nuc-d97a7851f77347eb.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
     "name:nuc-dc68025865b24021.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.87
     },
+    "name:nuc-df1f400820aa40c5.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
     "name:nuc-e54789dc346e4cef.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.85
+    },
+    "name:nuc-ee1b58ef7ea54513.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.9
     },
     "name:nuc-fd71521355cc47f2.profusion-nonviolence.ru": {
       "category": "other",
@@ -5358,6 +5531,10 @@
     "name:nyagan.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.93
+    },
+    "name:nycarwash.ru": {
+      "category": "other",
+      "confidence": 0.81
     },
     "name:oa.roscap.ru": {
       "category": "other",
@@ -6554,11 +6731,6 @@
       "category": "industry",
       "confidence": 0.82
     },
-    "name:rtbapp.ru": {
-      "category": "other",
-      "confidence": 0.55,
-      "review": true
-    },
     "name:rtdigital.ru": {
       "category": "gov",
       "confidence": 1,
@@ -6888,6 +7060,10 @@
       "category": "industry",
       "confidence": 0.38,
       "review": true
+    },
+    "name:sesufa.ru": {
+      "category": "other",
+      "confidence": 0.7
     },
     "name:sf.slavneft.ru": {
       "category": "industry",
@@ -8832,6 +9008,10 @@
       "category": "banks",
       "confidence": 0.95
     },
+    "name:www.nycarwash.ru": {
+      "category": "other",
+      "confidence": 0.79
+    },
     "name:www.ocs.ru": {
       "category": "other",
       "confidence": 0.28,
@@ -9806,6 +9986,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "Славнефть-Красноярскнефтегаз"
+    },
+    "ogrn:1022402307212": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "КГБУЗ «КМБ № 3»"
     },
     "ogrn:1022500000566": {
       "category": "banks",
@@ -11241,6 +11426,11 @@
       "confidence": 1,
       "org": "Уралхиммаш"
     },
+    "ogrn:1026801010994": {
+      "category": "industry",
+      "confidence": 0.99,
+      "org": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ ТАМБОВСКИЙ ПОРОХОВОЙ ЗАВОД"
+    },
     "ogrn:1026801064487": {
       "category": "gov",
       "confidence": 1,
@@ -11260,6 +11450,11 @@
       "category": "industry",
       "confidence": 1,
       "org": "ООО СО Тверьнефтепродукт"
+    },
+    "ogrn:1026900536101": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "ООО Газпром межрегионгаз Тверь"
     },
     "ogrn:1027000002446": {
       "category": "banks",
@@ -13120,6 +13315,11 @@
       "category": "banks",
       "confidence": 1,
       "org": "Joint Stock Bank Capital"
+    },
+    "ogrn:1028600003442": {
+      "category": "banks",
+      "confidence": 0.98,
+      "org": "KB STROYLESBANK OOO"
     },
     "ogrn:1028600003497": {
       "category": "banks",
@@ -15798,6 +15998,11 @@
       "confidence": 1,
       "org": "Drogery Retail LLC"
     },
+    "ogrn:1079847125522": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "АО ИНЖИНИРИНГОВАЯ КОМПАНИЯ АЭМ-ТЕХНОЛОГИИ"
+    },
     "ogrn:1080411004410": {
       "category": "gov",
       "confidence": 1,
@@ -17233,6 +17438,12 @@
       "review": true,
       "org": "LLC «Medi IT»"
     },
+    "ogrn:1131690077804": {
+      "category": "other",
+      "confidence": 0.35,
+      "review": true,
+      "org": "БЕЛАЯ ЗЕБРА"
+    },
     "ogrn:1132225001611": {
       "category": "other",
       "confidence": 0.5,
@@ -17858,6 +18069,11 @@
       "confidence": 1,
       "org": "Министерство финансов Республики Крым"
     },
+    "ogrn:1149102030186": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "АО Черноморский банк развития и реконструкции"
+    },
     "ogrn:1149102066740": {
       "category": "other",
       "confidence": 0.71,
@@ -18163,6 +18379,11 @@
       "confidence": 0.98,
       "org": "ГКУ СК МЕЖВЕДОМСТВЕННЫЙ ЦЕНТР БУХГАЛТЕРСКОГО ОБСЛУЖИВАНИЯ"
     },
+    "ogrn:1163025054499": {
+      "category": "industry",
+      "confidence": 1,
+      "org": "ООО Газпром межрегионгаз Астрахань"
+    },
     "ogrn:1163443077621": {
       "category": "industry",
       "confidence": 1,
@@ -18311,6 +18532,12 @@
       "confidence": 0.84,
       "org": "ГПБ КОМПЛЕКТ (АО)"
     },
+    "ogrn:1167746794490": {
+      "category": "internet",
+      "confidence": 0.54,
+      "review": true,
+      "org": "Domopult LLC"
+    },
     "ogrn:1167746803180": {
       "category": "marketplaces",
       "confidence": 0.88,
@@ -18373,6 +18600,11 @@
       "confidence": 0.31,
       "review": true,
       "org": "ООО ТД БМКИ"
+    },
+    "ogrn:1170280049741": {
+      "category": "gov",
+      "confidence": 1,
+      "org": "МБУ УГЗ Г. УФЫ"
     },
     "ogrn:1171215006269": {
       "category": "internet",
@@ -19201,6 +19433,11 @@
       "confidence": 0.97,
       "org": "Политическая партия «НОВЫЕ ЛЮДИ»"
     },
+    "ogrn:1207700151427": {
+      "category": "industry",
+      "confidence": 0.73,
+      "org": "ПУБЛИЧНО-ПРАВОВАЯ КОМПАНИЯ ВОЕННО-СТРОИТЕЛЬНАЯ КОМПАНИЯ"
+    },
     "ogrn:1207700164066": {
       "category": "internet",
       "confidence": 0.38,
@@ -19686,6 +19923,11 @@
       "category": "internet",
       "confidence": 0.84,
       "org": "AST-INNOVACII LLC"
+    },
+    "ogrn:1227700403193": {
+      "category": "industry",
+      "confidence": 0.87,
+      "org": "АО «Управляющая компания Молния»"
     },
     "ogrn:1227700426997": {
       "category": "banks",
@@ -20218,6 +20460,11 @@
       "confidence": 0.38,
       "review": true,
       "org": "ООО Экватех"
+    },
+    "ogrn:1247700404907": {
+      "category": "banks",
+      "confidence": 1,
+      "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО ТРАНЗАКЦИИ И РАСЧЕТЫ"
     },
     "ogrn:1247700420990": {
       "category": "banks",

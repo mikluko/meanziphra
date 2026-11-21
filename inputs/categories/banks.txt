@@ -105,6 +105,7 @@ autodiscover.vesta.ru
 autofinancebank.ru
 autogpbl.ru
 autokreditbank.ru
+autotorgbank.ru
 avangard.ru
 aversbank.ru
 avitofinance.ru
@@ -129,6 +130,7 @@ bank-mscb.ru
 bank-peresvet.ru
 bank131.ru
 bank45.ru
+bankchbrr.ru
 bankdom.ru
 bankdomrf.ru
 bankelita.ru
@@ -546,6 +548,7 @@ ingostartup.ru
 insales.ru
 instant-pay.ru
 insurance.domoy.ru
+int-pay.ru
 intact.ru
 intreco.ru
 invb.ru
@@ -992,7 +995,6 @@ scep-gateway.sberdevices.ru
 scnt.rambler.ru
 scoring.ru
 scounter.rambler.ru
-sde2.docdoc.ru
 sdm-gallery.ru
 sdm.ru
 seafile.sberbank-service.ru
@@ -1035,6 +1037,7 @@ skbfinance.ru
 skblab.ru
 skgelios.ru
 sksbank.ru
+slbank.ru
 sm-developer-profile-sgmd.sberdevices.ru
 sm-developer-profile.sberdevices.ru
 smart-cap.ru
@@ -1283,7 +1286,6 @@ wimsavings.ru
 workspace.sber247.ru
 ws-css-gw.stcollector.ru
 ws.egopay.ru
-www.autotorgbank.ru
 www.balakovo-bank.ru
 www.daricard.ru
 xn----8sbc8adbsdb.xn--p1ai
