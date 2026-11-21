@@ -8,6 +8,7 @@ achimdevelopment.ru
 achimgaz.ru
 admship.ru
 adyggaz.ru
+aemtech.ru
 aerosila.ru
 agroconcern.ru
 agrosource.ru
@@ -29,7 +30,9 @@ aospr.ru
 apzrotor.ru
 arendadomrf.ru
 arendazalov.spb.ru
+astrg.ru
 atlantmetall.ru
+atommash.ru
 atsenergo.ru
 atz.ru
 auth.avangard.ru
@@ -132,6 +135,7 @@ fabrikant.ru
 fakel-russia.ru
 files.energo.ru
 fkpkk.ru
+fkptpz.ru
 formoplast-spb.ru
 fuelup.ru
 gasfoto.ru
@@ -236,6 +240,7 @@ mes-elektrik.ru
 metrowagonmash.ru
 mmk.ru
 mmzavod.ru
+mo-vsk.ru
 monitel.ru
 morion.com.ru
 mosenergosbit.ru
@@ -412,6 +417,7 @@ tesb.rosatom.ru
 tesp.rosatom.ru
 test.avangard.ru
 tgc1.ru
+thunderbolt-am.ru
 tkbs.rosatom.ru
 tomskenergosbyt.ru
 tomskrts.ru
@@ -420,6 +426,7 @@ trubodetal.ru
 tsnsapozhok.ru
 tupolev.ru
 tvernefteproduct.ru
+tverregiongaz.ru
 tvoy-domovoy.ru
 uacrussia.ru
 uaz.ru

@@ -177,6 +177,7 @@ diongo.ru
 disp.local.onecld.ru
 doc.eye.salute.ru
 docushka.ru
+domopult.ru
 don-cloud.ru
 dr.mcs-cloud.ru
 drive-data.ru
@@ -325,6 +326,7 @@ konfs.ru
 konkrs.ru
 kontur-api.ru
 kontur.ru
+konturbank.ru
 korusconsulting.ru
 kpbs.ru
 krtech.ru
@@ -457,6 +459,8 @@ platformrp.ru
 platformst.ru
 polaris.eye.salute.ru
 polaris.giga.salute.ru
+premapp.ru
+premapp.su
 pro-chek.ru
 prod-mesh.ad-tech.ru
 prod.ad-tech.ru
@@ -506,6 +510,7 @@ rock-digital.ru
 rowangame.ru
 rr.ru
 rt-ib.ru
+rtbapp.ru
 rtbapp.su
 rtinform.ru
 rtreg.ru

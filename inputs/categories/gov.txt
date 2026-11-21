@@ -332,6 +332,7 @@ gosuslugi74.ru
 gov-murman.ru
 gov.spb.ru
 gov45.ru
+gov74.ru
 govirk.ru
 govrb.ru
 goz.ipc.rssi.ru
@@ -419,6 +420,7 @@ kgainfo.spb.ru
 kirovskij-cson.stv.socinfo.ru
 kirzdrav.ru
 kmiac.ru
+kmp3.ru
 knd.gov.ru
 ko.spb.ru
 komicsm.ru
@@ -463,6 +465,7 @@ lk.admsvtl.ru
 lkexpertiza.spb.ru
 lms.apu.fsin.gov.ru
 lms.vi.fsin.gov.ru
+lms.vui.fsin.gov.ru
 login.ik66.ru
 lyncdiscover.admsurgut.ru
 lyncweb.admsurgut.ru
@@ -497,7 +500,6 @@ mfc51.ru
 mfnso.ru
 mfsk.ru
 mgfoms.ru
-miac.gov74.ru
 miac74.ru
 microbe.ru
 mikhailovsky.ru
@@ -846,6 +848,7 @@ tverreg.ru
 tvobr.ru
 uc-em.ru
 udmurt.ru
+ufa112.ru
 ufin48.ru
 ug-rr.ru
 ugzko.ru
