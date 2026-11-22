@@ -1,9 +1,9 @@
 {
   "logs": {
     "https://26.ctlog.digital.gov.ru/2026/": 9400,
-    "https://27.ctlog.digital.gov.ru/2027/": 14210,
+    "https://27.ctlog.digital.gov.ru/2027/": 14283,
     "https://ctlog2026.mail.ru/nca2026/": 10282,
-    "https://ctlog2027.mail.ru/nca2027/": 14878
+    "https://ctlog2027.mail.ru/nca2027/": 14952
   },
   "names": {
     "0001cmnode01.msk.mts.ru": {
@@ -1280,12 +1280,6 @@
     },
     "aaa.t-boys.ru": {
       "not_after": "2027-02-14"
-    },
-    "aaacapital.ru": {
-      "not_after": "2026-11-21",
-      "org": "AAA Capital Management",
-      "inn": "7722515837",
-      "ogrn": "1047796382920"
     },
     "aaanet.ru": {
       "not_after": "2027-07-23",
@@ -7129,12 +7123,6 @@
       "inn": "9703153494",
       "ogrn": "1237700558700"
     },
-    "atriumnn.ru": {
-      "not_after": "2026-11-21",
-      "org": "ООО КАЛЬДЕРА",
-      "inn": "5259114269",
-      "ogrn": "1145259005275"
-    },
     "atrtynda.ru": {
       "not_after": "2027-11-09",
       "org": "АДМИНИСТРАЦИЯ ТЫНДИНСКОГО МУНИЦИПАЛЬНОГО ОКРУГА АМУРСКОЙ ОБЛАСТИ",
@@ -7317,6 +7305,9 @@
       "org": "Минцифры России",
       "inn": "7710474375",
       "ogrn": "1047702026701"
+    },
+    "auth-gigaagent.dev.sberdevices.ru": {
+      "not_after": "2027-02-19"
     },
     "auth-ift.test-jazz.sberbank.ru": {
       "not_after": "2027-09-24",
@@ -7778,7 +7769,7 @@
       "not_after": "2027-01-10"
     },
     "autodealer.cdn-tbank.ru": {
-      "not_after": "2026-12-21"
+      "not_after": "2027-02-19"
     },
     "autodiscaver.vympel-rybinsk.ru": {
       "not_after": "2027-07-20",
@@ -8019,12 +8010,6 @@
       "org": "NEOTECH LLC",
       "inn": "9703076320",
       "ogrn": "1227700121758"
-    },
-    "autodiscover.cdn.s3torage.ru": {
-      "not_after": "2026-11-21",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
     },
     "autodiscover.cdn.sovcomnpf.ru": {
       "not_after": "2027-01-13",
@@ -10423,12 +10408,6 @@
       "inn": "2308077553",
       "ogrn": "1022301228399"
     },
-    "balans2.ru": {
-      "not_after": "2026-11-21",
-      "org": "Акционерное Общество ОВИОНТ ИНФОРМ",
-      "inn": "7725088527",
-      "ogrn": "1027700076051"
-    },
     "balashiha.dev.home.megafon.ru": {
       "not_after": "2027-01-06"
     },
@@ -11916,12 +11895,6 @@
       "inn": "7810385714",
       "ogrn": "1147847386906"
     },
-    "biblio-bud.stv.muzkult.ru": {
-      "not_after": "2026-11-21",
-      "org": "МБУК «Буденновская ЦБС»",
-      "inn": "2624030169",
-      "ogrn": "1062646015684"
-    },
     "bid.gazprom-neft.ru": {
       "not_after": "2026-12-24"
     },
@@ -12540,12 +12513,6 @@
       "inn": "7706812159",
       "ogrn": "1147746831352"
     },
-    "boiler.atriumnn.ru": {
-      "not_after": "2026-11-21",
-      "org": "ООО КАЛЬДЕРА",
-      "inn": "5259114269",
-      "ogrn": "1145259005275"
-    },
     "bolshoy.tricolor.ru": {
       "not_after": "2027-10-19",
       "org": "NAO National Satellite Company",
@@ -12833,12 +12800,6 @@
       "org": "PJSC Vimpelcom",
       "inn": "7713076301",
       "ogrn": "1027700166636"
-    },
-    "br.atriumnn.ru": {
-      "not_after": "2026-11-21",
-      "org": "ООО КАЛЬДЕРА",
-      "inn": "5259114269",
-      "ogrn": "1145259005275"
     },
     "br.mosreg.ru": {
       "not_after": "2027-09-17",
@@ -15621,6 +15582,9 @@
     "cert.nuc-040171df99054744.enthusiastic-delighted.online": {
       "not_after": "2026-12-26"
     },
+    "cert.nuc-052b3277de564500.genuine-productive.ru": {
+      "not_after": "2027-02-19"
+    },
     "cert.nuc-05ab380190fd4ca2.tougher-astonishment.ru": {
       "not_after": "2027-02-17"
     },
@@ -15629,6 +15593,9 @@
     },
     "cert.nuc-082f8518be3b461d.marveled-astonish.online": {
       "not_after": "2026-12-27"
+    },
+    "cert.nuc-0aeec8b588814f6c.unforgettable-keenly.ru": {
+      "not_after": "2027-02-19"
     },
     "cert.nuc-254d9bc16ec4475e.marveled-astonish.online": {
       "not_after": "2027-01-03"
@@ -15639,11 +15606,29 @@
     "cert.nuc-2b35067532414ccc.tougher-astonishment.ru": {
       "not_after": "2027-02-17"
     },
+    "cert.nuc-2c87800b28fd4579.tougher-astonishment.ru": {
+      "not_after": "2027-02-19"
+    },
+    "cert.nuc-2db47a76153448de.tougher-astonishment.ru": {
+      "not_after": "2027-02-20"
+    },
+    "cert.nuc-31629c868fcc4fd6.genuine-productive.ru": {
+      "not_after": "2027-02-19"
+    },
     "cert.nuc-32b3868c2e364d78.tougher-astonishment.ru": {
       "not_after": "2027-02-17"
     },
+    "cert.nuc-3300e067ac3c44b4.unforgettable-keenly.ru": {
+      "not_after": "2027-02-19"
+    },
+    "cert.nuc-38f0b5f4e0f44cde.respite-blossom.ru": {
+      "not_after": "2027-02-19"
+    },
     "cert.nuc-3cd2fb2c660a4b77.marveled-astonish.online": {
       "not_after": "2026-12-28"
+    },
+    "cert.nuc-3ced6121775e4497.respite-blossom.ru": {
+      "not_after": "2027-02-19"
     },
     "cert.nuc-3e84ea71617a46c9.enthusiastic-delighted.online": {
       "not_after": "2026-12-29"
@@ -15672,14 +15657,23 @@
     "cert.nuc-4f176e81ef4c49d1.genuine-productive.ru": {
       "not_after": "2027-02-18"
     },
+    "cert.nuc-50e0e6cdd11c4bb0.tougher-astonishment.ru": {
+      "not_after": "2027-02-19"
+    },
     "cert.nuc-5b9b24ee5fb349ef.unforgettable-keenly.ru": {
       "not_after": "2027-02-16"
     },
     "cert.nuc-5f626b174e474731.unforgettable-keenly.ru": {
       "not_after": "2027-02-17"
     },
+    "cert.nuc-62bbeec715f94372.genuine-productive.ru": {
+      "not_after": "2027-02-19"
+    },
     "cert.nuc-6890a141f4b14d44.tougher-astonishment.ru": {
       "not_after": "2027-02-16"
+    },
+    "cert.nuc-6b3e7c805b7a4212.respite-blossom.ru": {
+      "not_after": "2027-02-19"
     },
     "cert.nuc-723b7520d2644323.tougher-astonishment.ru": {
       "not_after": "2027-02-17"
@@ -15710,6 +15704,9 @@
     },
     "cert.nuc-8fb1919bf82a4bbd.unforgettable-keenly.ru": {
       "not_after": "2027-02-17"
+    },
+    "cert.nuc-9311bd97606f4f5c.tougher-astonishment.ru": {
+      "not_after": "2027-02-19"
     },
     "cert.nuc-9ab2f72f29514af7.tougher-astonishment.ru": {
       "not_after": "2027-02-17"
@@ -15765,6 +15762,9 @@
     "cert.nuc-de827586c9684641.unforgettable-keenly.ru": {
       "not_after": "2027-02-18"
     },
+    "cert.nuc-e28b34bd468847eb.tougher-astonishment.ru": {
+      "not_after": "2027-02-19"
+    },
     "cert.nuc-e3c661075dae4691.respite-blossom.ru": {
       "not_after": "2027-02-18"
     },
@@ -15779,6 +15779,9 @@
     },
     "cert.nuc-f0cc893961ec455c.enthusiastic-delighted.online": {
       "not_after": "2026-12-30"
+    },
+    "cert.nuc-f1de7bf22d4943d7.tougher-astonishment.ru": {
+      "not_after": "2027-02-19"
     },
     "cert.nuc-f43df2c9a57b4b8f.unforgettable-keenly.ru": {
       "not_after": "2027-02-18"
@@ -16841,12 +16844,6 @@
     },
     "citrix-rtk.ctx.mts.ru": {
       "not_after": "2027-02-01"
-    },
-    "citrix.atriumnn.ru": {
-      "not_after": "2026-11-21",
-      "org": "ООО КАЛЬДЕРА",
-      "inn": "5259114269",
-      "ogrn": "1145259005275"
     },
     "citrix.mtsbank.ru": {
       "not_after": "2027-02-18"
@@ -23977,6 +23974,9 @@
       "inn": "7736323532",
       "ogrn": "1197746498916"
     },
+    "docs-gigaagent.dev.sberdevices.ru": {
+      "not_after": "2027-02-19"
+    },
     "docs-hub.test-middle.megafon.ru": {
       "not_after": "2027-01-27"
     },
@@ -24368,7 +24368,7 @@
       "ogrn": "1022301598549"
     },
     "dostup.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "dostup.rt.ru": {
       "not_after": "2027-09-24",
@@ -28922,7 +28922,7 @@
       "ogrn": "1077711000102"
     },
     "files-nw.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "files-sib.megafon.ru": {
       "not_after": "2027-01-29"
@@ -30202,6 +30202,9 @@
       "inn": "7707083893",
       "ogrn": "1027700132195"
     },
+    "fws.glushkova.kim": {
+      "not_after": "2027-02-19"
+    },
     "fx-games.ru": {
       "not_after": "2027-05-28",
       "org": "Общество с ограниченной ответственностью «ЭФ ИКС ГЕЙМС»",
@@ -31109,6 +31112,9 @@
       "org": "ООО Салютдевайсы",
       "inn": "7730253720",
       "ogrn": "1197746592394"
+    },
+    "gigaagent.dev.sberdevices.ru": {
+      "not_after": "2027-02-19"
     },
     "gigaagent.ru": {
       "not_after": "2027-01-13"
@@ -32914,7 +32920,7 @@
       "not_after": "2027-09-09"
     },
     "h-if.vtb.ru": {
-      "not_after": "2026-12-21"
+      "not_after": "2027-02-19"
     },
     "h.vtb.ru": {
       "not_after": "2027-01-01"
@@ -40021,7 +40027,7 @@
       "not_after": "2027-01-18"
     },
     "kem.staging.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "kemcardio.ru": {
       "not_after": "2027-03-11",
@@ -45198,12 +45204,6 @@
       "inn": "7729485719",
       "ogrn": "5157746146212"
     },
-    "mail.atriumnn.ru": {
-      "not_after": "2026-11-21",
-      "org": "ООО КАЛЬДЕРА",
-      "inn": "5259114269",
-      "ogrn": "1145259005275"
-    },
     "mail.auth.sinara-finance.ru": {
       "not_after": "2027-06-24",
       "org": "АКЦИОНЕРНОЕ ОБЩЕСТВО БАНК СИНАРА",
@@ -45395,12 +45395,6 @@
       "org": "NEOTECH LLC",
       "inn": "9703076320",
       "ogrn": "1227700121758"
-    },
-    "mail.cdn.s3torage.ru": {
-      "not_after": "2026-11-21",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
     },
     "mail.cdn.sovcomnpf.ru": {
       "not_after": "2027-01-13",
@@ -47978,12 +47972,6 @@
       "org": "Акционерное общество ОТП Банк",
       "inn": "7708001614",
       "ogrn": "1027739176563"
-    },
-    "marketplace.bgfbank.ru": {
-      "not_after": "2026-11-21",
-      "org": "Joint Stock Company «Housing Finance Bank»",
-      "inn": "7709056550",
-      "ogrn": "1027739098639"
     },
     "marketplace.cloud.ru": {
       "not_after": "2027-10-08",
@@ -51478,7 +51466,7 @@
       "not_after": "2027-01-10"
     },
     "moscow.staging.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "mosedu.ru": {
       "not_after": "2027-09-01",
@@ -55603,11 +55591,17 @@
     "nuc-0aace967aaaa4eec.exult-unparalleled.ru": {
       "not_after": "2027-02-14"
     },
+    "nuc-0c1f1b1ef3004691.profusion-nonviolence.ru": {
+      "not_after": "2027-02-19"
+    },
     "nuc-0cd1958e6ba84675.profusion-nonviolence.ru": {
       "not_after": "2027-02-17"
     },
     "nuc-101355ca7a9a4c7e.profusion-nonviolence.ru": {
       "not_after": "2027-02-18"
+    },
+    "nuc-1149f886ab8443b9.exult-unparalleled.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-18805fa00af44e79.exult-unparalleled.ru": {
       "not_after": "2027-02-16"
@@ -55639,8 +55633,17 @@
     "nuc-2e41ccf976c14528.exult-unparalleled.ru": {
       "not_after": "2027-02-17"
     },
+    "nuc-2e54579e90f3435d.prodigiously-outstrip.ru": {
+      "not_after": "2027-02-19"
+    },
     "nuc-2f5ea113f0fa4b81.glee-embolden.online": {
       "not_after": "2026-12-30"
+    },
+    "nuc-3224f9039a0b4e63.prodigiously-outstrip.ru": {
+      "not_after": "2027-02-19"
+    },
+    "nuc-32b744d9db6e4375.exult-unparalleled.ru": {
+      "not_after": "2027-02-20"
     },
     "nuc-331c2d6102bc4436.exult-unparalleled.ru": {
       "not_after": "2027-02-17"
@@ -55696,6 +55699,9 @@
     "nuc-5fc0caf8bc11463c.finest-recommendation.ru": {
       "not_after": "2027-02-18"
     },
+    "nuc-622a7d06cfd04794.exult-unparalleled.ru": {
+      "not_after": "2027-02-19"
+    },
     "nuc-6b721a3051b44ec6.exult-unparalleled.ru": {
       "not_after": "2027-02-15"
     },
@@ -55710,6 +55716,12 @@
     },
     "nuc-755255fe0eba49e4.exult-unparalleled.ru": {
       "not_after": "2027-02-19"
+    },
+    "nuc-76cfaa8c29b143cc.exult-unparalleled.ru": {
+      "not_after": "2027-02-20"
+    },
+    "nuc-78e06a5dd1c54352.profusion-nonviolence.ru": {
+      "not_after": "2027-02-20"
     },
     "nuc-7b172553addc4a86.profusion-nonviolence.ru": {
       "not_after": "2027-02-17"
@@ -55738,17 +55750,29 @@
     "nuc-9616d772ef614cc4.exult-unparalleled.ru": {
       "not_after": "2027-02-18"
     },
+    "nuc-9764743b83804715.finest-recommendation.ru": {
+      "not_after": "2027-02-19"
+    },
     "nuc-9ab99b1c142640b0.profusion-nonviolence.ru": {
       "not_after": "2027-02-16"
     },
+    "nuc-9f8a7dcd754e4653.finest-recommendation.ru": {
+      "not_after": "2027-02-19"
+    },
     "nuc-a00c56af7c5a499e.glee-embolden.online": {
       "not_after": "2026-12-29"
+    },
+    "nuc-a0bc965a505548fe.profusion-nonviolence.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-a5bd3bb696ac4cb3.profusion-nonviolence.ru": {
       "not_after": "2027-02-15"
     },
     "nuc-a7952b06dd8741b1.exult-unparalleled.ru": {
       "not_after": "2027-02-16"
+    },
+    "nuc-a7e8d2e8ea6b47be.exult-unparalleled.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-a999069e6efc48ab.prodigiously-outstrip.ru": {
       "not_after": "2027-02-18"
@@ -55758,6 +55782,15 @@
       "org": "Минцифры России",
       "inn": "7710474375",
       "ogrn": "1047702026701"
+    },
+    "nuc-ae7faad550f0426c.prodigiously-outstrip.ru": {
+      "not_after": "2027-02-19"
+    },
+    "nuc-af90773649514c25.finest-recommendation.ru": {
+      "not_after": "2027-02-19"
+    },
+    "nuc-b4c4434461e4493e.exult-unparalleled.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-b60a2cee6e7e4b1c.exult-unparalleled.ru": {
       "not_after": "2027-02-19"
@@ -55776,6 +55809,9 @@
     },
     "nuc-c49a3e13a50e40f4.profusion-nonviolence.ru": {
       "not_after": "2027-02-17"
+    },
+    "nuc-c96a94655272435a.finest-recommendation.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-cabea8d4d2cb4301.profusion-nonviolence.ru": {
       "not_after": "2027-02-18"
@@ -55801,14 +55837,26 @@
     "nuc-df1f400820aa40c5.profusion-nonviolence.ru": {
       "not_after": "2027-02-19"
     },
+    "nuc-df6e481ec7134dae.profusion-nonviolence.ru": {
+      "not_after": "2027-02-19"
+    },
     "nuc-e54789dc346e4cef.exult-unparalleled.ru": {
       "not_after": "2027-02-17"
+    },
+    "nuc-e6217ddc9f224da5.profusion-nonviolence.ru": {
+      "not_after": "2027-02-19"
+    },
+    "nuc-e7b2526b33d1459d.profusion-nonviolence.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-e8f2f9abe341449b.glee-embolden.online": {
       "not_after": "2026-12-27"
     },
     "nuc-ee1b58ef7ea54513.prodigiously-outstrip.ru": {
       "not_after": "2027-02-18"
+    },
+    "nuc-f977a7a62e584df3.prodigiously-outstrip.ru": {
+      "not_after": "2027-02-19"
     },
     "nuc-fd71521355cc47f2.profusion-nonviolence.ru": {
       "not_after": "2027-02-17"
@@ -57620,7 +57668,7 @@
       "not_after": "2027-02-08"
     },
     "opensource.tbank.ru": {
-      "not_after": "2026-12-21"
+      "not_after": "2027-02-19"
     },
     "openspace.creditural.ru": {
       "not_after": "2027-06-22",
@@ -58623,12 +58671,6 @@
       "org": "NEOTECH LLC",
       "inn": "9703076320",
       "ogrn": "1227700121758"
-    },
-    "owa.cdn.s3torage.ru": {
-      "not_after": "2026-11-21",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
     },
     "owa.cdn.sovcomnpf.ru": {
       "not_after": "2027-01-13",
@@ -64162,7 +64204,7 @@
       "not_after": "2027-02-16"
     },
     "probe.mddc.t-secrets.ru": {
-      "not_after": "2027-01-18"
+      "not_after": "2027-02-19"
     },
     "probe.mddc.tjournal.tech": {
       "not_after": "2026-12-13"
@@ -71328,12 +71370,6 @@
       "org": "LLC SDevices",
       "inn": "7730253720",
       "ogrn": "1197746592394"
-    },
-    "samadm.ru": {
-      "not_after": "2026-11-21",
-      "org": "Администрации городского округа Самара",
-      "inn": "6315700007",
-      "ogrn": "1026300967417"
     },
     "samara-metallurg.ru": {
       "not_after": "2027-09-09",
@@ -80113,6 +80149,9 @@
       "inn": "7702045051",
       "ogrn": "1027739053704"
     },
+    "static-gigaagent.dev.sberdevices.ru": {
+      "not_after": "2027-02-19"
+    },
     "static-ift.si20.sberbank.ru": {
       "not_after": "2027-01-26",
       "org": "ПАО Сбербанк",
@@ -83447,7 +83486,7 @@
       "ogrn": "1027700067328"
     },
     "test-hub-cdn.middle.megafon.ru": {
-      "not_after": "2027-01-16"
+      "not_after": "2027-02-19"
     },
     "test-hub-informer.middle.megafon.ru": {
       "not_after": "2027-02-02"
@@ -86857,7 +86896,7 @@
       "not_after": "2027-01-15"
     },
     "udm.staging.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "udms.kion.ru": {
       "not_after": "2027-08-11",
@@ -87025,7 +87064,7 @@
       "not_after": "2027-01-17"
     },
     "ui.staging.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "ui.tau.vk.com": {
       "not_after": "2027-07-15",
@@ -89353,7 +89392,7 @@
       "ogrn": "1127847685778"
     },
     "visitor.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "visitor.test-middle.megafon.ru": {
       "not_after": "2027-01-30"
@@ -90385,7 +90424,7 @@
       "not_after": "2027-01-18"
     },
     "vologda.staging.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "vologda.sveza.ru": {
       "not_after": "2027-09-02",
@@ -94587,12 +94626,6 @@
       "inn": "7204129189",
       "ogrn": "1087232042259"
     },
-    "www.atriumnn.ru": {
-      "not_after": "2026-11-21",
-      "org": "ООО КАЛЬДЕРА",
-      "inn": "5259114269",
-      "ogrn": "1145259005275"
-    },
     "www.atrtynda.ru": {
       "not_after": "2027-11-09",
       "org": "АДМИНИСТРАЦИЯ ТЫНДИНСКОГО МУНИЦИПАЛЬНОГО ОКРУГА АМУРСКОЙ ОБЛАСТИ",
@@ -95432,12 +95465,6 @@
       "org": "NEOTECH LLC",
       "inn": "9703076320",
       "ogrn": "1227700121758"
-    },
-    "www.cdn.s3torage.ru": {
-      "not_after": "2026-11-21",
-      "org": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СОВКОМБАНК",
-      "inn": "4401116480",
-      "ogrn": "1144400000425"
     },
     "www.cdn.sovcomnpf.ru": {
       "not_after": "2027-01-13",
@@ -102582,12 +102609,6 @@
       "inn": "7707083893",
       "ogrn": "1246500001945"
     },
-    "www.samadm.ru": {
-      "not_after": "2026-11-21",
-      "org": "Администрации городского округа Самара",
-      "inn": "6315700007",
-      "ogrn": "1026300967417"
-    },
     "www.samspace.ru": {
       "not_after": "2027-08-20",
       "org": "JSC SRC Progress",
@@ -105045,6 +105066,9 @@
       "inn": "7740000076",
       "ogrn": "1027700149124"
     },
+    "www.vmpavitec.ru": {
+      "not_after": "2027-02-19"
+    },
     "www.vnm.transneft.ru": {
       "not_after": "2027-05-26",
       "org": "Transneft",
@@ -105594,12 +105618,6 @@
       "inn": "7802334258",
       "ogrn": "1057812530060"
     },
-    "www.xn--80aphfga3a3b.xn--p1ai": {
-      "not_after": "2026-11-21",
-      "org": "Министерство по нац политики и делам казачества СК",
-      "inn": "2634069310",
-      "ogrn": "1062635026695"
-    },
     "www.xn--90aciba4b0afgk.xn--p1ai": {
       "not_after": "2027-06-25",
       "org": "PJSC Sberbank",
@@ -105916,7 +105934,7 @@
       "ogrn": "1027700133911"
     },
     "x-srm.megafon.ru": {
-      "not_after": "2027-01-14"
+      "not_after": "2027-02-19"
     },
     "x-srm.middle.megafon.ru": {
       "not_after": "2027-02-08"
@@ -106988,12 +107006,6 @@
       "org": "Transneft",
       "inn": "7706061801",
       "ogrn": "1027700049486"
-    },
-    "xn--80aphfga3a3b.xn--p1ai": {
-      "not_after": "2026-11-21",
-      "org": "Министерство по нац политики и делам казачества СК",
-      "inn": "2634069310",
-      "ogrn": "1062635026695"
     },
     "xn--80asndblhi.xn--p1ai": {
       "not_after": "2027-07-15",
