@@ -1161,6 +1161,10 @@
       "category": "other",
       "confidence": 0.85
     },
+    "name:cert.nuc-299533b1a3604545.genuine-productive.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
     "name:cert.nuc-2a112895c08841aa.genuine-productive.ru": {
       "category": "other",
       "confidence": 0.79
@@ -1233,6 +1237,10 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:cert.nuc-64474452ac914c93.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.87
+    },
     "name:cert.nuc-6890a141f4b14d44.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.91
@@ -1257,9 +1265,17 @@
       "category": "other",
       "confidence": 0.87
     },
+    "name:cert.nuc-89507e332fa24f69.respite-blossom.ru": {
+      "category": "other",
+      "confidence": 0.94
+    },
     "name:cert.nuc-89ec9649a5b04f33.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.91
+    },
+    "name:cert.nuc-8d292601b4d44377.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.92
     },
     "name:cert.nuc-8f93c877b80141e6.tougher-astonishment.ru": {
       "category": "other",
@@ -1270,6 +1286,14 @@
       "confidence": 0.85
     },
     "name:cert.nuc-9311bd97606f4f5c.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:cert.nuc-95d448c5cb234f4d.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.87
+    },
+    "name:cert.nuc-9913feb815c24451.respite-blossom.ru": {
       "category": "other",
       "confidence": 0.91
     },
@@ -1284,6 +1308,10 @@
     "name:cert.nuc-a1cb56c9efe848e9.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.92
+    },
+    "name:cert.nuc-a37b0c2541914ab4.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.94
     },
     "name:cert.nuc-a76a66ba35e64e61.tougher-astonishment.ru": {
       "category": "other",
@@ -1313,6 +1341,14 @@
       "category": "other",
       "confidence": 0.82
     },
+    "name:cert.nuc-ba23e90ce4554675.unforgettable-keenly.ru": {
+      "category": "other",
+      "confidence": 0.84
+    },
+    "name:cert.nuc-bcc7658760304167.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
     "name:cert.nuc-bd1e58db76ce4134.unforgettable-keenly.ru": {
       "category": "other",
       "confidence": 0.82
@@ -1328,6 +1364,10 @@
     "name:cert.nuc-cfeff8dd64ab40cd.tougher-astonishment.ru": {
       "category": "other",
       "confidence": 0.92
+    },
+    "name:cert.nuc-d2faa7b035b14af4.genuine-productive.ru": {
+      "category": "other",
+      "confidence": 0.84
     },
     "name:cert.nuc-de827586c9684641.unforgettable-keenly.ru": {
       "category": "other",
@@ -1357,6 +1397,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:cert.nuc-f40630bfd89d4a28.tougher-astonishment.ru": {
+      "category": "other",
+      "confidence": 0.92
+    },
     "name:cert.nuc-f43df2c9a57b4b8f.unforgettable-keenly.ru": {
       "category": "other",
       "confidence": 0.86
@@ -1378,14 +1422,6 @@
       "confidence": 0.9
     },
     "name:cert4.ext-www-staging.megafon.ru": {
-      "category": "telecom",
-      "confidence": 1
-    },
-    "name:cert5.ext-www-staging.megafon.ru": {
-      "category": "telecom",
-      "confidence": 1
-    },
-    "name:cert7.ext-www-staging.megafon.ru": {
       "category": "telecom",
       "confidence": 1
     },
@@ -3998,10 +4034,6 @@
       "category": "other",
       "confidence": 0.99
     },
-    "name:kpl32.ru": {
-      "category": "other",
-      "confidence": 0.84
-    },
     "name:kras.dev.home.megafon.ru": {
       "category": "telecom",
       "confidence": 0.95
@@ -4491,10 +4523,6 @@
       "confidence": 0.43,
       "review": true
     },
-    "name:mail.kpl32.ru": {
-      "category": "other",
-      "confidence": 0.68
-    },
     "name:mail.lii.ru": {
       "category": "other",
       "confidence": 0.33,
@@ -4648,6 +4676,10 @@
       "category": "other",
       "confidence": 0.47,
       "review": true
+    },
+    "name:maxpar.ru": {
+      "category": "other",
+      "confidence": 0.82
     },
     "name:mazenko.ru": {
       "category": "other",
@@ -5340,9 +5372,17 @@
       "category": "other",
       "confidence": 0.91
     },
+    "name:nuc-1436c3319e7041a5.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.92
+    },
     "name:nuc-18805fa00af44e79.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.9
+    },
+    "name:nuc-1c4ec5f60adf49aa.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.92
     },
     "name:nuc-1d0e4adaf2534b83.profusion-nonviolence.ru": {
       "category": "other",
@@ -5384,6 +5424,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:nuc-3239c5fd68dc4fbf.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:nuc-32b744d9db6e4375.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.85
@@ -5396,13 +5440,25 @@
       "category": "other",
       "confidence": 0.89
     },
+    "name:nuc-36f5a2212e0f452e.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
     "name:nuc-370992e80a4642e1.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.91
     },
+    "name:nuc-376a8958ec7a41cc.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.87
+    },
     "name:nuc-390ee9b155fe43d8.finest-recommendation.ru": {
       "category": "other",
       "confidence": 0.87
+    },
+    "name:nuc-3cbbb5fbefee4a4c.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.85
     },
     "name:nuc-3d18fdcdacb54ebd.profusion-nonviolence.ru": {
       "category": "other",
@@ -5427,6 +5483,10 @@
     "name:nuc-4a0fc7bd069b4757.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.89
+    },
+    "name:nuc-4b88b13e61f14fe2.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.92
     },
     "name:nuc-4c6832107abc451a.exult-unparalleled.ru": {
       "category": "other",
@@ -5484,9 +5544,17 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:nuc-7d1eca6289f94844.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
     "name:nuc-81f13e2a09b1440b.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.89
+    },
+    "name:nuc-8213bd4f60324809.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.87
     },
     "name:nuc-843be137d63d45ee.exult-unparalleled.ru": {
       "category": "other",
@@ -5497,6 +5565,10 @@
       "confidence": 0.9
     },
     "name:nuc-8f3e7b56837941a5.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
+    "name:nuc-8f7bebf9e0ef4aca.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.91
     },
@@ -5515,6 +5587,10 @@
     "name:nuc-9f8a7dcd754e4653.finest-recommendation.ru": {
       "category": "other",
       "confidence": 0.87
+    },
+    "name:nuc-a077720f0d3545fb.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.92
     },
     "name:nuc-a0bc965a505548fe.profusion-nonviolence.ru": {
       "category": "other",
@@ -5536,6 +5612,10 @@
       "category": "other",
       "confidence": 0.92
     },
+    "name:nuc-ace9d5d288e843f3.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.92
+    },
     "name:nuc-ae7faad550f0426c.prodigiously-outstrip.ru": {
       "category": "other",
       "confidence": 0.9
@@ -5543,6 +5623,14 @@
     "name:nuc-af90773649514c25.finest-recommendation.ru": {
       "category": "other",
       "confidence": 0.85
+    },
+    "name:nuc-afafdd91a0e54a2b.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
+    "name:nuc-b18e620d3d684a39.exult-unparalleled.ru": {
+      "category": "other",
+      "confidence": 0.87
     },
     "name:nuc-b4c4434461e4493e.exult-unparalleled.ru": {
       "category": "other",
@@ -5564,9 +5652,21 @@
       "category": "other",
       "confidence": 0.9
     },
+    "name:nuc-c404161cba9747a7.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.9
+    },
+    "name:nuc-c42c40c15e8a4d2b.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
     "name:nuc-c49a3e13a50e40f4.profusion-nonviolence.ru": {
       "category": "other",
       "confidence": 0.92
+    },
+    "name:nuc-c6f9280ed0114129.prodigiously-outstrip.ru": {
+      "category": "other",
+      "confidence": 0.93
     },
     "name:nuc-c96a94655272435a.finest-recommendation.ru": {
       "category": "other",
@@ -5588,6 +5688,10 @@
       "category": "other",
       "confidence": 0.93
     },
+    "name:nuc-d7896b06946a40f2.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.91
+    },
     "name:nuc-d83f7b4514ea48e3.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.9
@@ -5608,6 +5712,10 @@
       "category": "other",
       "confidence": 0.89
     },
+    "name:nuc-df727f3ed660495a.finest-recommendation.ru": {
+      "category": "other",
+      "confidence": 0.86
+    },
     "name:nuc-e54789dc346e4cef.exult-unparalleled.ru": {
       "category": "other",
       "confidence": 0.85
@@ -5623,6 +5731,10 @@
     "name:nuc-ee1b58ef7ea54513.prodigiously-outstrip.ru": {
       "category": "other",
       "confidence": 0.9
+    },
+    "name:nuc-f887fa7067cf492f.profusion-nonviolence.ru": {
+      "category": "other",
+      "confidence": 0.83
     },
     "name:nuc-f977a7a62e584df3.prodigiously-outstrip.ru": {
       "category": "other",
@@ -5768,10 +5880,6 @@
     "name:omv.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
-    },
-    "name:online-test.orel-edu.ru": {
-      "category": "gov",
-      "confidence": 0.93
     },
     "name:online.datapol.ru": {
       "category": "other",
@@ -6198,11 +6306,6 @@
     "name:pixmart.ru": {
       "category": "other",
       "confidence": 0.6
-    },
-    "name:pk.omnis-university.ru": {
-      "category": "other",
-      "confidence": 0.43,
-      "review": true
     },
     "name:plan.budgetnn.ru": {
       "category": "other",
@@ -7731,11 +7834,6 @@
     "name:star.megafon.ru": {
       "category": "telecom",
       "confidence": 0.98
-    },
-    "name:stat.kpl32.ru": {
-      "category": "other",
-      "confidence": 0.4,
-      "review": true
     },
     "name:stat.mt-plan.ru": {
       "category": "gov",
