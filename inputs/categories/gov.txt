@@ -418,6 +418,7 @@ kfsar.ru
 kgainfo.spb.ru
 kirovskij-cson.stv.socinfo.ru
 kirzdrav.ru
+kmb3.ru
 kmiac.ru
 kmp3.ru
 knd.gov.ru
@@ -720,6 +721,7 @@ s-znc.ru
 sakhalin.gov.ru
 sakhminfin.ru
 saki-pirogova.ru
+samadm.ru
 sats.spb.ru
 sayanreabil.ru
 sbmcollege.ru
@@ -972,6 +974,7 @@ xn--b1afabzvcegckfhg.xn--p1ai
 xn--b1afqbrascj.xn--p1ai
 xn--b1agmh1ai8d.xn--p1ai
 xn--c1akasedrm0a.xn--p1ai
+xn--c1azic8c.xn--p1ai
 xn--d1aie4av.xn--p1ai
 xn--e1afffdle5a.xn--p1ai
 xn--e1ahdbdflckekkc.xn--p1ai

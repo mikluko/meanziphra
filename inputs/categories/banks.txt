@@ -125,6 +125,7 @@ balance-ins.ru
 baltinvest.ru
 baltinvestbank.ru
 bancaintesa.ru
+bank-45.ru
 bank-arzamas.ru
 bank-hlynov.ru
 bank-mscb.ru
@@ -1082,6 +1083,7 @@ sovcombank-am.ru
 sovcombank-leasing.ru
 sovcombank.ru
 sovcombankfactoring.ru
+sovcomdms.ru
 sovcomfactoring.ru
 sovcomins.ru
 sovcomlife.ru
