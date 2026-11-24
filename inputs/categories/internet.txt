@@ -84,6 +84,7 @@ avtocod.ru
 awardme.ru
 b-catalog.ru
 balticnews.ru
+bastion-tech.ru
 beta-class365.ru
 bi-bi.ru
 bia-tech.ru
@@ -121,6 +122,7 @@ cloud.ru
 cloud.tigersoft.ru
 cloud365.su
 clouddc.ru
+cm.sftcomp.ru
 cnt-it.ru
 coder.eye.salute.ru
 consultant.ru
