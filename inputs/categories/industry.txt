@@ -22,6 +22,7 @@ almaz-rpe.ru
 alrosa.ru
 alrosait.ru
 altaiensb.ru
+altaigazprom.ru
 amet.ru
 amurzmr.ru
 angstrem.ru
@@ -156,6 +157,7 @@ gidropribor.ru
 giotek.ru
 gisogd24.ru
 gk-ikar.ru
+gksar.ru
 gmt-gazprom.ru
 gn.com.ru
 gnppregion.ru
@@ -172,6 +174,7 @@ hiteknsk.ru
 ht.stm-ru.ru
 hypertherm.stm-ru.ru
 ib.avangard.ru
+ifhub.ru
 ikar-tech.ru
 ikarcenter.ru
 imf.ru
@@ -215,6 +218,7 @@ kzmayak.ru
 kznamya.ru
 labmining.ru
 laspace.ru
+legion-am.ru
 len-cas.energo.ru
 lenenergo.ru
 limit.avangard.ru
@@ -335,6 +339,8 @@ rev.avangard.ru
 rev2.avangard.ru
 rex-motors.ru
 rhc.ru
+rmcrf.ru
+rmcrt.ru
 rn-grp.ru
 rnd.stcnet.ru
 rnt.ru
@@ -389,6 +395,7 @@ smolate.ru
 smrtc.ru
 sollers-alabuga.ru
 sollers-cargo.ru
+sollers-digital.ru
 sollersalabuga.ru
 spacecorp.ru
 spb-neo.ru

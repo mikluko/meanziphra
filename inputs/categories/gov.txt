@@ -300,6 +300,7 @@ geocartography.ru
 geoportal40.ru
 geovestnik.ru
 get-package.oparina4.ru
+gfs.gov.ru
 gfs.ru
 gfu.ru
 gge.ru
@@ -753,7 +754,6 @@ skkcvo.ru
 skkmo.ru
 skkmorf.ru
 skkmpc.ru
-skkpodmoskovie.ru
 skmiac.ru
 skpp.transport.gov.ru
 slk.fhdgso.ru

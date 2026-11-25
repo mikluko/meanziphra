@@ -24,6 +24,7 @@ absolutvip.ru
 acapital-am.ru
 accounts.edge.sberdevices.ru
 acptl.ru
+acquiring.chelind.ru
 acs-nuc.vendorcert.mirconnect.ru
 acs.vendorcert.mirconnect.ru
 acs03.vendorcert.mirconnect.ru
@@ -34,6 +35,7 @@ adfs.toyotafs.ru
 admin.vneshbank.ru
 adsp.sberbank-service.ru
 afmg.ru
+agent.chelind.ru
 agentalfastrah.ru
 agroros.ru
 agw-auth-prod.bankdolinsk.ru
@@ -96,6 +98,7 @@ atm-receipt.cdn-tbank.ru
 atm72.ru
 auth.edge.sberdevices.ru
 auto-prep-virtu.sberins.ru
+auto.chelind.ru
 autodealer.cdn-tbank.ru
 autodiscover.mcbteam.ru
 autodiscover.mkb-invest.ru
@@ -291,7 +294,10 @@ cpre-intg-lb02.sberins.ru
 cpsphere.sberins.ru
 cpweb06.sberins.ru
 credistory.ru
+credit.chelind.ru
+creditbusiness.chelind.ru
 creditcalc.toyotafs.ru
+creditcard.chelind.ru
 crediteurope.ru
 creditexpress.ru
 creditonline.toyotafs.ru
@@ -357,6 +363,7 @@ dl.vneshbank.ru
 dmclk.ru
 dmitriykhotimskiy.ru
 dns.edge.sberdevices.ru
+dobro.chelind.ru
 dobroskb.ru
 docagent.sberbank-service.ru
 doctor-credit.ru
@@ -443,6 +450,7 @@ funds-custody.ru
 fvpn1.rts.ru
 fvpn2.rts.ru
 fworkspace.sber247.ru
+garant.chelind.ru
 gardiask.ru
 gate01.sberins.ru
 gate1.spaymentextra.ru
@@ -566,6 +574,8 @@ investments101.ru
 investpay.ru
 invsol.ru
 ipb.ru
+ipoteka-biz.chelind.ru
+ipoteka.chelind.ru
 ippay.ru
 isbank.com.ru
 isin.ru
@@ -679,6 +689,7 @@ mex2.voz.ru
 mfk-bank.ru
 mgn-city.ru
 mir-platform.ru
+mir.chelind.ru
 miragelk.mirconnect.ru
 miragelk.stg.mirconnect.ru
 mirconsciousness.rambler.ru
@@ -882,6 +893,7 @@ rcurala.ru
 rdb.ru
 realistbank.ru
 redsquare.rambler.ru
+refinans.chelind.ru
 registry-rpa.sberbank-service.ru
 registry.domoy.ru
 regulinvest.ru
@@ -898,6 +910,7 @@ restapi2.credinform.ru
 rfcbank.ru
 rga-samara.ru
 rgs.ru
+rko.chelind.ru
 rn-bank.ru
 rncb.ru
 rnko.ru
@@ -1265,6 +1278,7 @@ viking.spb.ru
 vikingbank.ru
 vino-svoe.ru
 vitains.ru
+vklad.chelind.ru
 vlbb.ru
 vlclient.ru
 volga-capital.ru
@@ -1351,6 +1365,7 @@ yooteam.ru
 ypmn-api.ru
 ypmn.ru
 zarech.ru
+zarplata.chelind.ru
 zaryadservice.sberbank-service.ru
 zemcombank.ru
 zemsky.ru
