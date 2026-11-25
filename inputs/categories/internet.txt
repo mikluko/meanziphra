@@ -168,7 +168,6 @@ developers.sber.ru
 developers.sberbank.ru
 devmail.ru
 devpi.eye.salute.ru
-dialog-demo.sbertech.ru
 digi-track.ru
 digidoc.ru
 digital-org.ru
@@ -249,6 +248,7 @@ gptresearcher-back.eye.salute.ru
 gptresearcher.eye.salute.ru
 grafana.dev.lk.astra-team.ru
 grafana.eye.salute.ru
+grpc.dialog-demo.sbertech.ru
 guard.rfaces.ru
 h43.ru
 harbor.eye.salute.ru
@@ -410,6 +410,8 @@ nci-rt.ru
 ncinform.ru
 neg-it.ru
 newton-technology.ru
+node-2.dialog-demo.sbertech.ru
+node-3.dialog-demo.sbertech.ru
 norbit.ru
 notify.local.onecld.ru
 npo-rtc.ru
@@ -622,7 +624,6 @@ t1-cloud.ru
 t1-integration.ru
 t1-pixso.ru
 t1-team.ru
-t2zvooq.ru
 t8.ru
 tag-me.ru
 tagapp.ru
@@ -747,6 +748,7 @@ xn--b1agajadjtdhcxg6d.xn--p1ai
 xn--d1achcanypala0j.xn--p1ai
 xn--f1aa.xn--p1ai
 xn--i1aeb2e.xn--p1ai
+xn--j1afcaaz.xn--p1ai
 xplanet.ru
 xplanetmail.ru
 yclients.ru

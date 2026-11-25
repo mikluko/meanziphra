@@ -16,6 +16,7 @@ auditlogs.mwsapis.ru
 autodiscover.mtsretail.ru
 beeline.ru
 billing.mwsapis.ru
+bospor-telecom.ru
 by.mgo.su
 ca.tch.ru
 cbrs.tch.ru
@@ -160,10 +161,12 @@ vasmpro.ru
 vi.mwsapis.ru
 video-dev.metrocom.ru
 video.metrocom.ru
+video.netbynet.ru
 video2.metrocom.ru
 vpc.mwsapis.ru
 vsb.tch.ru
 westcall.spb.ru
 wifi.ru
 www.tch.ru
+xn----9sbnazejkafenks.xn--p1ai
 yota.ru
