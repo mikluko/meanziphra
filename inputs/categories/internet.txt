@@ -126,6 +126,7 @@ cm.sftcomp.ru
 cnt-it.ru
 coder.eye.salute.ru
 consultant.ru
+containerapps.ru
 corpmail.ru
 cowork-dev.ru
 cowork-stage.ru
@@ -370,6 +371,7 @@ masterchain.ru
 max.ru
 maximum.ru
 mdigital.ru
+mediadesktm.ru
 megaplan.ru
 metadata.eye.salute.ru
 metrics.eye.salute.ru
@@ -465,6 +467,7 @@ polaris.giga.salute.ru
 premapp.ru
 premapp.su
 pro-chek.ru
+procoreai.ru
 prod-mesh.ad-tech.ru
 prod.ad-tech.ru
 production.vklanding.ru
