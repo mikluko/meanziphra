@@ -431,6 +431,7 @@ fin-id.ru
 finam.ru
 finambank.ru
 finbank.ru
+fincorpbank.ru
 finombudsman.ru
 finorma.ru
 finsb.ru
@@ -452,6 +453,7 @@ fvpn2.rts.ru
 fworkspace.sber247.ru
 garant.chelind.ru
 gardiask.ru
+gasconsumer.ru
 gate01.sberins.ru
 gate1.spaymentextra.ru
 gate2.spaymentextra.ru
@@ -785,6 +787,7 @@ online.aaacapital.ru
 online.bnpparibasbank.ru
 online.payment.ru
 online.profilbank.ru
+online.sovcombnk.ru
 onlinecredit.ru
 open-am.ru
 open-broker.ru
@@ -823,6 +826,7 @@ paymo.ru
 pbspay.mirconnect.ru
 pchtbnk.ru
 pcidss.bank.yandex.ru
+pervbank.ru
 pfc-site-dev.pfc.ru
 pfc-site-test.pfc.ru
 pilot-rpa.sberbank-service.ru
