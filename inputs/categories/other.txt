@@ -28,6 +28,7 @@ aes192.ru
 agatos.ru
 agencycontrol.ru
 ai-academy.ru
+ai2print.ru
 aihor.ru
 aipraktikai.ru
 aironteh.ru
@@ -49,7 +50,10 @@ ao-trend.ru
 aoapz.ru
 aotrend.ru
 api-cert-expired.metro-cc.ru
+api-cert-invalid.metro-cc.ru
 api.ocs.ru
+app-cert-expired.metro-cc.ru
+app-cert-invalid.metro-cc.ru
 app-cert.metro-cc.ru
 apprt.rspp.ru
 aq.ru
@@ -93,6 +97,7 @@ belaja-zebra.ru
 betcity.ru
 bfmsk-test-files.brain-flow.ru
 bfmsk-test.brain-flow.ru
+bits2atoms.ru
 bkfortuna.ru
 bmki.ru
 bmw-vidnoe.ru
@@ -118,7 +123,9 @@ cert.nuc-00f09d63ce9c45d1.tougher-astonishment.ru
 cert.nuc-052b3277de564500.genuine-productive.ru
 cert.nuc-05ab380190fd4ca2.tougher-astonishment.ru
 cert.nuc-0aeec8b588814f6c.unforgettable-keenly.ru
+cert.nuc-101919dbd39d4980.unforgettable-keenly.ru
 cert.nuc-166025da8838403a.tougher-astonishment.ru
+cert.nuc-175a25bf83d44ec4.unforgettable-keenly.ru
 cert.nuc-18b2f550901646de.tougher-astonishment.ru
 cert.nuc-20b716ecc26942a7.respite-blossom.ru
 cert.nuc-24806bf85e744d20.respite-blossom.ru
@@ -151,16 +158,19 @@ cert.nuc-5c845bd116664e7b.tougher-astonishment.ru
 cert.nuc-5f626b174e474731.unforgettable-keenly.ru
 cert.nuc-62bbeec715f94372.genuine-productive.ru
 cert.nuc-64474452ac914c93.unforgettable-keenly.ru
+cert.nuc-67f11b4ab3fb4162.respite-blossom.ru
 cert.nuc-6890a141f4b14d44.tougher-astonishment.ru
 cert.nuc-6b3e7c805b7a4212.respite-blossom.ru
 cert.nuc-71c7a93dfeaf46f1.unforgettable-keenly.ru
 cert.nuc-723b7520d2644323.tougher-astonishment.ru
+cert.nuc-7271742a48864c2f.tougher-astonishment.ru
 cert.nuc-74089c1700554b07.unforgettable-keenly.ru
 cert.nuc-774359c16c5e4f8c.unforgettable-keenly.ru
 cert.nuc-783d62010a19447b.respite-blossom.ru
 cert.nuc-7b1ade51fbf7433f.unforgettable-keenly.ru
 cert.nuc-7dc9768971ea4e48.respite-blossom.ru
 cert.nuc-7eb369607f0f49d6.unforgettable-keenly.ru
+cert.nuc-816b63f7fdfa43a9.tougher-astonishment.ru
 cert.nuc-85494b3e66a74f6f.unforgettable-keenly.ru
 cert.nuc-89507e332fa24f69.respite-blossom.ru
 cert.nuc-89ec9649a5b04f33.tougher-astonishment.ru
@@ -186,11 +196,13 @@ cert.nuc-a76a66ba35e64e61.tougher-astonishment.ru
 cert.nuc-a7ac540c50c740ee.unforgettable-keenly.ru
 cert.nuc-a80cd037ead64978.unforgettable-keenly.ru
 cert.nuc-a8c0d0a22dfd40f8.tougher-astonishment.ru
+cert.nuc-aa17664d70784632.unforgettable-keenly.ru
 cert.nuc-ab22636d13b94ab0.tougher-astonishment.ru
 cert.nuc-ac7b9eadf3304f7f.unforgettable-keenly.ru
 cert.nuc-b037c7dda2a84c96.tougher-astonishment.ru
 cert.nuc-b0792827c5a04e0c.unforgettable-keenly.ru
 cert.nuc-b577c86ad97f4dea.genuine-productive.ru
+cert.nuc-b5d5e9e222bf4023.unforgettable-keenly.ru
 cert.nuc-b634001f40c04a6b.unforgettable-keenly.ru
 cert.nuc-b6aa48fcd0b04f85.respite-blossom.ru
 cert.nuc-b83c5a7a3f0b40be.tougher-astonishment.ru
@@ -200,7 +212,10 @@ cert.nuc-bd1e58db76ce4134.unforgettable-keenly.ru
 cert.nuc-c80ffd95198c44e0.unforgettable-keenly.ru
 cert.nuc-c829326bff3b4051.unforgettable-keenly.ru
 cert.nuc-ccf0c76f34104884.unforgettable-keenly.ru
+cert.nuc-cd260caeabc442f7.genuine-productive.ru
+cert.nuc-cdfefee615a348cf.genuine-productive.ru
 cert.nuc-cfeff8dd64ab40cd.tougher-astonishment.ru
+cert.nuc-d1007dd250f34741.unforgettable-keenly.ru
 cert.nuc-d2faa7b035b14af4.genuine-productive.ru
 cert.nuc-d90269a171b644da.respite-blossom.ru
 cert.nuc-d93b10805c7b4f17.respite-blossom.ru
@@ -216,6 +231,7 @@ cert.nuc-e5fa994b24f74c47.unforgettable-keenly.ru
 cert.nuc-e9acccbecf9e43d0.genuine-productive.ru
 cert.nuc-f0935e10204c4b6c.unforgettable-keenly.ru
 cert.nuc-f1de7bf22d4943d7.tougher-astonishment.ru
+cert.nuc-f2cc93fc7a9e42ad.unforgettable-keenly.ru
 cert.nuc-f3099e6fc88b4ab0.tougher-astonishment.ru
 cert.nuc-f40630bfd89d4a28.tougher-astonishment.ru
 cert.nuc-f43df2c9a57b4b8f.unforgettable-keenly.ru
@@ -248,7 +264,6 @@ cpc-proxy.t-technologies.ru
 crm.officestyle35.ru
 crm.swimly.ru
 crmnote.ru
-crt-test-alpha.ru
 cryont.ru
 ctio-frn.spb.ru
 ctxcc.mbrd.ru
@@ -334,6 +349,7 @@ foto.myhome365.ru
 foxford.ru
 fpet2010.ru
 freetato.ru
+fregat.ru
 frontkit.ru
 frsd.ru
 ftoroplast4.ru
@@ -349,6 +365,7 @@ gerartg.ru
 gi-solutions.ru
 giga-agent.ru
 gigaagent.ru
+gigamaker.ru
 gilenko.ru
 gitlab.efimeg.ru
 glopro.ru
@@ -367,7 +384,6 @@ gsk132.ru
 gubadm.ru
 guestportal.avangard.ru
 gw-vpn.t-access.ru
-ha.blutz.ru
 hair-boutique.ru
 harness-1.brain-flow.ru
 harness-2.brain-flow.ru
@@ -401,6 +417,7 @@ ips.avangard.ru
 ipsnok.ru
 irao-engineering.ru
 irteya.ru
+isedc.ru
 isiton.ru
 it-brigita.ru
 it-earth.ru
@@ -594,11 +611,13 @@ nuc-0bf7c045352d4345.exult-unparalleled.ru
 nuc-0c1f1b1ef3004691.profusion-nonviolence.ru
 nuc-0cd1958e6ba84675.profusion-nonviolence.ru
 nuc-0d0a559fd59243e4.prodigiously-outstrip.ru
+nuc-0ef6770179874e2f.exult-unparalleled.ru
 nuc-101355ca7a9a4c7e.profusion-nonviolence.ru
 nuc-109440aeeb2643b5.finest-recommendation.ru
 nuc-1149f886ab8443b9.exult-unparalleled.ru
 nuc-1436c3319e7041a5.exult-unparalleled.ru
 nuc-18805fa00af44e79.exult-unparalleled.ru
+nuc-1aa1c2ff82554826.exult-unparalleled.ru
 nuc-1acc82c5becf4a31.prodigiously-outstrip.ru
 nuc-1c4ec5f60adf49aa.prodigiously-outstrip.ru
 nuc-1d0da23417b74b21.finest-recommendation.ru
@@ -612,6 +631,8 @@ nuc-22fd0cb353274b7e.profusion-nonviolence.ru
 nuc-236cdc0c42884629.prodigiously-outstrip.ru
 nuc-2371d6b214bd41a9.finest-recommendation.ru
 nuc-238c55e20c5a4e0c.prodigiously-outstrip.ru
+nuc-241fc14a47a449e4.exult-unparalleled.ru
+nuc-24732def0b144af6.exult-unparalleled.ru
 nuc-26224738d49241e8.profusion-nonviolence.ru
 nuc-26977ee3dd7f43ce.prodigiously-outstrip.ru
 nuc-2a182ebb9ce94b84.prodigiously-outstrip.ru
@@ -620,6 +641,8 @@ nuc-2c240d460f8e4140.finest-recommendation.ru
 nuc-2cdd2c9515814d6c.exult-unparalleled.ru
 nuc-2e41ccf976c14528.exult-unparalleled.ru
 nuc-2e54579e90f3435d.prodigiously-outstrip.ru
+nuc-2f42190c3e61443d.finest-recommendation.ru
+nuc-30b7fe8a42794ec5.prodigiously-outstrip.ru
 nuc-30c01e27f34a4979.profusion-nonviolence.ru
 nuc-31d0421ae5994588.prodigiously-outstrip.ru
 nuc-3224f9039a0b4e63.prodigiously-outstrip.ru
@@ -630,6 +653,7 @@ nuc-361378b135f74afe.exult-unparalleled.ru
 nuc-36f5a2212e0f452e.finest-recommendation.ru
 nuc-370992e80a4642e1.profusion-nonviolence.ru
 nuc-37510343ff634583.profusion-nonviolence.ru
+nuc-37520beabf2f4c58.profusion-nonviolence.ru
 nuc-376a8958ec7a41cc.exult-unparalleled.ru
 nuc-390ee9b155fe43d8.finest-recommendation.ru
 nuc-3ac63f2dbef344c8.finest-recommendation.ru
@@ -643,6 +667,7 @@ nuc-4153cd2396ef4fbc.prodigiously-outstrip.ru
 nuc-416c5ff6655f454e.profusion-nonviolence.ru
 nuc-43f0128b9ca24a37.profusion-nonviolence.ru
 nuc-45675aa982b24978.exult-unparalleled.ru
+nuc-45d83352d20149ac.finest-recommendation.ru
 nuc-463b7417109a4307.exult-unparalleled.ru
 nuc-4a0fc7bd069b4757.profusion-nonviolence.ru
 nuc-4b88b13e61f14fe2.exult-unparalleled.ru
@@ -663,9 +688,12 @@ nuc-622a7d06cfd04794.exult-unparalleled.ru
 nuc-638cc92ca12147db.exult-unparalleled.ru
 nuc-66e54d195a1f48bb.exult-unparalleled.ru
 nuc-671990bb343f45fc.prodigiously-outstrip.ru
+nuc-67ad2a91308947a5.exult-unparalleled.ru
+nuc-67cd38a9d36a490c.finest-recommendation.ru
 nuc-6915ca50a5994158.exult-unparalleled.ru
 nuc-6923a184cd7b4e30.finest-recommendation.ru
 nuc-6957030f7d1a4064.exult-unparalleled.ru
+nuc-6aa910aaa05f4b8e.prodigiously-outstrip.ru
 nuc-6b721a3051b44ec6.exult-unparalleled.ru
 nuc-6bda53f34ebd457f.exult-unparalleled.ru
 nuc-6fee5e13665d463b.exult-unparalleled.ru
@@ -677,6 +705,7 @@ nuc-7c4cba81979e42ba.finest-recommendation.ru
 nuc-7c4ed289e13943f3.profusion-nonviolence.ru
 nuc-7d1eca6289f94844.profusion-nonviolence.ru
 nuc-7e7163b2ca1e4de9.prodigiously-outstrip.ru
+nuc-7ffefaa637d9467a.profusion-nonviolence.ru
 nuc-81f13e2a09b1440b.profusion-nonviolence.ru
 nuc-8213bd4f60324809.profusion-nonviolence.ru
 nuc-843be137d63d45ee.exult-unparalleled.ru
@@ -686,9 +715,12 @@ nuc-895e23847a674d52.profusion-nonviolence.ru
 nuc-8a279f40553148ce.profusion-nonviolence.ru
 nuc-8afdc9475ce9401c.profusion-nonviolence.ru
 nuc-8b393773658e48cf.exult-unparalleled.ru
+nuc-8bc271eca5a34bc0.finest-recommendation.ru
+nuc-8dceb780a9b2477f.prodigiously-outstrip.ru
 nuc-8e06aa643ba541f5.finest-recommendation.ru
 nuc-8f3e7b56837941a5.exult-unparalleled.ru
 nuc-8f7bebf9e0ef4aca.profusion-nonviolence.ru
+nuc-9394bdf51b624cfb.profusion-nonviolence.ru
 nuc-9616d772ef614cc4.exult-unparalleled.ru
 nuc-9764743b83804715.finest-recommendation.ru
 nuc-9ab99b1c142640b0.profusion-nonviolence.ru
@@ -705,6 +737,8 @@ nuc-ab80832812654fcc.finest-recommendation.ru
 nuc-ac29419495cf46f5.exult-unparalleled.ru
 nuc-ac7f0080e5824644.profusion-nonviolence.ru
 nuc-ace9d5d288e843f3.exult-unparalleled.ru
+nuc-ad1b43d2a81d4ffe.prodigiously-outstrip.ru
+nuc-ae7ed43db9784e86.profusion-nonviolence.ru
 nuc-ae7faad550f0426c.prodigiously-outstrip.ru
 nuc-af90773649514c25.finest-recommendation.ru
 nuc-afafdd91a0e54a2b.prodigiously-outstrip.ru
@@ -718,6 +752,7 @@ nuc-bc8b3368a5b2470f.profusion-nonviolence.ru
 nuc-bcc712fa384545e8.finest-recommendation.ru
 nuc-bcd2eae51ee4400f.profusion-nonviolence.ru
 nuc-befb4c9fd46d4214.exult-unparalleled.ru
+nuc-bf7d0d974213497a.profusion-nonviolence.ru
 nuc-c2e825f48c534aa7.profusion-nonviolence.ru
 nuc-c37dba09fec046a1.exult-unparalleled.ru
 nuc-c404161cba9747a7.finest-recommendation.ru
@@ -751,11 +786,13 @@ nuc-e9bcff44f0cc4b66.exult-unparalleled.ru
 nuc-eab7b94e1d02416f.exult-unparalleled.ru
 nuc-ee1b58ef7ea54513.prodigiously-outstrip.ru
 nuc-f02f32364f324b00.finest-recommendation.ru
+nuc-f38f54b63dcc49b3.profusion-nonviolence.ru
 nuc-f7bca3989c65444e.profusion-nonviolence.ru
 nuc-f887fa7067cf492f.profusion-nonviolence.ru
 nuc-f977a7a62e584df3.prodigiously-outstrip.ru
 nuc-fb58c7014e474f4d.profusion-nonviolence.ru
 nuc-fb98ba91232e4176.profusion-nonviolence.ru
+nuc-fcdff9e8e02d4e0e.exult-unparalleled.ru
 nuc-fd71521355cc47f2.profusion-nonviolence.ru
 nuc-fde76fcc92e34164.exult-unparalleled.ru
 nuc-fe73657b71e44d7d.profusion-nonviolence.ru
@@ -1013,6 +1050,7 @@ strategy.ru
 stream-cad.ru
 sunsetvibes.ru
 supergraph-cert-expired.metro-cc.ru
+supergraph-cert-invalid.metro-cc.ru
 suprchel.vm.ascon.ru
 svision.tornado.ru
 svod31.ru
@@ -1034,6 +1072,7 @@ telda.ru
 tender32.ru
 termidesk.ru
 test-2.avangard.ru
+test-42.crt-test-alpha.ru
 test-cross-signed-mc.certhub-beta.vkteam.ru
 test-er.ru
 test.p2p-app.ru
@@ -1098,10 +1137,10 @@ vremenagoda51.ru
 vyb.spb.ru
 warui.ru
 werlock.ru
-wild-bot-max.ru
 winelab.ru
 winepark.ru
 wineparkorchard.ru
+wolga.ocs.ru
 wufeng.ru
 wushuspb.ru
 www.latrenta.ru
@@ -1142,12 +1181,16 @@ xn--80aafna0aeglt3b.xn--p1ai
 xn--80aagknb0ahdagdcdmhj4d0b.xn--p1ai
 xn--80aaks9bdd.xn--p1ai
 xn--80aalqacudkeiwckpc.xn--p1ai
+xn--80aapamcavoccigmpc9ab4d0fkj.xn--p1ai
 xn--80aapampemcchfmo7a3c9ehj.xn--p1ai
+xn--80aapugigod1b.xn--p1ai
 xn--80aba5bc2bd.xn--p1ai
 xn--80abfedt6amof8k3a.xn--p1ai
 xn--80addfbb6bm6a.xn--p1ai
+xn--80adgfif4ajc3e5cxc.xn--p1ai
 xn--80aebecah6apa1adyldqm2sra.xn--p1ai
 xn--80aegdqmtlj.xn--p1ai
+xn--80afdrjqf7b.xn--p1ai
 xn--80aff4c.xn--p1ai
 xn--80aimavhgct.xn--p1ai
 xn--80akcrghjp.xn--p1ai
@@ -1155,6 +1198,7 @@ xn--90a0am.xn--80adgen0ai.xn--p1ai
 xn--90agc3adhkeq3d.xn--p1ai
 xn--90agdanti8bgb8b6c.xn--p1ai
 xn--90aivcdt6dxbc.xn--p1ai
+xn--b1aaocyjjcokf.xn--p1ai
 xn--b1acgk5bi7d.xn--p1ai
 xn--b1afyi.xn--p1ai
 xn--b1aghfgubnetqw.xn--p1ai
@@ -1166,6 +1210,7 @@ xn--j1aidd.xn--80abi0ahidr0b.xn--p1ai
 xn--j1aj5bb.xn--p1ai
 xn--l1aaifd.xn--p1ai
 xn--l1agf.xn--p1ai
+xn--n1abdr5c.xn--p1ai
 xn--r1a.xn--80aaexc1aevv.xn--p1ai
 xrmib.ru
 xxx.t-boys.ru

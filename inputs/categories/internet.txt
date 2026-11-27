@@ -352,6 +352,7 @@ ljplus.ru
 lkdoc.infoline-rk.ru
 logon.rfaces.ru
 loonabrowser.ru
+ls.ru
 lvls.ru
 m.odnoklasniki.ru
 m2lab.ru
@@ -462,6 +463,7 @@ platform-dev.eye.salute.ru
 platform.eye.salute.ru
 platformrp.ru
 platformst.ru
+pmcloud.sbertech.ru
 polaris.eye.salute.ru
 polaris.giga.salute.ru
 premapp.ru

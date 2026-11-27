@@ -65,7 +65,6 @@ armonko.ru
 artamonovigor.ru
 arxdshi.stv.muzkult.ru
 arzgir-cson.stv.socinfo.ru
-astcsm.ru
 astfond.ru
 astgoz.ru
 astrobl.ru
@@ -227,6 +226,7 @@ enisey-gis.ru
 eniseygis.ru
 ens.mdm.ocs.ru
 epmm.midep.ru
+epp.genproc.gov.ru
 eps74.ru
 erai.ru
 erilovtest.cms.nerpa-it.ru
@@ -367,6 +367,7 @@ iac.spb.ru
 iapras.ru
 idworld.phoenix-dnr.ru
 igcpc.ru
+igmapo.ru
 iiot.gov.ru
 iitp.ru
 iiun.ru
@@ -540,6 +541,7 @@ mpr26.ru
 mpu-spb.ru
 mr.rspp.ru
 mshsk.ru
+msko-bud.stv.muzkult.ru
 mskobr.ru
 msns.niic.nsc.ru
 mso51.ru
@@ -603,6 +605,7 @@ omskzan.ru
 omsomsk.ru
 omspk.ru
 omstula.ru
+oniip.ru
 op.spb.ru
 operaizh.ru
 opmoscow.ru
@@ -652,6 +655,7 @@ pred-ik.plagate.ru
 prim-edu.ru
 primorsky.ru
 pro-diabet.ru
+proverki.gov.ru
 prto.ru
 psk.meteo.nw.ru
 pskovadmin.ru
@@ -757,6 +761,7 @@ skkcvo.ru
 skkmo.ru
 skkmorf.ru
 skkmpc.ru
+skkpodmoskovie.ru
 skmiac.ru
 skpp.transport.gov.ru
 slk.fhdgso.ru
@@ -922,7 +927,6 @@ xn----gtbyjafgkjo.xn--p1ai
 xn---33-6cdkdjv2a1ajcfepj.xn--p1ai
 xn---74-5cdkaux2a5aemsld2n.xn--p1ai
 xn--11-jlcep3d.xn--p1ai
-xn--19-6kch3bybw5a.xn--p1ai
 xn--24-8kcm.xn--p1ai
 xn--39-dlcej5afybuehh.xn--p1ai
 xn--40-6kclk1btailw.xn--p1ai
@@ -965,6 +969,7 @@ xn--80agfbmd3ajetfm6gxd.xn--p1ai
 xn--80ajbsejhbghgf4a.xn--p1ai
 xn--80akjac6amacoe3n.xn--p1ai
 xn--80atoqz.xn--p1ai
+xn--90ad6afdhd.xn--p1ai
 xn--90aenc5bq.xn--p1ai
 xn--90anfigdkpy.xn--p1ai
 xn--90anlfbebar6i.xn--p1ai
@@ -1007,6 +1012,7 @@ zavedi-rebenka.ru
 zdrav.spb.ru
 zdrav26.ru
 zdrav74.ru
+zpp.spb.ru
 zrk.rk.gov.ru
 zrnao.ru
 zsamur.ru
