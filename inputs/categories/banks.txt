@@ -65,7 +65,6 @@ alfaportal.ru
 alfastrah.ru
 alfastrahoms.ru
 alfazdrav.ru
-allinpower.ru
 alor.ru
 alorbroker.ru
 ankb.ru
@@ -214,6 +213,7 @@ ccbrussia.ru
 cdekfin.ru
 cdekpay.ru
 cdn-tinkoff.ru
+cdn.allinpower.ru
 cdn.edge.sberdevices.ru
 cdn.sm.sberdevices.ru
 centervolonterov.ru
@@ -811,10 +811,12 @@ palacesquare.rambler.ru
 paracesquare.rambler.ru
 pay-sandbox.ivi-mc.ru
 pay-sandbox2.ivi-mc.ru
+pay-sandbox3.ivi-mc.ru
 pay.fl-shop.ru
 pay.ivi-mc.ru
 pay.sbtips.ru
 pay2.ivi-mc.ru
+pay3.ivi-mc.ru
 payanyway.ru
 payconnect.ru
 payecom.ru
@@ -970,6 +972,7 @@ sber.echo-games.ru
 sber.ru
 sber001.aspirelifestyles.ru
 sber2b.ru
+sber3d.ru
 sberads.ru
 sberapiin.mbafin.ru
 sberauto.ru
@@ -995,6 +998,7 @@ sberinsur.ru
 sberintegro.ru
 sberleasing.ru
 sberlive.ru
+sbermaker.ru
 sbermarket.ru
 sberned.ru
 sbernpf.ru
@@ -1109,6 +1113,7 @@ sovcomsecure-2.ru
 sovest.ru
 sovkomauto.ru
 sovkombank.ru
+spasibo.ru
 spasibobonus.ru
 spasibosb.ru
 spasibosberbank.ru
