@@ -36,4 +36,4 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0
-      - uses: mikluko/action-changelog@v1
+      - uses: mikluko/action-changelog@v2
