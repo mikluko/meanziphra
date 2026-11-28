@@ -4,6 +4,7 @@
 aakim.ru
 abakanenergo.ru
 ac2.avangard.ru
+acanud.ru
 achimdevelopment.ru
 achimgaz.ru
 admship.ru
@@ -85,6 +86,7 @@ cniitm.ru
 cnpo.ru
 coalstar.ru
 collab-edge.slavneft-kng.ru
+comsep.ru
 concern-agat.ru
 connectgas.ru
 corporate.avangard.ru
@@ -118,11 +120,13 @@ eirc.spb.ru
 ekb.ru
 electromera.su
 elektro-32.ru
+elektropribor.spb.ru
 elkam.ru
 energogarant.ru
 energosales.ru
 enholding.ru
 epd47.ru
+eprib.ru
 erc-rt.ru
 erec.ru
 esb.rosatom.ru
@@ -203,6 +207,7 @@ kbs.rosatom.ru
 kfw.ru
 kgm.ru
 kinef.ru
+kmt-stanki.ru
 komzrt.ru
 kraftway.ru
 krasnodarvodokanal.ru

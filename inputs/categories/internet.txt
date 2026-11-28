@@ -64,6 +64,7 @@ appsec.onecld.ru
 appsmail.ru
 apptracer.ru
 argocd.dev.lk.astra-team.ru
+argocd.lk.astra-team.ru
 armgs-proxy.ru
 aspcom.ru
 astervesna.ru
@@ -487,6 +488,7 @@ qplus.ru
 quto.ru
 r0.ru
 radiosputnik.ru
+raidix.ru
 rambler-co.ru
 rambler.ru
 raxly.ru

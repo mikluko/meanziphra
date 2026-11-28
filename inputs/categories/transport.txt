@@ -9,7 +9,9 @@ api-cert.metro-cc.ru
 api-r.trucko.ru
 atechnics.ru
 atsaero.ru
+aviars.ru
 aviashelf.ru
+avitek.ru
 avtobus-kirov.ru
 avtobus.spb.ru
 banketubiley.ru
