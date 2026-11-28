@@ -34,6 +34,7 @@ ad-tech.ru
 adfs.toyotafs.ru
 admin.vneshbank.ru
 adsp.sberbank-service.ru
+adv-mf.info.ria.ru
 afmg.ru
 agent.chelind.ru
 agentalfastrah.ru
@@ -510,9 +511,11 @@ halvenok.ru
 hb.rambler.ru
 hcdl.ru
 hcrd.ru
+hcred.ru
 help-chat.bank.yandex.ru
 hersains.ru
 hlv.ru
+hmcrd.ru
 hmnpf.ru
 homeagents.ru
 homeagents.su
@@ -702,6 +705,7 @@ mkb-am.ru
 mkb-broker.ru
 mkb.ru
 mkkbs.ru
+mmpc.info.ria.ru
 mnbank.ru
 mobile.vbank.ru
 mobilemail.toyotafs.ru
@@ -787,7 +791,6 @@ online.aaacapital.ru
 online.bnpparibasbank.ru
 online.payment.ru
 online.profilbank.ru
-online.sovcombnk.ru
 onlinecredit.ru
 open-am.ru
 open-broker.ru
@@ -1104,6 +1107,7 @@ sovcombank-am.ru
 sovcombank-leasing.ru
 sovcombank.ru
 sovcombankfactoring.ru
+sovcombnk.ru
 sovcomdms.ru
 sovcomfactoring.ru
 sovcomins.ru
@@ -1254,6 +1258,7 @@ ukpi.ru
 ukrfc.ru
 ultimabank.ru
 umbank.ru
+uniastrum.ru
 unicredit.ru
 unicreditbank.ru
 unistream.ru

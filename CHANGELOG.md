@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.44] - 2026-11-28
+
+### Changed
+
+- Добавлено и удалено доменов по категориям:
+
+  ```text
+  banks:      +6 / -1
+  gov:        +2 / -0
+  industry:   +5 / -0
+  internet:   +2 / -0
+  other:     +25 / -0
+  transport:  +2 / -0
+  ```
+
 ## [0.5.43] - 2026-11-27
 
 ### Changed
@@ -693,7 +708,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Релиз публикует `anchor.crt` и `cat-<категория>.crt`, выпущенные с эфемерным ключом, с аттестацией сборки.
 - `config.example.yaml` описывает все поля конфига.
 
-[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.5.43...HEAD
+[Unreleased]: https://github.com/mikluko/meanziphra/compare/v0.5.44...HEAD
+[0.5.44]: https://github.com/mikluko/meanziphra/compare/v0.5.43...v0.5.44
 [0.5.43]: https://github.com/mikluko/meanziphra/compare/v0.5.42...v0.5.43
 [0.5.42]: https://github.com/mikluko/meanziphra/compare/v0.5.41...v0.5.42
 [0.5.41]: https://github.com/mikluko/meanziphra/compare/v0.5.40...v0.5.41
